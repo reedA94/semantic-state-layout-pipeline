@@ -1,0 +1,198 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 7.595984424800048,
+  "avg_semantic_comparisons_per_visited_state": 2.446243639339024,
+  "benchmark_family": "Richer C-like lexer",
+  "benchmark_id": "BM2",
+  "binary_size_bytes": 49936,
+  "branch_misses": null,
+  "branch_sites": 7,
+  "branches": null,
+  "bytes_per_second_aggregate": 206680344.2015616,
+  "classifier_instruction_count": 24,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.7778231578794472,
+  "classifier_source_bytes": 2344,
+  "classifier_total_intervals": 8,
+  "classifier_trace_ns_total": 70499876,
+  "classify_calls_total": 413086,
+  "compare_sites": 7,
+  "comparison_sites": 7,
+  "comparisons_per_state_visit": 2.441237594686987,
+  "compile_failed": false,
+  "compiled_instruction_count": 24,
+  "compiler": "clang",
+  "compiler_id": "clang_Os",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 8,
+  "emitted_tokens_total": 133032,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.5419800866376802,
+  "estimated_transition_share_of_full_scan": 0.4646425134383994,
+  "eval_group": "B",
+  "eval_source": "B",
+  "expected_depth": 2.441237594686987,
+  "frequency_source": "profile B",
+  "full_scan_ns_total": 1355020,
+  "generated_classifier_source_size_bytes": 2344,
+  "generated_scanner_source_size_bytes": 66597,
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "input_bytes_total": 280056,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::KEYWORD_PREFIX",
+                  "name": "LEAF::NONACC::KEYWORD_PREFIX"
+                }
+              ],
+              "name": "KEYWORD_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb1",
+                              "name": "LEAF::ACC::OPERATIONAL::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        },
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb0",
+                              "name": "LEAF::ACC::OPERATIONAL::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 8,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 3.3035714285714284,
+  "mean_input_bytes": 140028,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 21,
+  "num_accepting_states_rb": 17,
+  "num_accepting_states_total": 38,
+  "num_inputs": 2,
+  "num_intervals_total": 8,
+  "num_semantic_classes": 8,
+  "num_states": 56,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "perf_available": false,
+  "profile_condition": "same_B",
+  "profile_input_bytes": 90037,
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 132806,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.618262729093565,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 8,
+  "semantic_class_count_under_layout": 8,
+  "semantic_comparisons_total": 1010509,
+  "semantic_label_mode": "operational_rb_on",
+  "status": "completed",
+  "throughput_bytes_per_sec": 206680344.2015616,
+  "tokens_per_second_aggregate": 98177148.6767723,
+  "transition_calls_total": 413086,
+  "transition_instruction_count": 6,
+  "transition_ns_per_call": 1.5241375852953138,
+  "transition_trace_ns_total": 60439932,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

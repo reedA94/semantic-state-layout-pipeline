@@ -1,0 +1,197 @@
+{
+  "benchmark_family": "Small C-like lexer",
+  "benchmark_id": "BM1",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O3"
+  },
+  "compiler_id": "gcc_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::DELIM",
+                              "name": "LEAF::ACC::DELIM"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "DELIM"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::IDENT",
+                              "name": "LEAF::ACC::IDENT"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "IDENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER",
+                              "name": "LEAF::ACC::NUMBER"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR",
+                              "name": "LEAF::ACC::OPERATOR"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATOR"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE",
+                              "name": "LEAF::ACC::WHITESPACE"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 12,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 15,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O3",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::DELIM": 15694,
+    "ACC::IDENT": 81710,
+    "ACC::NUMBER": 12575,
+    "ACC::OPERATOR": 13987,
+    "ACC::WHITESPACE": 26052,
+    "DEAD": 80521
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 230539,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

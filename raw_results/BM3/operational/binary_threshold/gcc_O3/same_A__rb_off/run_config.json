@@ -1,0 +1,45 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O3"
+  },
+  "compiler_id": "gcc_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "accept_threshold": 16,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 29871,
+    "DEAD": 23479,
+    "NONACC::LITERAL_PREFIX": 3928,
+    "NONACC::NUMBER_PREFIX": 3132,
+    "NONACC::STRING_BODY": 51728,
+    "NONACC::STRING_ESCAPE": 1356
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 113494,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "operational_rb_off"
+}

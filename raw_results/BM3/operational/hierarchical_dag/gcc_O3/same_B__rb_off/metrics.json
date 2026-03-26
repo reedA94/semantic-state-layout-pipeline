@@ -1,0 +1,194 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 13.937828597232526,
+  "avg_semantic_comparisons_per_visited_state": 2.7198566159346402,
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "binary_size_bytes": 37824,
+  "branch_misses": null,
+  "branch_sites": 6,
+  "branches": null,
+  "bytes_per_second_aggregate": 279884913.43884027,
+  "classifier_instruction_count": 4,
+  "classifier_kind": "hierarchical_dag",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 2.006964156126047,
+  "classifier_source_bytes": 1792,
+  "classifier_total_intervals": 7,
+  "classifier_trace_ns_total": 80035844,
+  "classify_calls_total": 317748,
+  "compare_sites": 6,
+  "comparison_sites": 6,
+  "comparisons_per_state_visit": 2.7334241416609912,
+  "compile_failed": false,
+  "compiled_instruction_count": 4,
+  "compiler": "gcc",
+  "compiler_id": "gcc_O3",
+  "completed": true,
+  "cycles": null,
+  "dag_shared_internal_nodes": 0,
+  "dag_unique_internal_nodes": 6,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 7,
+  "emitted_tokens_total": 62006,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.6979052699278238,
+  "estimated_transition_share_of_full_scan": 0.2081008879469755,
+  "eval_group": "B",
+  "eval_source": "B",
+  "expected_depth": 2.7334241416609912,
+  "frequency_source": "profile B",
+  "full_scan_ns_total": 913747,
+  "generated_classifier_source_size_bytes": 1792,
+  "generated_scanner_source_size_bytes": 41003,
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "input_bytes_total": 255744,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::LITERAL_PREFIX",
+                  "name": "LEAF::NONACC::LITERAL_PREFIX"
+                }
+              ],
+              "name": "LITERAL_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL",
+                              "name": "LEAF::ACC::OPERATIONAL"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 6,
+    "unique_internal_nodes": 6
+  },
+  "leaf_count": 7,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 3.033333333333333,
+  "mean_input_bytes": 127872,
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_inputs": 2,
+  "num_intervals_total": 7,
+  "num_semantic_classes": 7,
+  "num_states": 30,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "perf_available": false,
+  "profile_condition": "same_B",
+  "profile_input_bytes": 80382,
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 99844,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.128400304474981,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 7,
+  "semantic_class_count_under_layout": 7,
+  "semantic_comparisons_total": 864229,
+  "semantic_label_mode": "operational_rb_off",
+  "status": "completed",
+  "throughput_bytes_per_sec": 279884913.43884027,
+  "tokens_per_second_aggregate": 67859046.32245031,
+  "transition_calls_total": 317748,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 0.5984351185810297,
+  "transition_trace_ns_total": 23865030,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

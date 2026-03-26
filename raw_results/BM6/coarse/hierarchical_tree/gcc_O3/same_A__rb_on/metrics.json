@@ -1,0 +1,366 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 13.735367151472154,
+  "avg_semantic_comparisons_per_visited_state": 3.855933609958506,
+  "benchmark_family": "Python-like lexer",
+  "benchmark_id": "BM6",
+  "binary_size_bytes": 49896,
+  "branch_misses": null,
+  "branch_sites": 14,
+  "branches": null,
+  "bytes_per_second_aggregate": 248155189.32930204,
+  "classifier_instruction_count": 57,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.7840354164231975,
+  "classifier_source_bytes": 3274,
+  "classifier_total_intervals": 15,
+  "classifier_trace_ns_total": 70985788,
+  "classify_calls_total": 361500,
+  "compare_sites": 14,
+  "comparison_sites": 14,
+  "comparisons_per_state_visit": 3.8560336839074774,
+  "compile_failed": false,
+  "compiled_instruction_count": 57,
+  "compiler": "gcc",
+  "compiler_id": "gcc_O3",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 15,
+  "emitted_tokens_total": 101484,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.6155051928003576,
+  "estimated_transition_share_of_full_scan": 0.21028079857196758,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 3.8560336839074774,
+  "frequency_source": "profile A",
+  "full_scan_ns_total": 1047804,
+  "generated_classifier_source_size_bytes": 3274,
+  "generated_scanner_source_size_bytes": 68551,
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "input_bytes_total": 260018,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::KEYWORD_PREFIX",
+                  "name": "LEAF::NONACC::KEYWORD_PREFIX"
+                }
+              ],
+              "name": "KEYWORD_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::COMMENT::rb0",
+                              "name": "LEAF::ACC::COMMENT::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "COMMENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::IDENT::rb1",
+                              "name": "LEAF::ACC::IDENT::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "IDENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::rb1",
+                              "name": "LEAF::ACC::KEYWORD::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "KEYWORD"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER::rb1",
+                              "name": "LEAF::ACC::NUMBER::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::rb1",
+                              "name": "LEAF::ACC::OPERATOR::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        },
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::rb0",
+                              "name": "LEAF::ACC::OPERATOR::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATOR"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::rb0",
+                              "name": "LEAF::ACC::PUNCT::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::rb0",
+                              "name": "LEAF::ACC::STRING::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::rb0",
+                              "name": "LEAF::ACC::WHITESPACE::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 15,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 4.625,
+  "mean_input_bytes": 130009,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 16,
+  "num_accepting_states_rb": 12,
+  "num_accepting_states_total": 28,
+  "num_inputs": 2,
+  "num_intervals_total": 15,
+  "num_semantic_classes": 15,
+  "num_states": 56,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O3",
+  "perf_available": false,
+  "profile_condition": "same_A",
+  "profile_input_bytes": 80002,
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 111151,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.5834225513040818,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 15,
+  "semantic_class_count_under_layout": 15,
+  "semantic_comparisons_total": 1393920,
+  "semantic_label_mode": "coarse",
+  "status": "completed",
+  "throughput_bytes_per_sec": 248155189.32930204,
+  "tokens_per_second_aggregate": 96853991.77708808,
+  "transition_calls_total": 361500,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 0.6094967133247632,
+  "transition_trace_ns_total": 24251539,
+  "worst_case_depth": 6,
+  "worst_case_dispatch_depth": 6
+}

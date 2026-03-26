@@ -1,0 +1,64 @@
+{
+  "benchmark_family": "Synthetic token-trie (medium)",
+  "benchmark_id": "BM_SYN_M",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::SFAM_0::rb0": 5000,
+      "ACC::SFAM_1::rb1": 4737,
+      "ACC::SFAM_2::rb0": 3329,
+      "ACC::SFAM_3::rb1": 1832,
+      "ACC::SFAM_4::rb0": 1931,
+      "ACC::SFAM_5::rb1": 1343,
+      "DEAD": 9802,
+      "NONACC::PREFIX_0": 6360,
+      "NONACC::PREFIX_1": 14944,
+      "NONACC::PREFIX_2": 10900,
+      "NONACC::PREFIX_3": 9965,
+      "NONACC::PREFIX_4": 8000
+    },
+    "profile_source": "A"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 90,
+  "num_accepting_states_rb": 81,
+  "num_accepting_states_total": 171,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACC::SFAM_0::rb0": 5000,
+    "ACC::SFAM_1::rb1": 4737,
+    "ACC::SFAM_2::rb0": 3329,
+    "ACC::SFAM_3::rb1": 1832,
+    "ACC::SFAM_4::rb0": 1931,
+    "ACC::SFAM_5::rb1": 1343,
+    "DEAD": 9802,
+    "NONACC::PREFIX_0": 6360,
+    "NONACC::PREFIX_1": 14944,
+    "NONACC::PREFIX_2": 10900,
+    "NONACC::PREFIX_3": 9965,
+    "NONACC::PREFIX_4": 8000
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 78143,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 802,
+  "semantic_label_mode": "coarse"
+}

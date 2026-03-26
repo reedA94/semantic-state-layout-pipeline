@@ -1,0 +1,11 @@
+$ gcc -Os -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM_SYN_M/coarse/frequency_interval/gcc_Os/same_A__rb_on/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM_SYN_M/coarse/frequency_interval/gcc_Os/same_A__rb_on/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM_SYN_M/coarse/frequency_interval/gcc_Os/same_A__rb_on/generated_scanner.c:43:20: warning: ‘TOKEN_NAMES’ defined but not used [-Wunused-variable]
+   43 | static const char *TOKEN_NAMES[17] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM_SYN_M/coarse/frequency_interval/gcc_Os/same_A__rb_on/generated_scanner.c:27:20: warning: ‘CLASS_NAMES’ defined but not used [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[13] = {
+      |                    ^~~~~~~~~~~

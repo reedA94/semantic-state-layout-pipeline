@@ -1,0 +1,324 @@
+{
+  "benchmark_family": "Richer C-like lexer",
+  "benchmark_id": "BM2",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::KEYWORD_PREFIX",
+                  "name": "LEAF::NONACC::KEYWORD_PREFIX"
+                }
+              ],
+              "name": "KEYWORD_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::COMMENT::rb0",
+                              "name": "LEAF::ACC::COMMENT::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "COMMENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::DELIM::rb0",
+                              "name": "LEAF::ACC::DELIM::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "DELIM"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::IDENT::rb1",
+                              "name": "LEAF::ACC::IDENT::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "IDENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::rb1",
+                              "name": "LEAF::ACC::KEYWORD::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "KEYWORD"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER::rb1",
+                              "name": "LEAF::ACC::NUMBER::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::rb1",
+                              "name": "LEAF::ACC::OPERATOR::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        },
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::rb0",
+                              "name": "LEAF::ACC::OPERATOR::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATOR"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::rb0",
+                              "name": "LEAF::ACC::STRING::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::rb0",
+                              "name": "LEAF::ACC::WHITESPACE::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 14,
+    "unique_internal_nodes": 14
+  },
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 21,
+  "num_accepting_states_rb": 17,
+  "num_accepting_states_total": 38,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O3",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::COMMENT::rb0": 17095,
+    "ACC::DELIM::rb0": 17025,
+    "ACC::IDENT::rb1": 70190,
+    "ACC::NUMBER::rb1": 14502,
+    "ACC::OPERATOR::rb0": 1737,
+    "ACC::OPERATOR::rb1": 11114,
+    "ACC::STRING::rb0": 1137,
+    "ACC::WHITESPACE::rb0": 40193,
+    "DEAD": 95364,
+    "NONACC::KEYWORD_PREFIX": 7233,
+    "NONACC::NUMBER_PREFIX": 2482,
+    "NONACC::STRING_BODY": 7531,
+    "NONACC::STRING_ESCAPE": 181
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 285784,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

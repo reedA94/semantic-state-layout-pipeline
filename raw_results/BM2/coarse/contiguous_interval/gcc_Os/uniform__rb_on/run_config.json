@@ -1,0 +1,48 @@
+{
+  "benchmark_family": "Richer C-like lexer",
+  "benchmark_id": "BM2",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 21,
+  "num_accepting_states_rb": 17,
+  "num_accepting_states_total": 38,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::COMMENT::rb0": 17095,
+    "ACC::DELIM::rb0": 17025,
+    "ACC::IDENT::rb1": 70190,
+    "ACC::NUMBER::rb1": 14502,
+    "ACC::OPERATOR::rb0": 1737,
+    "ACC::OPERATOR::rb1": 11114,
+    "ACC::STRING::rb0": 1137,
+    "ACC::WHITESPACE::rb0": 40193,
+    "DEAD": 95364,
+    "NONACC::KEYWORD_PREFIX": 7233,
+    "NONACC::NUMBER_PREFIX": 2482,
+    "NONACC::STRING_BODY": 7531,
+    "NONACC::STRING_ESCAPE": 181
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 285784,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

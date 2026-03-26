@@ -1,0 +1,40 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::NAME": 14538,
+    "ACC::TAG_PUNCT": 7283,
+    "ACC::TEXT": 58146,
+    "ACC::WHITESPACE": 5088,
+    "DEAD": 10579
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 95634,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

@@ -1,0 +1,56 @@
+{
+  "benchmark_family": "INI-like lexer",
+  "benchmark_id": "BM7",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O3"
+  },
+  "compiler_id": "gcc_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::COMMENT::tok=COMMENT::aux=COMMENT::prio0::rb0": 12544,
+      "ACC::IDENT::tok=IDENT::aux=IDENT::prio0::rb1": 23325,
+      "ACC::PUNCT::tok=EQ::aux=PUNCT::prio0::rb0": 3677,
+      "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0::rb0": 762,
+      "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0::rb0": 762,
+      "ACC::VALUE::tok=BARE_VALUE::aux=VALUE::prio0::rb1": 25044,
+      "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0": 8891,
+      "DEAD": 19305
+    },
+    "profile_source": "A"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 7,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 10,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACC::COMMENT::tok=COMMENT::aux=COMMENT::prio0::rb0": 12544,
+    "ACC::IDENT::tok=IDENT::aux=IDENT::prio0::rb1": 23325,
+    "ACC::PUNCT::tok=EQ::aux=PUNCT::prio0::rb0": 3677,
+    "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0::rb0": 762,
+    "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0::rb0": 762,
+    "ACC::VALUE::tok=BARE_VALUE::aux=VALUE::prio0::rb1": 25044,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0": 8891,
+    "DEAD": 19305
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 94310,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

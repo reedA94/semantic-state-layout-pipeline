@@ -1,0 +1,7596 @@
+if result == 9:
+def handle(items):
+import json
+def buffer(state):
+def items(result):
+def token(result):
+def items(value):
+if handle == 5:
+# todo state
+def token(value):
+return buffer
+return buffer
+result = 89
+items = 15
+return handle
+if token == 1:
+return state
+def items(state):
+if result == 9:
+buffer = 20
+import json
+if items == 7:
+def value(items):
+return handle
+def items(handle):
+def state(items):
+return buffer
+return state
+state = 36
+def state(buffer):
+if handle == 5:
+if buffer == 1:
+import pathlib
+state = 'beta'
+import json
+def state(token):
+import pathlib
+def result(items):
+def token(result):
+def value(buffer):
+token = 15
+token = 40
+def result(handle):
+import pathlib
+if token == 9:
+def buffer(items):
+import math
+def value(result):
+return result
+def buffer(buffer):
+if items == 3:
+return result
+if handle == 3:
+def state(buffer):
+return state
+def handle(handle):
+def value(state):
+import json
+return result
+# slowpath result
+return state
+items = 'beta'
+if state == 0:
+def buffer(value):
+def handle(items):
+def state(handle):
+state = 'alpha'
+def items(value):
+import json
+import pathlib
+state = 5
+return value
+def items(items):
+state = 44
+if handle == 6:
+import math
+if handle == 5:
+def result(buffer):
+import pathlib
+def buffer(state):
+# slowpath token
+def token(result):
+return result
+def buffer(state):
+return value
+return buffer
+import typing
+result = 58
+token = 2
+import math
+if handle == 3:
+return state
+return state
+if result == 3:
+# slowpath value
+def value(handle):
+import typing
+if result == 8:
+import pathlib
+if handle == 5:
+def result(handle):
+if items == 2:
+if items == 7:
+def buffer(result):
+# todo token
+if buffer == 4:
+import math
+# slowpath state
+value = 90
+def state(buffer):
+import math
+return token
+if result == 0:
+items = 47
+if state == 1:
+result = 22
+import math
+items = 70
+def handle(token):
+import json
+def result(value):
+def state(handle):
+# debug items
+return token
+# fastpath value
+if result == 0:
+import pathlib
+if result == 5:
+import typing
+# todo state
+state = 'beta'
+if value == 6:
+if buffer == 3:
+if state == 0:
+# slowpath result
+# todo token
+if state == 6:
+if handle == 3:
+import json
+import json
+import typing
+import json
+return buffer
+import math
+items = 'alpha'
+buffer = 'beta'
+# slowpath token
+buffer = 'alpha'
+if state == 6:
+def result(items):
+return buffer
+return state
+if token == 1:
+if handle == 8:
+return handle
+def buffer(handle):
+def state(token):
+result = 'gamma'
+import pathlib
+def token(buffer):
+buffer = 'gamma'
+return state
+return items
+return buffer
+import math
+buffer = 'alpha'
+if state == 1:
+if buffer == 5:
+return handle
+if result == 0:
+def items(value):
+return state
+return state
+# fastpath token
+return token
+return state
+import typing
+return buffer
+# todo items
+def handle(state):
+if items == 0:
+if result == 7:
+def buffer(state):
+def value(result):
+import pathlib
+state = 77
+def items(value):
+if value == 8:
+import pathlib
+def value(token):
+import math
+if buffer == 6:
+if result == 4:
+return handle
+token = 'gamma'
+return items
+return token
+result = 'gamma'
+def result(items):
+return items
+items = 54
+return items
+def items(result):
+if buffer == 3:
+import pathlib
+def token(result):
+token = 'alpha'
+def token(state):
+def value(handle):
+def buffer(token):
+if value == 5:
+buffer = 24
+# todo value
+def token(state):
+import typing
+def result(value):
+def result(result):
+handle = 92
+if handle == 2:
+if value == 1:
+return value
+# debug value
+buffer = 45
+def token(token):
+if handle == 3:
+state = 'beta'
+token = 17
+result = 52
+token = 'gamma'
+if handle == 8:
+if state == 9:
+return handle
+def handle(value):
+return token
+state = 50
+return value
+return result
+if result == 0:
+# debug state
+import math
+def value(value):
+# debug value
+return items
+token = 'alpha'
+if items == 3:
+if buffer == 3:
+handle = 39
+import pathlib
+def value(handle):
+if items == 5:
+if result == 6:
+def result(token):
+if token == 0:
+buffer = 'beta'
+import typing
+if handle == 9:
+def items(result):
+return buffer
+items = 'gamma'
+if token == 5:
+def state(buffer):
+def state(value):
+return handle
+import typing
+if token == 0:
+import pathlib
+import json
+def handle(state):
+import json
+# todo handle
+if state == 7:
+items = 'beta'
+import pathlib
+def buffer(state):
+return value
+return token
+if buffer == 3:
+import json
+if value == 4:
+def items(state):
+return value
+import json
+import json
+import json
+def value(handle):
+if value == 1:
+if state == 6:
+# todo items
+if handle == 3:
+import pathlib
+def handle(value):
+items = 65
+return items
+return handle
+def items(value):
+# todo token
+return token
+import typing
+buffer = 55
+# slowpath value
+import pathlib
+import math
+def state(buffer):
+items = 33
+return result
+import typing
+def items(buffer):
+value = 'alpha'
+import math
+# debug buffer
+import pathlib
+state = 17
+# slowpath buffer
+import json
+if token == 6:
+import math
+def items(items):
+def value(handle):
+result = 'beta'
+import typing
+# debug items
+# todo state
+import math
+if state == 5:
+import pathlib
+import pathlib
+def token(items):
+handle = 70
+result = 'beta'
+def state(buffer):
+# fastpath handle
+import math
+import math
+return items
+if buffer == 8:
+def buffer(handle):
+return value
+import typing
+if token == 5:
+if items == 6:
+import typing
+return value
+# todo token
+def buffer(state):
+def buffer(items):
+import typing
+def result(handle):
+import math
+return state
+items = 48
+if result == 7:
+def handle(result):
+import math
+def state(result):
+import typing
+if handle == 1:
+return items
+state = 22
+import typing
+if items == 0:
+if items == 4:
+return result
+import pathlib
+import pathlib
+import math
+return state
+return handle
+if result == 7:
+return token
+if state == 3:
+def result(result):
+result = 'gamma'
+if buffer == 6:
+# fastpath result
+state = 31
+def value(state):
+state = 'beta'
+items = 'beta'
+# fastpath result
+# todo state
+if handle == 5:
+return handle
+if state == 9:
+# todo result
+if value == 0:
+return result
+import json
+items = 64
+import json
+# debug items
+if token == 6:
+def result(buffer):
+state = 'gamma'
+if handle == 5:
+import pathlib
+def value(buffer):
+import math
+def buffer(token):
+# slowpath result
+handle = 75
+def handle(buffer):
+return buffer
+if handle == 3:
+import json
+value = 'beta'
+def result(value):
+return token
+if items == 8:
+buffer = 48
+return handle
+import math
+import typing
+return token
+return result
+# slowpath result
+def buffer(token):
+if state == 5:
+return handle
+if buffer == 5:
+# fastpath handle
+def handle(token):
+if token == 3:
+return value
+import typing
+import json
+import pathlib
+# debug token
+return state
+import math
+def handle(buffer):
+def token(handle):
+import json
+if value == 8:
+return buffer
+if buffer == 7:
+# todo token
+import json
+if state == 4:
+def items(token):
+items = 'beta'
+# slowpath items
+handle = 8
+import typing
+if items == 9:
+import math
+import typing
+if handle == 3:
+if buffer == 9:
+if result == 9:
+import math
+def items(value):
+if token == 2:
+def state(buffer):
+# todo value
+if value == 3:
+items = 83
+result = 71
+def result(state):
+if value == 9:
+state = 7
+# fastpath result
+value = 'beta'
+return buffer
+import math
+import pathlib
+value = 'gamma'
+state = 'beta'
+import json
+if value == 3:
+def state(handle):
+import pathlib
+result = 'gamma'
+return token
+if items == 2:
+def token(handle):
+def value(buffer):
+# slowpath result
+state = 'alpha'
+def result(handle):
+import json
+import math
+if items == 3:
+return state
+if token == 6:
+def state(value):
+token = 'alpha'
+state = 69
+if handle == 4:
+state = 'alpha'
+if buffer == 8:
+if result == 3:
+value = 45
+return result
+if value == 9:
+def state(token):
+if state == 1:
+# slowpath state
+def token(value):
+value = 'alpha'
+def handle(handle):
+def value(result):
+if buffer == 6:
+return result
+if state == 3:
+def items(result):
+def result(state):
+import math
+def handle(result):
+def buffer(token):
+import json
+if buffer == 0:
+def buffer(value):
+# debug token
+# fastpath handle
+import math
+# slowpath state
+def handle(buffer):
+import json
+handle = 'alpha'
+if state == 2:
+if value == 9:
+if value == 3:
+def buffer(state):
+if token == 0:
+import json
+if state == 2:
+import typing
+import pathlib
+value = 'beta'
+if items == 5:
+if token == 2:
+def value(items):
+return result
+import math
+# todo handle
+def token(value):
+return value
+value = 'alpha'
+return token
+return handle
+import typing
+import json
+# fastpath result
+return items
+def token(token):
+if buffer == 1:
+if value == 7:
+# slowpath items
+# todo handle
+return value
+def result(token):
+if token == 3:
+token = 55
+if state == 2:
+if state == 1:
+import typing
+return result
+import math
+# fastpath result
+if buffer == 7:
+import json
+if handle == 5:
+if handle == 5:
+return buffer
+import pathlib
+import math
+def token(token):
+items = 45
+# debug state
+return state
+import json
+def handle(handle):
+import typing
+import pathlib
+token = 'alpha'
+return items
+if buffer == 5:
+import typing
+state = 'beta'
+return items
+def items(buffer):
+return result
+if value == 8:
+def state(result):
+if result == 0:
+buffer = 79
+if items == 4:
+if value == 8:
+import typing
+import typing
+import typing
+if buffer == 1:
+if items == 5:
+import typing
+def token(result):
+if value == 8:
+if value == 3:
+if handle == 1:
+import json
+import json
+def handle(token):
+value = 70
+import pathlib
+def token(token):
+def handle(handle):
+def state(result):
+import math
+result = 'alpha'
+def state(state):
+if items == 9:
+# slowpath token
+if token == 8:
+def items(buffer):
+import json
+def buffer(handle):
+def token(handle):
+def handle(items):
+def state(result):
+if buffer == 5:
+if items == 3:
+handle = 23
+# todo value
+if token == 7:
+result = 'gamma'
+import typing
+def value(token):
+# fastpath value
+import typing
+if value == 3:
+import math
+def items(handle):
+import typing
+return items
+import pathlib
+return buffer
+def token(state):
+buffer = 88
+def result(handle):
+return buffer
+return value
+return token
+import typing
+buffer = 12
+import pathlib
+import json
+return token
+return handle
+if token == 5:
+# debug items
+items = 'gamma'
+import math
+result = 'beta'
+items = 2
+import typing
+return result
+# todo result
+def token(state):
+return buffer
+import json
+if items == 5:
+state = 'alpha'
+if buffer == 6:
+# debug state
+# fastpath state
+def token(token):
+def handle(handle):
+def buffer(items):
+if value == 0:
+import pathlib
+def items(handle):
+if items == 0:
+def value(items):
+import json
+# slowpath buffer
+def handle(buffer):
+import pathlib
+import typing
+# slowpath token
+# todo state
+if result == 3:
+token = 'alpha'
+state = 'gamma'
+handle = 35
+value = 'gamma'
+def handle(value):
+if buffer == 6:
+if token == 1:
+token = 35
+if handle == 3:
+state = 21
+import math
+# todo result
+import typing
+state = 73
+if result == 1:
+if state == 5:
+def handle(handle):
+if handle == 0:
+return handle
+return token
+result = 56
+return value
+import typing
+# slowpath handle
+token = 18
+import typing
+buffer = 'beta'
+import math
+if result == 9:
+items = 71
+def token(state):
+def buffer(value):
+def items(handle):
+if result == 9:
+def buffer(handle):
+if items == 1:
+import pathlib
+if buffer == 1:
+return state
+import typing
+if value == 2:
+state = 1
+items = 'beta'
+if token == 2:
+value = 0
+return result
+import json
+# slowpath items
+import typing
+if items == 7:
+if handle == 5:
+if items == 7:
+def value(items):
+if handle == 7:
+token = 96
+import math
+import pathlib
+import json
+import json
+if handle == 3:
+return token
+def result(buffer):
+if handle == 6:
+import typing
+# fastpath handle
+buffer = 'beta'
+state = 'alpha'
+def state(items):
+result = 'gamma'
+def token(token):
+import pathlib
+state = 'alpha'
+def token(result):
+token = 64
+def token(value):
+if buffer == 7:
+result = 'beta'
+import typing
+buffer = 84
+return state
+def result(token):
+state = 0
+import typing
+import math
+def token(result):
+result = 'beta'
+if items == 4:
+value = 76
+if token == 4:
+def state(buffer):
+items = 'alpha'
+def value(items):
+handle = 'alpha'
+token = 'alpha'
+def value(items):
+import json
+import typing
+import json
+buffer = 38
+# todo value
+if items == 0:
+def buffer(state):
+if result == 8:
+import json
+# todo value
+# slowpath result
+# fastpath items
+return buffer
+return handle
+import json
+def state(items):
+def result(value):
+import pathlib
+def state(token):
+import json
+handle = 35
+items = 66
+state = 'alpha'
+state = 48
+items = 'beta'
+def token(items):
+# slowpath token
+token = 15
+if token == 3:
+token = 'alpha'
+token = 'gamma'
+def value(result):
+def buffer(result):
+def buffer(token):
+import typing
+token = 'gamma'
+items = 'beta'
+return items
+# todo token
+items = 90
+buffer = 90
+import json
+def result(state):
+def state(token):
+value = 'beta'
+if token == 5:
+# fastpath state
+# debug handle
+return token
+import typing
+import json
+result = 'gamma'
+# slowpath result
+import math
+def buffer(handle):
+token = 'beta'
+# debug items
+buffer = 'gamma'
+return handle
+return items
+return result
+if result == 4:
+def state(handle):
+return items
+result = 34
+def result(items):
+def buffer(value):
+def handle(handle):
+# slowpath buffer
+value = 'alpha'
+import math
+if items == 8:
+# slowpath buffer
+if handle == 1:
+if result == 4:
+import typing
+import typing
+# fastpath token
+def buffer(buffer):
+return state
+def items(items):
+import typing
+return state
+import pathlib
+if items == 8:
+return result
+def token(token):
+if state == 6:
+token = 87
+if buffer == 3:
+import pathlib
+if handle == 4:
+# slowpath value
+def state(state):
+def value(buffer):
+if value == 0:
+def result(handle):
+import math
+if items == 7:
+def items(value):
+if result == 1:
+import math
+if handle == 4:
+if result == 6:
+# todo handle
+def result(handle):
+if handle == 2:
+def items(buffer):
+if token == 2:
+import pathlib
+result = 'alpha'
+return items
+# todo handle
+return handle
+return result
+import json
+def items(buffer):
+import typing
+if buffer == 5:
+import json
+def handle(result):
+if state == 0:
+if state == 9:
+value = 74
+def result(value):
+import math
+return result
+import math
+if token == 4:
+import math
+def token(buffer):
+result = 'gamma'
+import math
+def handle(buffer):
+if buffer == 0:
+# todo value
+return buffer
+import typing
+buffer = 'gamma'
+import json
+return value
+result = 'beta'
+if result == 9:
+import json
+return token
+if handle == 5:
+return result
+return value
+items = 33
+import json
+def result(value):
+def items(result):
+# todo value
+import json
+import typing
+def state(result):
+# todo state
+return value
+if token == 3:
+result = 14
+import math
+def buffer(value):
+# slowpath handle
+state = 45
+if handle == 5:
+return state
+# debug items
+# fastpath handle
+buffer = 'beta'
+return token
+state = 'beta'
+import pathlib
+def state(token):
+if value == 1:
+if state == 2:
+# todo value
+if state == 2:
+def token(buffer):
+return items
+def token(state):
+import pathlib
+token = 84
+state = 73
+def handle(result):
+return value
+if token == 9:
+return buffer
+return token
+if state == 1:
+if token == 9:
+# debug items
+return state
+if value == 2:
+def state(token):
+import json
+def token(result):
+if token == 5:
+if result == 6:
+def token(buffer):
+if handle == 1:
+if token == 3:
+return value
+return result
+import typing
+def buffer(items):
+if value == 0:
+import pathlib
+def items(value):
+def buffer(items):
+state = 'beta'
+if buffer == 8:
+import typing
+buffer = 'beta'
+def buffer(handle):
+if state == 6:
+return buffer
+if items == 1:
+# debug handle
+# slowpath handle
+return result
+def items(token):
+def handle(value):
+def result(buffer):
+if buffer == 7:
+if items == 7:
+if token == 3:
+if token == 7:
+import pathlib
+return value
+import typing
+if handle == 6:
+if state == 8:
+# slowpath token
+handle = 'alpha'
+return token
+if handle == 5:
+def handle(state):
+if result == 0:
+if token == 6:
+# fastpath buffer
+def result(token):
+import typing
+def value(result):
+if items == 4:
+if result == 9:
+# slowpath handle
+import pathlib
+if state == 8:
+import pathlib
+def state(result):
+# todo result
+return state
+# todo buffer
+if result == 1:
+if items == 3:
+items = 'gamma'
+if result == 1:
+if buffer == 1:
+if state == 9:
+import json
+state = 56
+import math
+value = 'beta'
+import typing
+return buffer
+if buffer == 8:
+import typing
+def items(token):
+if token == 0:
+state = 74
+state = 'alpha'
+import typing
+buffer = 'beta'
+def token(token):
+import pathlib
+def value(buffer):
+# fastpath handle
+if buffer == 3:
+state = 'beta'
+# todo state
+def state(handle):
+value = 'gamma'
+import pathlib
+if value == 5:
+def items(token):
+def handle(state):
+items = 'alpha'
+if value == 7:
+import pathlib
+if items == 6:
+import math
+# debug value
+import typing
+import json
+import pathlib
+if items == 5:
+buffer = 'beta'
+def handle(value):
+import pathlib
+# debug token
+if buffer == 7:
+if buffer == 0:
+result = 49
+buffer = 'beta'
+import pathlib
+return handle
+state = 30
+def items(value):
+def value(handle):
+if result == 0:
+if handle == 7:
+def handle(value):
+if state == 7:
+import math
+if token == 8:
+state = 92
+if buffer == 8:
+# debug result
+def value(handle):
+if handle == 3:
+def state(value):
+if token == 1:
+import pathlib
+import pathlib
+def result(token):
+if state == 6:
+buffer = 'gamma'
+buffer = 'gamma'
+import pathlib
+value = 'beta'
+buffer = 'beta'
+if handle == 8:
+buffer = 85
+return buffer
+def state(buffer):
+return result
+if state == 8:
+import math
+result = 68
+if value == 8:
+def value(result):
+return result
+def result(handle):
+# todo result
+def handle(items):
+def value(value):
+import pathlib
+token = 60
+import math
+import pathlib
+def value(token):
+import pathlib
+return buffer
+if state == 4:
+import math
+import math
+token = 52
+return buffer
+return token
+# slowpath buffer
+import json
+return result
+import json
+def items(result):
+items = 'alpha'
+buffer = 39
+# todo result
+return buffer
+def result(value):
+import json
+if handle == 2:
+# todo token
+def state(token):
+def items(state):
+if result == 4:
+items = 65
+return items
+if token == 7:
+if state == 5:
+handle = 'alpha'
+def buffer(value):
+import typing
+if value == 7:
+token = 4
+if token == 0:
+if result == 7:
+result = 40
+# fastpath state
+handle = 'alpha'
+def items(buffer):
+import json
+# todo items
+if result == 8:
+# debug buffer
+return state
+def items(items):
+import math
+if value == 6:
+def result(value):
+return result
+token = 'alpha'
+items = 'beta'
+if items == 0:
+def handle(result):
+import math
+value = 27
+# debug handle
+if handle == 3:
+def handle(value):
+return result
+return buffer
+def items(buffer):
+if token == 1:
+def items(items):
+return buffer
+import pathlib
+def buffer(value):
+def result(result):
+if items == 4:
+def result(handle):
+def items(handle):
+import pathlib
+# fastpath handle
+if buffer == 0:
+def handle(token):
+if items == 2:
+def value(handle):
+import typing
+if result == 9:
+return result
+if buffer == 8:
+def items(handle):
+# debug items
+def token(state):
+return handle
+def value(value):
+if result == 6:
+handle = 70
+if items == 8:
+import pathlib
+return buffer
+def result(token):
+if value == 5:
+buffer = 49
+# slowpath token
+state = 'alpha'
+return handle
+if token == 6:
+# debug items
+import math
+if value == 8:
+return items
+value = 68
+import math
+result = 'beta'
+import json
+if items == 4:
+def items(token):
+def buffer(result):
+value = 'alpha'
+import json
+if result == 6:
+return items
+def items(result):
+# debug items
+import json
+if items == 6:
+def buffer(token):
+state = 3
+if handle == 3:
+def items(token):
+import typing
+if state == 2:
+import math
+def value(value):
+def handle(state):
+return handle
+def token(handle):
+if state == 4:
+import json
+def value(value):
+return state
+return state
+import pathlib
+handle = 'beta'
+if handle == 7:
+# slowpath result
+def state(buffer):
+return state
+if value == 1:
+if result == 2:
+if handle == 4:
+import pathlib
+return state
+import pathlib
+if token == 7:
+# todo state
+if result == 8:
+def token(value):
+return value
+state = 92
+def items(token):
+# todo state
+return state
+return handle
+if items == 2:
+if value == 3:
+def buffer(items):
+if items == 0:
+import typing
+state = 40
+# fastpath state
+return token
+import typing
+import json
+# fastpath value
+import json
+import math
+state = 'beta'
+return items
+if value == 9:
+if handle == 0:
+import math
+import typing
+def state(token):
+import json
+return handle
+return result
+buffer = 'gamma'
+def value(result):
+handle = 87
+def items(token):
+return buffer
+result = 25
+return value
+# slowpath handle
+return token
+if value == 8:
+def handle(result):
+if token == 8:
+return token
+import pathlib
+def result(state):
+import pathlib
+def buffer(items):
+if value == 9:
+return result
+def handle(token):
+import pathlib
+import pathlib
+buffer = 71
+if value == 3:
+import json
+return value
+def value(result):
+return state
+handle = 46
+# todo state
+if token == 3:
+return result
+def token(buffer):
+return value
+return value
+if state == 2:
+return items
+import json
+import json
+return handle
+handle = 'beta'
+if value == 6:
+return result
+import json
+import pathlib
+import math
+import typing
+if value == 2:
+import json
+return handle
+value = 63
+return state
+def value(items):
+if value == 8:
+value = 'beta'
+value = 95
+def token(value):
+def token(result):
+result = 2
+if buffer == 4:
+import math
+def token(items):
+# todo buffer
+def handle(result):
+if token == 9:
+def value(result):
+return items
+def result(items):
+if buffer == 8:
+if state == 1:
+def value(handle):
+def items(token):
+def buffer(value):
+# debug items
+value = 69
+return token
+if handle == 1:
+# fastpath state
+# slowpath handle
+if buffer == 0:
+if token == 8:
+if token == 8:
+def value(value):
+token = 'alpha'
+handle = 'beta'
+return handle
+return state
+import typing
+value = 'gamma'
+if buffer == 4:
+# debug handle
+token = 46
+state = 'gamma'
+import pathlib
+if result == 5:
+if token == 6:
+state = 56
+if handle == 7:
+if buffer == 3:
+def state(value):
+import pathlib
+import pathlib
+if items == 9:
+token = 'alpha'
+import pathlib
+def state(result):
+if token == 1:
+return buffer
+return token
+return value
+def result(token):
+def value(token):
+def state(buffer):
+# fastpath value
+result = 63
+import pathlib
+return value
+if value == 9:
+import typing
+def value(value):
+if handle == 6:
+import json
+return token
+return state
+if items == 6:
+if handle == 2:
+def value(token):
+return token
+import pathlib
+if handle == 6:
+import json
+def buffer(buffer):
+import json
+def buffer(result):
+# debug state
+import typing
+if buffer == 6:
+items = 90
+items = 16
+import typing
+result = 39
+items = 'beta'
+if buffer == 9:
+if value == 9:
+import math
+if buffer == 8:
+# fastpath value
+# slowpath result
+return items
+if state == 1:
+items = 'gamma'
+def items(state):
+items = 32
+if handle == 5:
+return items
+import pathlib
+handle = 41
+def token(state):
+def result(state):
+return state
+def value(state):
+token = 'gamma'
+return items
+return handle
+return items
+return result
+state = 87
+return state
+return buffer
+import pathlib
+return token
+# debug items
+handle = 'gamma'
+import typing
+import pathlib
+result = 'gamma'
+if handle == 0:
+import json
+if token == 6:
+import typing
+import json
+import pathlib
+result = 'alpha'
+if value == 8:
+def token(state):
+# slowpath token
+if token == 6:
+def result(result):
+def items(handle):
+if state == 5:
+import math
+if buffer == 6:
+import math
+return buffer
+# fastpath token
+def buffer(buffer):
+def buffer(items):
+import pathlib
+return value
+import json
+if value == 4:
+def state(buffer):
+if token == 3:
+import typing
+def value(handle):
+def buffer(buffer):
+# todo handle
+import typing
+buffer = 'beta'
+def buffer(token):
+import typing
+def token(items):
+# debug state
+value = 'beta'
+import json
+import pathlib
+# slowpath buffer
+if state == 7:
+# fastpath handle
+buffer = 52
+# slowpath result
+def result(handle):
+if state == 9:
+return state
+def handle(handle):
+if value == 5:
+def state(items):
+def handle(handle):
+if state == 6:
+if handle == 7:
+state = 'alpha'
+# slowpath handle
+state = 8
+return handle
+return result
+def state(token):
+def buffer(buffer):
+result = 54
+result = 45
+if token == 5:
+def value(value):
+def handle(state):
+# debug result
+result = 'alpha'
+if items == 9:
+def value(state):
+import math
+def handle(value):
+state = 'gamma'
+def token(buffer):
+import json
+return state
+return token
+def value(buffer):
+def token(buffer):
+if result == 9:
+def items(token):
+import math
+return buffer
+if handle == 9:
+def token(token):
+if value == 9:
+def state(state):
+if value == 5:
+return token
+items = 'beta'
+def token(items):
+def items(handle):
+return buffer
+import math
+# debug token
+state = 48
+# fastpath token
+def handle(token):
+return handle
+# debug buffer
+def result(state):
+if token == 7:
+if result == 3:
+state = 'alpha'
+handle = 'beta'
+if result == 4:
+if state == 8:
+if buffer == 5:
+if token == 8:
+buffer = 34
+return buffer
+def value(buffer):
+# fastpath state
+return result
+# slowpath items
+if token == 9:
+def result(state):
+return value
+def handle(value):
+# fastpath items
+if state == 2:
+def handle(result):
+buffer = 'gamma'
+import math
+token = 'beta'
+def state(items):
+# todo handle
+import math
+if items == 3:
+import math
+# todo value
+def items(value):
+handle = 7
+# fastpath handle
+def result(token):
+import pathlib
+if items == 2:
+# slowpath token
+items = 18
+import typing
+return items
+# todo state
+import pathlib
+state = 66
+return state
+if result == 7:
+if token == 0:
+if buffer == 9:
+return handle
+if value == 6:
+if buffer == 8:
+if state == 0:
+# todo value
+handle = 36
+return result
+# todo buffer
+# fastpath result
+value = 'gamma'
+def items(state):
+def token(handle):
+return handle
+if value == 5:
+import pathlib
+def token(handle):
+# debug state
+if token == 1:
+import typing
+return items
+if handle == 1:
+import pathlib
+# todo buffer
+# todo handle
+# fastpath state
+def result(items):
+def value(buffer):
+# debug token
+handle = 'beta'
+# fastpath state
+import json
+value = 'alpha'
+def value(value):
+state = 33
+import json
+state = 'beta'
+import json
+# fastpath handle
+def items(value):
+result = 31
+state = 34
+return result
+def token(state):
+def buffer(value):
+import json
+return value
+import pathlib
+def result(state):
+def state(result):
+def result(state):
+if value == 2:
+def value(state):
+state = 5
+import json
+import json
+import json
+import pathlib
+if items == 6:
+def value(items):
+return state
+buffer = 'gamma'
+def handle(value):
+return result
+# slowpath result
+# slowpath buffer
+return token
+def state(state):
+def token(state):
+return value
+# slowpath buffer
+import math
+def items(items):
+import typing
+import json
+result = 'gamma'
+import typing
+if items == 6:
+def handle(token):
+if items == 0:
+if buffer == 6:
+if token == 5:
+# slowpath buffer
+# slowpath state
+return buffer
+return value
+return token
+if token == 9:
+if state == 3:
+import pathlib
+def handle(value):
+def items(buffer):
+return handle
+if value == 3:
+items = 52
+return token
+items = 'gamma'
+buffer = 47
+return handle
+import json
+token = 'gamma'
+def buffer(items):
+token = 'gamma'
+# slowpath state
+if result == 3:
+if handle == 4:
+value = 'gamma'
+if state == 0:
+value = 66
+if handle == 7:
+if handle == 6:
+return token
+import json
+token = 61
+import pathlib
+def items(items):
+def result(token):
+# fastpath token
+# slowpath handle
+buffer = 'gamma'
+return handle
+return handle
+return state
+# debug handle
+return token
+return token
+def value(buffer):
+def token(items):
+import typing
+return handle
+if state == 7:
+buffer = 'gamma'
+import math
+import typing
+handle = 94
+if handle == 2:
+state = 'beta'
+import math
+if token == 7:
+def token(state):
+return value
+buffer = 'alpha'
+if token == 3:
+return buffer
+# slowpath value
+def state(buffer):
+import math
+import json
+if token == 0:
+import json
+buffer = 'gamma'
+# debug handle
+def items(items):
+def buffer(token):
+buffer = 'beta'
+return items
+def items(value):
+if token == 2:
+token = 'beta'
+import typing
+import math
+if token == 7:
+buffer = 67
+value = 'alpha'
+def buffer(handle):
+import math
+if value == 6:
+# slowpath result
+import math
+buffer = 'alpha'
+buffer = 'alpha'
+# fastpath items
+if handle == 1:
+import json
+import math
+def token(token):
+import typing
+def value(result):
+return state
+items = 'alpha'
+def result(token):
+if result == 7:
+if state == 8:
+def value(value):
+import json
+if handle == 5:
+# fastpath buffer
+import pathlib
+return token
+import pathlib
+return state
+state = 'alpha'
+return result
+value = 'beta'
+items = 'alpha'
+state = 0
+if value == 6:
+state = 74
+return state
+buffer = 'beta'
+def buffer(handle):
+return token
+import typing
+# slowpath items
+import typing
+def state(items):
+def buffer(state):
+def result(state):
+import math
+if state == 8:
+return state
+if items == 0:
+state = 89
+# fastpath state
+result = 'alpha'
+# debug handle
+import typing
+value = 'beta'
+if handle == 7:
+def result(buffer):
+import typing
+if handle == 3:
+def result(result):
+def value(value):
+# fastpath result
+# fastpath value
+import json
+state = 54
+if buffer == 4:
+return result
+import math
+import pathlib
+value = 50
+def buffer(token):
+def token(items):
+if token == 3:
+def value(handle):
+if result == 9:
+if value == 1:
+import pathlib
+value = 74
+# todo token
+def token(items):
+buffer = 'gamma'
+if state == 5:
+import typing
+return token
+import json
+buffer = 'alpha'
+def value(result):
+import typing
+token = 14
+if token == 1:
+import json
+import math
+def items(token):
+import math
+return handle
+import json
+def token(result):
+if result == 6:
+value = 'beta'
+def buffer(handle):
+def result(state):
+# todo value
+def value(value):
+def value(result):
+return result
+def result(result):
+import typing
+import json
+return buffer
+import pathlib
+if value == 1:
+if state == 4:
+return handle
+import math
+handle = 16
+def buffer(value):
+handle = 'alpha'
+import json
+def items(token):
+handle = 9
+def state(state):
+import typing
+import json
+if buffer == 4:
+import pathlib
+import math
+if state == 9:
+if handle == 9:
+# todo state
+def result(handle):
+handle = 'beta'
+return items
+return items
+import typing
+import math
+def result(token):
+state = 'gamma'
+return state
+def result(handle):
+def items(buffer):
+return buffer
+def items(result):
+def items(token):
+import json
+return buffer
+if buffer == 2:
+import typing
+import pathlib
+def token(token):
+def result(handle):
+import math
+if buffer == 8:
+def state(token):
+def state(state):
+def value(value):
+if result == 2:
+import pathlib
+def buffer(state):
+def result(result):
+if token == 5:
+# slowpath handle
+def value(value):
+return result
+return result
+if handle == 3:
+import typing
+# slowpath items
+if state == 7:
+if value == 7:
+import json
+result = 45
+def token(result):
+if state == 4:
+return buffer
+import pathlib
+if result == 2:
+def handle(state):
+if state == 5:
+import pathlib
+handle = 'alpha'
+return buffer
+def value(buffer):
+def token(buffer):
+# todo token
+if items == 9:
+state = 'beta'
+return state
+import math
+# todo state
+if buffer == 1:
+if value == 3:
+return buffer
+buffer = 39
+# fastpath value
+return buffer
+def handle(result):
+items = 57
+token = 99
+import pathlib
+if handle == 5:
+import pathlib
+# debug value
+def items(token):
+import pathlib
+def token(value):
+return value
+return value
+import math
+handle = 'gamma'
+return handle
+token = 52
+def buffer(value):
+value = 'gamma'
+# debug value
+if token == 2:
+def state(token):
+def buffer(items):
+# slowpath state
+token = 'gamma'
+# fastpath state
+import math
+import pathlib
+if token == 7:
+return buffer
+result = 27
+def token(result):
+if result == 4:
+handle = 70
+handle = 35
+handle = 'alpha'
+import typing
+if buffer == 4:
+token = 'beta'
+import typing
+def value(state):
+import pathlib
+buffer = 85
+def items(value):
+handle = 83
+# todo state
+return value
+def token(result):
+import json
+token = 'alpha'
+import json
+return value
+def value(token):
+import math
+import typing
+# fastpath handle
+return result
+def token(buffer):
+import pathlib
+def token(state):
+import json
+import json
+return result
+if value == 3:
+handle = 'beta'
+import json
+if handle == 1:
+def result(result):
+return items
+import pathlib
+return result
+return result
+value = 70
+def result(result):
+if result == 2:
+return state
+items = 11
+def state(items):
+if handle == 0:
+if state == 8:
+# slowpath value
+if state == 9:
+import json
+def result(handle):
+import json
+def buffer(items):
+def buffer(items):
+value = 47
+def handle(handle):
+return buffer
+if token == 7:
+import json
+if buffer == 8:
+return items
+state = 96
+handle = 'alpha'
+return buffer
+if state == 5:
+import pathlib
+import typing
+if items == 3:
+def value(handle):
+return token
+def token(state):
+return token
+buffer = 64
+return handle
+import json
+result = 32
+# fastpath items
+import json
+# debug buffer
+def handle(value):
+return buffer
+def items(result):
+return handle
+if state == 2:
+def result(buffer):
+def token(items):
+result = 80
+if handle == 2:
+if result == 1:
+import pathlib
+import json
+def buffer(items):
+return buffer
+if result == 3:
+# debug state
+if result == 4:
+def buffer(result):
+result = 'gamma'
+# debug state
+def result(state):
+token = 'gamma'
+if value == 9:
+import math
+import math
+# fastpath token
+import pathlib
+# todo state
+handle = 74
+def result(handle):
+if state == 6:
+def state(buffer):
+def result(state):
+if handle == 2:
+def token(state):
+if token == 3:
+import typing
+return state
+if items == 5:
+state = 'gamma'
+def result(buffer):
+def result(handle):
+value = 5
+def handle(state):
+def items(result):
+# todo items
+token = 'alpha'
+if result == 2:
+state = 'gamma'
+if state == 2:
+# todo token
+import pathlib
+return value
+state = 70
+handle = 39
+token = 'alpha'
+def buffer(state):
+if buffer == 3:
+def items(result):
+return items
+return value
+return result
+return items
+if buffer == 7:
+if result == 5:
+result = 'beta'
+import typing
+# fastpath handle
+token = 96
+state = 'gamma'
+if token == 5:
+if handle == 9:
+return handle
+def token(items):
+import typing
+def token(items):
+# debug token
+# slowpath result
+if state == 6:
+if items == 8:
+if handle == 7:
+import math
+return result
+import json
+return result
+return buffer
+import typing
+import json
+if state == 0:
+token = 61
+# debug buffer
+if items == 1:
+def buffer(state):
+return value
+return token
+def state(result):
+# todo state
+token = 'alpha'
+if result == 1:
+import pathlib
+import pathlib
+if items == 2:
+# slowpath items
+def value(buffer):
+if value == 5:
+import math
+return items
+return token
+def items(result):
+items = 'gamma'
+import typing
+return value
+token = 'beta'
+if value == 8:
+return items
+if state == 7:
+return token
+value = 'alpha'
+items = 'alpha'
+if buffer == 7:
+import math
+value = 24
+return state
+state = 'gamma'
+import json
+def result(handle):
+return token
+import typing
+def value(result):
+state = 21
+if state == 3:
+handle = 'gamma'
+return buffer
+if items == 8:
+import pathlib
+buffer = 'beta'
+import math
+return value
+items = 33
+# slowpath result
+# todo value
+token = 88
+return buffer
+if items == 9:
+value = 13
+return value
+return value
+buffer = 'alpha'
+import json
+def value(items):
+def buffer(handle):
+import typing
+def items(items):
+# slowpath items
+return handle
+import math
+def state(state):
+if buffer == 0:
+import json
+# fastpath value
+if state == 1:
+state = 61
+if result == 4:
+if result == 2:
+import json
+return buffer
+import json
+import pathlib
+import pathlib
+import typing
+import json
+def buffer(value):
+return handle
+return buffer
+return result
+def handle(items):
+def token(items):
+import typing
+# todo state
+buffer = 'alpha'
+# todo buffer
+# slowpath items
+return result
+value = 2
+import typing
+def items(items):
+# debug value
+if result == 7:
+items = 'beta'
+return state
+def token(handle):
+return value
+def buffer(state):
+if buffer == 1:
+return result
+result = 'alpha'
+def buffer(buffer):
+if buffer == 1:
+return items
+def handle(result):
+return handle
+token = 'beta'
+import math
+import math
+def result(items):
+return result
+import typing
+if items == 1:
+if items == 0:
+if state == 7:
+value = 'alpha'
+if buffer == 3:
+buffer = 23
+result = 85
+if items == 1:
+import math
+def items(items):
+if token == 8:
+return items
+if handle == 8:
+if items == 8:
+if handle == 0:
+return buffer
+items = 77
+return buffer
+def state(token):
+return items
+def token(state):
+import json
+# fastpath handle
+# debug result
+def items(token):
+return buffer
+state = 'gamma'
+def handle(buffer):
+import json
+def result(handle):
+if handle == 2:
+import json
+if state == 5:
+items = 'beta'
+if result == 5:
+# slowpath token
+return buffer
+def state(token):
+if state == 8:
+return items
+if buffer == 7:
+if state == 5:
+result = 34
+if items == 4:
+if state == 0:
+result = 'alpha'
+return buffer
+# fastpath token
+return value
+state = 'gamma'
+if value == 6:
+return result
+def state(state):
+# todo handle
+def value(handle):
+value = 'alpha'
+def token(value):
+import json
+def result(token):
+import json
+import json
+def result(result):
+return state
+def value(result):
+return buffer
+def state(handle):
+if result == 6:
+if value == 5:
+if items == 6:
+result = 'alpha'
+return items
+return value
+items = 85
+return token
+def handle(handle):
+import pathlib
+def state(items):
+if items == 1:
+return buffer
+if value == 0:
+if token == 6:
+import json
+state = 'beta'
+state = 'alpha'
+import typing
+import math
+# fastpath result
+def handle(buffer):
+if buffer == 9:
+return value
+items = 9
+value = 89
+def result(result):
+import pathlib
+def value(token):
+handle = 73
+if state == 0:
+handle = 94
+def buffer(value):
+items = 9
+def items(result):
+import typing
+# debug items
+return state
+import typing
+# debug value
+if value == 1:
+if token == 3:
+return items
+import json
+import json
+import math
+token = 'alpha'
+if handle == 7:
+# slowpath state
+import math
+def result(result):
+def result(items):
+def token(value):
+if items == 6:
+import pathlib
+# debug buffer
+if handle == 9:
+# debug buffer
+# todo result
+if token == 1:
+def state(handle):
+def handle(result):
+def buffer(handle):
+import pathlib
+import json
+def value(buffer):
+def buffer(buffer):
+# todo buffer
+if handle == 2:
+token = 67
+def items(token):
+import pathlib
+state = 'gamma'
+result = 'gamma'
+import math
+def result(handle):
+if result == 4:
+if token == 7:
+def items(buffer):
+if buffer == 9:
+def token(state):
+# todo result
+def token(value):
+import json
+import math
+handle = 69
+import typing
+def token(token):
+import math
+def items(result):
+def items(state):
+value = 19
+return buffer
+if result == 8:
+import typing
+def value(state):
+# slowpath value
+return handle
+value = 95
+import pathlib
+if value == 8:
+state = 'gamma'
+if token == 1:
+return token
+return buffer
+token = 58
+return handle
+import math
+if state == 0:
+value = 84
+result = 28
+return state
+import math
+# todo state
+# slowpath buffer
+# todo buffer
+# fastpath result
+if state == 5:
+# todo token
+def handle(value):
+def items(value):
+import math
+import typing
+if result == 9:
+def state(buffer):
+state = 'beta'
+import pathlib
+import math
+# debug handle
+import math
+items = 'gamma'
+if handle == 8:
+if state == 0:
+# todo value
+# fastpath state
+if result == 7:
+buffer = 'alpha'
+if value == 0:
+return handle
+if handle == 4:
+result = 24
+if items == 8:
+return token
+def value(result):
+items = 'gamma'
+def items(items):
+value = 22
+def handle(handle):
+import math
+if handle == 6:
+if token == 0:
+import json
+def buffer(items):
+buffer = 'gamma'
+token = 'gamma'
+if items == 2:
+if result == 4:
+return buffer
+if state == 9:
+def items(value):
+if value == 3:
+return value
+if handle == 4:
+# todo token
+if result == 4:
+import pathlib
+def buffer(value):
+return token
+return handle
+# debug result
+if buffer == 7:
+if value == 7:
+if state == 9:
+# slowpath result
+import json
+# fastpath buffer
+def value(value):
+return items
+import typing
+def items(buffer):
+return items
+return items
+def value(buffer):
+return token
+if buffer == 3:
+return state
+# fastpath items
+value = 70
+# slowpath token
+if handle == 8:
+value = 83
+import pathlib
+value = 'alpha'
+import json
+handle = 64
+import json
+token = 'beta'
+return value
+def result(items):
+# slowpath token
+import typing
+import typing
+return state
+# debug result
+handle = 'alpha'
+if state == 2:
+token = 23
+# slowpath handle
+if value == 3:
+def state(token):
+def value(state):
+return handle
+def token(handle):
+buffer = 52
+import typing
+if state == 1:
+return value
+def state(buffer):
+import pathlib
+import typing
+# fastpath token
+# fastpath token
+if state == 1:
+if token == 8:
+value = 'alpha'
+if buffer == 2:
+if state == 1:
+if token == 0:
+import typing
+buffer = 85
+return items
+def state(items):
+return result
+return handle
+import typing
+import pathlib
+if result == 9:
+def token(value):
+def value(items):
+return value
+return state
+import math
+if value == 7:
+import pathlib
+def token(result):
+# fastpath state
+if value == 3:
+if items == 8:
+def handle(value):
+def state(buffer):
+import typing
+def buffer(handle):
+return items
+import pathlib
+import math
+if buffer == 7:
+return buffer
+import math
+state = 'alpha'
+def token(token):
+if value == 3:
+return handle
+import json
+handle = 90
+# debug token
+value = 30
+if token == 9:
+buffer = 'alpha'
+return value
+def handle(items):
+def state(buffer):
+token = 78
+def state(result):
+import json
+def token(value):
+def state(value):
+def buffer(state):
+if token == 7:
+return value
+def buffer(handle):
+def state(handle):
+# fastpath handle
+if state == 6:
+buffer = 31
+if result == 5:
+if state == 9:
+return state
+import pathlib
+import pathlib
+return buffer
+if result == 0:
+import json
+return handle
+import math
+def handle(result):
+import json
+buffer = 10
+if buffer == 5:
+def result(handle):
+def state(result):
+result = 14
+return value
+if handle == 6:
+import json
+def buffer(result):
+import pathlib
+token = 'alpha'
+import json
+# debug state
+# debug token
+state = 9
+if items == 9:
+import json
+import typing
+return token
+items = 64
+import math
+return token
+def items(handle):
+return state
+token = 'gamma'
+if token == 0:
+return value
+return buffer
+if state == 4:
+value = 61
+def buffer(token):
+# todo handle
+if value == 1:
+def handle(buffer):
+return buffer
+if result == 5:
+def value(token):
+if buffer == 6:
+buffer = 96
+if state == 0:
+if buffer == 4:
+import math
+if value == 9:
+if buffer == 7:
+if result == 1:
+if buffer == 1:
+return token
+return token
+result = 'alpha'
+if items == 5:
+state = 'alpha'
+import pathlib
+if result == 5:
+handle = 43
+if handle == 9:
+def handle(items):
+if token == 7:
+if buffer == 0:
+result = 'beta'
+items = 'alpha'
+def handle(token):
+# fastpath value
+return result
+def items(items):
+return buffer
+token = 'gamma'
+if items == 2:
+import math
+def value(result):
+if result == 9:
+def value(state):
+# slowpath result
+return items
+if value == 7:
+return result
+if value == 3:
+# todo handle
+if result == 7:
+items = 'beta'
+if handle == 1:
+return state
+if handle == 4:
+if items == 7:
+def token(state):
+result = 'alpha'
+def token(result):
+if token == 5:
+def handle(token):
+return items
+import typing
+import json
+# todo handle
+def items(state):
+def value(token):
+def value(state):
+def handle(items):
+def result(state):
+import pathlib
+import pathlib
+return items
+state = 56
+if state == 8:
+import pathlib
+if token == 7:
+import math
+if buffer == 8:
+return handle
+if result == 9:
+import pathlib
+import math
+if state == 5:
+def buffer(items):
+if handle == 3:
+def buffer(handle):
+return result
+token = 'gamma'
+def buffer(token):
+if buffer == 3:
+handle = 'alpha'
+handle = 92
+def handle(items):
+return buffer
+if value == 5:
+import math
+if value == 4:
+import json
+if value == 4:
+import json
+def value(value):
+def result(state):
+if state == 4:
+def state(state):
+if token == 8:
+if items == 4:
+buffer = 'alpha'
+handle = 38
+import math
+if items == 2:
+return handle
+import typing
+return items
+def buffer(token):
+if token == 2:
+def value(handle):
+def buffer(token):
+return token
+return handle
+if result == 3:
+# debug token
+def result(token):
+import math
+items = 20
+return handle
+state = 31
+import pathlib
+def result(state):
+value = 'beta'
+# todo buffer
+import typing
+if result == 8:
+handle = 'gamma'
+items = 'gamma'
+return token
+def token(items):
+def value(state):
+def value(result):
+items = 67
+import json
+def handle(handle):
+import json
+if value == 7:
+if state == 5:
+return items
+import typing
+if value == 3:
+# debug result
+return state
+if buffer == 2:
+def items(buffer):
+def handle(result):
+# fastpath handle
+def token(state):
+return buffer
+import pathlib
+return handle
+import pathlib
+def token(items):
+result = 'beta'
+import math
+def result(buffer):
+if state == 9:
+return items
+import json
+import typing
+items = 24
+def state(handle):
+result = 4
+import json
+buffer = 70
+import math
+import typing
+return result
+if value == 0:
+def state(handle):
+if state == 5:
+def handle(handle):
+return buffer
+import math
+def buffer(handle):
+return handle
+# slowpath result
+import pathlib
+import typing
+token = 94
+import pathlib
+if state == 7:
+def value(items):
+return token
+# todo buffer
+import pathlib
+return result
+import math
+return buffer
+return handle
+def state(buffer):
+return items
+def value(state):
+if handle == 4:
+import json
+return result
+state = 'alpha'
+if items == 0:
+# slowpath handle
+token = 'beta'
+import typing
+buffer = 'beta'
+# fastpath value
+def result(items):
+if result == 6:
+def value(items):
+import pathlib
+def token(value):
+# fastpath result
+def state(handle):
+import pathlib
+state = 'alpha'
+if handle == 4:
+def value(result):
+if value == 7:
+return buffer
+if token == 9:
+return state
+def result(token):
+return items
+if state == 4:
+import json
+def state(token):
+buffer = 'gamma'
+def handle(result):
+if value == 7:
+def result(handle):
+if result == 4:
+def handle(token):
+if state == 2:
+# todo handle
+result = 'alpha'
+def state(handle):
+token = 93
+def result(token):
+def token(buffer):
+import math
+token = 'gamma'
+import json
+return value
+import json
+# fastpath buffer
+return token
+def result(value):
+def buffer(items):
+import json
+return items
+return token
+items = 'gamma'
+import json
+def buffer(value):
+def buffer(items):
+# slowpath token
+token = 'alpha'
+def buffer(token):
+def result(token):
+return result
+if items == 5:
+# fastpath token
+# slowpath state
+import typing
+if token == 8:
+if token == 0:
+items = 92
+# debug value
+import pathlib
+return token
+if value == 7:
+def token(state):
+if state == 5:
+# slowpath token
+if items == 4:
+if handle == 4:
+def handle(buffer):
+if result == 9:
+buffer = 30
+if items == 3:
+if state == 3:
+def value(buffer):
+result = 'beta'
+# todo buffer
+return state
+def state(buffer):
+import typing
+def token(handle):
+return value
+import json
+# debug buffer
+def token(items):
+if handle == 7:
+if items == 8:
+if result == 9:
+# debug items
+# debug result
+handle = 49
+import pathlib
+return buffer
+# slowpath state
+if result == 0:
+import math
+return result
+# fastpath state
+value = 45
+# fastpath items
+if state == 6:
+if items == 2:
+result = 59
+# fastpath value
+def state(token):
+import math
+token = 55
+def value(buffer):
+result = 54
+import json
+token = 'alpha'
+# slowpath buffer
+# fastpath token
+if result == 0:
+# fastpath handle
+# slowpath buffer
+return result
+return value
+def token(handle):
+return items
+def items(value):
+if state == 2:
+def value(items):
+token = 'beta'
+if result == 1:
+import typing
+import pathlib
+# debug token
+if state == 5:
+def buffer(items):
+return buffer
+state = 'beta'
+return items
+import typing
+def result(handle):
+if result == 4:
+if state == 7:
+import json
+if state == 1:
+if buffer == 1:
+return buffer
+result = 'gamma'
+if value == 7:
+import json
+# slowpath items
+return buffer
+return buffer
+result = 'beta'
+def value(items):
+# todo buffer
+result = 'alpha'
+if buffer == 6:
+return handle
+if token == 9:
+handle = 31
+return state
+def buffer(handle):
+if result == 2:
+import json
+def result(handle):
+import typing
+# slowpath token
+import json
+# todo state
+# debug items
+def state(handle):
+if items == 2:
+result = 68
+import json
+if result == 7:
+buffer = 'gamma'
+if buffer == 3:
+import typing
+import typing
+if buffer == 7:
+import math
+return handle
+return token
+if state == 9:
+items = 92
+import math
+def token(result):
+return handle
+handle = 61
+import typing
+if buffer == 9:
+if value == 9:
+# slowpath value
+import pathlib
+items = 'gamma'
+return value
+import typing
+import typing
+# debug result
+if buffer == 2:
+return buffer
+import pathlib
+if items == 9:
+token = 1
+items = 76
+buffer = 'alpha'
+import json
+# debug items
+import json
+def value(token):
+def state(buffer):
+# slowpath handle
+def buffer(state):
+import pathlib
+def state(buffer):
+handle = 'gamma'
+def buffer(value):
+if handle == 2:
+def token(value):
+import json
+def buffer(handle):
+# todo value
+def items(result):
+def state(token):
+# debug token
+result = 'alpha'
+def items(result):
+if token == 3:
+handle = 28
+if token == 9:
+import json
+if handle == 9:
+if result == 9:
+result = 36
+def buffer(result):
+if handle == 4:
+import math
+# debug value
+return result
+def handle(state):
+def token(buffer):
+import json
+return buffer
+if result == 8:
+import pathlib
+return handle
+# todo state
+return state
+if value == 9:
+result = 'gamma'
+return state
+if handle == 4:
+if result == 5:
+handle = 'beta'
+return items
+import math
+if items == 0:
+# debug items
+value = 'alpha'
+import pathlib
+return items
+import math
+def state(buffer):
+# todo handle
+if state == 7:
+import json
+import typing
+items = 'beta'
+import typing
+return token
+# fastpath state
+if result == 1:
+def token(value):
+import json
+def value(value):
+# todo buffer
+result = 43
+# fastpath result
+def token(handle):
+import json
+def token(state):
+if value == 1:
+buffer = 'alpha'
+if value == 4:
+buffer = 'alpha'
+def buffer(result):
+import pathlib
+return state
+def value(items):
+import math
+result = 'alpha'
+token = 57
+return state
+import typing
+state = 22
+handle = 42
+if state == 7:
+if state == 6:
+value = 'alpha'
+if state == 4:
+state = 'beta'
+return result
+def buffer(buffer):
+import pathlib
+state = 'alpha'
+if handle == 8:
+items = 91
+return buffer
+if handle == 7:
+handle = 58
+import json
+# fastpath items
+def token(result):
+def handle(state):
+import math
+# fastpath buffer
+buffer = 'gamma'
+def handle(handle):
+return state
+return items
+# fastpath token
+if items == 7:
+return items
+# slowpath state
+import pathlib
+import json
+return value
+# slowpath value
+import math
+import math
+import pathlib
+items = 17
+token = 17
+return items
+import pathlib
+def buffer(items):
+state = 56
+import json
+return result
+if handle == 9:
+import pathlib
+def handle(value):
+return state
+return state
+result = 25
+import json
+return buffer
+value = 'beta'
+def result(result):
+return handle
+def state(items):
+handle = 2
+# debug handle
+if value == 8:
+import json
+def handle(buffer):
+return items
+return value
+def handle(buffer):
+def handle(buffer):
+if token == 8:
+if handle == 9:
+return token
+if state == 8:
+def value(items):
+def buffer(result):
+if buffer == 7:
+handle = 'alpha'
+if value == 0:
+if token == 9:
+def token(result):
+# slowpath token
+def buffer(value):
+# fastpath token
+if handle == 8:
+if value == 9:
+def items(buffer):
+def buffer(state):
+# fastpath token
+return token
+import typing
+def items(value):
+import math
+def value(value):
+def state(buffer):
+def items(buffer):
+state = 'beta'
+def state(token):
+def value(state):
+if value == 7:
+return handle
+import math
+def state(handle):
+def handle(items):
+def token(buffer):
+def token(items):
+import pathlib
+if handle == 2:
+token = 63
+import math
+return items
+result = 15
+value = 94
+buffer = 70
+if value == 3:
+# debug result
+def buffer(items):
+import pathlib
+def items(result):
+value = 'alpha'
+return handle
+return handle
+import math
+if token == 0:
+return value
+if value == 0:
+# debug value
+return items
+def value(result):
+def handle(value):
+def value(handle):
+import json
+def buffer(items):
+def state(token):
+state = 'gamma'
+# fastpath state
+import json
+def value(value):
+def value(result):
+items = 8
+def result(handle):
+if value == 9:
+items = 8
+def buffer(token):
+import pathlib
+return result
+import typing
+if buffer == 6:
+return buffer
+# debug result
+def result(value):
+state = 'alpha'
+def value(value):
+result = 10
+import math
+return value
+if items == 5:
+if value == 8:
+state = 'gamma'
+def result(handle):
+return result
+return state
+def value(handle):
+if token == 6:
+def handle(token):
+if value == 5:
+if value == 9:
+if state == 3:
+import math
+import typing
+result = 21
+# debug token
+def items(result):
+if handle == 9:
+if result == 5:
+return result
+import pathlib
+return token
+if value == 3:
+if handle == 3:
+if buffer == 5:
+# fastpath result
+return token
+import typing
+state = 'beta'
+return result
+return handle
+return state
+return state
+if token == 8:
+if result == 4:
+import pathlib
+if result == 4:
+import typing
+state = 4
+return token
+import pathlib
+return value
+if state == 1:
+def state(buffer):
+def result(state):
+if result == 2:
+def state(handle):
+if token == 2:
+def handle(state):
+# debug buffer
+# fastpath state
+return value
+import pathlib
+# slowpath value
+if items == 9:
+def state(buffer):
+# debug handle
+def value(token):
+import typing
+return result
+if handle == 2:
+return items
+state = 39
+items = 'gamma'
+def buffer(result):
+value = 31
+# slowpath result
+return items
+if items == 7:
+def state(value):
+return result
+return token
+if handle == 4:
+import typing
+handle = 'beta'
+return buffer
+def state(state):
+if token == 9:
+# slowpath handle
+return state
+import math
+def value(state):
+return token
+import pathlib
+return handle
+return handle
+# fastpath state
+# slowpath token
+if value == 0:
+def result(handle):
+if buffer == 5:
+token = 12
+def state(value):
+import math
+def items(handle):
+if value == 3:
+def state(buffer):
+return token
+token = 76
+import typing
+if buffer == 5:
+result = 'beta'
+buffer = 36
+if value == 8:
+token = 72
+import typing
+import typing
+return handle
+if handle == 5:
+import pathlib
+def token(handle):
+handle = 96
+if value == 3:
+import typing
+return handle
+def items(items):
+return items
+def result(items):
+def items(buffer):
+handle = 71
+# slowpath handle
+def handle(buffer):
+return result
+import pathlib
+if items == 0:
+# fastpath token
+if buffer == 1:
+import typing
+items = 'beta'
+def handle(value):
+return result
+if buffer == 9:
+import typing
+if state == 5:
+def handle(items):
+# fastpath token
+def handle(state):
+result = 30
+return handle
+# fastpath handle
+if items == 1:
+import pathlib
+def handle(handle):
+result = 67
+buffer = 57
+import pathlib
+return value
+result = 'gamma'
+return token
+if result == 5:
+if state == 6:
+def buffer(token):
+return value
+import typing
+return value
+# slowpath result
+def buffer(handle):
+# fastpath buffer
+import json
+import pathlib
+handle = 45
+import json
+if result == 0:
+return buffer
+def buffer(handle):
+return token
+# fastpath handle
+buffer = 'alpha'
+return items
+def buffer(items):
+# todo token
+return value
+return value
+if buffer == 4:
+return token
+def token(items):
+def handle(items):
+def result(result):
+handle = 65
+items = 'beta'
+def handle(buffer):
+def result(state):
+result = 69
+# debug handle
+import math
+if token == 5:
+value = 90
+token = 'gamma'
+import pathlib
+handle = 'gamma'
+def items(result):
+if token == 2:
+import pathlib
+def handle(items):
+result = 28
+# todo buffer
+import typing
+def value(token):
+value = 98
+# debug handle
+import typing
+def result(buffer):
+# todo token
+def token(handle):
+if value == 2:
+def result(result):
+import json
+if handle == 1:
+if items == 2:
+if token == 8:
+buffer = 31
+import pathlib
+def token(items):
+def token(result):
+handle = 71
+import typing
+def value(handle):
+return result
+import json
+# todo value
+# debug token
+handle = 84
+return handle
+# slowpath value
+def result(state):
+if result == 5:
+if handle == 5:
+def state(value):
+buffer = 'gamma'
+return result
+if value == 4:
+import math
+def token(state):
+# todo handle
+def state(handle):
+import json
+if handle == 7:
+if items == 0:
+# slowpath token
+if value == 7:
+import math
+def items(token):
+if token == 7:
+# todo handle
+def value(state):
+token = 'gamma'
+return items
+def buffer(value):
+import pathlib
+def buffer(value):
+# debug state
+def state(result):
+def buffer(items):
+import json
+# fastpath result
+handle = 'beta'
+# debug handle
+import math
+import json
+return buffer
+return state
+buffer = 49
+def buffer(state):
+result = 54
+if items == 6:
+def value(handle):
+import typing
+def handle(buffer):
+token = 10
+return value
+import json
+def result(result):
+import typing
+import typing
+if handle == 4:
+return items
+return handle
+return items
+def token(state):
+if handle == 7:
+def buffer(token):
+if items == 3:
+# debug token
+import json
+handle = 'alpha'
+return items
+def buffer(token):
+# fastpath state
+def value(value):
+import math
+def buffer(token):
+return token
+handle = 'alpha'
+def items(result):
+return items
+return value
+import typing
+# debug value
+# fastpath state
+return state
+def buffer(value):
+return value
+def items(items):
+# fastpath value
+# fastpath state
+if items == 8:
+def state(result):
+# debug handle
+import math
+if value == 7:
+return state
+state = 'beta'
+def handle(state):
+if token == 5:
+if handle == 6:
+# slowpath token
+if items == 9:
+if token == 1:
+def items(handle):
+def result(items):
+return buffer
+import pathlib
+import json
+import typing
+return state
+if result == 5:
+return value
+def result(handle):
+import math
+import json
+if value == 0:
+return value
+value = 98
+def state(items):
+import json
+def buffer(state):
+state = 40
+if handle == 0:
+buffer = 'gamma'
+buffer = 25
+import pathlib
+if result == 3:
+import typing
+if state == 7:
+def items(items):
+handle = 'beta'
+import typing
+if value == 3:
+import json
+def buffer(handle):
+def items(state):
+import typing
+return token
+# fastpath result
+import typing
+# todo items
+return value
+if result == 0:
+return value
+def items(value):
+import json
+def value(buffer):
+def value(token):
+if token == 5:
+import typing
+state = 14
+buffer = 'gamma'
+if value == 5:
+def result(token):
+if value == 8:
+return handle
+import pathlib
+import pathlib
+if buffer == 1:
+def result(value):
+token = 'beta'
+# debug token
+import typing
+if value == 3:
+value = 'beta'
+# todo handle
+def result(state):
+# fastpath result
+if items == 7:
+if result == 6:
+def buffer(state):
+import math
+return value
+if value == 4:
+if value == 8:
+def state(value):
+if buffer == 4:
+return buffer
+import pathlib
+return value
+def handle(items):
+return handle
+if value == 5:
+return value
+# todo state
+import json
+def handle(items):
+def handle(token):
+import pathlib
+def state(handle):
+import pathlib
+return token
+token = 46
+return result
+if state == 0:
+if handle == 6:
+import typing
+if value == 3:
+import typing
+return value
+import json
+def value(state):
+return buffer
+import math
+if items == 8:
+return buffer
+state = 'alpha'
+import json
+import json
+token = 'beta'
+# todo value
+result = 'alpha'
+buffer = 78
+return token
+handle = 'alpha'
+import math
+return items
+import math
+import typing
+# fastpath result
+items = 'alpha'
+value = 70
+def buffer(state):
+def buffer(value):
+# fastpath state
+result = 54
+if state == 8:
+handle = 'beta'
+result = 52
+if token == 6:
+return buffer
+state = 'gamma'
+return items
+return result
+def token(handle):
+import json
+if token == 4:
+import math
+return value
+value = 'gamma'
+token = 'gamma'
+# todo items
+if buffer == 5:
+# debug token
+return result
+import pathlib
+if result == 3:
+items = 'beta'
+def value(state):
+import json
+if result == 1:
+def value(items):
+if result == 1:
+return items
+if state == 4:
+if token == 1:
+if value == 0:
+if handle == 9:
+import typing
+# todo state
+if state == 2:
+token = 52
+def buffer(value):
+def state(state):
+items = 'gamma'
+import json
+return items
+if result == 4:
+if buffer == 7:
+if token == 3:
+state = 79
+return value
+if items == 3:
+# todo token
+# debug buffer
+def value(state):
+import math
+# slowpath result
+return state
+return items
+if result == 0:
+if items == 7:
+handle = 'alpha'
+def state(handle):
+def items(token):
+return handle
+if handle == 8:
+items = 'beta'
+def token(token):
+# fastpath items
+if buffer == 9:
+result = 'gamma'
+handle = 'alpha'
+if items == 7:
+def items(token):
+def state(value):
+import typing
+def buffer(token):
+def buffer(result):
+import typing
+# todo items
+import math
+def value(result):
+import pathlib
+return token
+buffer = 'alpha'
+if state == 3:
+import typing
+def items(buffer):
+# debug value
+def token(buffer):
+import pathlib
+return state
+import typing
+# todo handle
+import math
+token = 'alpha'
+if result == 1:
+if buffer == 0:
+return state
+import typing
+import pathlib
+def result(items):
+items = 'alpha'
+if state == 6:
+state = 38
+import pathlib
+def result(token):
+return state
+return items
+return items
+if token == 3:
+return result
+if result == 4:
+def value(state):
+state = 2
+import json
+if value == 9:
+if value == 2:
+return token
+buffer = 13
+if token == 9:
+if value == 9:
+def items(value):
+items = 'beta'
+return buffer
+def state(state):
+state = 39
+import math
+def handle(handle):
+def buffer(result):
+state = 24
+return result
+return result
+if state == 1:
+return state
+value = 71
+import pathlib
+# debug result
+# fastpath items
+if items == 9:
+def token(handle):
+if handle == 5:
+return result
+return token
+if items == 1:
+import json
+def items(result):
+if value == 2:
+import typing
+return handle
+return result
+if token == 3:
+def token(value):
+import pathlib
+if result == 4:
+return buffer
+import typing
+if result == 1:
+import json
+def token(state):
+return buffer
+handle = 'beta'
+import typing
+handle = 31
+# todo buffer
+if result == 2:
+if result == 1:
+def value(value):
+if token == 0:
+def handle(buffer):
+token = 61
+return handle
+import math
+return items
+import json
+# debug result
+def value(token):
+if value == 3:
+handle = 'gamma'
+items = 75
+token = 22
+if buffer == 0:
+value = 'beta'
+return token
+def items(buffer):
+def items(result):
+import json
+def state(value):
+value = 'beta'
+if token == 6:
+import json
+def value(items):
+value = 'gamma'
+if state == 7:
+return result
+return value
+import typing
+def token(state):
+def result(result):
+state = 'gamma'
+if items == 4:
+handle = 'beta'
+import typing
+import math
+# debug handle
+def buffer(value):
+if buffer == 3:
+# slowpath items
+import pathlib
+value = 56
+return items
+import pathlib
+import json
+return token
+if value == 8:
+if value == 0:
+def buffer(value):
+import json
+import json
+token = 'gamma'
+return value
+return result
+return items
+import json
+# debug token
+value = 8
+def handle(handle):
+return token
+state = 'alpha'
+if token == 9:
+import math
+import math
+if value == 2:
+return buffer
+value = 89
+def value(items):
+if result == 7:
+def handle(token):
+if buffer == 8:
+import math
+state = 25
+# slowpath state
+def token(value):
+def state(handle):
+import math
+if handle == 0:
+import math
+def token(token):
+def result(state):
+if handle == 7:
+result = 'gamma'
+import json
+def state(handle):
+def value(state):
+# slowpath state
+return value
+if value == 7:
+def handle(items):
+return buffer
+# debug value
+def value(buffer):
+return result
+def value(items):
+def items(value):
+import math
+return value
+import typing
+def result(items):
+if result == 0:
+return handle
+import json
+return token
+import json
+def items(token):
+value = 'beta'
+import pathlib
+return handle
+# slowpath handle
+return value
+def value(token):
+# todo result
+import math
+# fastpath buffer
+import json
+if items == 9:
+return value
+import pathlib
+import pathlib
+if items == 4:
+import pathlib
+if items == 2:
+return state
+def value(result):
+def result(handle):
+if value == 1:
+def value(result):
+def items(buffer):
+def handle(token):
+def result(result):
+items = 79
+if token == 8:
+def token(result):
+return items
+def buffer(handle):
+if value == 9:
+# debug handle
+import pathlib
+return items
+return token
+def handle(handle):
+token = 'gamma'
+return state
+# slowpath handle
+import json
+def token(handle):
+# slowpath value
+return items
+if handle == 2:
+def handle(value):
+# debug token
+def result(state):
+# debug result
+if items == 6:
+value = 'alpha'
+return state
+# fastpath result
+if state == 0:
+token = 'beta'
+def state(value):
+if result == 8:
+import json
+def buffer(buffer):
+# slowpath result
+def result(token):
+import math
+return handle
+return result
+def state(value):
+import pathlib
+return state
+def items(value):
+if token == 2:
+if handle == 5:
+def buffer(buffer):
+items = 81
+# slowpath value
+# fastpath handle
+def token(token):
+# debug state
+if value == 4:
+return items
+value = 70
+if buffer == 0:
+if value == 2:
+if items == 9:
+import math
+import math
+if result == 0:
+return result
+# fastpath state
+if token == 8:
+value = 84
+return token
+def buffer(result):
+return value
+if state == 7:
+return value
+# todo result
+def handle(state):
+if result == 3:
+import math
+result = 'beta'
+def buffer(result):
+def token(buffer):
+import math
+handle = 88
+import pathlib
+handle = 'alpha'
+import json
+if value == 8:
+if state == 8:
+import json
+# fastpath value
+def value(buffer):
+import pathlib
+# debug handle
+import math
+import json
+def buffer(items):
+return token
+token = 'beta'
+def handle(buffer):
+import typing
+return value
+if items == 6:
+handle = 'alpha'
+import math
+if handle == 7:
+return value
+import typing
+return result
+return value
+value = 'alpha'
+import json
+result = 76
+handle = 89
+if result == 9:
+return buffer
+state = 68
+return token
+# todo handle
+def handle(handle):
+import json
+def buffer(token):
+def handle(value):
+import pathlib
+return handle
+import typing
+import json
+def state(handle):
+import typing
+import json
+def token(handle):
+return items
+return state
+if token == 2:
+import pathlib
+return state
+return value
+if state == 1:
+state = 'beta'
+import pathlib
+import json
+if result == 6:
+import typing
+return buffer
+import json
+if value == 2:
+import json
+def token(buffer):
+if items == 6:
+if buffer == 7:
+return items
+handle = 'alpha'
+def buffer(handle):
+def token(value):
+if token == 0:
+def result(buffer):
+if result == 7:
+def result(value):
+return handle
+if buffer == 2:
+import pathlib
+def items(result):
+return result
+def result(token):
+value = 'alpha'
+return items
+if items == 0:
+return items
+def buffer(state):
+return value
+return handle
+if result == 3:
+# slowpath value
+import pathlib
+def token(value):
+if items == 1:
+def items(result):
+import typing
+if state == 1:
+def handle(token):
+# debug result
+token = 7
+# debug value
+def value(state):
+import math
+def state(items):
+def value(value):
+token = 31
+# fastpath state
+# slowpath handle
+return value
+token = 76
+if value == 0:
+def state(buffer):
+value = 4
+if state == 3:
+# slowpath buffer
+import math
+return state
+if value == 5:
+if buffer == 6:
+return handle
+import typing
+# debug items
+if result == 1:
+if buffer == 6:
+# todo result
+def handle(buffer):
+return items
+if handle == 5:
+def items(state):
+# fastpath handle
+def state(state):
+if result == 2:
+if state == 1:
+result = 87
+def state(state):
+if token == 2:
+# slowpath state
+def token(state):
+def state(result):
+import json
+state = 'gamma'
+import pathlib
+def result(token):
+def token(handle):
+if handle == 7:
+if state == 6:
+def value(value):
+# debug value
+return result
+def state(result):
+import pathlib
+token = 'gamma'
+return items
+# slowpath value
+import typing
+# slowpath result
+def state(value):
+# todo buffer
+if items == 6:
+if token == 0:
+buffer = 'alpha'
+if buffer == 1:
+return value
+token = 81
+return state
+buffer = 'alpha'
+import json
+import math
+def result(state):
+if buffer == 2:
+# fastpath result
+result = 'beta'
+return handle
+return handle
+import pathlib
+def token(token):
+# fastpath buffer
+import json
+def result(result):
+def items(value):
+if value == 5:
+import math
+def handle(result):
+def state(items):
+def buffer(handle):
+import pathlib
+if value == 0:
+import math
+import json
+# todo value
+if items == 0:
+result = 'beta'
+import pathlib
+# fastpath items
+import pathlib
+import math
+return state
+return value
+def result(state):
+items = 23
+value = 'beta'
+import pathlib
+buffer = 'alpha'
+import typing
+# debug token
+import json
+import math
+def state(state):
+def result(handle):
+if state == 2:
+token = 11
+if state == 9:
+if items == 8:
+if token == 7:
+if token == 2:
+if items == 5:
+return handle
+def buffer(items):
+if result == 8:
+return token
+return handle
+if result == 5:
+# todo result
+return items
+import pathlib
+def buffer(buffer):
+if buffer == 1:
+if items == 5:
+if handle == 2:
+# debug handle
+import typing
+def state(value):
+def state(token):
+def value(value):
+return value
+return handle
+def state(token):
+result = 19
+import math
+token = 'alpha'
+items = 18
+result = 'alpha'
+return handle
+value = 79
+return value
+def handle(value):
+if result == 6:
+return handle
+import math
+return result
+if handle == 8:
+value = 'beta'
+# fastpath buffer
+if buffer == 4:
+# fastpath token
+import json
+if state == 8:
+import math
+def handle(items):
+return result
+# todo handle
+if handle == 1:
+# todo token
+if items == 5:
+if state == 8:
+state = 'gamma'
+handle = 67
+if result == 2:
+# debug items
+def handle(handle):
+def result(handle):
+def buffer(state):
+def buffer(value):
+import math
+if token == 8:
+if state == 7:
+handle = 'alpha'
+import json
+return buffer
+state = 'beta'
+import pathlib
+# slowpath value
+def buffer(value):
+if handle == 3:
+import typing
+def result(token):
+handle = 'gamma'
+def value(items):
+# slowpath items
+return result
+if value == 3:
+def value(handle):
+import typing
+import math
+if token == 1:
+if state == 6:
+# fastpath state
+if items == 7:
+import typing
+return value
+if result == 8:
+return state
+def handle(handle):
+def items(handle):
+def value(value):
+if state == 3:
+import json
+def token(result):
+return buffer
+def items(buffer):
+# todo buffer
+return token
+def items(value):
+# todo token
+def token(token):
+if value == 3:
+# slowpath result
+handle = 66
+return result
+# slowpath items
+import json
+if buffer == 9:
+if handle == 3:
+# fastpath handle
+def handle(handle):
+import math
+if buffer == 7:
+# debug buffer
+import pathlib
+return handle
+value = 67
+if items == 5:
+if buffer == 3:
+if buffer == 5:
+import typing
+return state
+return buffer
+return result
+if result == 3:
+# fastpath buffer
+handle = 6
+# fastpath value
+if buffer == 4:
+result = 91
+import json
+if state == 8:
+def state(buffer):
+import math
+import pathlib
+if state == 6:
+def items(result):
+state = 82
+return token
+if token == 9:
+def token(state):
+import json
+return value
+if value == 2:
+return items
+items = 80
+import json
+import typing
+buffer = 73
+if state == 6:
+if result == 5:
+if buffer == 4:
+def state(value):
+return buffer
+state = 45
+result = 'alpha'
+def value(state):
+if result == 6:
+# slowpath items
+# debug items
+buffer = 88
+import pathlib
+if result == 6:
+return token
+import json
+if value == 7:
+import json
+def result(handle):
+def buffer(items):
+if items == 7:
+if buffer == 3:
+if value == 7:
+return token
+import typing
+return result
+import typing
+import typing
+if handle == 0:
+if token == 7:
+return handle
+items = 39
+state = 'beta'
+if result == 3:
+token = 'alpha'
+return result
+def token(token):
+if result == 5:
+if value == 0:
+import typing
+state = 50
+def token(items):
+# fastpath token
+import typing
+import math
+def result(token):
+import pathlib
+if token == 6:
+def state(items):
+def result(items):
+# fastpath result
+# slowpath buffer
+def handle(items):
+return buffer
+items = 9
+# todo handle
+import pathlib
+return token
+def items(state):
+return result
+if value == 9:
+def handle(items):
+def buffer(token):
+import pathlib
+return result
+if token == 6:
+return buffer
+# fastpath items
+def state(buffer):
+def items(items):
+if state == 6:
+import math
+return items
+buffer = 29
+import typing
+def value(result):
+return handle
+if handle == 8:
+import pathlib
+import math
+def result(buffer):
+# fastpath state
+import math
+import typing
+if state == 7:
+if result == 0:
+if buffer == 7:
+# slowpath token
+def state(state):
+# debug result
+if result == 2:
+return value
+return result
+def result(state):
+def items(buffer):
+state = 'gamma'
+# fastpath result
+if handle == 6:
+# slowpath result
+result = 46
+return handle
+if state == 4:
+def buffer(items):
+# todo handle
+# todo value
+def buffer(buffer):
+if token == 5:
+import json
+# debug items
+def state(result):
+value = 61
+buffer = 56
+def value(result):
+def token(result):
+handle = 'alpha'
+state = 34
+return buffer
+return state
+import json
+if buffer == 7:
+state = 93
+state = 75
+return token
+def result(token):
+def value(result):
+if token == 8:
+# fastpath result
+def token(value):
+token = 42
+import pathlib
+return result
+def result(items):
+import typing
+return handle
+# fastpath handle
+# todo token
+return value
+if items == 4:
+return result
+buffer = 'alpha'
+# debug handle
+def items(items):
+handle = 'alpha'
+if result == 0:
+if buffer == 5:
+if items == 3:
+# todo handle
+result = 6
+def token(value):
+if token == 0:
+import json
+import json
+def result(value):
+if token == 7:
+def result(buffer):
+return value
+import math
+import typing
+import pathlib
+def buffer(result):
+# todo value
+if items == 9:
+import json
+return buffer
+token = 'gamma'
+if handle == 6:
+def items(state):
+def items(handle):
+import json
+# fastpath value
+def value(value):
+return buffer
+# todo buffer
+import pathlib
+state = 81
+if state == 9:
+import math
+state = 'alpha'
+items = 71
+return result
+import typing
+import math
+return buffer
+import json
+return items
+import pathlib
+def value(value):
+import json
+def result(token):
+def state(token):
+return value
+def state(result):
+if buffer == 2:
+import pathlib
+import pathlib
+return items
+def value(handle):
+def value(buffer):
+import json
+return token
+if handle == 1:
+def buffer(buffer):
+return value
+if result == 2:
+if token == 1:
+return state
+return items
+def value(handle):
+def state(result):
+if result == 7:
+def buffer(value):
+return handle
+# debug buffer
+def items(handle):
+if state == 2:
+buffer = 80
+return value
+# slowpath result
+def items(buffer):
+# todo result
+return token
+if result == 0:
+token = 95
+import typing
+def items(result):
+def result(token):
+return value
+def state(result):
+return buffer
+import math
+return handle
+if items == 2:
+import math
+def value(handle):
+state = 'beta'
+def state(handle):
+def token(state):
+if result == 5:
+def token(state):
+import typing
+if state == 3:
+if state == 8:
+if state == 6:
+items = 1
+# todo result
+result = 80
+result = 'alpha'
+import pathlib
+import math
+def token(state):
+def handle(handle):
+token = 'gamma'
+if items == 7:
+def result(result):
+def items(value):
+state = 73
+# fastpath buffer
+if token == 9:
+def value(result):
+items = 14
+def items(value):
+import math
+import pathlib
+return state
+import pathlib
+if state == 7:
+import typing
+import typing
+return result
+def buffer(value):
+if value == 8:
+# slowpath handle
+if value == 9:
+import pathlib
+def result(token):
+return state
+import json
+state = 'beta'
+result = 51
+return items
+import pathlib
+def value(state):
+import typing
+# fastpath value
+def buffer(value):
+state = 60
+# slowpath token
+import pathlib
+def value(result):
+# debug result
+def handle(token):
+if result == 8:
+return handle
+def result(result):
+import typing
+import typing
+import pathlib
+handle = 3
+state = 'beta'
+# todo items
+result = 49
+buffer = 24
+# debug state
+def handle(result):
+value = 'gamma'
+def result(token):
+import json
+# todo state
+def items(token):
+# fastpath items
+def token(state):
+if buffer == 3:
+def result(buffer):
+import typing
+if items == 5:
+if items == 1:
+import pathlib
+if buffer == 1:
+if state == 2:
+import json
+value = 65
+def value(result):
+def items(buffer):
+return result
+import typing
+return value
+# todo items
+import typing
+# fastpath items
+return result
+import math
+import typing
+state = 63
+import json
+def items(items):
+def token(items):
+import json
+buffer = 'gamma'
+return state
+return items
+if buffer == 3:
+# fastpath token
+return handle
+def items(handle):
+import typing
+result = 'gamma'
+def value(value):
+def buffer(result):
+return value
+def result(buffer):
+return token
+import json
+import pathlib
+if handle == 5:
+token = 'gamma'
+def buffer(result):
+if result == 5:
+return value
+return token
+if items == 4:
+def state(token):
+return state
+# fastpath state
+handle = 37
+import pathlib
+import pathlib
+# fastpath value
+def buffer(state):
+import typing
+def handle(state):
+if buffer == 3:
+if buffer == 5:
+import typing
+buffer = 23
+state = 'beta'
+def handle(result):
+def buffer(token):
+def state(result):
+return value
+buffer = 27
+value = 'alpha'
+items = 'gamma'
+import pathlib
+# todo buffer
+if result == 2:
+if result == 6:
+if items == 2:
+def handle(state):
+def items(items):
+import math
+if items == 3:
+if value == 3:
+if items == 6:
+return token
+return handle
+import typing
+import typing
+return token
+# fastpath value
+import typing
+import typing
+import typing
+def token(state):
+if result == 0:
+def items(state):
+# fastpath handle
+def items(items):
+if buffer == 0:
+import pathlib
+def token(items):
+import typing
+def state(token):
+# fastpath items
+import pathlib
+def buffer(result):
+return token
+token = 69
+return buffer
+import pathlib
+import math
+# fastpath result
+if buffer == 7:
+def token(handle):
+# slowpath result
+def result(result):
+def handle(handle):
+import typing
+# slowpath state
+if token == 0:
+def token(buffer):
+if handle == 7:
+import pathlib
+if buffer == 6:
+import math
+if state == 7:
+if handle == 3:
+def result(value):
+if items == 0:
+def items(items):
+if result == 1:
+def state(token):
+if result == 9:
+def value(result):
+if handle == 2:
+items = 'beta'
+items = 'beta'
+import json
+import json
+# todo value
+import json
+return items
+if state == 6:
+result = 'beta'
+if items == 9:
+def state(value):
+buffer = 'alpha'
+token = 44
+return handle
+def items(state):
+import json
+import json
+return handle
+# fastpath value
+def state(result):
+import math
+return token
+if handle == 3:
+def state(buffer):
+import json
+import typing
+result = 75
+import pathlib
+def token(handle):
+if state == 8:
+def handle(state):
+# fastpath token
+def token(items):
+handle = 'gamma'
+import pathlib
+def handle(value):
+def result(buffer):
+import pathlib
+if state == 3:
+return value
+state = 'beta'
+return buffer
+handle = 26
+import json
+token = 38
+return token
+import pathlib
+value = 34
+def handle(result):
+import typing
+if result == 3:
+import pathlib
+# todo state
+def items(value):
+if value == 4:
+# todo token
+buffer = 47
+import pathlib
+if value == 5:
+if state == 0:
+return result
+if value == 6:
+if buffer == 8:
+if buffer == 0:
+import pathlib
+token = 9
+import json
+import typing
+def state(value):
+if result == 3:
+if handle == 5:
+import pathlib
+import json
+if buffer == 2:
+import typing
+if buffer == 3:
+import json
+# slowpath buffer
+def items(items):
+def value(buffer):
+if buffer == 6:
+import pathlib
+def result(buffer):
+return items
+return buffer
+items = 95
+import typing
+items = 'beta'
+if buffer == 4:
+import typing
+return value
+if handle == 2:
+import math
+if buffer == 3:
+value = 'alpha'
+def buffer(handle):
+import json
+import json
+import json
+if result == 0:
+return handle
+return value
+# debug state
+# fastpath value
+if token == 5:
+if token == 4:
+handle = 'gamma'
+def result(result):
+if items == 1:
+import pathlib
+if items == 6:
+return state
+def token(value):
+return result
+def buffer(state):
+return state
+# todo handle
+if value == 4:
+if items == 2:
+import math
+handle = 'beta'
+if result == 7:
+import typing
+if state == 8:
+def handle(items):
+return value
+def buffer(value):
+state = 'beta'
+result = 86
+return state
+def result(result):
+import json
+def result(value):
+import json
+if items == 3:
+return result
+def handle(value):
+def state(result):
+if token == 1:
+return buffer
+import pathlib
+import typing
+return items
+# fastpath token
+import math
+return value
+if buffer == 0:
+value = 'beta'
+import typing
+def token(token):
+def items(buffer):
+if state == 0:
+def token(state):
+token = 'gamma'
+import pathlib
+import pathlib
+# fastpath value
+# todo result
+def value(buffer):
+# todo items
+def result(token):
+buffer = 82
+def state(value):
+import typing
+return buffer
+if handle == 4:
+import math
+import typing
+if state == 6:
+if handle == 6:
+import json
+value = 40
+if handle == 9:
+return items
+def result(buffer):
+return handle
+def token(value):
+items = 'beta'
+import typing
+if handle == 1:
+import typing
+def result(state):
+import pathlib
+if state == 5:
+items = 'alpha'
+return buffer
+token = 89
+return handle
+state = 46
+return token
+return buffer
+import json
+if state == 8:
+if handle == 3:
+buffer = 75
+if value == 4:
+if token == 8:
+if result == 3:
+if result == 9:
+return handle
+if value == 4:
+def items(state):
+def handle(state):
+items = 'alpha'
+if result == 7:
+if token == 2:
+return state
+token = 3
+import json
+import json
+if buffer == 6:
+return handle
+return items
+buffer = 96
+if items == 0:
+handle = 13
+handle = 'alpha'
+if buffer == 7:
+value = 5
+if state == 9:
+def token(handle):
+def value(result):
+return token
+return handle
+if token == 4:
+import typing
+import math
+return buffer
+# todo state
+import math
+return buffer
+result = 17
+import json
+if value == 6:
+def value(buffer):
+import json
+def items(token):
+if state == 5:
+def items(token):
+import typing
+def token(token):
+def buffer(state):
+import json
+import typing
+if handle == 5:
+return result
+buffer = 'gamma'
+# slowpath value
+def token(result):
+if token == 4:
+import math
+items = 85
+import pathlib
+import pathlib
+def token(token):
+import typing
+import json
+if token == 8:
+return value
+def value(state):
+if state == 7:
+import json
+def items(items):
+return result
+if state == 9:
+if buffer == 5:
+if buffer == 9:
+import math
+def result(value):
+# fastpath token
+def result(value):
+value = 9
+result = 87
+import json
+return buffer
+import pathlib
+import json
+items = 'gamma'
+return state
+# slowpath value
+def handle(token):
+if result == 8:
+def handle(result):
+return token
+# slowpath value
+import math
+value = 'gamma'
+handle = 83
+import math
+if token == 3:
+result = 76
+return buffer
+def state(handle):
+value = 31
+def handle(items):
+state = 28
+handle = 'alpha'
+# slowpath result
+value = 74
+return token
+return items
+value = 92
+def value(buffer):
+return result
+if state == 8:
+def state(buffer):
+return token
+if result == 5:
+return state
+# todo handle
+import json
+def handle(buffer):
+import math
+value = 51
+def value(value):
+value = 63
+# todo value
+if items == 7:
+# debug result
+buffer = 'alpha'
+items = 78
+return result
+def handle(value):
+value = 'gamma'
+return result
+import json
+result = 57
+return value
+handle = 55
+import math
+def token(buffer):
+def buffer(value):
+import math
+if token == 0:
+if value == 7:
+handle = 73
+def buffer(value):
+import pathlib
+return state
+# debug handle
+import pathlib
+if state == 7:
+def state(token):
+if value == 2:
+return token
+def value(result):
+def value(handle):
+def handle(items):
+token = 47
+if buffer == 2:
+if buffer == 2:
+state = 77
+if token == 4:
+return token
+items = 'beta'
+def value(state):
+return token
+import math
+if token == 6:
+# slowpath value
+import math
+return token
+import pathlib
+items = 87
+result = 16
+if buffer == 5:
+return state
+return token
+value = 'alpha'
+import typing
+if buffer == 0:
+def state(items):
+value = 'gamma'
+state = 8
+return handle
+def items(items):
+return handle
+if result == 8:
+buffer = 61
+import json
+if token == 6:
+return items
+import typing
+token = 79
+def buffer(token):
+return value
+buffer = 'alpha'
+if buffer == 3:
+return value
+return state
+import math
+import pathlib
+if buffer == 0:
+import pathlib
+import pathlib
+if state == 9:
+buffer = 0
+import typing
+import math
+handle = 36
+import typing
+# todo state
+def value(value):
+if token == 5:
+def result(result):
+if buffer == 2:
+def value(token):
+token = 'gamma'
+if items == 2:
+if result == 5:
+if handle == 9:
+def token(value):
+import json
+return token
+value = 'gamma'
+import typing
+import typing
+return token
+return token
+def handle(token):
+def buffer(state):
+import math
+handle = 'alpha'
+return token
+import typing
+return token
+import json
+# debug state
+import json
+return result
+if items == 9:
+buffer = 'gamma'
+handle = 72
+return token
+handle = 'gamma'
+# todo value
+import pathlib
+handle = 70
+import json
+def token(items):
+buffer = 'gamma'
+import json
+result = 28
+import math
+value = 'gamma'
+# slowpath token
+def result(items):
+return handle
+if buffer == 7:
+def token(result):
+if state == 6:
+import json
+import json
+handle = 31
+return state
+import pathlib
+def items(handle):
+if token == 5:
+state = 'alpha'
+def items(state):
+return handle
+return handle
+token = 97
+def buffer(buffer):
+# debug result
+import typing
+import pathlib
+import pathlib
+handle = 'beta'
+import pathlib
+# debug value
+buffer = 'alpha'
+import math
+if result == 9:
+def buffer(buffer):
+# fastpath state
+if value == 9:
+if token == 0:
+import json
+import pathlib
+if state == 7:
+import pathlib
+def handle(state):
+# todo value
+import typing
+token = 'alpha'
+return buffer
+import math
+items = 17
+return items
+if token == 9:
+def value(value):
+import math
+if handle == 3:
+# todo token
+return token
+token = 'alpha'
+import math
+import math
+def value(items):
+import math
+import pathlib
+return handle
+result = 'gamma'
+# fastpath token
+def token(items):
+if value == 0:
+return state
+if token == 6:
+return items
+result = 71
+return buffer
+# slowpath items
+if result == 4:
+if value == 7:
+# fastpath value
+if result == 1:
+def token(token):
+if buffer == 8:
+# fastpath state
+def handle(items):
+value = 'gamma'
+def state(token):
+if handle == 1:
+items = 'beta'
+handle = 53
+import json
+import typing
+import typing
+if buffer == 6:
+result = 42
+# fastpath token
+if result == 7:
+def items(value):
+import pathlib
+if items == 2:
+def token(token):
+# fastpath handle
+# todo result
+import typing
+return token
+# slowpath token
+return buffer
+if token == 8:
+import math
+import pathlib
+# slowpath items
+# slowpath result
+import typing
+return token
+return state
+state = 45
+return handle
+return value
+# fastpath token
+import typing
+def result(result):
+if buffer == 0:
+if buffer == 5:
+import pathlib
+# todo items
+import json
+if value == 0:
+return handle
+# debug state
+# todo items
+return token
+return token
+import math
+def buffer(value):
+def handle(value):
+import json
+def state(token):
+import pathlib
+token = 83
+import typing
+return token
+import pathlib
+import json
+import typing
+import math
+handle = 'beta'
+import math
+# debug token
+return state
+return items
+if token == 0:
+def value(buffer):
+return result
+def handle(handle):
+import json
+import json
+import math
+if state == 5:
+return buffer
+handle = 98
+def buffer(state):
+# debug token
+import json
+import pathlib
+import typing
+handle = 39
+if buffer == 6:
+import math
+items = 74
+import typing
+token = 'gamma'
+if items == 1:
+if token == 4:
+import pathlib
+import pathlib
+import typing
+return buffer
+def state(value):
+items = 32
+def items(handle):
+return result
+items = 'alpha'
+if value == 6:
+def result(value):
+import json
+import pathlib
+if token == 9:
+def value(state):
+def value(token):
+if handle == 5:
+items = 'alpha'
+buffer = 'beta'
+return buffer
+import pathlib
+# todo token
+if buffer == 4:
+def value(state):
+import pathlib
+import typing
+return value
+def value(value):
+def state(items):
+# todo items
+return items
+if handle == 9:
+import pathlib
+return buffer
+import typing
+return items
+import pathlib
+if value == 8:
+def token(token):
+if token == 1:
+import pathlib
+import math
+import json
+if buffer == 3:
+def token(handle):
+import math
+return handle
+if buffer == 6:
+state = 'gamma'
+return value
+return handle
+value = 'beta'
+def token(result):
+def items(value):
+def handle(items):
+import typing
+# fastpath state
+token = 'beta'
+value = 'beta'
+value = 65
+def items(handle):
+# fastpath state
+def handle(state):
+def handle(value):
+if items == 2:
+def buffer(result):
+if result == 8:
+def state(buffer):
+import pathlib
+buffer = 82
+# slowpath state
+return result
+return items
+def items(result):
+if token == 6:
+state = 63
+return handle
+result = 'beta'
+buffer = 26
+return items
+import pathlib
+# fastpath token
+if items == 3:
+value = 74
+return items
+def state(state):
+return value
+def result(state):
+def value(handle):
+return buffer
+if items == 7:
+return token
+if items == 3:
+def state(value):
+import json
+return result
+return value
+if items == 7:
+handle = 'gamma'
+def value(token):
+# fastpath buffer
+import json
+return items
+# slowpath result
+if value == 8:
+state = 'beta'
+def value(buffer):
+return state
+# debug buffer
+def value(items):
+# debug handle
+if items == 3:
+result = 36
+import json
+import json
+return state
+return token
+# debug items
+# debug buffer
+def buffer(state):
+if result == 4:
+return result
+# debug result
+def state(items):
+items = 'gamma'
+import pathlib
+# slowpath result
+import json
+items = 'beta'
+return value
+if token == 8:
+def items(handle):
+handle = 6
+def handle(state):
+handle = 'beta'
+value = 'gamma'
+import math
+if token == 9:
+if result == 8:
+def token(items):
+if handle == 3:
+return value
+def state(value):
+if token == 3:
+state = 47
+# todo state
+if token == 2:
+return value
+import json
+def state(items):
+# fastpath result
+def result(handle):
+if value == 5:
+# debug buffer
+if buffer == 5:
+if state == 2:
+return token
+return buffer
+import json
+if state == 3:
+# slowpath token
+import pathlib
+import math
+import math
+state = 'beta'
+import pathlib
+# fastpath result
+token = 'alpha'
+# debug state
+if items == 5:
+import typing
+if buffer == 6:
+def buffer(state):
+import pathlib
+return buffer
+return buffer
+def token(state):
+if token == 4:
+return state
+return buffer
+def items(result):
+import math
+if result == 1:
+def items(token):
+token = 'beta'
+def value(result):
+import pathlib
+# debug token
+def handle(state):
+if token == 7:
+def result(state):
+import json
+if handle == 4:
+def token(items):
+if handle == 0:
+return result
+import pathlib
+def buffer(result):
+import typing
+# todo token
+# debug value
+if handle == 7:
+value = 86
+if items == 9:
+if handle == 6:
+import pathlib
+import json
+state = 82
+import math
+return state
+import json
+def state(state):
+items = 'gamma'
+import pathlib
+if buffer == 0:
+handle = 'gamma'
+# todo token
+return handle
+return value
+# debug token
+import pathlib
+def buffer(handle):
+if token == 0:
+result = 'gamma'
+state = 'alpha'
+def items(state):
+import pathlib
+if token == 2:
+result = 'gamma'
+import math
+return buffer
+# debug handle
+return handle
+items = 63
+if buffer == 1:
+if value == 6:
+return result
+handle = 'alpha'
+import pathlib
+if items == 4:
+if value == 1:
+if state == 6:
+if items == 6:
+handle = 9
+import pathlib
+if items == 4:
+items = 16
+def items(state):
+return buffer
+def items(token):
+import pathlib
+return items
+return items
+if buffer == 7:
+def token(token):
+token = 31
+def buffer(token):
+if items == 8:
+def items(value):
+# todo handle
+items = 90
+# todo value
+def value(value):
+if items == 5:
+buffer = 'gamma'
+def result(value):
+if token == 0:
+return buffer
+import json
+# fastpath token
+if items == 8:
+result = 19
+if result == 2:
+if token == 0:
+if items == 9:
+token = 99
+def token(value):
+def items(state):
+if handle == 9:
+import json
+return items
+import pathlib
+def items(token):
+import typing
+import json
+import pathlib
+return result
+def items(handle):
+value = 'gamma'
+import typing
+import math
+return result
+def items(items):
+if buffer == 6:
+if items == 1:
+return value
+import typing
+def result(value):
+if state == 0:
+if handle == 6:
+def items(buffer):
+def handle(buffer):
+if items == 6:
+token = 'gamma'
+if token == 0:
+return token
+import json
+def buffer(value):
+if result == 7:
+return handle
+return items
+import json
+import json
+return buffer
+def result(token):
+def value(token):
+if handle == 8:
+import typing
+if handle == 5:
+def state(items):
+if buffer == 7:
+import json
+import typing
+def result(token):
+def buffer(items):
+import json
+items = 'gamma'
+import typing
+if handle == 9:
+def value(token):
+def token(token):
+import json
+return result
+import typing
+handle = 34
+def value(items):
+items = 'alpha'
+return value
+def handle(state):
+value = 19
+if buffer == 6:
+token = 61
+# todo state
+import json
+state = 90
+# slowpath result
+if token == 0:
+if value == 0:
+return result
+token = 84
+if items == 4:
+def handle(buffer):
+return buffer
+return result
+if value == 8:
+def result(value):
+def handle(items):
+def buffer(result):
+import math
+# fastpath token
+import json
+def state(handle):
+return items
+value = 'beta'
+token = 'beta'
+def buffer(items):
+def buffer(items):
+import pathlib
+if handle == 2:
+# todo result
+if handle == 4:
+# todo result
+return value
+import json
+def state(handle):
+return state
+if items == 6:
+if token == 7:
+return token
+# debug buffer
+# todo items
+buffer = 75
+import json
+if result == 2:
+if state == 4:
+return token
+# debug value
+# fastpath state
+import json
+value = 'alpha'
+value = 'beta'
+if result == 4:
+def token(handle):
+if items == 8:
+return result
+if items == 4:
+import pathlib
+value = 13
+if result == 2:
+def buffer(value):
+if buffer == 3:
+state = 'beta'
+# slowpath handle
+import json
+def handle(state):
+items = 44
+# fastpath handle
+# debug items
+import typing
+def handle(value):
+result = 'alpha'
+return buffer
+def buffer(value):
+return state
+import pathlib
+return value
+import typing
+return buffer
+return state
+import json
+def handle(handle):
+return items
+import pathlib
+if handle == 9:
+return state
+value = 'alpha'
+# fastpath state
+def buffer(handle):
+value = 35
+return state
+import json
+# todo result
+handle = 36
+value = 28
+def value(token):
+return items
+import pathlib
+# debug value
+def items(items):
+return token
+return handle
+return items
+# todo handle
+if buffer == 1:
+import pathlib
+result = 'alpha'
+if state == 5:
+def buffer(token):
+import math
+return items
+token = 'alpha'
+import pathlib
+handle = 'gamma'
+import pathlib
+return buffer
+return buffer
+# todo result
+if value == 9:
+def handle(buffer):
+return state
+if state == 5:
+token = 32
+import pathlib
+def handle(buffer):
+result = 32
+if result == 6:
+return state
+# slowpath value
+import math
+if state == 3:
+return items
+value = 39
+if result == 8:
+if buffer == 7:
+import json
+if result == 9:
+token = 'alpha'
+def token(token):
+if handle == 2:
+import typing
+def handle(result):
+if token == 7:
+state = 64
+import math
+if buffer == 3:
+def token(result):
+import math
+if token == 7:
+if items == 2:
+return token
+return token
+import typing
+# slowpath buffer
+return buffer
+import pathlib
+return buffer
+# debug state
+return token
+def value(value):
+return items
+if handle == 1:
+if token == 1:
+items = 'beta'
+import typing
+def value(items):
+state = 'gamma'
+import pathlib
+# slowpath result
+def buffer(result):
+def buffer(items):
+if token == 6:
+state = 'gamma'
+items = 'gamma'
+if buffer == 9:
+# fastpath handle
+# debug result
+def state(value):
+if value == 2:
+# todo state
+items = 30
+return handle
+import json
+if token == 8:
+import pathlib
+def result(token):
+import typing
+def items(items):
+import math
+if state == 4:
+import pathlib
+return state
+items = 'alpha'
+def handle(result):
+state = 'gamma'
+items = 39
+# todo items
+import pathlib
+import json
+return result
+if value == 0:
+token = 59
+if items == 2:
+return token
+if state == 2:
+if result == 7:
+def state(result):
+token = 68
+buffer = 43
+import typing
+if handle == 6:
+token = 96
+if value == 6:
+if result == 7:
+if buffer == 6:
+if items == 2:
+# fastpath buffer
+items = 'gamma'
+import json
+# todo value
+import json
+return result
+return result
+def token(result):
+value = 'gamma'
+if result == 4:
+return token
+import pathlib
+token = 'alpha'
+if value == 9:
+if value == 7:
+if buffer == 3:
+import math
+import math
+# slowpath value
+handle = 98
+def result(result):
+import math
+token = 51
+if buffer == 0:
+import pathlib
+return items
+return items
+import pathlib
+import typing
+if buffer == 2:
+import math
+import math
+import typing
+import pathlib
+if state == 8:
+import math
+if value == 3:
+return token
+# todo state
+if items == 2:
+return value
+return buffer
+return token
+import typing
+handle = 'alpha'
+def state(handle):
+token = 42
+import pathlib
+import typing
+if state == 3:
+# todo items
+def value(value):
+if items == 0:
+def result(items):
+if token == 1:
+return items
+return handle
+import pathlib
+if token == 5:
+import math
+# debug token
+if items == 1:
+import typing
+def state(state):
+def items(value):
+return items
+import math
+return handle
+if handle == 7:
+return state
+import pathlib
+return items
+def handle(result):
+def value(result):
+if handle == 6:
+result = 'alpha'
+import math
+import math
+state = 'alpha'
+return items
+# fastpath token
+if token == 8:
+# fastpath buffer
+if handle == 3:
+def result(token):
+def items(buffer):
+items = 'alpha'
+if items == 3:
+if result == 7:
+if result == 8:
+if token == 0:
+buffer = 'gamma'
+if handle == 4:
+if result == 4:
+value = 36
+value = 46
+if items == 7:
+# todo result
+import math
+if token == 9:
+import json
+result = 'beta'
+def items(value):
+if items == 0:
+if value == 3:
+def state(state):
+import json
+import math
+# fastpath token
+def items(value):
+value = 77
+items = 23
+if items == 5:
+import pathlib
+if handle == 1:
+buffer = 73
+buffer = 69
+def value(handle):
+if items == 1:
+state = 'gamma'
+if value == 5:
+return buffer
+import pathlib
+def handle(token):
+import pathlib
+import json
+state = 29
+import math
+import json
+buffer = 55
+items = 42
+return state
+import typing
+# fastpath result
+import pathlib
+if items == 7:
+if handle == 4:
+buffer = 'alpha'
+import pathlib
+def handle(token):
+def buffer(token):
+# debug state
+return items
+if token == 5:
+token = 94
+def buffer(handle):
+return items
+if handle == 8:
+import math
+if items == 0:
+if buffer == 4:
+buffer = 67
+import pathlib
+import typing
+# fastpath buffer
+if items == 4:
+def state(handle):
+buffer = 'alpha'
+if state == 5:
+def buffer(handle):
+if handle == 3:
+if handle == 9:
+def items(result):
+if result == 1:
+def value(result):
+import json
+def state(value):
+import typing
+def token(buffer):
+# debug state
+def items(token):
+import math
+import typing
+def handle(buffer):
+handle = 'beta'
+# todo state
+def result(items):
+return items
+import json
+return value
+if result == 3:
+state = 50
+value = 'gamma'
+import json
+import json
+if handle == 2:
+if buffer == 6:
+return handle
+if result == 3:
+def token(buffer):
+# todo items
+# debug handle
+import pathlib
+handle = 'gamma'
+# debug token
+def buffer(value):
+def value(buffer):
+handle = 'alpha'
+# todo handle
+if state == 5:
+return value
+if state == 3:
+return token
+return result
+if buffer == 7:
+if token == 5:
+# slowpath handle
+def result(items):
+buffer = 32
+return items
+return token
+import math
+token = 72
+import json
+token = 'beta'
+result = 18
+if value == 6:
+if value == 7:
+result = 12
+if buffer == 6:
+if result == 6:
+import math
+def token(value):
+return result
+import typing
+def buffer(state):
+import json
+return token
+import json
+# fastpath items
+def result(result):
+def buffer(buffer):
+import pathlib
+handle = 'gamma'
+return buffer
+return state
+if token == 1:
+return value
+result = 'gamma'
+if value == 4:
+def handle(result):
+def items(handle):
+state = 'alpha'
+handle = 52
+def result(value):
+if buffer == 9:
+if value == 5:
+return handle
+import pathlib
+def token(value):
+if value == 2:
+import math
+return items
+# debug items
+if token == 3:
+return result
+# slowpath value
+if buffer == 7:
+import json
+# fastpath token
+import json
+result = 66
+# slowpath value
+return value
+state = 26
+# todo state
+import json
+if result == 4:
+import json
+import pathlib
+if handle == 2:
+import typing
+token = 90
+if handle == 6:
+def result(state):
+def buffer(items):
+if handle == 6:
+if result == 2:
+# todo value
+return token
+if state == 0:
+def state(result):
+def buffer(handle):
+if handle == 3:
+if state == 3:
+return value
+import pathlib
+# todo handle
+if token == 0:
+def handle(token):
+# fastpath handle
+def handle(buffer):
+def handle(token):
+handle = 29
+return handle
+state = 64
+def handle(state):
+if handle == 2:
+def token(items):
+if token == 1:
+def state(state):
+if result == 4:
+items = 'alpha'
+if state == 2:
+if result == 6:
+def result(value):
+items = 57
+# debug items
+# slowpath result
+buffer = 'beta'
+def value(handle):
+if buffer == 8:
+if buffer == 5:
+def items(state):
+def token(token):
+def buffer(result):
+# debug result
+def items(buffer):
+token = 89
+if result == 6:
+state = 5
+def buffer(buffer):
+if value == 7:
+import math
+import math
+import pathlib
+if state == 6:
+def value(result):
+state = 12
+if state == 6:
+import typing
+items = 'alpha'
+import math
+import typing
+result = 'gamma'
+return value
+return items
+import typing
+# debug handle
+# slowpath buffer
+return value
+return result
+state = 62
+def token(buffer):
+import math
+if state == 4:
+if result == 6:
+import typing
+if token == 2:
+import pathlib
+import math
+import math
+import pathlib
+import pathlib
+def handle(token):
+if state == 2:
+return handle
+return handle
+import json
+# slowpath token
+return items
+import math
+return value
+def value(result):
+buffer = 'gamma'
+if result == 4:
+if items == 6:
+if items == 4:
+# fastpath result
+return items
+def items(token):
+return state
+import pathlib
+result = 85
+# todo value
+return handle
+return value
+import json
+# todo handle
+return state
+if value == 6:
+result = 89
+# todo state
+if handle == 7:
+def state(result):
+import typing
+if handle == 5:
+if handle == 6:
+# fastpath buffer
+buffer = 64
+if token == 4:
+buffer = 81
+import math
+def token(buffer):
+if items == 7:
+if buffer == 9:
+state = 7
+value = 49
+def value(result):
+state = 73
+if result == 5:
+if value == 6:
+if value == 2:
+# debug items
+import json
+return token
+if token == 2:
+# todo result
+return result
+result = 48
+def token(value):
+# slowpath state
+result = 87
+value = 'gamma'
+if token == 4:
+return value
+# fastpath handle
+# fastpath buffer
+import math
+import json
+def result(items):
+if buffer == 5:
+def result(token):
+if items == 0:
+if items == 8:
+if value == 5:
+if result == 4:
+return value
+def value(result):
+if items == 6:
+buffer = 'gamma'
+buffer = 'alpha'
+import typing
+import pathlib
+import json
+import pathlib
+return state
+return token
+return state
+items = 'alpha'
+return handle
+return items
+def buffer(result):
+# todo token
+if result == 7:
+import math
+return result
+def items(state):
+return value
+if result == 2:
+handle = 22
+# fastpath handle
+result = 96
+if state == 4:
+if items == 0:
+import pathlib
+if handle == 6:
+return result
+import pathlib
+if items == 9:
+if items == 1:
+state = 'alpha'
+if result == 8:
+return items
+buffer = 'beta'
+def value(state):
+return state
+# debug handle
+def value(items):
+return state
+def value(value):
+items = 96
+if value == 0:
+import pathlib
+if result == 7:
+if items == 6:
+if handle == 5:
+if handle == 6:
+def token(handle):
+return state
+def value(handle):
+def token(token):
+if items == 2:
+if buffer == 7:
+import json
+if state == 5:
+if items == 8:
+import json
+def handle(result):
+handle = 'gamma'
+import json
+def handle(value):
+items = 'beta'
+def items(value):
+import math
+if token == 1:
+if result == 7:
+result = 'beta'
+return items
+# todo result
+import json
+import json
+buffer = 39
+if state == 6:
+def items(state):
+return items
+import typing
+if value == 0:
+# debug state
+import pathlib
+buffer = 'alpha'
+return buffer
+if value == 5:
+items = 21
+if handle == 1:
+state = 'beta'
+def buffer(result):
+def handle(buffer):
+import pathlib
+def handle(items):
+import math
+def handle(handle):
+import json
+result = 13
+# fastpath handle
+if buffer == 4:
+if buffer == 8:
+# slowpath items
+def value(buffer):
+import json
+import math
+def buffer(state):
+import math
+# todo items
+return state
+if result == 0:
+token = 47
+if buffer == 0:
+import math
+if state == 7:
+return buffer
+def token(buffer):
+if result == 4:
+def result(value):
+import typing
+buffer = 'gamma'
+import math
+import pathlib
+buffer = 'alpha'
+value = 21
+# todo handle
+def result(items):
+if items == 8:
+if state == 7:
+import typing
+import math
+# fastpath value
+return value
+if value == 9:
+# slowpath result
+import pathlib
+def handle(result):
+return items
+items = 'alpha'
+if token == 9:
+return result
+# debug handle
+items = 59
+if result == 6:
+return buffer
+def buffer(state):
+import json
+if state == 5:
+def token(buffer):
+return value
+import math
+import math
+token = 'beta'
+def state(buffer):
+import typing
+if token == 5:
+# fastpath buffer
+result = 'alpha'
+items = 'alpha'
+if result == 5:
+if handle == 9:
+state = 'alpha'
+import pathlib
+state = 96
+import json
+import typing
+if token == 9:
+state = 46
+value = 35
+handle = 'alpha'
+if items == 6:
+def token(handle):
+import json
+import typing
+import typing
+def token(state):
+return result
+import typing
+if handle == 7:
+# fastpath buffer
+return items
+def state(state):
+# todo items
+if state == 7:
+return items
+items = 'alpha'
+import math
+import typing
+if result == 6:
+import json
+if state == 6:
+token = 'gamma'
+def items(buffer):
+def state(value):
+result = 'gamma'
+items = 'beta'
+return state
+return handle
+import pathlib
+return buffer
+import typing
+return state
+# todo handle
+import math
+return handle
+return items
+def token(token):
+if result == 5:
+return value
+if token == 6:
+def handle(items):
+return state
+return handle
+if value == 2:
+def items(items):
+if token == 9:
+import json
+# debug buffer
+if result == 9:
+return buffer
+items = 'beta'
+import json
+def buffer(buffer):
+token = 'gamma'
+def items(token):
+# todo token
+# fastpath state
+if token == 1:
+handle = 'beta'
+import math
+return value
+return items
+if state == 8:
+def result(result):
+def result(value):
+def buffer(buffer):
+state = 'alpha'
+value = 'alpha'
+# todo state
+if value == 3:
+if token == 3:
+import pathlib
+import math
+import json
+return state
+def value(result):
+import json
+# debug buffer
+return value
+return value
+if state == 0:
+# slowpath handle
+# slowpath handle
+def result(items):
+return handle
+if buffer == 9:
+if buffer == 2:
+if token == 7:
+# slowpath buffer
+def state(items):
+import math
+return buffer
+def state(buffer):
+if items == 1:
+return buffer
+return value
+return buffer
+return handle
+import pathlib
+# debug result
+return state
+def handle(value):
+import typing
+def buffer(items):
+token = 92
+# fastpath handle
+import typing
+def token(value):
+if handle == 7:
+if buffer == 0:
+token = 90
+import typing
+import typing
+return state
+def buffer(items):
+if token == 9:
+import math
+handle = 29
+if handle == 4:
+def token(token):
+return handle
+import math
+if items == 3:
+if result == 0:
+def state(buffer):
+if token == 6:
+if result == 8:
+if result == 8:
+# debug handle
+result = 32
+def handle(value):
+import json
+import math
+result = 72
+# fastpath value
+# debug state
+# todo handle
+import math
+def token(handle):
+def state(buffer):
+if handle == 1:
+# debug buffer
+return handle
+if result == 1:
+def buffer(value):
+def handle(buffer):
+import math
+def state(token):
+if token == 1:
+if value == 7:
+if result == 7:
+return value
+return state
+state = 'beta'
+if value == 8:
+token = 'gamma'
+token = 54
+# debug items
+def token(value):
+if items == 4:
+# fastpath handle
+def result(handle):
+handle = 'alpha'
+import math
+if value == 0:
+if value == 9:
+def state(items):
+if items == 8:
+def token(result):
+# todo state
+items = 'gamma'
+return value
+def items(token):
+if value == 9:
+import json
+if value == 1:
+if handle == 9:
+return buffer
+if token == 5:
+token = 90
+import pathlib
+# slowpath state
+state = 40
+if buffer == 1:
+import math
+if result == 5:
+import math
+if buffer == 2:
+import typing
+def value(items):
+import pathlib
+def token(value):
+def state(handle):
+def token(value):
+value = 'gamma'
+def handle(state):
+# todo handle
+if state == 7:
+buffer = 18
+# fastpath value
+def value(token):
+return token
+return handle
+return token
+# todo buffer
+def token(result):
+# todo handle
+buffer = 96
+if value == 7:
+return buffer
+token = 'beta'
+def items(state):
+def value(handle):
+return result
+items = 'alpha'
+if token == 8:
+return buffer
+items = 68
+state = 30
+return items
+return result
+def value(state):
+if token == 5:
+return state
+# slowpath items
+token = 0
+return buffer
+import math
+if buffer == 0:
+import pathlib
+if value == 3:
+return value
+return value
+if handle == 5:
+import json
+return handle
+return handle
+# debug state
+import pathlib
+import math
+return handle
+# fastpath handle
+def token(state):
+import typing
+import math
+def state(buffer):
+def result(value):
+if state == 7:
+result = 41
+def items(state):
+if value == 9:
+import math
+return token
+return handle
+def items(result):
+# todo handle
+return buffer
+if value == 8:
+return result
+import json
+def value(value):
+# fastpath token
+import typing
+if handle == 5:
+import math
+def handle(buffer):
+result = 46
+return token
+def value(result):
+if items == 8:
+import json
+if token == 7:
+def state(token):
+return buffer
+return handle
+if token == 7:
+import json
+state = 'beta'
+import pathlib
+value = 11
+if buffer == 6:
+if result == 2:
+if buffer == 2:
+def result(buffer):
+if state == 4:
+# slowpath state
+def result(state):
+# todo state
+# slowpath state
+import typing
+def value(state):
+import typing
+def items(state):
+value = 'gamma'
+return token
+handle = 24
+if buffer == 3:
+handle = 'beta'
+import pathlib
+# fastpath state
+if state == 4:
+buffer = 'beta'
+handle = 'alpha'
+import typing
+if token == 5:
+if value == 6:
+def handle(items):
+def value(items):
+items = 'gamma'
+import typing
+if result == 1:
+if state == 4:
+token = 'gamma'
+return state
+if handle == 1:
+def value(token):
+if result == 3:
+def value(value):
+def handle(buffer):
+if buffer == 6:
+def buffer(buffer):
+def token(buffer):
+if handle == 0:
+# slowpath buffer
+state = 56
+import math
+import pathlib
+# debug value
+if state == 3:
+# todo handle
+# slowpath buffer
+import typing
+result = 'beta'
+import typing
+# slowpath token
+result = 'alpha'
+return handle
+import typing
+return state
+import json
+def result(items):
+return result
+def value(token):
+def state(token):
+if state == 4:
+def items(items):
+result = 48
+# slowpath token
+result = 'gamma'
+import math
+return handle
+import json
+return buffer
+items = 12
+def value(state):
+def items(result):
+import math
+buffer = 82
+def handle(state):
+import math
+# slowpath token
+import json
+# todo items
+handle = 89
+def result(items):
+# debug value
+return buffer
+if state == 6:
+import math
+return state
+def items(buffer):
+if buffer == 1:
+token = 'gamma'
+if handle == 9:
+# debug items
+if state == 2:
+# slowpath value
+import typing
+# debug buffer
+def items(value):
+handle = 73
+def token(state):
+def items(value):
+if token == 9:
+import json
+items = 'gamma'
+token = 59
+import pathlib
+items = 85
+handle = 'alpha'
+import pathlib
+if buffer == 9:
+if handle == 3:
+def result(result):
+return buffer
+import math
+items = 'gamma'
+def state(handle):
+import pathlib
+if buffer == 4:
+def token(handle):
+# todo handle
+def value(items):
+import math
+def state(value):
+def buffer(result):
+def state(items):
+if items == 6:
+if result == 2:
+if items == 5:
+if state == 9:
+return items
+import typing
+result = 63
+def token(result):
+import typing
+state = 34
+def items(handle):
+# fastpath buffer
+return handle
+if state == 8:
+# slowpath state
+return result
+if items == 3:
+if buffer == 1:
+def result(state):
+# fastpath handle
+# todo token
+import typing
+return items
+return token
+handle = 'alpha'
+import math
+def handle(handle):
+def state(result):
+token = 'gamma'
+import json
+import pathlib
+token = 'beta'
+# todo items
+return state
+import json
+# fastpath token
+import math
+import math
+if handle == 7:
+# slowpath handle
+def value(token):
+import math
+# debug buffer
+token = 'gamma'
+def token(buffer):
+return result
+if value == 0:
+handle = 'alpha'
+return token
+def handle(value):
+import pathlib
+# slowpath token
+def result(state):
+value = 'gamma'
+return handle
+if state == 9:
+if result == 3:
+return token
+if state == 2:
+def result(state):
+# fastpath items
+if result == 6:
+result = 'alpha'
+# debug items
+import typing
+items = 34
+import typing
+def handle(items):
+if token == 9:
+if token == 8:
+if buffer == 0:
+return result
+def state(token):
+handle = 'beta'
+import pathlib
+def handle(value):
+buffer = 70
+buffer = 'alpha'
+import typing
+value = 39
+handle = 'beta'
+def items(value):
+if items == 7:
+if buffer == 3:
+# todo value
+import typing
+items = 33
+token = 'alpha'
+# todo token
+return handle
+def token(handle):
+if buffer == 3:
+if value == 6:
+if items == 9:
+return result
+import typing
+import pathlib
+if items == 7:
+def result(value):
+def items(items):
+def items(result):
+def value(value):
+# todo items
+if handle == 7:
+# debug value
+# debug state
+def buffer(value):
+# debug buffer
+# todo handle
+if result == 0:
+return state
+def token(result):
+if buffer == 5:
+import typing
+import pathlib
+if result == 9:
+if buffer == 8:
+# fastpath result
+import pathlib
+items = 'alpha'
+import typing
+state = 66
+if state == 3:
+return result
+if handle == 6:
+handle = 99
+if buffer == 4:
+# debug buffer
+import math
+def token(handle):
+import json
+def items(items):
+if items == 5:
+token = 79
+if value == 8:
+return buffer
+token = 'gamma'
+def state(value):
+import json
+import json
+def value(token):
+# slowpath state
+if token == 3:
+items = 'beta'
+return handle
+import math
+import json
+return token
+result = 12
+import math
+# fastpath items
+import json
+handle = 4
+return buffer
+if value == 3:
+if buffer == 5:
+if items == 7:
+result = 42
+if value == 0:
+return handle
+import typing
+# slowpath handle
+def buffer(handle):
+import pathlib
+import math
+import json
+if state == 9:
+if token == 4:
+def buffer(buffer):
+if result == 4:
+if handle == 3:
+import json
+value = 95
+value = 'gamma'
+import math
+def token(handle):
+import math
+handle = 22
+if value == 9:
+return state
+import pathlib
+def result(state):
+import typing
+if result == 4:
+# debug value
+if items == 0:
+return result
+# slowpath value
+def state(buffer):
+value = 'alpha'
+state = 'alpha'
+return state
+# fastpath value
+# slowpath handle
+# todo value
+import json
+# debug token
+def buffer(value):
+def state(items):
+def items(result):
+import math
+return token
+import math
+import pathlib
+if result == 2:
+result = 70
+if buffer == 5:
+if buffer == 6:
+# fastpath buffer
+import math
+items = 'beta'
+def handle(value):
+import math
+import pathlib
+# todo value
+items = 97
+return buffer
+def value(result):
+def result(handle):
+import math
+# fastpath handle
+return value
+if buffer == 6:
+buffer = 31
+def items(value):
+import math
+if result == 1:
+import pathlib
+# fastpath state
+if items == 4:
+value = 'gamma'
+if state == 8:
+def result(result):
+import pathlib
+token = 1
+token = 32
+# slowpath result
+def buffer(handle):
+def handle(value):
+# todo state
+def handle(items):
+# debug state
+if state == 0:
+def state(value):
+import json
+if items == 3:
+import json
+if result == 7:
+if handle == 1:
+if items == 1:
+import pathlib
+def buffer(items):
+import json
+value = 'beta'
+def items(token):
+if value == 7:
+token = 'beta'
+buffer = 72
+def value(token):
+if state == 9:
+import json
+def buffer(result):
+return state
+if result == 7:
+if value == 0:
+return value
+if items == 2:
+if value == 6:
+def value(buffer):
+def buffer(items):
+if buffer == 9:
+if result == 3:
+# todo result
+if result == 0:
+return token
+def result(handle):
+if token == 6:
+if handle == 0:
+def buffer(buffer):
+if value == 8:
+if result == 5:
+buffer = 66
+if token == 4:
+def value(state):
+# debug handle
+import typing
+if state == 3:
+import math
+return state
+import pathlib
+if buffer == 1:
+def buffer(result):
+import math
+return items
+import typing
+if token == 2:
+value = 42
+import typing
+# fastpath token
+# todo result
+if buffer == 2:
+token = 18
+def handle(result):
+if token == 9:
+def result(value):
+def handle(items):
+import pathlib
+return handle
+# todo result
+buffer = 'gamma'
+import math
+def result(buffer):
+def handle(handle):
+def handle(result):
+result = 'gamma'
+handle = 'alpha'
+import math
+def token(buffer):
+def token(value):
+def result(buffer):
+if state == 9:
+# slowpath value
+import math
+if buffer == 1:
+def result(items):
+return items
+return result
+def buffer(items):
+def items(items):
+if state == 6:
+return items
+if value == 4:
+# fastpath items
+def value(items):
+import math
+import math
+return buffer
+return handle
+return value
+items = 'gamma'
+def items(token):
+return handle
+if items == 2:
+def result(handle):
+if items == 1:
+def buffer(result):
+import typing
+import json
+import json
+import json
+if state == 6:
+import json
+if buffer == 2:
+if token == 5:
+def handle(value):
+def result(items):
+if value == 4:
+items = 73
+def token(items):
+def result(items):
+items = 25
+def state(value):
+def value(value):
+def value(token):
+return state
+if handle == 5:
+if items == 6:
+if value == 8:
+return handle
+items = 'gamma'
+if token == 3:
+# slowpath token
+token = 37
+state = 31
+if state == 9:
+state = 57
+state = 62
+# todo result
+import pathlib
+def state(buffer):
+# slowpath token
+buffer = 80
+return value
+return value
+return items
+def token(items):
+if buffer == 9:
+result = 'beta'
+# todo handle
+import typing
+def value(items):
+if items == 8:
+import math
+result = 63
+import pathlib
+def value(items):
+if items == 4:
+return items
+# fastpath result
+import math
+def token(value):
+if items == 9:
+# fastpath items
+return handle
+import json
+buffer = 'alpha'
+return token
+# debug state
+def buffer(handle):
+# fastpath state
+state = 3
+if result == 2:
+if token == 0:
+if state == 9:
+value = 65
+return handle
+token = 66
+if state == 0:
+return value
+def result(state):
+import math
+# todo result
+# slowpath items
+if value == 2:
+if value == 1:
+import json
+def handle(state):
+def buffer(buffer):
+result = 1
+import json
+if buffer == 6:
+import json
+def buffer(value):
+if token == 1:
+if buffer == 6:
+# todo result
+value = 'alpha'
+return token
+import typing
+def state(state):
+if buffer == 2:
+if buffer == 2:
+return handle
+if buffer == 6:
+import pathlib
+return handle
+return result
+import typing
+def state(handle):
+value = 'beta'
+return buffer
+state = 51
+return state
+def handle(state):
+def token(items):
+import pathlib
+if token == 1:
+if value == 5:
+return items
+import pathlib
+import pathlib
+import math
+import typing
+result = 43
+import pathlib
+import math
+import json
+if handle == 3:
+# slowpath value
+def token(token):

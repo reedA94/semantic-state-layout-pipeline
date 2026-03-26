@@ -1,0 +1,12 @@
+$ clang -O2 -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM3/coarse/lookup/clang_O2/same_A__rb_on/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM3/coarse/lookup/clang_O2/same_A__rb_on/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM3/coarse/lookup/clang_O2/same_A__rb_on/generated_scanner.c:27:20: warning: unused variable 'CLASS_NAMES' [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[11] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM3/coarse/lookup/clang_O2/same_A__rb_on/generated_scanner.c:41:20: warning: unused variable 'TOKEN_NAMES' [-Wunused-variable]
+   41 | static const char *TOKEN_NAMES[13] = {
+      |                    ^~~~~~~~~~~
+2 warnings generated.

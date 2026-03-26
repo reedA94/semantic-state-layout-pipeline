@@ -1,0 +1,40 @@
+{
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::OPERATIONAL::rb0": 21774,
+    "ACC::OPERATIONAL::rb1": 51087,
+    "DEAD": 33293,
+    "NONACC::KEYWORD_PREFIX": 8212,
+    "NONACC::STRING_BODY": 3967
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 118333,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "operational_rb_on"
+}

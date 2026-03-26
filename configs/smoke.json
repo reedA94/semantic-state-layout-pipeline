@@ -1,0 +1,18 @@
+{
+  "name": "smoke",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1"],
+  "granularities": ["fine"],
+  "methods": ["B1", "B4", "B5_DAG"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"},
+    {"name": "A_to_B", "profile_source": "A", "eval_group": "B"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O2"},
+    {"cc": "gcc", "opt": "-O3"}
+  ],
+  "perf": {"enabled": true}
+}

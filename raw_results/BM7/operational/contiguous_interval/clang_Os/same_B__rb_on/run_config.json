@@ -1,0 +1,38 @@
+{
+  "benchmark_family": "INI-like lexer",
+  "benchmark_id": "BM7",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 7,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 10,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::OPERATIONAL::rb0": 21768,
+    "ACC::OPERATIONAL::rb1": 43232,
+    "DEAD": 15056
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 80056,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "operational_rb_on"
+}

@@ -1,0 +1,11 @@
+benchmark_id,benchmark_family,num_states,notes,profile_sources,eval_groups,rollback_metadata_available,num_accepting_states_total,num_accepting_states_rb,num_accepting_states_nonrb,num_token_families_with_rb_split,meta_synthetic,meta_seed,meta_token_count,meta_prefix_depth,meta_class_count,meta_profile_skew,meta_acceptance_prefix_probability,meta_hierarchy_quality,meta_realized_accepting_prefixes
+BM1,Small C-like lexer,17,"Identifiers, integers, simple operators, delimiters, whitespace, dead state",A;B;uniform,A;B,True,15,3,12,1,,,,,,,,,
+BM2,Richer C-like lexer,56,"Keywords, identifiers, ints/floats, operators, strings, line comments, whitespace",A;B;uniform,A;B,True,38,17,21,1,,,,,,,,,
+BM3,JSON-like lexer,30,"Structured non-C tokenizer with strings, numbers, booleans, null, punctuation, whitespace",A;B;uniform,A;B,True,14,6,8,0,,,,,,,,,
+BM4,HTML-like lexer,13,"HTML/XML-like tokenizer with tags, attributes, strings, text, whitespace",A;B;uniform,A;B,True,9,1,8,0,,,,,,,,,
+BM5,SQL-like lexer,66,"SQL-like tokenizer with keywords, identifiers, numbers, strings, operators, punctuation",A;B;uniform,A;B,True,30,15,15,1,,,,,,,,,
+BM6,Python-like lexer,56,"Python-like tokenizer with keywords, identifiers, strings, comments, operators, delimiters",A;B;uniform,A;B,True,28,12,16,1,,,,,,,,,
+BM7,INI-like lexer,14,"Configuration/protocol-style tokenizer with sections, keys, values, comments, whitespace",A;B;uniform,A;B,True,10,3,7,0,,,,,,,,,
+BM_SYN_S,Synthetic token-trie (high),263,Synthetic reproducible token-trie benchmark for scaling sweeps,A;B;uniform,A;B,True,64,31,33,3,True,801,40,3,8,0.8,0.1,high,64
+BM_SYN_M,Synthetic token-trie (medium),621,Synthetic reproducible token-trie benchmark for scaling sweeps,A;B;uniform,A;B,True,171,81,90,0,True,802,90,4,16,1.0,0.14,medium,171
+BM_SYN_L,Synthetic token-trie (low),1368,Synthetic reproducible token-trie benchmark for scaling sweeps,A;B;uniform,A;B,True,370,193,177,0,True,803,180,5,28,1.25,0.18,low,370

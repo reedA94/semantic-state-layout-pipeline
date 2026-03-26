@@ -1,0 +1,37 @@
+{
+  "benchmark_family": "Small C-like lexer",
+  "benchmark_id": "BM1",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 12,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 15,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O3",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACCEPTING": 70004,
+    "NONACC_OR_DEAD": 32320
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 102324,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "binary"
+}

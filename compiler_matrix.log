@@ -1,0 +1,134 @@
+2026-03-26 17:22:44,479 | INFO | perf availability: False (WARNING: perf not found for kernel 6.6.87.2-microsoft
+
+  You may need to install the following packages for this specific kernel:
+    linux-tools-6.6.87.2-microsoft-standard-WSL2
+    linux-cloud-tools-6.6.87.2-microsoft-standard-WSL2
+
+  You may also want to install one of the following packages to keep up to date:
+    linux-tools-standard-WSL2
+    linux-cloud-tools-standard-WSL2)
+2026-03-26 17:22:44,479 | INFO | Preparing benchmark BM1
+2026-03-26 17:22:44,506 | INFO | Running BM1 | fine | B1 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:44,687 | INFO | Running BM1 | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:44,872 | INFO | Running BM1 | fine | B1 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:47,747 | INFO | Running BM1 | fine | B1 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:47,981 | INFO | Running BM1 | fine | B1 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:48,219 | INFO | Running BM1 | fine | B1 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:48,468 | INFO | Running BM1 | fine | B3 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:48,655 | INFO | Running BM1 | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:48,850 | INFO | Running BM1 | fine | B3 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:49,021 | INFO | Running BM1 | fine | B3 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:49,319 | INFO | Running BM1 | fine | B3 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:49,618 | INFO | Running BM1 | fine | B3 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:49,906 | INFO | Running BM1 | fine | B4 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:50,493 | INFO | Running BM1 | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:50,755 | INFO | Running BM1 | fine | B4 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:50,933 | INFO | Running BM1 | fine | B4 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:51,193 | INFO | Running BM1 | fine | B4 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:51,449 | INFO | Running BM1 | fine | B4 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:51,707 | INFO | Running BM1 | fine | B5_TREE | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:51,951 | INFO | Running BM1 | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:52,194 | INFO | Running BM1 | fine | B5_TREE | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:52,431 | INFO | Running BM1 | fine | B5_TREE | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:52,693 | INFO | Running BM1 | fine | B5_TREE | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:52,962 | INFO | Running BM1 | fine | B5_TREE | clang_Os | same_A | rb=auto
+2026-03-26 17:22:53,237 | INFO | Running BM1 | fine | B5_DAG | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:53,518 | INFO | Running BM1 | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:53,798 | INFO | Running BM1 | fine | B5_DAG | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:54,167 | INFO | Running BM1 | fine | B5_DAG | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:54,449 | INFO | Running BM1 | fine | B5_DAG | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:54,988 | INFO | Running BM1 | fine | B5_DAG | clang_Os | same_A | rb=auto
+2026-03-26 17:22:55,483 | INFO | Preparing benchmark BM4
+2026-03-26 17:22:55,503 | INFO | Running BM4 | fine | B1 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:55,706 | INFO | Running BM4 | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:55,927 | INFO | Running BM4 | fine | B1 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:56,133 | INFO | Running BM4 | fine | B1 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:56,383 | INFO | Running BM4 | fine | B1 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:56,635 | INFO | Running BM4 | fine | B1 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:56,891 | INFO | Running BM4 | fine | B3 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:57,099 | INFO | Running BM4 | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:57,314 | INFO | Running BM4 | fine | B3 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:57,520 | INFO | Running BM4 | fine | B3 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:57,778 | INFO | Running BM4 | fine | B3 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:58,041 | INFO | Running BM4 | fine | B3 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:58,298 | INFO | Running BM4 | fine | B4 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:58,510 | INFO | Running BM4 | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:22:58,724 | INFO | Running BM4 | fine | B4 | gcc_Os | same_A | rb=auto
+2026-03-26 17:22:58,926 | INFO | Running BM4 | fine | B4 | clang_O2 | same_A | rb=auto
+2026-03-26 17:22:59,180 | INFO | Running BM4 | fine | B4 | clang_O3 | same_A | rb=auto
+2026-03-26 17:22:59,438 | INFO | Running BM4 | fine | B4 | clang_Os | same_A | rb=auto
+2026-03-26 17:22:59,690 | INFO | Running BM4 | fine | B5_TREE | gcc_O2 | same_A | rb=auto
+2026-03-26 17:22:59,957 | INFO | Running BM4 | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:00,201 | INFO | Running BM4 | fine | B5_TREE | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:00,454 | INFO | Running BM4 | fine | B5_TREE | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:00,710 | INFO | Running BM4 | fine | B5_TREE | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:00,968 | INFO | Running BM4 | fine | B5_TREE | clang_Os | same_A | rb=auto
+2026-03-26 17:23:01,237 | INFO | Running BM4 | fine | B5_DAG | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:01,486 | INFO | Running BM4 | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:01,727 | INFO | Running BM4 | fine | B5_DAG | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:02,125 | INFO | Running BM4 | fine | B5_DAG | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:02,385 | INFO | Running BM4 | fine | B5_DAG | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:02,637 | INFO | Running BM4 | fine | B5_DAG | clang_Os | same_A | rb=auto
+2026-03-26 17:23:02,896 | INFO | Preparing benchmark BM5
+2026-03-26 17:23:02,924 | INFO | Running BM5 | fine | B1 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:03,106 | INFO | Running BM5 | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:03,295 | INFO | Running BM5 | fine | B1 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:03,466 | INFO | Running BM5 | fine | B1 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:03,699 | INFO | Running BM5 | fine | B1 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:04,172 | INFO | Running BM5 | fine | B1 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:04,572 | INFO | Running BM5 | fine | B3 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:04,845 | INFO | Running BM5 | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:05,111 | INFO | Running BM5 | fine | B3 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:05,372 | INFO | Running BM5 | fine | B3 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:05,658 | INFO | Running BM5 | fine | B3 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:05,947 | INFO | Running BM5 | fine | B3 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:06,234 | INFO | Running BM5 | fine | B4 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:06,472 | INFO | Running BM5 | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:06,713 | INFO | Running BM5 | fine | B4 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:06,931 | INFO | Running BM5 | fine | B4 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:07,175 | INFO | Running BM5 | fine | B4 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:07,419 | INFO | Running BM5 | fine | B4 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:07,703 | INFO | Running BM5 | fine | B5_TREE | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:07,936 | INFO | Running BM5 | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:08,566 | INFO | Running BM5 | fine | B5_TREE | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:09,129 | INFO | Running BM5 | fine | B5_TREE | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:09,380 | INFO | Running BM5 | fine | B5_TREE | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:09,635 | INFO | Running BM5 | fine | B5_TREE | clang_Os | same_A | rb=auto
+2026-03-26 17:23:09,886 | INFO | Running BM5 | fine | B5_DAG | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:10,206 | INFO | Running BM5 | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:10,488 | INFO | Running BM5 | fine | B5_DAG | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:10,807 | INFO | Running BM5 | fine | B5_DAG | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:11,082 | INFO | Running BM5 | fine | B5_DAG | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:11,359 | INFO | Running BM5 | fine | B5_DAG | clang_Os | same_A | rb=auto
+2026-03-26 17:23:11,644 | INFO | Preparing benchmark BM_SYN_M
+2026-03-26 17:23:11,689 | INFO | Running BM_SYN_M | fine | B1 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:11,962 | INFO | Running BM_SYN_M | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:12,235 | INFO | Running BM_SYN_M | fine | B1 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:12,496 | INFO | Running BM_SYN_M | fine | B1 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:13,048 | INFO | Running BM_SYN_M | fine | B1 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:13,634 | INFO | Running BM_SYN_M | fine | B1 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:13,989 | INFO | Running BM_SYN_M | fine | B3 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:14,385 | INFO | Running BM_SYN_M | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:14,768 | INFO | Running BM_SYN_M | fine | B3 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:15,141 | INFO | Running BM_SYN_M | fine | B3 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:15,560 | INFO | Running BM_SYN_M | fine | B3 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:15,982 | INFO | Running BM_SYN_M | fine | B3 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:16,394 | INFO | Running BM_SYN_M | fine | B4 | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:16,744 | INFO | Running BM_SYN_M | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:17,101 | INFO | Running BM_SYN_M | fine | B4 | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:17,820 | INFO | Running BM_SYN_M | fine | B4 | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:18,353 | INFO | Running BM_SYN_M | fine | B4 | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:18,741 | INFO | Running BM_SYN_M | fine | B4 | clang_Os | same_A | rb=auto
+2026-03-26 17:23:19,133 | INFO | Running BM_SYN_M | fine | B5_TREE | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:19,510 | INFO | Running BM_SYN_M | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:19,851 | INFO | Running BM_SYN_M | fine | B5_TREE | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:23,124 | INFO | Running BM_SYN_M | fine | B5_TREE | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:23,510 | INFO | Running BM_SYN_M | fine | B5_TREE | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:23,891 | INFO | Running BM_SYN_M | fine | B5_TREE | clang_Os | same_A | rb=auto
+2026-03-26 17:23:24,294 | INFO | Running BM_SYN_M | fine | B5_DAG | gcc_O2 | same_A | rb=auto
+2026-03-26 17:23:24,704 | INFO | Running BM_SYN_M | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:23:25,614 | INFO | Running BM_SYN_M | fine | B5_DAG | gcc_Os | same_A | rb=auto
+2026-03-26 17:23:26,098 | INFO | Running BM_SYN_M | fine | B5_DAG | clang_O2 | same_A | rb=auto
+2026-03-26 17:23:26,524 | INFO | Running BM_SYN_M | fine | B5_DAG | clang_O3 | same_A | rb=auto
+2026-03-26 17:23:26,954 | INFO | Running BM_SYN_M | fine | B5_DAG | clang_Os | same_A | rb=auto
+2026-03-26 17:23:28,083 | INFO | Done. Results written to /home/reda/work/semantic_state_layout_pipeline_modified

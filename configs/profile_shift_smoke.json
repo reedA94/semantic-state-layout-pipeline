@@ -1,0 +1,20 @@
+{
+  "name": "profile_shift_smoke",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1"],
+  "granularities": ["fine"],
+  "methods": ["B4"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"},
+    {"name": "same_B", "profile_source": "B", "eval_group": "B"},
+    {"name": "A_to_B", "profile_source": "A", "eval_group": "B"},
+    {"name": "B_to_A", "profile_source": "B", "eval_group": "A"},
+    {"name": "uniform", "profile_source": "uniform", "eval_group": "A"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O3"}
+  ],
+  "perf": {"enabled": false}
+}

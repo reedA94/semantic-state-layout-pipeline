@@ -1,0 +1,43 @@
+{
+  "benchmark_family": "Synthetic token-trie (low)",
+  "benchmark_id": "BM_SYN_L",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 177,
+  "num_accepting_states_rb": 193,
+  "num_accepting_states_total": 370,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::OPERATIONAL::rb0": 4705,
+    "ACC::OPERATIONAL::rb1": 7532,
+    "DEAD": 9073,
+    "NONACC::PREFIX_0": 8022,
+    "NONACC::PREFIX_1": 14291,
+    "NONACC::PREFIX_2": 14578,
+    "NONACC::PREFIX_3": 10336,
+    "NONACC::PREFIX_4": 9030
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 77567,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 803,
+  "semantic_label_mode": "operational_rb_on"
+}

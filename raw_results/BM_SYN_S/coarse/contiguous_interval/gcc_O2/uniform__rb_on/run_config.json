@@ -1,0 +1,47 @@
+{
+  "benchmark_family": "Synthetic token-trie (high)",
+  "benchmark_id": "BM_SYN_S",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 33,
+  "num_accepting_states_rb": 31,
+  "num_accepting_states_total": 64,
+  "num_token_families_with_rb_split": 3,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::SFAM_0::rb0": 4172,
+    "ACC::SFAM_0::rb1": 6638,
+    "ACC::SFAM_1::rb0": 7780,
+    "ACC::SFAM_1::rb1": 6469,
+    "ACC::SFAM_2::rb0": 3769,
+    "ACC::SFAM_2::rb1": 2610,
+    "DEAD": 23635,
+    "NONACC::PREFIX_0": 14865,
+    "NONACC::PREFIX_1": 31383,
+    "NONACC::PREFIX_2": 23860,
+    "NONACC::PREFIX_3": 20102,
+    "NONACC::PREFIX_4": 14998
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 160281,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 801,
+  "semantic_label_mode": "coarse"
+}

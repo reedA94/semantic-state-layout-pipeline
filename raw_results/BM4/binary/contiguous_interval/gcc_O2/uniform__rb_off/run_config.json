@@ -1,0 +1,37 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACCEPTING": 143693,
+    "NONACC_OR_DEAD": 26832
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 170525,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "binary"
+}

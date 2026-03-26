@@ -1,0 +1,3991 @@
+int main(){
+handle = "delta";
+while (handle) { token = handle + 1; }
+cursor = 0-token;
+token = "a b c";
+for token ;
+slot = 2.0==entry;
+if (result) { handle = 100*2.0; }
+result = 2.0;
+entry = slot/result;
+int handle = 2;
+handle = "alpha";
+int slot = 42;
+handle = 3.14;
+//value value value todo
+return slot;
+for entry ;
+while (slot<2) { slot = state + 1; }
+int result = 1.25;
+while (0>entry) { slot = cursor + 1; }
+if (cursor/state) { slot = 100==2; }
+int slot = 42;
+//value fastpath todo value
+return state;
+if (cursor<42) { entry = 100-1; }
+cursor = 2;
+while (3.14/cursor) { result = cursor + 1; }
+while (3.14==100) { token = state + 1; }
+cursor = "delta";
+if (cursor>42) { result = 2>0.5; }
+while (1) { token = entry + 1; }
+cursor = "gamma";
+entry = 1.25==token;
+handle = handle*1.25;
+entry = 3.14==2.0;
+if (0.5+1.25) { cursor = 1<=100; }
+return 100;
+state = slot>=state;
+entry = 2;
+int slot = 10;
+int entry ;
+handle = "beta";
+if (token) { state = result-slot; }
+int entry = 3.14;
+int cursor = 10;
+if cursor ;
+slot = "gamma";
+while (1.25!=0) { slot = state + 1; }
+state = "beta";
+if state ;
+return cursor ;
+result = 2;
+//fastpath note check note
+if (3.14) { result = state; }
+token = "a b c";
+int slot = 1.25;
+while (42) { token = cursor + 1; }
+//fastpath todo slowpath todo
+state = "delta";
+//todo slowpath fastpath value
+cursor = result-slot;
+entry = slot==10;
+result = 1.25/10;
+state = cursor;
+cursor = "beta";
+if (0.5) { handle = 0.5-2.0; }
+while token ;
+int state = 1.25;
+if (slot+1) { result = 0.5!=state; }
+if (entry+result) { entry = cursor!=10; }
+token = 1!=result;
+state = "alpha";
+return 100;
+int token = 1;
+int token ;
+while cursor ;
+if (100*100) { handle = token/42; }
+return token ;
+handle = "gamma";
+while (0.5-token) { token = slot + 1; }
+entry = "path\\tmp";
+int token = 1.25;
+if (result>1.25) { handle = state-token; }
+entry = token!=3.14;
+handle = 0;
+entry = 100+0.5;
+//note slowpath value slowpath
+state = 0.5;
+if (token>entry) { handle = cursor; }
+while (2) { handle = handle + 1; }
+state = cursor/1.25;
+cursor = 10<1;
+slot = token==2;
+while (2.0) { handle = result + 1; }
+int token = 3.14;
+cursor = "path\\tmp";
+//slowpath check slowpath todo
+return "path\\tmp";
+int handle = 3.14;
+slot = "a b c";
+int state = 2;
+//value note check value
+result = state;
+if (2>=42) { cursor = 2.0>=state; }
+//check todo note fastpath
+int result = 2.0;
+int result = 2.0;
+if (1.25) { state = handle; }
+int state = 10;
+int slot = 1;
+while (slot-result) { handle = cursor + 1; }
+slot = 1!=0;
+return 100;
+int cursor = 10;
+state = "beta";
+return handle;
+if (1.25) { handle = slot<=result; }
+//value slowpath check todo
+int state = 0.5;
+for slot ;
+//fastpath note check value
+if (1!=2.0) { handle = cursor/2; }
+int cursor = 42;
+int cursor = 42;
+while (3.14<0.5) { cursor = slot + 1; }
+return result;
+handle = 10;
+cursor = "a b c";
+int entry = 1;
+cursor = "alpha";
+int handle = 100;
+token = 10-cursor;
+if (1+result) { token = 2.0+cursor; }
+if (0>2.0) { cursor = 3.14>=3.14; }
+state = 0;
+if token ;
+int slot = 1;
+int slot = 10;
+if (3.14/cursor) { entry = 10>=result; }
+return 1;
+token = cursor;
+entry = result*42;
+while (handle<0) { slot = cursor + 1; }
+int token = 2;
+//value value value slowpath
+entry = state/1.25;
+slot = "beta";
+for entry ;
+int slot = 0.5;
+int handle = 0.5;
+cursor = "alpha";
+return token ;
+return entry;
+cursor = 1.25;
+//check todo note note
+int cursor = 2;
+entry = 100!=2;
+if slot ;
+if (1.25!=100) { handle = entry; }
+if (2>=slot) { state = 42*entry; }
+if result ;
+if state ;
+while (1<=handle) { state = token + 1; }
+entry = slot*42;
+int token = 100;
+handle = "delta";
+while (10) { state = result + 1; }
+while (entry) { entry = state + 1; }
+if (0>cursor) { state = 2; }
+while (0<slot) { entry = handle + 1; }
+while (cursor) { handle = slot + 1; }
+slot = state;
+while (0.5!=100) { token = slot + 1; }
+//check note note note
+while (cursor) { state = slot + 1; }
+while (2.0>result) { state = slot + 1; }
+//fastpath value value slowpath
+result = 1.25/0.5;
+entry = cursor<3.14;
+while (42!=entry) { state = result + 1; }
+if (42+1.25) { entry = result; }
+while (2-2) { cursor = state + 1; }
+if (2-1) { handle = result; }
+token = 0.5*1.25;
+return "beta";
+return 100;
+if (cursor!=token) { handle = slot; }
+int handle = 100;
+int token = 100;
+int state ;
+while (handle<1.25) { handle = slot + 1; }
+entry = "gamma";
+token = 0!=2.0;
+slot = entry*2;
+return state;
+if (token-3.14) { handle = 0.5; }
+entry = 1<=handle;
+slot = 0>=2;
+if (entry) { token = 1>3.14; }
+slot = token;
+while (2.0) { handle = entry + 1; }
+if (3.14>=0) { result = 1<100; }
+handle = "a b c";
+handle = 1*1.25;
+cursor = "gamma";
+return "a b c";
+if (1<=42) { state = 100; }
+while (slot) { handle = handle + 1; }
+state = result>=2;
+if (1/42) { handle = 10; }
+entry = slot;
+while (0>=slot) { state = slot + 1; }
+cursor = "a b c";
+return entry;
+state = slot!=1;
+return entry;
+int token = 0.5;
+int slot = 2;
+//fastpath check slowpath value
+while (state/result) { result = token + 1; }
+while (2!=0.5) { token = result + 1; }
+//check value fastpath value
+if (0) { cursor = token; }
+return handle ;
+entry = 0<=3.14;
+cursor = "path\\tmp";
+if (0.5/result) { cursor = 3.14-0; }
+int entry = 42;
+while (0>10) { token = cursor + 1; }
+token = result;
+cursor = 42/2;
+result = 10>=2;
+//todo value fastpath note
+if entry ;
+handle = 2.0*token;
+if (0) { slot = state; }
+entry = state/result;
+if (entry<1.25) { slot = 10/state; }
+int state = 0;
+int handle = 100;
+return 2;
+int entry = 10;
+while (100+3.14) { token = cursor + 1; }
+//note todo note fastpath
+token = "path\\tmp";
+token = 2/state;
+cursor = token/0;
+return 0;
+//todo fastpath todo todo
+if (cursor) { result = 42<=2; }
+token = 2<=0.5;
+//todo slowpath todo note
+state = cursor+entry;
+while (10) { entry = handle + 1; }
+while (2.0/1) { entry = cursor + 1; }
+for token ;
+int state = 2;
+return cursor;
+return 10;
+token = "path\\tmp";
+int entry = 0;
+while (0.5/1.25) { entry = slot + 1; }
+handle = "gamma";
+if (0<0.5) { slot = 10>=1.25; }
+result = "path\\tmp";
+while (cursor>=0.5) { token = state + 1; }
+handle = "alpha";
+int state = 1.25;
+//check value note note
+state = "a b c";
+slot = 1.25+42;
+if (result-42) { handle = 0.5; }
+entry = 3.14>=1.25;
+int result = 0;
+int slot = 0;
+result = 10;
+if (1.25) { token = slot*result; }
+return state;
+if (cursor>=cursor) { state = handle<0.5; }
+for handle ;
+state = "gamma";
+if (cursor/state) { entry = entry!=slot; }
+if (42) { handle = token; }
+//slowpath note todo check
+return "a b c";
+for state ;
+handle = 42<=result;
+return token;
+while (result+1.25) { slot = entry + 1; }
+token = 2>handle;
+token = entry;
+slot = 10!=handle;
+int result = 3.14;
+int result ;
+cursor = 2-42;
+if (cursor!=10) { token = 2<=token; }
+return cursor ;
+return "a b c";
+if (2*1) { token = handle; }
+return "beta";
+if (token!=handle) { entry = 1>1; }
+int state = 2;
+int entry = 3.14;
+result = token>=state;
+while (42>handle) { result = slot + 1; }
+slot = "path\\tmp";
+int handle = 2;
+while (token*2) { entry = slot + 1; }
+//todo slowpath fastpath todo
+if (2>=1) { entry = 1.25>2.0; }
+int slot = 2.0;
+while (10-3.14) { handle = token + 1; }
+int handle = 2;
+result = "delta";
+int result = 2;
+state = 1;
+//value slowpath value note
+//value note slowpath note
+while (token>=handle) { cursor = slot + 1; }
+slot = 10<=1;
+int state = 1;
+if (result) { slot = 0==42; }
+for cursor ;
+return "beta";
+return "beta";
+cursor = "beta";
+handle = 1.25>token;
+int token = 2.0;
+state = "a b c";
+int state = 2;
+while (result-slot) { token = token + 1; }
+return 2;
+while (3.14<=state) { state = token + 1; }
+state = "beta";
+int token = 10;
+while (2.0>=1.25) { state = slot + 1; }
+int state = 10;
+return 2;
+while (cursor<42) { handle = state + 1; }
+result = "alpha";
+//slowpath slowpath value check
+token = "path\\tmp";
+int handle = 3.14;
+int slot = 2.0;
+return token;
+return slot;
+int token = 100;
+if (2) { slot = 0>10; }
+while (2.0) { token = handle + 1; }
+if (token<result) { entry = token; }
+cursor = "alpha";
+int handle ;
+return state;
+cursor = "delta";
+//slowpath slowpath todo value
+while (1.25) { result = handle + 1; }
+int cursor = 1;
+handle = 10/1;
+return "beta";
+while (100<slot) { cursor = token + 1; }
+int state = 100;
+handle = "delta";
+if (2>=state) { result = cursor>=state; }
+if (result>10) { entry = 0/1.25; }
+int entry ;
+while (0) { slot = cursor + 1; }
+if (3.14) { token = token<=token; }
+cursor = "delta";
+return result;
+//note check fastpath fastpath
+int handle = 10;
+//todo todo note fastpath
+while (42<=cursor) { cursor = result + 1; }
+handle = "alpha";
+if (entry) { result = cursor-token; }
+while (state<result) { state = entry + 1; }
+token = "delta";
+while (cursor) { token = handle + 1; }
+for entry ;
+entry = 100;
+if (2>=1) { handle = 1.25>state; }
+int cursor = 1;
+int cursor = 2;
+return "a b c";
+if (1.25<=0) { token = 2; }
+return 42;
+int result = 1.25;
+while (42-state) { entry = token + 1; }
+while (1) { token = entry + 1; }
+while (1!=42) { result = entry + 1; }
+state = 1;
+int cursor = 1.25;
+while (state!=entry) { slot = entry + 1; }
+if (handle<0) { entry = 42; }
+while (10-1) { entry = entry + 1; }
+if (token<1) { cursor = slot==1.25; }
+if (1.25<=token) { result = 0.5+2.0; }
+//note note todo slowpath
+int state = 3.14;
+state = 0.5>handle;
+int state = 42;
+return 42;
+int state = 1.25;
+for slot ;
+//slowpath fastpath check check
+result = handle<3.14;
+if (slot<=entry) { cursor = 0<1.25; }
+while handle ;
+cursor = 10-state;
+slot = "beta";
+int cursor = 42;
+slot = "a b c";
+while (1.25*0) { token = entry + 1; }
+return slot;
+entry = slot-handle;
+while (result/state) { slot = token + 1; }
+entry = "beta";
+while (1.25) { slot = handle + 1; }
+for entry ;
+return cursor;
+return result ;
+while (state/0) { entry = cursor + 1; }
+int result = 2.0;
+int handle ;
+entry = 100;
+entry = 2.0;
+state = "alpha";
+token = 1>=1;
+int handle = 3.14;
+while (0.5>0) { token = entry + 1; }
+while (1/2.0) { handle = cursor + 1; }
+slot = slot;
+//check check fastpath todo
+token = 2.0;
+slot = 0<=state;
+result = cursor;
+while (cursor+1.25) { slot = cursor + 1; }
+while (1.25) { token = result + 1; }
+handle = 42;
+int entry = 1;
+int state = 42;
+slot = 0.5-1.25;
+return "delta";
+if (token) { cursor = 2.0; }
+if (1*state) { token = 2.0<entry; }
+while (result*slot) { slot = token + 1; }
+for cursor ;
+entry = result-0;
+while slot ;
+if (0.5+0) { result = 0.5+handle; }
+int entry = 1.25;
+token = 10*1.25;
+return entry;
+int state ;
+handle = 10;
+cursor = "path\\tmp";
+//fastpath fastpath check note
+handle = 0;
+cursor = state==2;
+while entry ;
+int token = 0.5;
+//slowpath todo note todo
+while (42) { result = slot + 1; }
+entry = 3.14+100;
+//fastpath fastpath value note
+cursor = "alpha";
+handle = 1<result;
+if (cursor>cursor) { entry = handle; }
+return "alpha";
+int slot ;
+//slowpath slowpath todo check
+int handle = 1.25;
+while (entry) { entry = token + 1; }
+while (slot<=handle) { result = state + 1; }
+//todo todo check check
+int cursor = 0;
+if (1.25) { result = entry; }
+int slot = 3.14;
+while (slot-0.5) { slot = result + 1; }
+entry = "alpha";
+while (cursor*entry) { cursor = token + 1; }
+int handle = 1;
+if (1-1.25) { result = 1<2; }
+//todo value fastpath todo
+if (token>entry) { result = slot; }
+if (0>=entry) { handle = 42; }
+//slowpath fastpath todo value
+int handle = 2.0;
+return 2;
+state = 1.25<entry;
+int token = 42;
+for cursor ;
+result = "delta";
+entry = token;
+result = handle/0.5;
+while (10!=3.14) { state = cursor + 1; }
+entry = "delta";
+slot = handle>=token;
+state = state;
+int entry = 0.5;
+//check fastpath slowpath value
+state = entry<100;
+while state ;
+for token ;
+int token = 2;
+int slot = 100;
+//todo note value note
+int entry = 100;
+if (slot*100) { slot = 3.14>=cursor; }
+state = "path\\tmp";
+int cursor = 0;
+while slot ;
+int state = 1;
+handle = "a b c";
+if (2+handle) { slot = 42*3.14; }
+state = 1;
+return "a b c";
+state = "path\\tmp";
+if (2*0.5) { result = cursor==cursor; }
+entry = token<=1;
+while (result>=1.25) { cursor = cursor + 1; }
+int token = 1.25;
+if (0+result) { result = 10; }
+if handle ;
+while (10*state) { result = state + 1; }
+if (100/0.5) { token = 10<handle; }
+//todo value check fastpath
+state = "beta";
+//check check note note
+//slowpath slowpath check check
+int token = 100;
+for handle ;
+if (result/0) { entry = handle==2.0; }
+return handle;
+int token = 0;
+for cursor ;
+handle = "alpha";
+while (1==100) { entry = state + 1; }
+int cursor = 2.0;
+int result = 3.14;
+state = "beta";
+while state ;
+//check value slowpath note
+state = 42-handle;
+if (100<=0.5) { entry = entry!=result; }
+result = "path\\tmp";
+while (2) { entry = slot + 1; }
+return 100;
+int result = 42;
+if (42-42) { cursor = 100; }
+cursor = cursor;
+if (0) { slot = 2; }
+entry = 0.5;
+while (result+1) { token = token + 1; }
+int slot = 42;
+if (entry*2.0) { token = handle*entry; }
+state = "a b c";
+//fastpath note slowpath fastpath
+//slowpath value check check
+//fastpath check check slowpath
+int handle = 1;
+return 42;
+if (handle>state) { entry = 1.25==2.0; }
+token = 2>result;
+state = token==result;
+while (1.25) { result = cursor + 1; }
+token = 10/result;
+while (slot<=2.0) { state = handle + 1; }
+int slot = 42;
+return entry;
+while (slot) { slot = slot + 1; }
+token = token;
+if (entry/3.14) { cursor = 3.14<state; }
+return 10;
+int state = 42;
+if (2==2) { token = handle>=2; }
+state = "delta";
+entry = slot<=3.14;
+while (2.0<=slot) { cursor = handle + 1; }
+int state = 2.0;
+int handle = 0;
+int handle = 100;
+cursor = 10*token;
+int handle = 42;
+int slot = 1.25;
+int state = 0.5;
+int cursor = 10;
+int result = 0;
+int cursor = 10;
+slot = "beta";
+int slot = 1.25;
+if (2<=handle) { cursor = 3.14*2.0; }
+handle = "alpha";
+cursor = 100;
+return entry;
+if (100<result) { entry = 3.14/1; }
+int result = 1.25;
+if handle ;
+return "delta";
+slot = "gamma";
+if (0) { cursor = 2.0; }
+state = 100;
+int handle = 3.14;
+if (2>result) { handle = token; }
+handle = "path\\tmp";
+result = entry!=slot;
+cursor = "beta";
+while (entry/0.5) { slot = result + 1; }
+while state ;
+if (token>=1) { handle = 42>=42; }
+result = 2.0-entry;
+int state = 0.5;
+entry = 1.25-2;
+result = 0.5==state;
+while (0==42) { token = state + 1; }
+while (cursor) { slot = slot + 1; }
+if (0!=1.25) { result = 3.14; }
+entry = entry!=100;
+state = "alpha";
+return 100;
+if (state-42) { entry = result<slot; }
+while (slot*2) { result = token + 1; }
+for slot ;
+handle = 1/handle;
+if slot ;
+//slowpath todo check slowpath
+while token ;
+return token;
+while (1/state) { handle = result + 1; }
+int slot = 42;
+int entry = 42;
+int state = 0;
+int handle = 42;
+int handle ;
+int result = 100;
+while (state/state) { token = handle + 1; }
+token = slot!=2.0;
+cursor = "gamma";
+//value todo note fastpath
+int slot = 42;
+handle = 100<=1.25;
+int entry = 1;
+int slot = 1.25;
+return 2;
+slot = slot==token;
+while (entry==token) { slot = result + 1; }
+return 100;
+int state = 1;
+return 1;
+//fastpath check value slowpath
+while (10==0) { state = state + 1; }
+while (10) { result = handle + 1; }
+while (42<=result) { state = entry + 1; }
+handle = 0.5;
+if (1.25*entry) { entry = token/state; }
+//slowpath value check value
+return 2;
+entry = "a b c";
+while (2.0<handle) { slot = result + 1; }
+//todo todo todo todo
+int slot = 1;
+return 2;
+while (slot+1.25) { result = entry + 1; }
+int result ;
+//fastpath note fastpath check
+while (entry>=cursor) { cursor = token + 1; }
+//check fastpath value value
+if (token-1.25) { token = entry!=entry; }
+return handle;
+int handle = 10;
+if (2) { handle = slot!=slot; }
+return 10;
+return entry;
+int result = 2;
+token = "path\\tmp";
+int result = 2;
+while (handle) { token = state + 1; }
+token = "delta";
+return state;
+handle = 42-42;
+//fastpath fastpath slowpath check
+result = result!=42;
+return 1;
+while (1.25) { slot = entry + 1; }
+entry = 1>100;
+if (2.0*0) { entry = 100>token; }
+return result ;
+if (2.0==cursor) { handle = 100; }
+int cursor = 0.5;
+while (slot>state) { handle = handle + 1; }
+slot = token*2;
+if entry ;
+while (2.0) { token = cursor + 1; }
+handle = handle;
+int result = 1.25;
+return "delta";
+while (2) { token = entry + 1; }
+if (slot!=result) { entry = 0.5; }
+while (1.25*0.5) { slot = state + 1; }
+entry = 0.5;
+//todo note fastpath todo
+result = handle*result;
+//slowpath fastpath check todo
+result = "a b c";
+//todo slowpath slowpath check
+int token = 42;
+handle = "gamma";
+if (1.25==token) { slot = entry<0.5; }
+return 10;
+if (2) { cursor = slot-1; }
+if (100) { token = result<result; }
+int handle = 1;
+return "a b c";
+cursor = cursor!=handle;
+while (token>=0.5) { state = state + 1; }
+entry = "beta";
+token = 1.25==1;
+cursor = "alpha";
+result = 1-1;
+entry = slot-state;
+if (state-cursor) { entry = 0<handle; }
+while state ;
+int token ;
+token = "alpha";
+int handle = 1;
+if (1.25-entry) { cursor = token==handle; }
+//fastpath note value check
+return result;
+if (2+2) { token = 42; }
+return "alpha";
+while (2==token) { entry = cursor + 1; }
+//check value note fastpath
+int token = 2.0;
+int slot = 2;
+if (state<=1) { cursor = 1*token; }
+int state = 0;
+handle = 0<=state;
+token = 1+result;
+handle = 10;
+if (3.14/slot) { slot = 1!=1; }
+while token ;
+slot = result>100;
+while entry ;
+while (1.25>2.0) { token = result + 1; }
+state = "beta";
+if (result*100) { slot = 1.25>=token; }
+return "beta";
+//todo note note value
+return handle;
+return entry;
+//value todo todo check
+return cursor;
+while (0.5*cursor) { entry = slot + 1; }
+if (slot) { slot = 3.14<=42; }
+while (token*2) { handle = state + 1; }
+handle = 42-token;
+int handle = 42;
+return slot;
+if (result<=token) { entry = entry; }
+return "beta";
+if (slot) { state = result*handle; }
+int slot = 1;
+if (42*1) { entry = cursor; }
+result = 0.5+token;
+int handle = 2;
+if (1.25) { entry = state-100; }
+if (entry) { token = 100>=2.0; }
+int result = 1.25;
+if (100!=100) { handle = 10>1; }
+while (1.25==1.25) { result = cursor + 1; }
+while (100) { cursor = token + 1; }
+while (token) { result = state + 1; }
+while (0.5+3.14) { handle = slot + 1; }
+int result = 1;
+//slowpath fastpath value todo
+result = 2;
+if handle ;
+while (3.14!=state) { handle = token + 1; }
+cursor = 10>slot;
+if (token) { cursor = cursor==entry; }
+slot = entry>=token;
+//check note value slowpath
+token = "a b c";
+for slot ;
+int state = 2.0;
+//note note value fastpath
+while (token>=0.5) { state = result + 1; }
+//check todo value fastpath
+int token = 2.0;
+return cursor;
+while (entry) { result = entry + 1; }
+//value check note slowpath
+if (state) { result = 2.0; }
+while (3.14<=handle) { entry = cursor + 1; }
+result = "alpha";
+//todo note todo value
+while (10-3.14) { cursor = handle + 1; }
+if (2/slot) { result = 2; }
+while (token) { entry = state + 1; }
+handle = "gamma";
+return cursor;
+//fastpath note todo todo
+int entry = 2.0;
+return token;
+int handle = 2;
+entry = "a b c";
+if (2!=42) { result = 0/state; }
+//value todo todo value
+if (2<cursor) { result = 2>42; }
+slot = handle<slot;
+result = 3.14>entry;
+if (2.0*slot) { token = 42==0.5; }
+int result ;
+token = "path\\tmp";
+for result ;
+return 10;
+//value check check note
+slot = "delta";
+cursor = 10+token;
+//todo check value slowpath
+int cursor = 0.5;
+token = "delta";
+//todo value note fastpath
+int result = 0.5;
+result = 1.25-cursor;
+return state;
+return slot;
+state = "path\\tmp";
+//value fastpath check note
+while (0.5!=2) { cursor = entry + 1; }
+cursor = 42;
+while (cursor>=1.25) { token = token + 1; }
+while (cursor/token) { slot = handle + 1; }
+while (state!=1) { handle = handle + 1; }
+while (10<=0.5) { token = slot + 1; }
+int state = 1.25;
+return entry;
+int cursor = 0;
+slot = "alpha";
+if (handle<=result) { cursor = 2.0>=100; }
+while (handle>token) { handle = handle + 1; }
+return handle;
+handle = token;
+while (100/0) { handle = cursor + 1; }
+while (result>=10) { handle = slot + 1; }
+while (handle) { entry = cursor + 1; }
+while (token==slot) { state = slot + 1; }
+return cursor ;
+int slot = 2;
+int cursor = 100;
+return entry;
+if (cursor) { token = cursor==10; }
+if (10) { slot = 100<=1.25; }
+while (cursor*2.0) { cursor = cursor + 1; }
+while (result>10) { slot = token + 1; }
+//slowpath fastpath check todo
+return 1;
+while (entry) { cursor = state + 1; }
+while (0>2) { result = result + 1; }
+slot = "a b c";
+while (result<=token) { handle = slot + 1; }
+state = 10;
+slot = "alpha";
+int handle = 10;
+if (token>0) { result = 0>3.14; }
+int result = 2;
+while (0.5>=2) { cursor = entry + 1; }
+if (3.14) { cursor = state>0.5; }
+result = "a b c";
+while (2+2) { token = token + 1; }
+token = 42-slot;
+int token = 10;
+int handle = 10;
+while (handle<=handle) { cursor = entry + 1; }
+if (result*0.5) { slot = 0.5<=0; }
+handle = result;
+int handle = 0.5;
+int token = 100;
+if state ;
+if (42!=token) { entry = handle<=handle; }
+state = 42;
+while result ;
+int state = 2.0;
+int state = 3.14;
+int result = 3.14;
+return token;
+result = 10+1.25;
+while slot ;
+return "alpha";
+if (42+0.5) { slot = 3.14*result; }
+while (result<cursor) { entry = entry + 1; }
+while (result<=42) { handle = token + 1; }
+while (100) { entry = cursor + 1; }
+return 10;
+slot = slot*0;
+return "beta";
+int result = 1.25;
+slot = "delta";
+int handle = 0.5;
+while (state<=result) { result = result + 1; }
+//check fastpath check value
+while handle ;
+entry = "beta";
+if (cursor) { cursor = handle; }
+//value slowpath slowpath value
+int slot = 2;
+if (1==result) { handle = result>=10; }
+return 2;
+slot = token>token;
+return "a b c";
+while (10<3.14) { result = token + 1; }
+token = "path\\tmp";
+return 10;
+int token = 3.14;
+//check fastpath slowpath slowpath
+//slowpath fastpath check todo
+handle = 0.5!=10;
+while (42) { handle = entry + 1; }
+cursor = 10+10;
+while token ;
+while (1.25>cursor) { slot = entry + 1; }
+token = 1;
+if (10) { state = 0.5; }
+token = state>=2.0;
+int handle = 42;
+int token = 2.0;
+result = 42;
+int handle = 100;
+int state = 100;
+return 0;
+return "alpha";
+handle = handle+2;
+cursor = 42+entry;
+handle = "beta";
+while (entry) { slot = handle + 1; }
+int entry = 42;
+while (result!=result) { cursor = slot + 1; }
+while (cursor*3.14) { cursor = state + 1; }
+entry = token;
+while (result/100) { result = slot + 1; }
+handle = "alpha";
+result = entry!=slot;
+//slowpath value todo note
+entry = entry;
+cursor = token>=cursor;
+return handle;
+while (100>10) { token = token + 1; }
+entry = 42>=entry;
+while entry ;
+return "alpha";
+state = "a b c";
+while (0) { state = cursor + 1; }
+if (state) { handle = 2; }
+//fastpath note fastpath slowpath
+if (42>entry) { result = handle; }
+return slot;
+//fastpath slowpath value value
+while (entry) { token = handle + 1; }
+if (entry!=2) { cursor = 0-2.0; }
+int state = 0.5;
+int handle = 2.0;
+while (entry-2.0) { cursor = handle + 1; }
+//todo fastpath value slowpath
+token = "delta";
+int handle = 42;
+//slowpath todo value fastpath
+if (2) { entry = 2; }
+//value todo slowpath todo
+while (state!=token) { cursor = result + 1; }
+int entry = 42;
+state = 2.0>=token;
+while entry ;
+return slot;
+handle = 1.25>=0.5;
+int token = 42;
+if entry ;
+//check fastpath value todo
+if (2.0/100) { token = handle<=42; }
+int entry = 1;
+return 100;
+while (10==handle) { result = state + 1; }
+while (slot) { state = entry + 1; }
+token = "alpha";
+if entry ;
+result = result;
+cursor = handle+slot;
+int slot = 3.14;
+int token = 100;
+cursor = "beta";
+result = 3.14>=cursor;
+int result = 100;
+return "path\\tmp";
+while (2) { token = result + 1; }
+if (entry>cursor) { cursor = token<=100; }
+int entry = 10;
+if (0) { result = 100!=42; }
+while (token) { entry = handle + 1; }
+while slot ;
+state = 1;
+while (token/100) { state = handle + 1; }
+//note todo todo note
+slot = "a b c";
+//fastpath todo slowpath note
+return "a b c";
+if (0.5>state) { token = result; }
+int state = 0;
+token = cursor>3.14;
+result = state;
+state = cursor-entry;
+return result;
+cursor = 100==100;
+if cursor ;
+if (0.5!=42) { handle = token<=cursor; }
+while (handle) { slot = state + 1; }
+if (0.5<cursor) { cursor = 1.25-entry; }
+handle = "a b c";
+return slot;
+cursor = "delta";
+while (10==1) { token = result + 1; }
+state = 2.0;
+if (0) { slot = cursor<=cursor; }
+for slot ;
+int handle = 3.14;
+while result ;
+int cursor = 42;
+if (2*result) { token = state; }
+if (1!=2) { state = 10>cursor; }
+if (100) { cursor = slot; }
+int cursor = 1;
+if (cursor!=handle) { token = 3.14-2.0; }
+int slot = 10;
+int state = 100;
+while (handle!=2.0) { handle = entry + 1; }
+while (0.5==0) { result = result + 1; }
+token = "delta";
+return 42;
+handle = "alpha";
+int handle = 100;
+while token ;
+int handle ;
+entry = "gamma";
+while (0) { state = result + 1; }
+int slot = 2.0;
+while (handle*slot) { entry = handle + 1; }
+//note check value value
+result = "delta";
+int entry ;
+cursor = 2.0;
+return "beta";
+slot = result!=cursor;
+//value fastpath value check
+int entry = 2;
+if (state<=handle) { state = 1<=2.0; }
+return 2;
+int slot = 42;
+int cursor = 3.14;
+while (42) { cursor = entry + 1; }
+int state = 0;
+cursor = 42;
+int cursor = 2;
+return "beta";
+return token;
+entry = "alpha";
+if (2.0<=1.25) { handle = 2-2; }
+int state = 100;
+token = 10!=100;
+while (handle) { entry = handle + 1; }
+if (result<1.25) { entry = token-token; }
+entry = "path\\tmp";
+return token;
+int slot = 0.5;
+while state ;
+cursor = token==entry;
+int result = 2;
+return "gamma";
+if (state<slot) { cursor = 100!=slot; }
+while (token!=100) { entry = state + 1; }
+if (100<=42) { entry = 100>42; }
+state = token;
+cursor = "alpha";
+token = cursor;
+if (0.5>cursor) { state = result-entry; }
+if (token==cursor) { slot = entry==42; }
+result = 3.14;
+//todo check check value
+//value slowpath note note
+cursor = 1.25;
+if (42) { slot = 100>=state; }
+entry = "a b c";
+int slot = 1.25;
+while (0) { token = cursor + 1; }
+return handle;
+entry = "a b c";
+return 1;
+result = "path\\tmp";
+if (handle<=42) { state = handle>0; }
+int result = 0;
+return slot;
+int result = 10;
+return handle ;
+int handle = 1.25;
+int result ;
+state = 1.25;
+handle = "a b c";
+if (slot-token) { handle = entry; }
+slot = state;
+if (handle) { state = 10>42; }
+return 0;
+slot = 42-1;
+handle = result*3.14;
+int slot = 42;
+if (3.14<entry) { cursor = slot>=entry; }
+int handle = 1.25;
+for entry ;
+token = 1;
+while (1) { token = entry + 1; }
+token = 3.14<42;
+result = "beta";
+return "alpha";
+if (2<=0.5) { token = entry>2.0; }
+int cursor ;
+int entry = 10;
+int cursor = 1.25;
+if (10<10) { entry = 42; }
+while entry ;
+slot = 1==2;
+state = "delta";
+while (entry) { handle = cursor + 1; }
+while handle ;
+int slot = 0;
+return entry;
+return "delta";
+state = cursor<100;
+result = "path\\tmp";
+for result ;
+return entry;
+while (10+100) { cursor = result + 1; }
+int slot = 100;
+while (1.25==1) { cursor = slot + 1; }
+while (result) { handle = token + 1; }
+return handle;
+handle = "path\\tmp";
+while (10-slot) { state = result + 1; }
+int result = 100;
+while (2-1) { result = result + 1; }
+handle = "gamma";
+return state;
+if (100>result) { cursor = 2==1.25; }
+//note todo note slowpath
+int entry = 10;
+//fastpath fastpath note slowpath
+int slot = 2;
+//slowpath value check todo
+result = "alpha";
+if slot ;
+entry = 100;
+if (100>100) { result = 3.14/100; }
+result = "gamma";
+int slot ;
+while (handle>100) { cursor = slot + 1; }
+while slot ;
+//note todo check slowpath
+result = 0/2;
+//value slowpath value check
+int slot = 100;
+int result = 42;
+result = 1.25;
+while (1/token) { cursor = entry + 1; }
+if (token>0) { handle = result==token; }
+token = entry+result;
+return 2;
+if (result>=handle) { result = token; }
+return slot;
+handle = 1.25;
+if (0.5) { result = state; }
+result = "beta";
+if (0.5+entry) { handle = state>=0.5; }
+cursor = entry-1;
+return 100;
+if (10!=state) { state = 1-token; }
+int entry = 1;
+if (2*slot) { result = 1+handle; }
+int cursor = 0.5;
+//slowpath check value fastpath
+int token ;
+state = state>100;
+while (2) { handle = state + 1; }
+token = handle;
+//value fastpath check todo
+//slowpath todo fastpath slowpath
+return 0;
+return 42;
+//check fastpath note fastpath
+if (2<=3.14) { state = 0.5>=100; }
+if (3.14!=42) { handle = 0+1; }
+//fastpath fastpath value note
+while (0.5) { token = entry + 1; }
+//fastpath todo value todo
+while (entry+1.25) { slot = state + 1; }
+state = slot*result;
+int handle ;
+int token = 0.5;
+result = 3.14==2.0;
+if (token-entry) { entry = 3.14; }
+return token ;
+entry = "beta";
+if (10==token) { slot = 0; }
+result = 100<=2.0;
+while (1-100) { entry = result + 1; }
+result = "beta";
+while (2.0>=10) { state = result + 1; }
+entry = handle;
+//check fastpath check todo
+//value note note slowpath
+if (token-3.14) { entry = state<result; }
+state = state==0.5;
+while (cursor<token) { token = entry + 1; }
+while (cursor<=100) { result = cursor + 1; }
+while (3.14) { token = result + 1; }
+int state = 3.14;
+return 1;
+if (cursor) { cursor = 1<=42; }
+state = slot-cursor;
+token = 2.0;
+while (42) { entry = handle + 1; }
+slot = 3.14<=state;
+return 100;
+if entry ;
+return 10;
+state = 2!=2;
+return state ;
+result = 42<=cursor;
+return handle ;
+token = 0.5;
+while (0.5>2) { token = result + 1; }
+return token;
+int result = 3.14;
+token = slot;
+return state ;
+while state ;
+while (entry/token) { handle = slot + 1; }
+//check slowpath check fastpath
+result = result*100;
+if (0) { entry = 42; }
+int handle ;
+result = 42;
+token = result==0;
+return slot;
+return "delta";
+if (slot>entry) { result = 3.14; }
+if (0) { slot = 0+0.5; }
+slot = 0;
+handle = 0>=10;
+return "a b c";
+slot = cursor<=handle;
+if (result+cursor) { result = slot<=3.14; }
+if (token/result) { cursor = 1.25/state; }
+entry = "delta";
+int handle = 10;
+while (result) { handle = state + 1; }
+slot = 0.5>result;
+token = 0!=2.0;
+return "alpha";
+return 100;
+while (state/slot) { state = state + 1; }
+if (2) { token = result<3.14; }
+return entry;
+handle = 2.0;
+if handle ;
+for slot ;
+state = 0/3.14;
+if (2) { entry = 3.14>1; }
+//value todo note note
+while (2*42) { token = handle + 1; }
+while (entry==2) { cursor = token + 1; }
+while handle ;
+while (state*2) { token = slot + 1; }
+//todo check fastpath fastpath
+//value todo check todo
+int entry = 3.14;
+int entry = 2.0;
+handle = 100;
+int result ;
+int result = 0.5;
+state = "path\\tmp";
+int cursor = 0;
+return "a b c";
+token = 0!=slot;
+state = "path\\tmp";
+return result;
+result = "path\\tmp";
+//fastpath fastpath check value
+return handle;
+while state ;
+if (result*10) { entry = result+0; }
+return entry;
+handle = 3.14!=handle;
+token = 0.5==0;
+while (10>1) { cursor = state + 1; }
+while (100*3.14) { cursor = state + 1; }
+token = 42!=3.14;
+slot = slot-result;
+while (handle) { result = cursor + 1; }
+int handle = 100;
+while (1.25<=1.25) { token = entry + 1; }
+int handle = 2.0;
+while (1.25+3.14) { result = state + 1; }
+int token = 42;
+int result = 42;
+if (slot!=3.14) { result = result; }
+int cursor = 42;
+//value value value todo
+if (42/1.25) { handle = 0.5-cursor; }
+handle = result>=token;
+if (1.25) { entry = state*2; }
+int cursor ;
+result = 3.14;
+return state;
+int cursor = 0.5;
+token = 2.0;
+token = token-42;
+return 42;
+int entry = 2;
+int state ;
+slot = "delta";
+//todo todo slowpath fastpath
+//check check slowpath note
+state = 1.25+100;
+state = 0;
+result = 42!=2.0;
+int token = 1.25;
+if (100*slot) { token = cursor; }
+while (handle-1.25) { handle = entry + 1; }
+while (handle==result) { token = state + 1; }
+entry = handle<2.0;
+state = "a b c";
+cursor = slot<2.0;
+if (entry) { result = 10; }
+for result ;
+slot = 10+0.5;
+while (0==result) { state = cursor + 1; }
+if (1) { entry = 1.25/cursor; }
+int slot = 2.0;
+cursor = token;
+return result ;
+int result = 2;
+int handle = 1.25;
+cursor = "a b c";
+while (slot!=token) { slot = token + 1; }
+cursor = "a b c";
+//check note slowpath slowpath
+entry = slot>=2;
+for slot ;
+int entry = 0.5;
+if (2.0*42) { entry = 10*10; }
+if (0) { token = 2+10; }
+while cursor ;
+int entry = 1;
+while (100>=slot) { handle = cursor + 1; }
+if (2>state) { cursor = handle<handle; }
+if (state>=1) { cursor = 10; }
+slot = "path\\tmp";
+state = 10;
+handle = handle;
+while (100==2) { state = state + 1; }
+while (2.0) { entry = state + 1; }
+while (10) { result = token + 1; }
+if (entry) { slot = 0.5; }
+if (42*entry) { cursor = result*2; }
+if (10) { cursor = result/token; }
+state = "alpha";
+while (2) { token = handle + 1; }
+result = 2.0<=handle;
+result = "beta";
+if (1<=result) { handle = 1!=slot; }
+handle = result*42;
+cursor = result==42;
+slot = entry;
+result = slot>0;
+for handle ;
+return "alpha";
+int result = 0;
+while (state*slot) { cursor = slot + 1; }
+if (10==1) { cursor = 42/handle; }
+if (1) { entry = 0+cursor; }
+return "alpha";
+cursor = "alpha";
+if (0.5>42) { slot = cursor; }
+return state;
+result = state*result;
+//check fastpath slowpath fastpath
+entry = "alpha";
+int token = 1.25;
+if result ;
+//fastpath slowpath note fastpath
+//fastpath fastpath fastpath fastpath
+state = "gamma";
+handle = entry;
+if (slot+cursor) { cursor = 2*2.0; }
+if (1>=0) { cursor = 0-1; }
+while (1.25) { handle = cursor + 1; }
+//value value check note
+token = "alpha";
+if (42/1) { state = 3.14==state; }
+entry = 3.14;
+int token = 1;
+if (entry<=10) { slot = token<10; }
+if (result<1) { token = 2; }
+int result = 42;
+result = 1.25==1.25;
+return "gamma";
+state = 1*100;
+if (slot+2) { cursor = cursor; }
+slot = "beta";
+return entry;
+entry = state==0.5;
+int entry = 0.5;
+token = "beta";
+//check note check fastpath
+while (slot) { token = slot + 1; }
+//todo check fastpath value
+while (10) { cursor = result + 1; }
+state = token;
+if (3.14) { cursor = handle!=entry; }
+if (2.0<1.25) { handle = token/slot; }
+//todo fastpath todo todo
+return "gamma";
+entry = state;
+while (2-slot) { handle = result + 1; }
+if (1<entry) { state = 3.14>entry; }
+int handle = 2;
+while (2) { entry = token + 1; }
+while (entry==result) { result = cursor + 1; }
+cursor = "path\\tmp";
+return handle ;
+int state = 42;
+result = slot<=token;
+handle = "a b c";
+state = result<=2.0;
+//fastpath slowpath fastpath value
+slot = result+1;
+int entry = 2;
+token = 0;
+int state = 42;
+while (handle) { result = handle + 1; }
+int cursor ;
+while (token<entry) { entry = slot + 1; }
+int handle = 3.14;
+return 42;
+cursor = state>=cursor;
+slot = cursor<cursor;
+//note todo value todo
+int cursor = 2;
+state = "alpha";
+result = 10>=0;
+if (42>2.0) { cursor = 2<=2; }
+int slot = 2;
+while token ;
+int handle = 100;
+return 42;
+if (0) { state = 0; }
+int state = 1;
+result = "path\\tmp";
+int entry = 42;
+entry = 0.5/2;
+int slot = 1;
+if (2.0/state) { result = 2/handle; }
+return 42;
+//slowpath todo check todo
+int cursor = 3.14;
+token = 3.14-token;
+//todo note fastpath todo
+if (handle==1) { token = 0.5; }
+int handle = 1.25;
+for handle ;
+while (0<token) { slot = cursor + 1; }
+int slot = 3.14;
+if slot ;
+int cursor = 10;
+state = "delta";
+int entry = 42;
+if token ;
+int state = 42;
+return result;
+if (0.5>1.25) { slot = slot; }
+handle = "delta";
+return state;
+while (1) { state = slot + 1; }
+return handle ;
+int handle = 1;
+//slowpath value value note
+int handle = 2;
+int result = 3.14;
+while state ;
+token = "gamma";
+if (state+entry) { handle = 100/state; }
+token = slot;
+result = "a b c";
+int result = 42;
+while (1.25<=result) { handle = handle + 1; }
+if (0.5!=slot) { state = token*token; }
+if (0.5+3.14) { token = 10-entry; }
+int entry = 0.5;
+return "delta";
+int entry = 2;
+while (entry!=100) { cursor = result + 1; }
+int state = 2.0;
+while token ;
+if (entry) { cursor = 2.0; }
+if (token<=10) { cursor = token>=42; }
+while state ;
+while result ;
+int result = 42;
+int result = 42;
+slot = 100<=result;
+while (1.25) { state = result + 1; }
+handle = token<=1;
+if (0>=3.14) { state = 1<0; }
+result = state;
+if (2.0) { state = result!=entry; }
+return "beta";
+if (2) { handle = state; }
+//note check note slowpath
+slot = 1.25/100;
+return token ;
+if (entry) { result = state/0; }
+result = "delta";
+return 42;
+return 2;
+token = "gamma";
+//slowpath slowpath fastpath slowpath
+int cursor = 3.14;
+if (1.25<0.5) { slot = 1; }
+while (1<state) { slot = handle + 1; }
+cursor = 3.14;
+handle = 2.0;
+int handle = 1.25;
+return 2;
+if (0.5) { state = handle>=cursor; }
+if (2-2.0) { result = 2.0; }
+while (handle/2.0) { token = cursor + 1; }
+while (0!=token) { result = entry + 1; }
+//value value value note
+entry = 2.0;
+int cursor = 10;
+int handle = 0.5;
+cursor = 10;
+int result = 0.5;
+while (state) { handle = state + 1; }
+return handle;
+cursor = "delta";
+int token = 0;
+if slot ;
+token = slot-100;
+if state ;
+cursor = "delta";
+return 2;
+for token ;
+if (token<slot) { slot = token; }
+int state = 1.25;
+if (token>token) { cursor = 2; }
+int handle = 3.14;
+if (2.0-100) { cursor = 0.5; }
+state = handle<0;
+state = slot-0;
+while (entry-2) { state = result + 1; }
+return 0;
+for state ;
+if (handle-2) { entry = state+2.0; }
+int result = 0.5;
+handle = result*cursor;
+int slot = 3.14;
+while cursor ;
+if (10) { entry = cursor; }
+while slot ;
+token = "alpha";
+return result ;
+if (state) { entry = 0; }
+while (entry*1) { handle = result + 1; }
+state = "delta";
+return 42;
+int entry = 2.0;
+int state = 0.5;
+int result = 2;
+while (2.0) { result = cursor + 1; }
+return handle;
+return cursor;
+//check fastpath slowpath slowpath
+int token = 2;
+//slowpath check todo value
+while (cursor!=token) { result = token + 1; }
+while (100!=0) { handle = entry + 1; }
+int result = 0;
+return 2;
+int cursor = 1.25;
+result = "beta";
+//check todo value slowpath
+slot = cursor;
+if (token!=0.5) { state = state+2; }
+if entry ;
+return state ;
+int token = 2.0;
+slot = handle*0.5;
+while (0.5==1) { cursor = cursor + 1; }
+result = "gamma";
+int cursor = 42;
+handle = 0.5!=handle;
+while (0*handle) { slot = slot + 1; }
+if (0.5/token) { handle = 42+42; }
+while (handle) { result = token + 1; }
+result = 10-1.25;
+return handle;
+while (2.0<=42) { handle = token + 1; }
+if (2) { slot = result>entry; }
+int token = 2.0;
+while (2.0/handle) { slot = state + 1; }
+int entry = 1.25;
+while (2/3.14) { slot = state + 1; }
+slot = "path\\tmp";
+return slot;
+if (100>2.0) { handle = handle-2; }
+int slot = 3.14;
+if (100) { token = 0; }
+if (cursor<token) { state = 100/state; }
+if (handle) { handle = 100<=2.0; }
+if (slot!=token) { slot = entry<=100; }
+token = "gamma";
+while (0.5>=0.5) { state = slot + 1; }
+state = state*cursor;
+while (0-10) { slot = handle + 1; }
+int slot ;
+int state = 2;
+int slot = 2.0;
+handle = token;
+token = 1.25;
+if (1) { slot = 10; }
+result = 10>3.14;
+while handle ;
+int handle = 100;
+state = state;
+if (3.14<token) { result = 0.5==10; }
+if (100>100) { cursor = 42-42; }
+int slot = 1;
+if (result) { slot = 10; }
+//slowpath slowpath todo check
+return result;
+handle = "delta";
+return "alpha";
+token = "path\\tmp";
+int cursor = 10;
+handle = entry;
+while (token!=handle) { token = state + 1; }
+cursor = 2.0;
+cursor = 1;
+while (3.14!=42) { slot = slot + 1; }
+while (state) { state = handle + 1; }
+return entry ;
+handle = "alpha";
+while (2) { state = token + 1; }
+while (100<=100) { cursor = result + 1; }
+//value todo fastpath fastpath
+return entry;
+result = token;
+int token = 1.25;
+return 2;
+cursor = 100;
+while (handle) { result = entry + 1; }
+if slot ;
+slot = 0<=cursor;
+while (result>=result) { slot = slot + 1; }
+token = 10==handle;
+int cursor = 42;
+int token = 2.0;
+int entry = 42;
+state = "beta";
+if (2.0!=state) { token = token<=3.14; }
+int cursor = 2;
+int cursor = 10;
+int cursor = 0.5;
+//value slowpath value check
+handle = 2.0>=100;
+entry = cursor;
+for result ;
+return 0;
+int slot = 0.5;
+return "beta";
+int slot = 0;
+return 42;
+int entry = 1.25;
+state = "path\\tmp";
+if state ;
+while (cursor>3.14) { handle = handle + 1; }
+int result = 3.14;
+token = 1;
+while (handle<=10) { handle = handle + 1; }
+return "delta";
+while (2) { result = handle + 1; }
+while (0.5>=0.5) { slot = state + 1; }
+//todo check check todo
+//note todo todo value
+if (10*handle) { result = 2; }
+while (0<=0.5) { entry = result + 1; }
+if (0.5>handle) { entry = token; }
+int state = 0;
+state = 1==1.25;
+entry = "a b c";
+if (100>0) { token = cursor; }
+if (state) { cursor = slot>=1; }
+state = "a b c";
+int cursor = 10;
+int entry = 2;
+int slot = 42;
+int token = 10;
+int state ;
+int result = 2;
+token = slot<10;
+handle = "gamma";
+result = slot;
+result = 100;
+state = "gamma";
+if (entry+0.5) { token = 1; }
+int state = 2.0;
+entry = "alpha";
+for slot ;
+cursor = "delta";
+token = result;
+int entry = 0;
+while (2>=state) { entry = cursor + 1; }
+int token = 42;
+while (token==2.0) { token = result + 1; }
+handle = 42==entry;
+result = 0.5+42;
+if (2.0/0) { entry = 42!=42; }
+while (token/slot) { entry = token + 1; }
+int token = 10;
+while (10<3.14) { handle = handle + 1; }
+slot = "a b c";
+result = 0+2;
+if (token) { slot = slot>entry; }
+if (2) { cursor = 1.25<=entry; }
+while (cursor) { token = state + 1; }
+if (42-state) { slot = 0-0.5; }
+int state = 2;
+if (2>=3.14) { cursor = 3.14<=1.25; }
+state = 2;
+return "alpha";
+int cursor = 0.5;
+int entry = 42;
+while (handle+10) { slot = cursor + 1; }
+while (token) { cursor = handle + 1; }
+if (slot>=cursor) { entry = handle-result; }
+while (cursor<=42) { result = cursor + 1; }
+slot = 0<=state;
+cursor = 0==1;
+while result ;
+result = 42>=3.14;
+cursor = 0.5<=0.5;
+//note note fastpath fastpath
+if handle ;
+if (0.5-100) { slot = entry>handle; }
+int cursor = 42;
+entry = 100<=state;
+if (0.5) { cursor = 0-0; }
+if result ;
+if (slot<=token) { token = slot==1; }
+cursor = "alpha";
+int result = 0.5;
+return "a b c";
+return token;
+return "delta";
+int result = 2;
+if (42+100) { result = slot<=0; }
+while slot ;
+slot = 42==0.5;
+int result = 0;
+if (result) { state = handle>=entry; }
+//fastpath check value value
+token = 1.25*2.0;
+while (2.0-2.0) { cursor = cursor + 1; }
+result = entry;
+return token;
+slot = 2.0>1.25;
+if (0) { handle = 0.5; }
+int result = 1;
+int slot = 3.14;
+if (2.0) { slot = 1; }
+entry = 1<2;
+int handle = 10;
+int handle = 3.14;
+//slowpath fastpath check value
+while (2.0/42) { cursor = state + 1; }
+while (1.25+42) { handle = entry + 1; }
+if (1<=entry) { state = 3.14>=0; }
+int token = 0.5;
+if (100<state) { cursor = 0.5!=cursor; }
+while (0>slot) { result = slot + 1; }
+return 42;
+if entry ;
+int state = 1.25;
+state = 1<=cursor;
+token = "path\\tmp";
+if (state) { handle = 1.25!=0.5; }
+return 42;
+while cursor ;
+entry = "alpha";
+//todo slowpath fastpath check
+cursor = 0;
+token = "alpha";
+return "beta";
+int entry = 2.0;
+int handle ;
+int cursor = 0;
+int token = 42;
+int result = 1.25;
+int token = 2;
+int entry ;
+if (2.0!=10) { cursor = handle; }
+int state = 3.14;
+//check value fastpath slowpath
+if (1.25>0) { entry = 10; }
+while (slot) { handle = token + 1; }
+result = 2!=1.25;
+entry = "delta";
+state = 42>42;
+for slot ;
+handle = handle<3.14;
+for cursor ;
+handle = 0!=42;
+while (100) { slot = token + 1; }
+while (result) { slot = result + 1; }
+//note fastpath check slowpath
+if (100) { result = result; }
+return cursor;
+slot = 2.0<2.0;
+result = token==1;
+int result = 1;
+if (1>=0) { entry = 42!=100; }
+if (0.5!=2) { slot = 100/1.25; }
+while (slot/result) { handle = slot + 1; }
+if slot ;
+entry = result;
+while (1!=result) { handle = handle + 1; }
+token = 42>=42;
+while (0>=0) { cursor = slot + 1; }
+if (42!=token) { result = 2.0-token; }
+int handle ;
+if (entry) { entry = result; }
+if (entry) { state = token; }
+slot = "alpha";
+return "beta";
+while (cursor-3.14) { handle = state + 1; }
+entry = token-100;
+while (entry-10) { handle = token + 1; }
+int result = 1;
+//todo note value check
+state = state<slot;
+int handle = 3.14;
+if (entry) { slot = 0.5-entry; }
+token = "path\\tmp";
+while (slot==state) { cursor = slot + 1; }
+entry = 2.0+0.5;
+int cursor = 1;
+if (result<=entry) { entry = token!=0.5; }
+cursor = "delta";
+return handle;
+int handle = 42;
+while cursor ;
+if (100-2.0) { state = handle==cursor; }
+while (100>=handle) { state = token + 1; }
+while (42) { handle = state + 1; }
+while entry ;
+int cursor = 2.0;
+int slot = 0;
+handle = 2/0.5;
+int cursor = 1.25;
+if (42>3.14) { state = 42+entry; }
+int slot ;
+while (handle) { handle = result + 1; }
+token = "alpha";
+if slot ;
+int token ;
+result = token;
+int entry = 2.0;
+state = "alpha";
+handle = 3.14<=state;
+int result = 1.25;
+if (10*1) { slot = slot; }
+int cursor = 2;
+return state;
+int handle = 100;
+//fastpath todo fastpath slowpath
+state = cursor/100;
+while (10/result) { result = slot + 1; }
+slot = 2==entry;
+slot = 1.25+42;
+return 100;
+if (handle) { handle = 1>0.5; }
+while (handle/token) { token = entry + 1; }
+if (result!=0) { state = 42!=2.0; }
+while (10*state) { state = result + 1; }
+if (0.5) { slot = 2<=token; }
+int slot = 42;
+result = "alpha";
+while (cursor!=entry) { token = token + 1; }
+while (cursor-0.5) { token = token + 1; }
+return "path\\tmp";
+//fastpath check note check
+while (slot<10) { slot = entry + 1; }
+return 10;
+int handle = 1;
+while (handle*handle) { handle = state + 1; }
+if (1*slot) { result = 1.25>=2; }
+if (result<100) { result = 1; }
+//check todo check todo
+while (1*token) { result = cursor + 1; }
+if entry ;
+int token = 10;
+int result ;
+state = 1.25;
+return handle;
+while (1.25+0.5) { slot = cursor + 1; }
+cursor = "a b c";
+result = slot*2;
+handle = "gamma";
+return cursor;
+cursor = "beta";
+if cursor ;
+cursor = "path\\tmp";
+while (state>2) { result = handle + 1; }
+int slot = 100;
+if (state*1) { token = 1; }
+if (42==token) { state = 42; }
+int entry = 42;
+while (3.14*10) { handle = cursor + 1; }
+handle = 100<2.0;
+int result = 3.14;
+handle = 1<entry;
+int slot = 0.5;
+for cursor ;
+if (0.5!=0) { result = 1.25!=entry; }
+while (cursor) { cursor = token + 1; }
+token = "beta";
+while (slot) { result = state + 1; }
+return "beta";
+int handle = 1.25;
+while (1-2) { token = slot + 1; }
+int cursor = 2.0;
+return "path\\tmp";
+cursor = 10/cursor;
+return result;
+return entry;
+handle = "a b c";
+token = 10-token;
+int handle = 3.14;
+slot = "a b c";
+while (entry) { token = handle + 1; }
+return result;
+return "path\\tmp";
+entry = 10<2;
+//value slowpath slowpath fastpath
+int handle = 0.5;
+state = entry;
+for handle ;
+if (cursor) { result = state>handle; }
+entry = 3.14-entry;
+token = result;
+token = "delta";
+return "beta";
+state = cursor>slot;
+handle = 42<2;
+slot = 2.0==1.25;
+if (10<=0) { result = 2.0!=100; }
+slot = "a b c";
+if entry ;
+return 0;
+int state = 10;
+token = 2.0;
+token = 1+1;
+if (1*10) { slot = token; }
+return 42;
+int slot = 1.25;
+int token = 2;
+slot = 3.14+0;
+state = cursor!=3.14;
+return cursor;
+int cursor = 10;
+handle = handle!=42;
+int slot = 42;
+cursor = "alpha";
+if (1.25<1) { token = 1>cursor; }
+int token = 0.5;
+handle = cursor;
+int entry = 2;
+handle = 100+result;
+return result;
+int entry = 100;
+token = "beta";
+state = handle<0.5;
+int token = 42;
+return 100;
+int handle = 3.14;
+//note check check value
+cursor = "path\\tmp";
+state = handle;
+state = "gamma";
+while cursor ;
+return cursor;
+slot = entry<3.14;
+int slot = 1;
+if (state) { result = entry<result; }
+if (3.14<=entry) { slot = slot<=cursor; }
+return 100;
+int token = 1.25;
+result = "path\\tmp";
+int cursor = 0;
+while (0) { entry = handle + 1; }
+token = state>2.0;
+if (0) { handle = token/42; }
+int state = 1.25;
+cursor = 1<2;
+state = 100-cursor;
+while (3.14*state) { token = slot + 1; }
+while (handle+0) { state = cursor + 1; }
+//todo check fastpath note
+return result ;
+result = "delta";
+//value slowpath slowpath todo
+return 0;
+handle = "delta";
+while (1>=3.14) { result = token + 1; }
+cursor = "delta";
+while (3.14>1.25) { result = token + 1; }
+int entry = 42;
+entry = state;
+while slot ;
+return cursor ;
+token = 3.14!=10;
+return entry;
+if cursor ;
+handle = "gamma";
+return "alpha";
+return "gamma";
+token = 10>slot;
+//todo check value value
+return "beta";
+handle = 2!=10;
+return 10;
+if handle ;
+result = "a b c";
+int handle = 1;
+int entry = 1.25;
+result = 1.25>2.0;
+int token = 42;
+result = 10;
+if (0!=2.0) { state = result; }
+return 42;
+return 0;
+while (state) { handle = entry + 1; }
+token = "a b c";
+while (0.5!=42) { result = handle + 1; }
+//slowpath slowpath todo value
+int state = 10;
+while (10) { state = state + 1; }
+if (entry) { state = token*2.0; }
+//check fastpath note value
+while (token-10) { token = slot + 1; }
+int cursor = 42;
+entry = 1;
+while (0<token) { state = entry + 1; }
+state = "path\\tmp";
+slot = handle>token;
+while (result/2) { handle = state + 1; }
+entry = 100==0;
+if (1<1.25) { result = entry<1; }
+int state = 1.25;
+//check slowpath check slowpath
+return 1;
+int entry = 2.0;
+if token ;
+state = "gamma";
+for slot ;
+state = "a b c";
+int slot = 0;
+slot = "a b c";
+int entry = 0.5;
+while (token==100) { cursor = cursor + 1; }
+int token = 1;
+slot = "beta";
+token = 1*0.5;
+int token = 0.5;
+if (3.14) { entry = result>=1; }
+if (cursor>=1.25) { token = token>=100; }
+while (3.14<=0.5) { state = token + 1; }
+for token ;
+while (2/2) { entry = entry + 1; }
+while (0) { entry = slot + 1; }
+return state ;
+if (token>2) { entry = 0.5<42; }
+handle = slot<=slot;
+return 2;
+//note value check value
+//note note check check
+slot = 10!=3.14;
+result = "delta";
+if (42!=42) { entry = 2; }
+result = result;
+return "delta";
+return 100;
+while (0.5>=100) { token = cursor + 1; }
+result = 3.14;
+return 10;
+token = "beta";
+if (state*1) { slot = 1.25!=0; }
+//check slowpath slowpath slowpath
+handle = 2.0<=3.14;
+int slot = 1;
+while (result>=2) { token = cursor + 1; }
+if (2.0<=handle) { result = state>100; }
+int state = 10;
+while (1) { result = token + 1; }
+entry = 1.25==2.0;
+return result;
+if entry ;
+return 100;
+token = "a b c";
+int state = 0.5;
+if (entry>10) { entry = result; }
+entry = "alpha";
+//todo check value note
+if (0.5==42) { entry = token; }
+slot = 10;
+slot = slot+result;
+int slot = 1.25;
+int state = 10;
+while (10<3.14) { handle = state + 1; }
+int cursor = 42;
+//todo check fastpath check
+token = slot;
+entry = 1.25!=state;
+return 10;
+if (2.0-token) { cursor = 42; }
+state = "delta";
+int state = 1.25;
+if (1-2) { state = cursor==3.14; }
+return token;
+//fastpath todo check value
+if (token==result) { result = 0!=cursor; }
+if (state>1.25) { state = 1.25>=entry; }
+int token = 0.5;
+cursor = 2;
+for state ;
+int slot = 10;
+int result = 3.14;
+while (handle*2.0) { handle = slot + 1; }
+cursor = "beta";
+int token = 0;
+int cursor = 0;
+slot = 42;
+result = "a b c";
+cursor = 1<0;
+return token ;
+while result ;
+int handle = 2;
+state = "gamma";
+cursor = token<0;
+//todo note check slowpath
+return result ;
+handle = 3.14;
+while (state*3.14) { entry = entry + 1; }
+while (3.14+2.0) { state = token + 1; }
+result = "alpha";
+state = entry<=slot;
+int entry = 0.5;
+while (0*0) { result = state + 1; }
+if (cursor) { handle = slot<=state; }
+while (100>=10) { slot = entry + 1; }
+return handle ;
+int slot = 2;
+int state ;
+int token = 42;
+if (3.14<42) { cursor = 1==100; }
+cursor = "delta";
+if (2) { handle = 100; }
+result = "a b c";
+//check check fastpath note
+if (1<=100) { entry = 1<=entry; }
+token = "beta";
+for result ;
+result = 1+token;
+//fastpath note check fastpath
+cursor = result>=0.5;
+handle = 10>42;
+int state = 1.25;
+return 2;
+slot = "path\\tmp";
+return 10;
+handle = "beta";
+return 42;
+if (state) { result = 0!=1.25; }
+entry = slot<=token;
+int handle = 100;
+if (0==result) { token = 0*1.25; }
+return "alpha";
+handle = 2+3.14;
+if token ;
+for handle ;
+cursor = "a b c";
+for handle ;
+if (result<token) { cursor = token; }
+return state;
+token = "beta";
+if (42>0.5) { handle = 1.25==handle; }
+entry = "beta";
+int state ;
+int entry = 2;
+return 100;
+//value note note note
+token = "a b c";
+if (10<=slot) { state = entry; }
+int slot ;
+while (token*token) { state = slot + 1; }
+if (10) { cursor = 1-0; }
+return "delta";
+if (42-handle) { slot = 100+0.5; }
+if (cursor) { token = 10>100; }
+int entry = 100;
+for entry ;
+result = 100<=42;
+while (1.25==handle) { handle = slot + 1; }
+handle = 10+state;
+return "a b c";
+while (2!=2) { token = result + 1; }
+int token = 0;
+entry = "beta";
+return entry;
+while (3.14==2.0) { result = cursor + 1; }
+handle = "delta";
+return cursor;
+return cursor ;
+entry = 10+entry;
+result = 2.0;
+while state ;
+result = 100*handle;
+token = "beta";
+if (token>=1.25) { result = entry>=state; }
+return 10;
+//todo note todo value
+return "delta";
+slot = 0;
+result = state;
+int handle = 2.0;
+int entry = 0.5;
+return "a b c";
+int state = 1.25;
+cursor = "gamma";
+for entry ;
+while (3.14/slot) { result = state + 1; }
+while token ;
+if (1.25>3.14) { result = state>=0.5; }
+if slot ;
+int result ;
+if (slot<slot) { slot = 42/2; }
+if (42*2.0) { result = handle; }
+int token = 100;
+int handle = 100;
+while (1.25/2.0) { token = slot + 1; }
+token = state>=3.14;
+if (0<=slot) { state = entry; }
+int slot = 1.25;
+for state ;
+slot = state/slot;
+return 1;
+result = state>handle;
+for token ;
+handle = 3.14;
+if (token<=1) { state = cursor>=1; }
+int token = 0.5;
+handle = 2;
+if (0.5+state) { result = 100>=1; }
+return "beta";
+while (2>=10) { slot = state + 1; }
+//note todo todo value
+int token = 2;
+slot = "beta";
+result = cursor<2;
+result = "delta";
+result = 0.5>3.14;
+state = 42==100;
+result = "delta";
+while (42>=token) { handle = state + 1; }
+return cursor ;
+int result = 2.0;
+handle = cursor<=result;
+return slot;
+token = "delta";
+cursor = 2;
+//todo slowpath slowpath value
+handle = 1!=slot;
+for result ;
+//check slowpath value fastpath
+token = "a b c";
+entry = 42+token;
+return 100;
+//fastpath fastpath value todo
+int token = 10;
+entry = 3.14>result;
+while (2) { handle = cursor + 1; }
+handle = "path\\tmp";
+return "beta";
+if (3.14!=0) { result = handle!=10; }
+int cursor = 3.14;
+state = "delta";
+int token = 2.0;
+return result ;
+//check slowpath note value
+//note todo todo slowpath
+result = "alpha";
+return entry ;
+if (token>1.25) { cursor = 2; }
+int token = 1.25;
+int entry = 2;
+slot = "beta";
+while (0*1.25) { slot = result + 1; }
+if (result) { token = 10>0.5; }
+if (0*1) { cursor = 1.25; }
+return token;
+int entry = 1;
+while (2.0-0) { result = state + 1; }
+int cursor ;
+int entry = 10;
+//slowpath slowpath check slowpath
+//note slowpath note slowpath
+if (slot) { result = 0.5; }
+//note note check todo
+if result ;
+int slot = 0;
+slot = 1.25==100;
+//check note todo slowpath
+if (3.14+0) { state = cursor+cursor; }
+while (10) { token = slot + 1; }
+return "gamma";
+result = "beta";
+//value fastpath note slowpath
+int token = 0.5;
+return state ;
+token = 0.5;
+return "delta";
+return handle ;
+if (10<1.25) { token = token*slot; }
+return 42;
+while result ;
+handle = "gamma";
+while slot ;
+if (10<=1.25) { result = cursor<slot; }
+if (0.5) { state = 0>=state; }
+int result ;
+if token ;
+if (2.0) { entry = 0>=2.0; }
+handle = token;
+int result = 1;
+for cursor ;
+result = 10*cursor;
+while (1<3.14) { state = token + 1; }
+int result = 10;
+int state = 0.5;
+entry = state;
+return "alpha";
+token = token-entry;
+if (state==0.5) { handle = 0.5<entry; }
+return 2;
+entry = 42!=result;
+if (3.14*0) { token = entry+3.14; }
+return state;
+int handle = 0;
+cursor = 2;
+int result = 3.14;
+slot = "delta";
+while (10) { state = token + 1; }
+int token = 2.0;
+while (state) { slot = state + 1; }
+if (1.25) { state = 42<=state; }
+return 0;
+slot = handle/2;
+while (cursor>1) { slot = cursor + 1; }
+state = handle;
+//fastpath check fastpath todo
+//value slowpath value note
+if (2/10) { state = 3.14+1; }
+int state = 2.0;
+if (result-10) { result = 1.25==42; }
+int slot = 42;
+if (100) { handle = token+slot; }
+return slot;
+int handle = 42;
+int cursor = 0;
+int state = 0;
+cursor = 0.5>=token;
+while handle ;
+slot = 0.5!=token;
+result = 1.25;
+return handle;
+int state = 3.14;
+int result = 42;
+if (0>=handle) { entry = token==2.0; }
+while (0.5<entry) { cursor = handle + 1; }
+if (1<2) { state = result; }
+while (0.5/3.14) { result = handle + 1; }
+return token;
+if (cursor>2) { token = 1.25; }
+while (3.14) { state = token + 1; }
+token = handle>=1;
+if (token+1.25) { cursor = state; }
+int cursor = 0.5;
+if (2.0>result) { handle = 2.0-token; }
+//check todo todo check
+if (2.0) { entry = token!=token; }
+if result ;
+while (0) { handle = state + 1; }
+int cursor = 1;
+return 100;
+return result;
+if result ;
+handle = "alpha";
+slot = 1;
+//note slowpath note fastpath
+int entry = 42;
+int state = 3.14;
+cursor = "beta";
+entry = 100;
+token = 1.25<0.5;
+return 10;
+while (1) { handle = slot + 1; }
+if (42) { result = 10!=2; }
+//check slowpath note slowpath
+slot = 10*token;
+return "delta";
+return slot ;
+if (cursor) { result = state==0; }
+token = 42;
+if (10-100) { entry = 1; }
+int handle = 0.5;
+if (2.0<result) { handle = entry/slot; }
+handle = "delta";
+cursor = state*result;
+token = result;
+entry = "delta";
+handle = 10*cursor;
+if (10) { handle = 0.5-0.5; }
+int result = 2.0;
+cursor = 1.25;
+entry = 42+1.25;
+return handle;
+return cursor ;
+cursor = 100<100;
+return slot;
+entry = 0.5<=10;
+int token = 0.5;
+if (10>=0) { state = handle; }
+state = 2.0*slot;
+int token = 0.5;
+cursor = slot<=token;
+state = entry<=0;
+if handle ;
+if (2.0-100) { state = 3.14; }
+int handle = 0;
+for handle ;
+result = "beta";
+if token ;
+result = "path\\tmp";
+result = cursor+state;
+while (state) { state = result + 1; }
+cursor = token>=0;
+slot = "alpha";
+while state ;
+int result = 1;
+while handle ;
+state = "path\\tmp";
+entry = handle>42;
+slot = 1.25;
+while (slot-cursor) { handle = cursor + 1; }
+token = 3.14!=1.25;
+while (token<=42) { result = slot + 1; }
+handle = "alpha";
+token = entry-1;
+return token;
+while (10<=10) { handle = handle + 1; }
+if (2+2) { entry = 1*token; }
+int token = 2;
+cursor = 1<result;
+while (handle!=1) { result = state + 1; }
+return entry;
+if (0+2.0) { state = result; }
+while (handle>token) { result = slot + 1; }
+handle = 10;
+while (1) { slot = state + 1; }
+if (slot>=42) { cursor = 100<=3.14; }
+//check fastpath todo fastpath
+//note todo check todo
+state = result>state;
+token = cursor;
+//note value fastpath note
+entry = 42;
+return "a b c";
+while (token) { result = handle + 1; }
+//note check value note
+if (2.0-2.0) { token = 100<1.25; }
+entry = result;
+int slot = 1.25;
+slot = "alpha";
+if (entry!=token) { cursor = 0.5>=100; }
+if (handle) { state = 100==token; }
+//note slowpath value fastpath
+result = "a b c";
+if (10) { cursor = 100!=42; }
+cursor = entry/token;
+if (42) { token = cursor; }
+result = "a b c";
+if (1.25/0.5) { slot = slot; }
+//value value note note
+while (entry<=0.5) { slot = result + 1; }
+return 10;
+result = 10+100;
+entry = 100;
+return result;
+if (state!=0) { token = 1<slot; }
+while (2) { result = entry + 1; }
+state = handle;
+slot = "beta";
+int slot = 1.25;
+entry = "path\\tmp";
+token = handle;
+while (1) { slot = result + 1; }
+int result = 2.0;
+cursor = slot+100;
+int slot = 42;
+int entry = 0.5;
+//fastpath note todo note
+int token = 1;
+entry = result;
+while (1.25>=0) { slot = slot + 1; }
+return entry;
+int slot = 2.0;
+if (2) { result = handle<=10; }
+handle = "delta";
+//check check slowpath check
+if (cursor) { cursor = 100-1.25; }
+while (42) { cursor = entry + 1; }
+return "path\\tmp";
+cursor = 10;
+int handle = 2;
+//check todo fastpath slowpath
+while (result==1) { result = cursor + 1; }
+return "beta";
+token = "gamma";
+while (token) { cursor = entry + 1; }
+while (entry-handle) { entry = slot + 1; }
+if (entry) { slot = cursor; }
+return 2;
+int handle = 2.0;
+while (42/100) { slot = handle + 1; }
+return 42;
+handle = 10>=42;
+while (3.14) { entry = result + 1; }
+return handle;
+entry = 0.5!=10;
+int state = 42;
+while (100==result) { state = result + 1; }
+//value value todo todo
+int slot = 100;
+while entry ;
+if entry ;
+return "delta";
+return cursor ;
+slot = 100>result;
+return entry ;
+while slot ;
+state = "path\\tmp";
+return result;
+int cursor = 42;
+handle = "gamma";
+//fastpath value todo fastpath
+if (42<=1) { slot = token<state; }
+token = "gamma";
+int state = 42;
+result = handle;
+return cursor;
+//slowpath value value slowpath
+result = 2>cursor;
+if (100*handle) { token = 2.0<=cursor; }
+int result = 0;
+if (2*result) { slot = cursor!=100; }
+return 100;
+int slot = 1.25;
+int handle = 10;
+if (cursor) { cursor = 2.0/10; }
+//check fastpath check slowpath
+entry = 100;
+return entry;
+int slot = 1;
+if entry ;
+while (0) { handle = entry + 1; }
+if (2>=cursor) { entry = 0; }
+result = "path\\tmp";
+return result;
+return slot;
+return 42;
+int cursor = 100;
+//check todo fastpath fastpath
+slot = 1.25==2.0;
+while state ;
+token = 2;
+return token ;
+return entry;
+while entry ;
+while entry ;
+while (1.25) { slot = cursor + 1; }
+//fastpath slowpath slowpath note
+int result = 0;
+int result = 0;
+//fastpath note todo note
+int token = 1.25;
+int entry = 0;
+int token = 10;
+if entry ;
+if (0*1) { handle = 2+handle; }
+if (slot) { handle = 42-42; }
+if (0+100) { slot = 100!=10; }
+result = "a b c";
+handle = 0>2.0;
+result = 1.25/handle;
+if slot ;
+return result ;
+return slot;
+handle = "delta";
+if (state) { handle = result; }
+int slot = 100;
+entry = 10;
+return "path\\tmp";
+int cursor = 0.5;
+while (10!=1.25) { result = handle + 1; }
+int slot = 100;
+while entry ;
+//todo value fastpath value
+slot = token==cursor;
+if (entry+10) { slot = 100+2.0; }
+int token = 0;
+int state = 10;
+while (entry>=result) { slot = handle + 1; }
+cursor = result>=state;
+return entry;
+int slot = 2;
+while (slot+0) { cursor = entry + 1; }
+entry = "beta";
+int slot = 0;
+int result = 0;
+if (1) { handle = state>=42; }
+if (entry) { slot = 1!=2; }
+if (2.0) { state = cursor-100; }
+if (2.0<=handle) { state = 1.25+2.0; }
+int slot = 2.0;
+handle = "gamma";
+if (0) { entry = 3.14; }
+int result = 1;
+handle = 10>=1.25;
+state = 0.5<=2;
+if slot ;
+while (1.25) { state = handle + 1; }
+return slot ;
+if (0.5) { state = 0.5<cursor; }
+entry = "beta";
+if (2+2) { state = result; }
+if (100!=slot) { token = token; }
+entry = "delta";
+handle = slot;
+return slot ;
+handle = 10;
+result = 10>=1.25;
+if entry ;
+if handle ;
+token = 100+0.5;
+int result = 3.14;
+while entry ;
+if (42<1.25) { state = 2; }
+state = handle+result;
+state = "alpha";
+int slot = 10;
+int result ;
+return cursor;
+return "path\\tmp";
+if (0.5) { result = 3.14>=slot; }
+while (2>=1) { state = token + 1; }
+int result ;
+return "delta";
+if (0) { result = result; }
+//check value fastpath fastpath
+while (10+2) { handle = token + 1; }
+int handle = 42;
+handle = 1;
+handle = 1;
+token = "path\\tmp";
+state = entry<0.5;
+result = "path\\tmp";
+//slowpath value check check
+return 42;
+slot = 1.25/0.5;
+handle = 3.14==0.5;
+while result ;
+for entry ;
+if (state==state) { token = 10>state; }
+result = "gamma";
+int handle = 10;
+entry = "delta";
+int slot = 42;
+state = 100*entry;
+if entry ;
+if cursor ;
+while (entry!=cursor) { state = token + 1; }
+int result = 10;
+int cursor = 2.0;
+while (3.14<=handle) { token = cursor + 1; }
+result = 0;
+int entry = 1.25;
+while (42+cursor) { cursor = slot + 1; }
+slot = cursor;
+//note todo value slowpath
+if (entry/2.0) { slot = 0.5; }
+entry = result<entry;
+while entry ;
+cursor = "alpha";
+int slot = 1;
+//fastpath note slowpath fastpath
+while (1) { state = entry + 1; }
+return "a b c";
+while (cursor/1.25) { result = state + 1; }
+int slot = 100;
+for slot ;
+slot = "delta";
+while (token) { result = slot + 1; }
+for result ;
+result = "beta";
+slot = 3.14;
+if (1) { entry = 1; }
+while (3.14*token) { cursor = slot + 1; }
+int cursor ;
+while (100) { slot = cursor + 1; }
+int entry = 1;
+while (10!=result) { token = state + 1; }
+int entry = 2;
+if (100-42) { state = 3.14<0; }
+if (100<=0) { entry = result; }
+cursor = entry-token;
+if (0>=slot) { state = 0.5!=1; }
+int slot = 10;
+//check todo note note
+while (token*1.25) { entry = cursor + 1; }
+cursor = handle;
+int state = 3.14;
+int result = 10;
+for cursor ;
+while (100*result) { state = token + 1; }
+cursor = state<handle;
+int handle = 3.14;
+//fastpath check check note
+while (10-cursor) { state = handle + 1; }
+result = 2.0*slot;
+handle = state;
+token = "delta";
+//note value check note
+cursor = handle!=10;
+//slowpath slowpath slowpath fastpath
+return token;
+int cursor = 1;
+entry = "beta";
+while (result/0) { entry = slot + 1; }
+entry = "gamma";
+while (2>=slot) { token = entry + 1; }
+while (0.5<42) { slot = handle + 1; }
+return "beta";
+state = 0.5+0;
+slot = state;
+int cursor = 42;
+while result ;
+int handle = 3.14;
+while (entry-1.25) { cursor = handle + 1; }
+while (2) { slot = slot + 1; }
+handle = 1*2.0;
+while (0.5/token) { slot = handle + 1; }
+int result = 3.14;
+return 100;
+state = token==slot;
+int result = 42;
+return 2;
+//fastpath note fastpath check
+slot = "gamma";
+token = 100;
+cursor = token!=0;
+return token;
+if (100!=token) { result = 2.0-token; }
+//value fastpath todo value
+while result ;
+entry = 10;
+handle = 2>0.5;
+int slot = 1.25;
+int cursor = 3.14;
+while (42<1) { handle = token + 1; }
+if (2.0) { handle = handle>=42; }
+return token;
+handle = 2.0+0.5;
+if (cursor<10) { token = entry>0.5; }
+token = state!=0.5;
+while (slot>entry) { handle = token + 1; }
+while handle ;
+while (token-slot) { handle = slot + 1; }
+slot = "a b c";
+int handle = 42;
+if (entry<3.14) { entry = 2; }
+state = 0;
+int state = 3.14;
+if (slot) { state = 42; }
+//slowpath fastpath fastpath note
+state = "alpha";
+state = result;
+int result = 42;
+int slot = 100;
+//check fastpath value note
+if (cursor) { cursor = entry==42; }
+return 42;
+return "a b c";
+while (0.5==cursor) { state = token + 1; }
+if (0-2.0) { cursor = 42<1.25; }
+//slowpath check fastpath check
+while slot ;
+token = token<=slot;
+slot = token/handle;
+token = 10!=1;
+while (2.0*entry) { cursor = slot + 1; }
+//note fastpath note note
+return 10;
+while (0) { token = cursor + 1; }
+int handle = 1.25;
+if (100<=token) { state = 10/1.25; }
+for slot ;
+entry = "delta";
+if (0.5) { result = 2-2; }
+//value note fastpath note
+slot = "alpha";
+cursor = 1;
+handle = "alpha";
+//note slowpath value slowpath
+int entry = 2.0;
+while (entry>=cursor) { entry = entry + 1; }
+handle = handle;
+int slot = 1.25;
+return "alpha";
+int state = 1;
+token = "gamma";
+entry = 0<1;
+if (2) { state = cursor; }
+while cursor ;
+//slowpath note slowpath check
+int result = 0.5;
+if token ;
+int state = 100;
+return cursor ;
+int entry ;
+if (1*state) { slot = 3.14*2.0; }
+return slot;
+token = "a b c";
+state = 0.5>state;
+while (3.14!=3.14) { cursor = handle + 1; }
+if (1.25<=1.25) { cursor = handle==0.5; }
+if (42) { state = 1.25!=handle; }
+while (entry>=entry) { token = token + 1; }
+result = "delta";
+slot = 0;
+int handle = 0;
+token = "delta";
+if (state>=2) { token = 1.25/result; }
+int slot = 10;
+while (entry>42) { cursor = entry + 1; }
+slot = 0.5!=2;
+if (result!=result) { state = 100; }
+int entry = 100;
+while (10) { cursor = state + 1; }
+int result = 42;
+while (0*entry) { state = entry + 1; }
+int state = 0;
+while (3.14>=1) { result = state + 1; }
+while (slot) { slot = handle + 1; }
+state = "a b c";
+token = 2/entry;
+while (state>state) { token = entry + 1; }
+return slot;
+return state;
+if (42<token) { handle = result; }
+if (1!=10) { state = 0.5; }
+if (2) { slot = token<token; }
+if (100) { result = 0; }
+state = 0*state;
+int state = 2;
+slot = 100!=2.0;
+if entry ;
+while (2.0/token) { handle = handle + 1; }
+cursor = "alpha";
+int result = 0;
+if (cursor>=token) { cursor = 1.25; }
+result = 0.5==0;
+return "delta";
+while (entry) { state = slot + 1; }
+if (3.14!=10) { state = state/1; }
+entry = 10;
+while (handle) { handle = cursor + 1; }
+if (slot) { token = 3.14>=result; }
+//value value slowpath slowpath
+while (100<slot) { token = result + 1; }
+while (2-0) { state = handle + 1; }
+int entry = 2.0;
+cursor = cursor!=slot;
+int entry = 3.14;
+handle = 42;
+state = 2.0-42;
+int token = 10;
+result = 0;
+int entry = 10;
+if (handle) { token = token>=token; }
+int result = 2;
+int token ;
+int result = 42;
+if (entry) { entry = handle; }
+return state ;
+if (1.25*3.14) { cursor = 10; }
+result = 42>10;
+entry = "delta";
+cursor = slot;
+result = "gamma";
+while (2) { state = slot + 1; }
+int result = 2.0;
+int entry = 1.25;
+int token = 1.25;
+return 100;
+if (3.14>handle) { cursor = 3.14; }
+handle = handle;
+return 1;
+cursor = 0==entry;
+while (1>2) { result = token + 1; }
+state = 100-0;
+state = 1;
+int handle ;
+if (2) { entry = 0.5/cursor; }
+cursor = result<=entry;
+while (1*10) { state = state + 1; }
+slot = 3.14!=result;
+state = state*3.14;
+while cursor ;
+result = "delta";
+int entry = 100;
+token = 2==entry;
+cursor = result>=cursor;
+return 0;
+int cursor = 2;
+if (0.5) { cursor = handle; }
+while result ;
+slot = entry;
+int entry = 42;
+int result = 10;
+result = "alpha";
+entry = 0.5+state;
+result = 2;
+handle = 3.14<=42;
+int cursor = 0.5;
+//note value fastpath check
+return 100;
+entry = "alpha";
+return result;
+return slot;
+int handle = 1.25;
+entry = token;
+int slot = 2;
+if (cursor>=42) { state = 2.0; }
+entry = cursor==result;
+while (0*entry) { entry = slot + 1; }
+//fastpath slowpath fastpath check
+return cursor;
+int cursor = 0.5;
+int state ;
+int cursor = 2;
+if (100/2.0) { handle = 0.5; }
+//check slowpath check note
+if (1/entry) { handle = 10-10; }
+int cursor = 42;
+int cursor ;
+while token ;
+while (slot+3.14) { entry = cursor + 1; }
+//value note note check
+//check fastpath check slowpath
+return state;
+if (2==token) { slot = 10<cursor; }
+//check slowpath check slowpath
+result = "beta";
+while (entry<1.25) { entry = handle + 1; }
+if (state-0.5) { handle = 100; }
+for state ;
+return cursor;
+state = 10<handle;
+token = state+slot;
+if (entry) { token = result; }
+int entry = 2.0;
+int slot = 100;
+handle = 10!=10;
+//value slowpath check todo
+while (42*1.25) { token = token + 1; }
+//fastpath slowpath slowpath note
+int handle = 0;
+if (42/100) { entry = 1-10; }
+slot = token/3.14;
+int entry = 42;
+if (100+slot) { token = handle*1; }
+int handle = 0.5;
+if (entry>2) { cursor = slot-token; }
+while cursor ;
+if (2+10) { slot = 1.25-2.0; }
+while (state) { handle = cursor + 1; }
+while (handle<=cursor) { cursor = token + 1; }
+while (state==slot) { result = handle + 1; }
+int entry = 10;
+if (2<=0) { cursor = 0.5+handle; }
+int token = 1;
+cursor = 0.5;
+return entry;
+int handle = 10;
+if (handle) { cursor = handle!=result; }
+while (state) { result = token + 1; }
+int result = 100;
+if (handle*slot) { state = 100; }
+token = 2.0;
+slot = "gamma";
+int state = 100;
+//check value value fastpath
+return handle;
+cursor = handle;
+return state;
+cursor = 3.14<0;
+return entry;
+return 42;
+while (1>=2.0) { cursor = cursor + 1; }
+while (0) { state = state + 1; }
+return handle ;
+int handle = 3.14;
+int entry = 2;
+entry = state+result;
+int token ;
+state = token==100;
+result = "alpha";
+if (result+cursor) { state = 1; }
+cursor = 0/2;
+int slot = 100;
+for cursor ;
+return "gamma";
+result = entry;
+if (slot<=state) { cursor = 1.25*handle; }
+while (1-result) { state = token + 1; }
+int handle = 2;
+while (cursor) { cursor = state + 1; }
+while (1.25) { handle = token + 1; }
+state = "a b c";
+return result;
+return 100;
+handle = 1.25*42;
+while (token>=0.5) { entry = entry + 1; }
+int handle = 42;
+handle = entry<=result;
+return "beta";
+if (2.0+0.5) { token = 0*result; }
+//value todo value note
+int token = 0.5;
+//fastpath slowpath fastpath value
+if (cursor!=2.0) { cursor = handle>2.0; }
+while (state) { handle = entry + 1; }
+int entry = 1.25;
+//value note todo slowpath
+int state = 1;
+int result = 42;
+int token = 100;
+while (10-3.14) { state = entry + 1; }
+return token ;
+//check todo fastpath note
+if slot ;
+handle = "alpha";
+cursor = state;
+while (0.5) { slot = cursor + 1; }
+//note value fastpath note
+return 1;
+cursor = 100;
+cursor = "a b c";
+while cursor ;
+state = "path\\tmp";
+if (token!=10) { state = cursor<handle; }
+token = 1.25==100;
+token = "alpha";
+int token = 2;
+return 42;
+return "alpha";
+int cursor = 2.0;
+handle = "path\\tmp";
+int token = 0.5;
+state = result<=state;
+handle = "path\\tmp";
+int cursor = 1.25;
+//note slowpath note note
+int token = 3.14;
+int handle = 100;
+while (1.25<=handle) { result = entry + 1; }
+if (entry) { entry = 2<cursor; }
+return 42;
+entry = "delta";
+entry = 10>=10;
+if (token>token) { cursor = 2-result; }
+cursor = 2<=100;
+int cursor = 1.25;
+token = 2<100;
+int cursor = 3.14;
+result = 42>2;
+entry = "beta";
+if (entry/state) { entry = 0; }
+token = "beta";
+//todo note todo fastpath
+int result = 2.0;
+if (0>1.25) { handle = slot+10; }
+while (42+100) { entry = slot + 1; }
+if (token) { token = slot>0; }
+state = "a b c";
+int result = 2.0;
+if (2) { state = 0; }
+while (100+100) { result = cursor + 1; }
+if (entry) { token = 0.5!=state; }
+int result = 2.0;
+entry = 2;
+cursor = "path\\tmp";
+state = handle>=100;
+//value note note note
+while (cursor-entry) { handle = handle + 1; }
+if (3.14<100) { result = 2!=entry; }
+handle = 3.14-0;
+return 10;
+while (1*3.14) { entry = result + 1; }
+while (result) { entry = cursor + 1; }
+return "delta";
+cursor = token;
+slot = 2-10;
+int entry = 1;
+while (slot-cursor) { cursor = cursor + 1; }
+//slowpath check value check
+state = slot<10;
+int handle = 0.5;
+//fastpath todo check note
+int entry = 42;
+cursor = "beta";
+token = state-42;
+token = 1.25-42;
+//todo fastpath todo note
+slot = "delta";
+return cursor;
+handle = 1;
+return result;
+if (3.14/2) { result = 100-3.14; }
+if (result/100) { state = 10*slot; }
+while (3.14>=1.25) { token = token + 1; }
+for slot ;
+while (0!=0) { token = state + 1; }
+entry = 100+token;
+if (state<2.0) { handle = 42<cursor; }
+result = 42;
+result = 0+42;
+int token = 2;
+if (10<0) { cursor = slot; }
+int entry = 10;
+//check slowpath note value
+int token = 2.0;
+handle = "delta";
+return 0;
+state = "beta";
+if (10/0) { handle = 1/1; }
+cursor = "path\\tmp";
+if (10+entry) { handle = 100<1; }
+int token = 0.5;
+while cursor ;
+while (10) { result = token + 1; }
+token = 0==result;
+//value fastpath fastpath note
+if (slot<=10) { result = 10!=slot; }
+while (0/3.14) { handle = cursor + 1; }
+for result ;
+entry = 0;
+if (token*42) { state = cursor/handle; }
+int entry = 0.5;
+return 2;
+return 0;
+state = "a b c";
+int cursor = 10;
+result = result;
+return handle;
+return 100;
+if (10-100) { cursor = 42/result; }
+while (result==1.25) { slot = result + 1; }
+int state = 3.14;
+int result = 1.25;
+cursor = "beta";
+handle = 0.5;
+result = "delta";
+entry = 1;
+int cursor = 1;
+return token ;
+int cursor = 0;
+slot = 1.25==result;
+//todo todo fastpath todo
+if (100) { handle = entry-2; }
+while token ;
+state = 3.14;
+return 0;
+state = entry/token;
+int state = 10;
+entry = "beta";
+while (state) { cursor = entry + 1; }
+token = 100;
+int result ;
+while (entry) { token = handle + 1; }
+while (1.25<=entry) { state = entry + 1; }
+handle = "gamma";
+int handle ;
+cursor = "gamma";
+while (state) { token = slot + 1; }
+int result = 100;
+slot = handle==result;
+for handle ;
+//slowpath check value value
+for token ;
+result = entry==100;
+if (slot) { state = 0.5+0; }
+cursor = "beta";
+int handle = 0.5;
+int result = 42;
+if (10) { handle = 1.25-slot; }
+return token ;
+slot = 10;
+handle = 0.5<100;
+int cursor = 0.5;
+entry = 42;
+cursor = "a b c";
+int slot = 10;
+for cursor ;
+while (42==token) { cursor = token + 1; }
+while (3.14<=10) { token = handle + 1; }
+if (cursor) { slot = 2<=0; }
+slot = 2.0>2.0;
+token = 3.14>result;
+return slot;
+int state = 2;
+//value check check todo
+while (100<10) { slot = state + 1; }
+while (1.25) { cursor = entry + 1; }
+int token = 42;
+//fastpath check fastpath note
+if (cursor) { result = handle+42; }
+return 0;
+while (state*2.0) { token = result + 1; }
+return slot;
+if (token==42) { slot = result<3.14; }
+if (state) { token = token; }
+//value slowpath check fastpath
+handle = 42/2;
+int handle ;
+return state;
+//fastpath fastpath value check
+while (entry>=1.25) { state = cursor + 1; }
+cursor = 0!=10;
+token = 10;
+int entry ;
+int token = 0;
+if (2.0) { result = cursor==1; }
+while (100==entry) { handle = slot + 1; }
+while (0==state) { token = token + 1; }
+cursor = 42==2;
+if (entry==cursor) { slot = handle-3.14; }
+cursor = handle;
+return "gamma";
+cursor = 42;
+slot = 42;
+slot = slot/entry;
+slot = "path\\tmp";
+int result = 0.5;
+return 1;
+//todo check fastpath check
+if (0.5/42) { handle = 0; }
+cursor = 10+100;
+state = "gamma";
+int result = 0.5;
+int handle = 0.5;
+int handle ;
+state = "delta";
+int cursor = 42;
+handle = "gamma";
+while (0!=handle) { slot = handle + 1; }
+while (2.0) { slot = handle + 1; }
+cursor = "path\\tmp";
+int handle ;
+return entry;
+cursor = 0.5>token;
+handle = 0;
+int slot = 0;
+slot = 100<=handle;
+entry = 2;
+cursor = "alpha";
+result = 3.14;
+entry = "gamma";
+while (2<=3.14) { state = token + 1; }
+int result = 0;
+handle = "beta";
+while (10-42) { entry = state + 1; }
+result = token+2;
+result = token>cursor;
+int token = 0;
+if (entry*cursor) { handle = token>slot; }
+while (100*handle) { handle = cursor + 1; }
+int token ;
+int slot = 0;
+return 42;
+state = 2*entry;
+for handle ;
+if (3.14<=100) { result = 10!=2; }
+return 100;
+while (handle) { result = slot + 1; }
+while (42<=0) { cursor = state + 1; }
+while (0) { handle = cursor + 1; }
+int cursor = 2.0;
+return state;
+int token = 100;
+if (cursor+1.25) { entry = 42>=10; }
+return 42;
+return 10;
+//value slowpath value slowpath
+while (entry>2) { token = result + 1; }
+if state ;
+slot = "alpha";
+int slot = 2;
+while (token<=slot) { token = cursor + 1; }
+result = "gamma";
+entry = 100;
+result = 0>=cursor;
+int token ;
+int handle ;
+int slot = 2;
+if slot ;
+if state ;
+int entry = 1;
+int state = 1.25;
+int handle ;
+state = 42==42;
+if (100+entry) { state = 42; }
+//fastpath check note todo
+if (2.0) { token = 42<=handle; }
+if (2.0>2) { slot = handle-state; }
+while state ;
+int token = 1;
+return "a b c";
+int state = 0.5;
+if (state/1) { result = handle+slot; }
+//todo slowpath note value
+int result = 100;
+return "a b c";
+int slot = 10;
+token = result+3.14;
+//fastpath slowpath value fastpath
+token = 3.14;
+int token = 1;
+if (token*2) { state = entry-3.14; }
+int cursor = 2;
+return "path\\tmp";
+cursor = 3.14-2;
+if (3.14*42) { state = 0.5-2.0; }
+while (handle/1) { handle = state + 1; }
+return cursor;
+slot = state<2.0;
+return "beta";
+return "path\\tmp";
+token = "delta";
+state = entry-100;
+while (token) { entry = result + 1; }
+handle = "gamma";
+while entry ;
+slot = 3.14;
+int handle = 100;
+return cursor;
+for cursor ;
+slot = "a b c";
+if (3.14>1) { cursor = 1.25; }
+int handle ;
+while (10<=10) { state = cursor + 1; }
+slot = "gamma";
+int token = 2.0;
+int handle = 3.14;
+entry = 2.0;
+return "delta";
+return "path\\tmp";
+token = "a b c";
+int state = 1;
+return "delta";
+for result ;
+while (2.0) { state = slot + 1; }
+int token = 42;
+if (entry==1.25) { slot = 2; }
+return token ;
+return "beta";
+result = 42*handle;
+result = 2<2.0;
+return "gamma";
+int token = 2.0;
+int cursor = 100;
+while (state>=0) { token = cursor + 1; }
+int state ;
+slot = "delta";
+return slot ;
+handle = "delta";
+while (3.14) { cursor = entry + 1; }
+int token = 2.0;
+//check todo fastpath note
+entry = 1.25;
+while (slot==0) { state = result + 1; }
+if slot ;
+slot = 3.14+0;
+while (42) { token = token + 1; }
+slot = "delta";
+if (2.0>=1) { result = 100+token; }
+if (cursor) { token = token-slot; }
+entry = "beta";
+entry = slot>=2;
+int entry = 2;
+entry = token<=100;
+while (result-slot) { result = state + 1; }
+token = token*token;
+state = "alpha";
+int slot = 0;
+return 42;
+cursor = token+42;
+if (1<entry) { entry = 2!=1; }
+while (10+slot) { state = result + 1; }
+//check check fastpath fastpath
+for slot ;
+int state = 2.0;
+int state = 2.0;
+int state = 3.14;
+int token = 42;
+if (2.0<result) { state = 1.25-10; }
+int token = 100;
+entry = "alpha";
+if (100>handle) { result = 10!=1; }
+return entry ;
+return result ;
+while (2.0!=3.14) { entry = cursor + 1; }
+if handle ;
+if token ;
+state = "path\\tmp";
+//check value todo slowpath
+int result = 1.25;
+state = 0.5==0.5;
+while (100) { result = result + 1; }
+int handle = 100;
+for handle ;
+while (100/0.5) { cursor = token + 1; }
+while (10) { token = entry + 1; }
+slot = 2.0;
+while result ;
+result = "path\\tmp";
+return "path\\tmp";
+return state;
+slot = 42==42;
+int cursor = 100;
+entry = "alpha";
+state = token+3.14;
+int result = 3.14;
+int cursor = 10;
+state = "a b c";
+int handle = 1.25;
+int result = 10;
+int state = 42;
+while (100*0) { cursor = handle + 1; }
+while result ;
+return 0;
+int handle = 3.14;
+handle = 1.25-token;
+entry = "path\\tmp";
+//slowpath value fastpath todo
+return "alpha";
+return 100;
+while (42-3.14) { cursor = slot + 1; }
+return result;
+return 100;
+int result = 1;
+if (result) { cursor = 2+100; }
+int handle = 1.25;
+token = slot==2.0;
+if (cursor) { entry = 1<=slot; }
+//value slowpath todo slowpath
+for cursor ;
+//fastpath fastpath todo note
+int token = 0.5;
+int cursor ;
+if (100>=slot) { result = 1.25-0; }
+while (0>=entry) { token = state + 1; }
+while (2.0) { cursor = state + 1; }
+for cursor ;
+cursor = 42<10;
+int token = 3.14;
+int token ;
+while (42!=2) { cursor = token + 1; }
+slot = "delta";
+//fastpath fastpath todo slowpath
+return 10;
+slot = 10/42;
+token = "path\\tmp";
+if (42<0) { slot = state-100; }
+int state ;
+while (entry+token) { result = cursor + 1; }
+return "alpha";
+return 100;
+int token = 2;
+slot = "path\\tmp";
+cursor = handle-token;
+state = "gamma";
+if (slot>=cursor) { slot = 2<slot; }
+result = "beta";
+if (2.0) { entry = 2.0+0; }
+int cursor = 42;
+int slot = 3.14;
+slot = "a b c";
+while (2/2.0) { cursor = token + 1; }
+//slowpath check fastpath value
+handle = "beta";
+return 1;
+if (entry>entry) { state = 0; }
+while (100) { cursor = handle + 1; }
+if (token>result) { state = result*result; }
+//fastpath fastpath slowpath check
+while (state*100) { cursor = token + 1; }
+result = 1<slot;
+while (entry) { handle = entry + 1; }
+//fastpath value fastpath slowpath
+if (42+2) { cursor = 42==100; }
+result = 0.5>=0;
+result = "path\\tmp";
+int result = 2;
+//todo todo value note
+for token ;
+if (token) { entry = cursor+slot; }
+result = 10>=0;
+int state = 2;
+result = 2.0/2.0;
+if entry ;
+int cursor = 10;
+for slot ;
+//note todo fastpath note
+int result = 1.25;
+token = 2;
+int handle = 100;
+handle = 100+1.25;
+while (entry>entry) { state = token + 1; }
+while (token<token) { handle = result + 1; }
+handle = 1/42;
+int state = 1.25;
+int result = 2;
+while (1.25) { cursor = slot + 1; }
+while slot ;
+result = "path\\tmp";
+int slot = 3.14;
+if (2) { result = 1.25>42; }
+if result ;
+token = "beta";
+if (42<state) { handle = 0.5; }
+result = "gamma";
+if (100*0) { handle = 42/slot; }
+while (state!=cursor) { slot = token + 1; }
+//slowpath check check note
+//value slowpath todo todo
+slot = 0/42;
+while (entry) { token = result + 1; }
+int result = 2.0;
+slot = "path\\tmp";
+handle = result;
+return 2;
+slot = 2.0-cursor;
+int cursor = 100;
+cursor = 42!=token;
+handle = state-slot;
+int handle = 100;
+//note note fastpath fastpath
+cursor = 100;
+slot = "beta";
+int slot = 3.14;
+return "alpha";
+while (entry+handle) { result = handle + 1; }
+int entry = 1.25;
+if (10<42) { result = 0==10; }
+while (token) { entry = entry + 1; }
+if cursor ;
+return cursor;
+if (2) { state = token*state; }
+int state = 3.14;
+slot = "gamma";
+int handle = 2;
+while (0.5<=3.14) { handle = token + 1; }
+entry = 2.0*42;
+while (2*cursor) { result = slot + 1; }
+//note slowpath fastpath value
+cursor = 3.14<=1;
+int handle = 1.25;
+//todo check note note
+return token;
+if (token/42) { state = entry+42; }
+if (slot>2.0) { state = result>cursor; }
+if result ;
+int slot = 0;
+int state = 10;
+slot = "path\\tmp";
+//todo note value check
+while (1.25+state) { entry = entry + 1; }
+return slot;
+return 2;
+int token = 0.5;
+return token;
+return "a b c";
+while (0.5) { cursor = handle + 1; }
+entry = "a b c";
+if (42>result) { state = slot; }
+entry = 1.25!=1.25;
+while (2) { cursor = state + 1; }
+return "beta";
+int token = 2;
+token = "path\\tmp";
+int handle = 100;
+if (10>=42) { slot = 100<=handle; }
+return handle;
+int cursor = 42;
+cursor = 1/handle;
+int token = 3.14;
+token = "gamma";
+return 2;
+int token = 3.14;
+while (slot>3.14) { cursor = state + 1; }
+slot = 42==1.25;
+int handle ;
+if (entry*state) { result = 1; }
+while (state/1.25) { handle = handle + 1; }
+if (0<2) { handle = state; }
+entry = "alpha";
+for result ;
+while token ;
+handle = "a b c";
+while (2*slot) { result = entry + 1; }
+token = "beta";
+return 1;
+while (1.25>result) { cursor = entry + 1; }
+result = "path\\tmp";
+while (2<42) { cursor = cursor + 1; }
+while (1!=3.14) { cursor = token + 1; }
+int handle ;
+return "gamma";
+return handle;
+if (3.14) { slot = cursor; }
+int entry = 2.0;
+return "a b c";
+while (2.0>=token) { result = cursor + 1; }
+return "gamma";
+if state ;
+while (1==token) { cursor = result + 1; }
+int state = 2.0;
+slot = "gamma";
+token = 0.5<=slot;
+while (result) { state = state + 1; }
+token = "delta";
+slot = 1<=slot;
+while (0.5+0) { cursor = slot + 1; }
+result = "delta";
+//todo note slowpath value
+state = "gamma";
+return "beta";
+//slowpath check fastpath check
+while (0+state) { cursor = cursor + 1; }
+int state = 10;
+slot = "path\\tmp";
+if (10) { cursor = 0*0.5; }
+return 0;
+//todo value value fastpath
+while (entry) { result = token + 1; }
+while entry ;
+if (1.25==cursor) { handle = 0==entry; }
+return 1;
+token = cursor<10;
+result = 2.0>=0;
+handle = 0.5<=result;
+slot = cursor<token;
+while (0.5!=2.0) { result = handle + 1; }
+return "delta";
+if handle ;
+handle = token;
+token = "gamma";
+while (3.14<token) { slot = token + 1; }
+token = 3.14>entry;
+while result ;
+entry = 1.25<=slot;
+return "beta";
+return "beta";
+slot = "beta";
+while (token) { entry = state + 1; }
+handle = slot+1;
+//note fastpath slowpath fastpath
+int cursor = 3.14;
+if (2.0+3.14) { slot = handle==0.5; }
+//slowpath value check slowpath
+handle = handle==token;
+if (0) { handle = token!=1; }
+result = "delta";
+return "alpha";
+if (3.14<=2) { entry = handle+token; }
+int state = 0.5;
+int token = 2.0;
+if (token>token) { result = entry-0.5; }
+state = cursor;
+entry = 0>=token;
+entry = cursor==result;
+handle = 100>result;
+while entry ;
+int handle = 100;
+return cursor;
+slot = "a b c";
+return 0;
+int result = 2.0;
+int state = 42;
+int entry = 2.0;
+result = "a b c";
+int cursor ;
+token = "delta";
+int result = 0;
+int entry = 2;
+if entry ;
+int entry = 3.14;
+result = "gamma";
+if (entry<2.0) { slot = 42!=result; }
+//value todo slowpath fastpath
+entry = 2.0/10;
+if (0.5/cursor) { entry = 100!=3.14; }
+int result = 3.14;
+while (10) { token = state + 1; }
+token = 1.25/0;
+//fastpath check fastpath slowpath
+state = "a b c";
+return 0;
+return "gamma";
+int state = 0;
+slot = 2;
+entry = "gamma";
+if (0==token) { result = result>=entry; }
+if (2<=slot) { slot = 100; }
+int result = 0.5;
+while (0.5-10) { cursor = slot + 1; }
+if (0>=3.14) { result = 0.5; }
+int cursor = 2;
+if (1.25>=0.5) { token = slot; }
+int cursor = 10;
+handle = "gamma";
+int handle = 3.14;
+if (state/cursor) { cursor = 0-handle; }
+return result;
+while (100) { entry = handle + 1; }
+handle = token<=handle;
+int handle = 0.5;
+int handle = 10;
+//value slowpath check slowpath
+state = "gamma";
+if (result==slot) { entry = 100!=entry; }
+result = 0;
+state = "path\\tmp";
+result = handle;
+if (1.25<=handle) { state = entry>slot; }
+//todo todo todo check
+if cursor ;
+while (100) { cursor = result + 1; }
+//value value todo fastpath
+state = 0.5==cursor;
+token = "a b c";
+return slot;
+return handle;
+while (1<=state) { slot = entry + 1; }
+state = slot;
+int cursor = 10;
+int result = 2;
+if (0<=10) { entry = 1>100; }
+while (slot>=cursor) { slot = entry + 1; }
+if (result) { entry = token<1.25; }
+for handle ;
+for entry ;
+token = "a b c";
+int token = 42;
+slot = cursor;
+result = "gamma";
+return entry ;
+//slowpath note value value
+if (0.5>state) { handle = handle; }
+while (result<=0) { entry = entry + 1; }
+return cursor;
+return entry;
+if (handle+1) { slot = slot>result; }
+int handle = 0.5;
+while token ;
+while (2.0<=42) { handle = slot + 1; }
+if (slot!=3.14) { token = 1.25; }
+return result;
+//note note todo slowpath
+//note slowpath check slowpath
+while (cursor) { state = handle + 1; }
+entry = 0;
+return cursor;
+return 0;
+handle = "alpha";
+slot = result;
+slot = "a b c";
+int slot ;
+return handle;
+token = slot;
+int entry = 42;
+return entry ;
+result = "a b c";
+int result = 2;
+return "gamma";
+state = 100;
+int handle = 1;
+token = "beta";
+int token = 0.5;
+if (token) { state = result/10; }
+if (token+token) { state = result; }
+cursor = state;
+for slot ;
+if (handle/2) { slot = 3.14+handle; }
+return state;
+if (entry) { result = 2.0*42; }
+if (100>=42) { entry = 0<=entry; }
+while (3.14==3.14) { handle = slot + 1; }
+if (cursor-1) { entry = state; }
+if (handle!=slot) { handle = result<=cursor; }
+int entry = 0;
+int token = 100;
+int result = 2;
+state = "path\\tmp";
+while (3.14>=entry) { token = result + 1; }
+while (42>token) { state = cursor + 1; }
+if (cursor>=token) { entry = state; }
+if (1.25*42) { cursor = 2.0<=2.0; }
+cursor = "alpha";
+while (token>2) { handle = token + 1; }
+while (result>=10) { cursor = token + 1; }
+if state ;
+while (result<=token) { result = entry + 1; }
+int handle ;
+slot = "alpha";
+return token ;
+return cursor;
+cursor = token;
+int state = 100;
+for entry ;
+result = "gamma";
+return token;
+int result = 2;
+if (3.14==0.5) { token = 1>10; }
+result = 100/10;
+cursor = "path\\tmp";
+for result ;
+token = "a b c";
+cursor = 0.5!=3.14;
+while (0.5) { cursor = result + 1; }
+if (state-state) { state = 2.0; }
+for cursor ;
+int handle = 0.5;
+slot = 1.25+0.5;
+return 10;
+int handle = 1;
+if entry ;
+cursor = cursor;
+if (entry) { handle = 100/cursor; }
+int slot = 42;
+return "a b c";
+//slowpath slowpath note check
+while (3.14) { token = state + 1; }
+token = 100<=result;
+int slot = 0;
+state = "a b c";
+if (cursor/cursor) { handle = handle; }
+return cursor;
+entry = "beta";
+//fastpath todo value fastpath
+int handle = 0;
+if result ;
+if (entry) { cursor = entry>1; }
+handle = 0>=entry;
+int entry ;
+while token ;
+//todo note value note
+while (2.0) { state = cursor + 1; }
+slot = "delta";
+handle = 100<42;
+int state = 1;
+while (2<=0) { state = state + 1; }
+int handle ;
+int entry = 100;
+while (100+10) { handle = entry + 1; }
+slot = entry<=entry;
+int result = 3.14;
+token = handle;
+if (slot-100) { slot = 1.25>=42; }
+while (1.25*2.0) { entry = cursor + 1; }
+int slot = 2.0;
+handle = "delta";
+int state = 0.5;
+while (0.5<3.14) { slot = handle + 1; }
+slot = "delta";
+int cursor = 0.5;
+int cursor = 42;
+if (10+0.5) { token = 10>3.14; }
+int entry = 1;
+return slot ;
+int handle ;
+return token ;
+if (handle<2) { handle = token==entry; }
+int token = 42;
+while (10) { slot = slot + 1; }
+if (0<=handle) { handle = entry/3.14; }
+return 1;
+//fastpath slowpath todo note
+int handle = 2.0;
+return result;
+if (entry-0.5) { state = token; }
+result = "a b c";
+return "path\\tmp";
+slot = "path\\tmp";
+state = entry==token;
+return 0;
+while (0<0) { state = handle + 1; }
+entry = token!=100;
+//todo slowpath todo value
+int token = 1;
+int state ;
+entry = "alpha";
+if (2.0+100) { result = state>=100; }
+int handle = 100;
+//value note slowpath fastpath
+int handle = 0.5;
+if entry ;
+result = "delta";
+entry = 42;
+int slot = 1;
+state = state;
+while (10/0) { handle = token + 1; }
+return token;
+int result = 42;
+int entry = 2;
+if (10>=state) { state = 1.25<handle; }
+int state = 100;
+int result = 0;
+while (0-0) { handle = slot + 1; }
+entry = "alpha";
+if (100/2.0) { slot = handle>2; }
+cursor = 42+result;
+if (1.25>=1) { token = 2; }
+return 0;
+//value check slowpath todo
+result = entry==handle;
+return state ;
+slot = 0.5*handle;
+int cursor = 3.14;
+if (2+0) { token = token>=entry; }
+while (1.25!=1) { entry = token + 1; }
+//fastpath fastpath slowpath value
+//todo fastpath note value
+if (result-100) { result = result; }
+entry = 2;
+cursor = "a b c";
+if (0.5-0.5) { cursor = 42-result; }
+//fastpath slowpath slowpath slowpath
+//fastpath note check slowpath
+int cursor = 1.25;
+cursor = "alpha";
+while (result-10) { token = token + 1; }
+return 0;
+}

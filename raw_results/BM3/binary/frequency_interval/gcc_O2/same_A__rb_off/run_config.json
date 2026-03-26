@@ -1,0 +1,44 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACCEPTING": 29871,
+      "NONACC_OR_DEAD": 83623
+    },
+    "profile_source": "A"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACCEPTING": 29871,
+    "NONACC_OR_DEAD": 83623
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 113494,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "binary"
+}

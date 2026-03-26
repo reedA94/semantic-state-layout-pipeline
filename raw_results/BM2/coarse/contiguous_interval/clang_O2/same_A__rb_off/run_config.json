@@ -1,0 +1,47 @@
+{
+  "benchmark_family": "Richer C-like lexer",
+  "benchmark_id": "BM2",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 21,
+  "num_accepting_states_rb": 17,
+  "num_accepting_states_total": 38,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O2",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::COMMENT": 9448,
+    "ACC::DELIM": 9068,
+    "ACC::IDENT": 33836,
+    "ACC::NUMBER": 7766,
+    "ACC::OPERATOR": 6890,
+    "ACC::STRING": 629,
+    "ACC::WHITESPACE": 23149,
+    "DEAD": 52508,
+    "NONACC::KEYWORD_PREFIX": 3835,
+    "NONACC::NUMBER_PREFIX": 1355,
+    "NONACC::STRING_BODY": 3973,
+    "NONACC::STRING_ESCAPE": 104
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 152561,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

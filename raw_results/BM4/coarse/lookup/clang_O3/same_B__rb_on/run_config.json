@@ -1,0 +1,44 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::NAME::rb1": 18485,
+    "ACC::STRING::rb0": 1328,
+    "ACC::TAG_PUNCT::rb0": 7559,
+    "ACC::TEXT::rb0": 31296,
+    "DEAD": 4712,
+    "NONACC::STRING_BODY": 11356
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 74736,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

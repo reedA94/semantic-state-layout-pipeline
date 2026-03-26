@@ -1,0 +1,8243 @@
+int main() {
+// value slowpath slowpath fastpath
+return 0;
+if (10 / 0) { acc = acc != 3.14; }
+tmp = "delta";
+return 10;
+if (count > acc) { value = 1; }
+// note note slowpath value
+while value ;
+value = "path\\tmp";
+tmp = 100 > 3.14;
+int node = 3.14;
+int idx = 2.0;
+node = "delta";
+tmp = node;
+while (idx != node) { count = tmp + 1; }
+return "beta";
+idx = "a b c";
+value = buffer + acc;
+while (0.5 >= 2.0) { tmp = tmp + 1; }
+return "a b c";
+return acc;
+int buffer = 42;
+int count = 2.0;
+// todo slowpath note check
+if (idx - 0.5) { idx = acc; }
+return "gamma";
+while (2.0 != 100) { count = value + 1; }
+while (buffer - acc) { acc = idx + 1; }
+// todo fastpath fastpath check
+count = "path\\tmp";
+while (acc < 2.0) { node = node + 1; }
+if (2.0) { idx = 3.14 < value; }
+return 2;
+int node = 2.0;
+if (2) { buffer = 42 * tmp; }
+while (buffer != buffer) { value = node + 1; }
+return buffer;
+value = "beta";
+if value ;
+count = 42 < 0.5;
+while (0.5 >= node) { node = node + 1; }
+if (3.14 == tmp) { node = 42 <= count; }
+value = 42 >= 2;
+value = "a b c";
+if (100) { buffer = 1.25; }
+return "path\\tmp";
+return "delta";
+return node;
+// fastpath note todo slowpath
+int buffer = 100;
+node = 2 <= 1;
+acc = "alpha";
+if (3.14 == 3.14) { value = buffer <= value; }
+return acc;
+tmp = "gamma";
+return 100;
+if (count < 0) { node = 1.25 + buffer; }
+if (count > value) { count = tmp * 2.0; }
+while (2.0) { tmp = node + 1; }
+// note check fastpath slowpath
+return "a b c";
+idx = "gamma";
+int tmp = 1.25;
+while (0 != 0) { buffer = idx + 1; }
+return "path\\tmp";
+// slowpath todo todo check
+idx = "alpha";
+for buffer ;
+tmp = "a b c";
+while (tmp <= 1.25) { value = tmp + 1; }
+if (count * 3.14) { tmp = 0 > value; }
+if (10 < 0.5) { value = tmp; }
+int node = 42;
+buffer = acc == 0.5;
+return acc;
+if (count) { count = node * count; }
+while (count <= 42) { acc = idx + 1; }
+return count;
+return buffer;
+// value todo todo fastpath
+while node ;
+value = 1.25;
+node = "path\\tmp";
+int tmp = 2.0;
+if (1.25 + 3.14) { count = 2.0; }
+node = 100 - buffer;
+while node ;
+int tmp = 1.25;
+idx = 0;
+// fastpath note note fastpath
+return value;
+if (2.0 - 2.0) { buffer = 0.5 != buffer; }
+int tmp = 42;
+count = 2;
+if (3.14 == idx) { count = tmp; }
+// note todo check note
+int node = 42;
+return "delta";
+// fastpath todo check fastpath
+int tmp = 0.5;
+idx = "path\\tmp";
+while (10 <= node) { value = idx + 1; }
+while idx ;
+value = 3.14 != 0;
+while (1.25 <= 0.5) { idx = count + 1; }
+if (42) { count = 2 * 0; }
+return node ;
+value = 2.0;
+while (100 < 10) { buffer = value + 1; }
+while (acc * 100) { idx = idx + 1; }
+int node = 1.25;
+int node = 100;
+idx = 42 >= 2.0;
+while (0.5) { buffer = count + 1; }
+// value slowpath note note
+// check slowpath todo fastpath
+return tmp;
+buffer = 0 == 100;
+idx = node;
+if (node == 100) { acc = buffer == tmp; }
+if (100) { node = value; }
+int count = 42;
+buffer = 3.14 * 0;
+while (2) { tmp = buffer + 1; }
+buffer = 42;
+for value ;
+if count ;
+int node = 100;
+while (tmp) { buffer = value + 1; }
+count = 2;
+for buffer ;
+buffer = "a b c";
+int idx = 2.0;
+// todo fastpath check check
+int buffer = 2;
+while (3.14 > 10) { count = buffer + 1; }
+count = "gamma";
+return "a b c";
+return 100;
+return "alpha";
+while (1 >= buffer) { node = tmp + 1; }
+return idx;
+acc = 42;
+while (count < node) { node = value + 1; }
+while (2 != 100) { acc = buffer + 1; }
+int buffer = 0.5;
+idx = "path\\tmp";
+while (tmp) { value = buffer + 1; }
+idx = tmp + 3.14;
+int count = 2;
+int acc = 2;
+int value = 1.25;
+value = 0.5 == 100;
+return value ;
+int idx = 1.25;
+int buffer = 3.14;
+while (42 * 1.25) { idx = tmp + 1; }
+return 0;
+return "path\\tmp";
+while (3.14 - 100) { node = count + 1; }
+node = "a b c";
+idx = idx + 1.25;
+acc = "path\\tmp";
+return "delta";
+return buffer ;
+value = 0 - 3.14;
+int acc = 2.0;
+return count ;
+// fastpath note value slowpath
+return "delta";
+if (0 + 100) { count = count >= buffer; }
+return 0;
+if (count < 1) { value = 1.25; }
+value = tmp;
+if node ;
+if (1 * idx) { buffer = 1 - 0.5; }
+return count ;
+buffer = "beta";
+int node = 10;
+tmp = 100 - 3.14;
+if buffer ;
+if (1.25 != 2.0) { idx = node / buffer; }
+if (3.14) { idx = value; }
+idx = "delta";
+while (acc != 2.0) { tmp = buffer + 1; }
+while (1 * 3.14) { buffer = idx + 1; }
+if (node) { node = idx - tmp; }
+if (buffer * 10) { value = 2 == 2.0; }
+if idx ;
+int acc = 2;
+while (value) { idx = tmp + 1; }
+return "alpha";
+if tmp ;
+tmp = tmp == 10;
+while (idx) { idx = idx + 1; }
+while (42 >= 3.14) { count = count + 1; }
+if buffer ;
+return "path\\tmp";
+value = 1.25 > 1;
+buffer = "a b c";
+int acc = 1;
+int idx = 1;
+while (0.5 * 3.14) { count = idx + 1; }
+return "gamma";
+value = 0 >= 100;
+while (0.5) { count = buffer + 1; }
+if (3.14 > 42) { value = node > 0.5; }
+if (buffer > tmp) { buffer = idx; }
+if (0.5 + 1.25) { buffer = node != 100; }
+tmp = "gamma";
+// value fastpath slowpath slowpath
+if (2.0) { node = 42 > idx; }
+return 10;
+return acc ;
+return 1;
+return node;
+int acc = 2.0;
+tmp = 0.5 <= tmp;
+if (buffer >= 0) { idx = 2 * node; }
+value = 0 >= idx;
+if (42 >= 3.14) { acc = acc != 10; }
+return "delta";
+for tmp ;
+return node ;
+while (1.25 + count) { idx = tmp + 1; }
+// todo todo note slowpath
+return idx;
+acc = value + 10;
+while (1.25 == 2.0) { value = count + 1; }
+int acc = 42;
+// value todo check slowpath
+if (node <= 42) { buffer = tmp <= 2.0; }
+int node = 2.0;
+idx = node < 10;
+int count = 1;
+if (value > idx) { count = 100 * 10; }
+while (10 == 42) { value = node + 1; }
+return idx;
+if (idx) { count = 100; }
+// value fastpath fastpath note
+if (idx > 0.5) { idx = buffer; }
+if (count != idx) { value = tmp < 0.5; }
+acc = idx > buffer;
+int idx = 100;
+int value = 1.25;
+int count = 2.0;
+int count = 100;
+if (acc == acc) { idx = 100; }
+// todo slowpath slowpath note
+if (0.5 + 42) { node = 3.14 <= acc; }
+return value;
+// check check todo check
+if (1.25) { buffer = node / acc; }
+acc = tmp - 10;
+if (2) { acc = 0.5 / count; }
+buffer = "delta";
+while (value) { node = tmp + 1; }
+if (42 * buffer) { buffer = 0.5 == buffer; }
+int count = 0.5;
+return value;
+return "beta";
+buffer = node >= tmp;
+return idx;
+int idx = 42;
+return idx;
+int tmp = 10;
+if (10) { value = 2 < value; }
+value = 2 != 100;
+tmp = 42;
+if (idx >= 1.25) { count = 0; }
+int acc = 42;
+count = 100 + 100;
+int acc = 10;
+int value = 1;
+buffer = 42 * acc;
+for tmp ;
+buffer = tmp;
+acc = "a b c";
+if buffer ;
+acc = "gamma";
+if (1) { tmp = 1.25; }
+// slowpath check todo note
+int acc = 3.14;
+if acc ;
+while (3.14) { idx = idx + 1; }
+if (2 < 1) { acc = value / 100; }
+return "gamma";
+// todo fastpath fastpath fastpath
+int value = 100;
+idx = count >= 3.14;
+tmp = count;
+return acc;
+return idx ;
+return buffer;
+if (42 - buffer) { buffer = 2.0 * tmp; }
+int value = 3.14;
+node = "path\\tmp";
+return 2;
+if (1) { idx = 100; }
+int acc = 2.0;
+int acc = 42;
+node = 100;
+// check value check todo
+if (2.0 > tmp) { node = 100; }
+// value fastpath slowpath value
+tmp = "alpha";
+return "delta";
+buffer = idx;
+int count = 3.14;
+count = "delta";
+int count = 2.0;
+acc = "gamma";
+idx = 100 != 0.5;
+int count = 1;
+// fastpath todo note todo
+// value check value slowpath
+count = "path\\tmp";
+if (0.5 > 0.5) { tmp = value / 3.14; }
+count = "alpha";
+return "delta";
+while tmp ;
+int node ;
+if (node) { count = count == 1; }
+int tmp ;
+if (2 - 10) { node = 3.14 != 3.14; }
+return "a b c";
+if (node * idx) { acc = 42 / idx; }
+int acc = 0;
+int value = 0.5;
+while (buffer) { count = count + 1; }
+int count = 100;
+while (42 < count) { idx = value + 1; }
+int buffer = 100;
+if (2.0 / tmp) { acc = 1.25 == 0.5; }
+value = 0 > 10;
+buffer = "path\\tmp";
+buffer = 0.5 / 10;
+return idx;
+count = buffer / 1.25;
+while (2 < tmp) { tmp = idx + 1; }
+node = buffer == 0.5;
+int value = 42;
+int value ;
+acc = 42 / value;
+if (count) { value = 1.25; }
+int idx = 3.14;
+if (0 <= 1.25) { count = 100 + node; }
+idx = 10 >= 100;
+while (count <= tmp) { tmp = buffer + 1; }
+return buffer;
+int node ;
+idx = 1.25 + 100;
+while (10 <= 2.0) { count = idx + 1; }
+return tmp ;
+node = "alpha";
+while (tmp) { count = tmp + 1; }
+// slowpath note todo todo
+while (100) { buffer = node + 1; }
+tmp = "path\\tmp";
+int idx = 10;
+if (0.5 >= count) { tmp = buffer < idx; }
+if (value == tmp) { tmp = 2.0; }
+while tmp ;
+int value = 3.14;
+if (1 >= 3.14) { acc = 1.25; }
+idx = idx;
+int acc = 3.14;
+buffer = buffer;
+return count;
+while (0.5 == buffer) { tmp = count + 1; }
+buffer = acc;
+return value;
+while (2 == 0) { tmp = value + 1; }
+return "a b c";
+count = count;
+while (42 / 2.0) { acc = acc + 1; }
+if (42) { count = 100 + buffer; }
+count = "delta";
+if (idx) { idx = 0; }
+node = 10 + tmp;
+acc = "gamma";
+int buffer = 2;
+buffer = "alpha";
+while tmp ;
+return 42;
+acc = "gamma";
+int count = 1.25;
+int tmp = 3.14;
+idx = node * count;
+for buffer ;
+idx = "beta";
+if (1) { acc = count < 0; }
+return "a b c";
+count = 2.0 > value;
+int buffer = 1;
+idx = value < idx;
+int count = 2.0;
+// note todo value todo
+if (10 / 2) { value = count == node; }
+while (count) { tmp = idx + 1; }
+return acc;
+if (2.0) { acc = 1.25; }
+node = "alpha";
+node = 1.25 - 100;
+return 100;
+if (idx * 2.0) { node = acc >= 3.14; }
+if (1 == idx) { idx = idx * 100; }
+int count = 0.5;
+int node = 2.0;
+idx = 2.0 == count;
+buffer = node;
+while (3.14 / 0) { buffer = value + 1; }
+int idx ;
+if buffer ;
+node = 2.0 - 2;
+// todo value todo slowpath
+return acc;
+// todo fastpath fastpath todo
+if (count != 42) { count = 0 > 100; }
+int acc = 2;
+if (value + 100) { acc = 10 >= acc; }
+if (0.5) { value = 42; }
+while (42 / value) { idx = value + 1; }
+node = "a b c";
+int idx = 1;
+return acc;
+int buffer = 2;
+idx = "beta";
+return "alpha";
+while (tmp / 42) { count = buffer + 1; }
+buffer = 2.0 / 1.25;
+// todo todo check slowpath
+buffer = "alpha";
+if (2.0 + 100) { idx = acc; }
+if (tmp != value) { idx = idx; }
+int buffer = 10;
+value = "a b c";
+return "gamma";
+return tmp;
+return node;
+// value check note check
+if (0 + buffer) { idx = tmp - 1.25; }
+buffer = 1.25 != tmp;
+int node = 100;
+if (acc) { node = count != tmp; }
+tmp = "gamma";
+return "gamma";
+count = acc + count;
+while buffer ;
+return 100;
+if (node * 1.25) { tmp = 0.5 == 100; }
+node = 1.25;
+tmp = "delta";
+if (acc) { idx = 0 != 3.14; }
+while (buffer) { tmp = count + 1; }
+acc = "delta";
+int idx = 2.0;
+int idx = 42;
+acc = buffer < acc;
+int tmp = 0;
+int idx = 1;
+while (2.0 != buffer) { count = idx + 1; }
+int tmp = 2.0;
+while (1.25 <= value) { acc = buffer + 1; }
+return buffer ;
+value = "gamma";
+// check todo check slowpath
+// slowpath slowpath fastpath todo
+idx = buffer * 3.14;
+for buffer ;
+int acc = 100;
+while (0.5 - 1.25) { node = acc + 1; }
+int acc = 1.25;
+int tmp ;
+tmp = node + node;
+count = "beta";
+if (value < node) { value = 42 > buffer; }
+int value = 10;
+idx = 100 / 100;
+if acc ;
+if (2.0 + idx) { buffer = 1 < buffer; }
+while (0.5 != 1) { idx = buffer + 1; }
+int acc = 100;
+if (0) { tmp = acc >= 3.14; }
+if (count / 2) { node = value <= tmp; }
+while node ;
+int tmp ;
+acc = 100 * 1;
+return tmp;
+node = 100 >= 2;
+acc = idx - tmp;
+while (100 / idx) { tmp = value + 1; }
+value = "delta";
+return idx;
+if (42) { value = 1.25 <= idx; }
+if (42 * buffer) { tmp = 10 + 10; }
+// fastpath note fastpath value
+int value = 10;
+tmp = node < value;
+idx = 10 <= 3.14;
+int tmp = 3.14;
+return 1;
+return 2;
+return buffer;
+for idx ;
+int node = 1;
+while (0 > 0) { node = idx + 1; }
+value = count <= 0;
+// value note fastpath value
+return tmp;
+// slowpath note todo value
+return 100;
+int count = 2.0;
+int count = 42;
+value = "beta";
+idx = 100 - 1;
+for buffer ;
+idx = node;
+// todo note todo check
+buffer = "alpha";
+// slowpath fastpath value todo
+count = "alpha";
+int node = 0;
+buffer = "delta";
+int idx = 0;
+int count = 1.25;
+int buffer = 0.5;
+while (2.0 * 10) { value = value + 1; }
+acc = 10 <= 0;
+int tmp = 100;
+int tmp = 42;
+int count = 1;
+idx = idx <= tmp;
+if idx ;
+buffer = "delta";
+while (idx + 42) { node = value + 1; }
+if tmp ;
+node = idx;
+tmp = 10 >= tmp;
+int buffer = 10;
+if buffer ;
+if (buffer) { node = value != 10; }
+int idx = 3.14;
+count = "a b c";
+return buffer;
+if (42 >= 0) { idx = idx; }
+int value = 2.0;
+value = 2;
+int value ;
+int buffer = 2;
+while (idx + count) { buffer = tmp + 1; }
+while (idx < 1.25) { count = value + 1; }
+node = 2;
+idx = "delta";
+if (2.0 > 100) { count = 0 + 3.14; }
+return node;
+// note slowpath todo value
+value = "beta";
+count = 3.14;
+return idx;
+return 2;
+int tmp = 0;
+while (count <= tmp) { acc = value + 1; }
+node = 1.25 != 0.5;
+node = "alpha";
+while (acc) { idx = buffer + 1; }
+if idx ;
+while (node / 0) { tmp = value + 1; }
+if (2 * 0) { value = count != 0; }
+int node = 2;
+if (10 >= count) { value = 42; }
+if (acc > 1) { node = 10 > idx; }
+if idx ;
+int tmp = 100;
+// fastpath todo check check
+// fastpath note slowpath slowpath
+int node = 0.5;
+node = value;
+return 2;
+idx = "path\\tmp";
+if (0.5 / value) { count = 100; }
+buffer = buffer < 0.5;
+if tmp ;
+node = buffer == node;
+buffer = idx <= 1.25;
+if (buffer != 2.0) { value = 2; }
+if (1.25 != idx) { buffer = 1 > 0.5; }
+int tmp = 1;
+// check todo check slowpath
+while (tmp <= value) { node = acc + 1; }
+int tmp = 2.0;
+int value = 1;
+int tmp = 0.5;
+// fastpath value slowpath check
+return 42;
+int idx = 10;
+count = "beta";
+value = 10 <= value;
+int node = 42;
+int node = 42;
+if (1.25 + 1.25) { node = 2 < 2.0; }
+// slowpath value todo todo
+node = "beta";
+int count = 100;
+node = 1 - tmp;
+int acc = 2.0;
+if (1 >= idx) { acc = node; }
+return 1;
+int acc = 0.5;
+while (0) { node = idx + 1; }
+node = 0.5 != 1.25;
+int count = 100;
+while (1.25 * 100) { idx = node + 1; }
+int idx = 1.25;
+if tmp ;
+acc = "delta";
+int tmp = 0;
+if (acc * tmp) { value = value * idx; }
+return 100;
+int value = 0.5;
+while (1) { node = buffer + 1; }
+node = "alpha";
+int node = 2.0;
+return tmp;
+return 1;
+node = 42;
+buffer = buffer < acc;
+while (value) { count = buffer + 1; }
+while (100 <= node) { value = node + 1; }
+int node = 0;
+return "a b c";
+if (idx) { value = 0; }
+while (acc >= 1.25) { tmp = idx + 1; }
+if (count / idx) { acc = 1.25 + idx; }
+count = "beta";
+while (tmp - value) { buffer = count + 1; }
+int node = 1;
+int acc = 0.5;
+while (10) { count = count + 1; }
+node = 1 * 1.25;
+tmp = 0.5 < idx;
+while (100) { buffer = idx + 1; }
+buffer = count < idx;
+return value;
+buffer = 0.5 * node;
+int tmp = 42;
+int idx = 0.5;
+count = "delta";
+return 100;
+tmp = "a b c";
+buffer = 42 * count;
+node = 1.25;
+// slowpath value note slowpath
+tmp = "gamma";
+tmp = tmp;
+while (node > 100) { value = idx + 1; }
+int tmp ;
+// value todo slowpath slowpath
+return node;
+buffer = "alpha";
+while (1 < value) { tmp = node + 1; }
+idx = "beta";
+int node = 10;
+acc = tmp >= 42;
+return 42;
+while (2) { buffer = count + 1; }
+int acc = 10;
+acc = "beta";
+while (tmp <= 10) { buffer = tmp + 1; }
+value = 2;
+int node = 2.0;
+buffer = count != node;
+while (value == 0) { node = idx + 1; }
+int buffer = 0.5;
+value = 1.25;
+// slowpath fastpath note todo
+return node;
+int value = 42;
+// check value note value
+for acc ;
+int acc = 0;
+count = "delta";
+while acc ;
+int idx = 1.25;
+count = "path\\tmp";
+int buffer = 42;
+tmp = "delta";
+int value = 2;
+int acc = 0.5;
+value = 100 >= 0.5;
+node = "beta";
+while (tmp) { count = value + 1; }
+while (node) { count = count + 1; }
+while (100 <= 3.14) { count = acc + 1; }
+for value ;
+while count ;
+if (2.0 - 42) { tmp = node * value; }
+acc = 42 + buffer;
+for idx ;
+int idx ;
+for count ;
+tmp = 1.25;
+// fastpath note todo todo
+return acc ;
+int buffer = 1;
+int count = 10;
+value = 10 >= 0;
+int node = 0;
+int value = 100;
+node = "alpha";
+int value = 10;
+if (buffer) { buffer = 100 * 1.25; }
+return tmp;
+// check todo note check
+for node ;
+tmp = 10;
+while (3.14) { tmp = idx + 1; }
+buffer = 2 != count;
+return 1;
+if count ;
+if (buffer / buffer) { tmp = count < 10; }
+for count ;
+while (count <= 0) { idx = acc + 1; }
+tmp = "a b c";
+buffer = node >= idx;
+int value = 100;
+int buffer = 3.14;
+node = "path\\tmp";
+int acc = 1;
+int value = 2;
+if (3.14 == 42) { acc = 0 >= 2.0; }
+if (acc) { tmp = 3.14; }
+int buffer = 1.25;
+tmp = "gamma";
+while (node - 100) { count = value + 1; }
+// value slowpath check todo
+int tmp ;
+count = count > 1.25;
+return count;
+return 0;
+int buffer = 2.0;
+acc = "gamma";
+while tmp ;
+while (10 == 100) { buffer = value + 1; }
+int tmp = 0.5;
+// fastpath value note check
+node = tmp >= 42;
+int count = 0.5;
+count = value != buffer;
+tmp = "alpha";
+int buffer = 0;
+int count = 1.25;
+count = value < 1.25;
+if (value < 2) { acc = 0.5; }
+return value;
+return "beta";
+node = tmp;
+if (buffer < 2) { value = 1.25 > idx; }
+int tmp ;
+if (count / buffer) { value = node; }
+int buffer = 0.5;
+tmp = 10 != 1;
+while (10 < 1.25) { acc = tmp + 1; }
+tmp = "path\\tmp";
+while (2) { value = idx + 1; }
+int value = 3.14;
+count = "delta";
+int tmp = 1.25;
+if acc ;
+while (100 / node) { buffer = value + 1; }
+int value ;
+// note fastpath fastpath fastpath
+if (value) { node = node != node; }
+value = 100 != 0;
+if (0) { buffer = 1.25 + 3.14; }
+int buffer = 10;
+int acc = 100;
+// check slowpath slowpath value
+if buffer ;
+buffer = "gamma";
+value = 1.25 < count;
+if (acc / 0.5) { buffer = 1.25 > 2; }
+for node ;
+int buffer = 1.25;
+count = 0 - 100;
+while (100 > 3.14) { node = idx + 1; }
+int buffer = 1;
+return 2;
+while (100 < count) { value = count + 1; }
+// note note check value
+int acc = 42;
+int node = 0;
+int tmp = 100;
+return "path\\tmp";
+// value note note value
+int count ;
+if (node) { value = 100 <= 1.25; }
+idx = "beta";
+int value = 3.14;
+return tmp;
+acc = "beta";
+if (2) { node = idx * 1; }
+// slowpath slowpath note slowpath
+return node;
+idx = tmp;
+int idx = 2;
+if (acc + count) { node = 1.25 / 2; }
+idx = 2 < buffer;
+value = value == 0.5;
+return 100;
+int tmp = 2.0;
+if (0) { count = 2.0; }
+if (2 - value) { tmp = tmp <= 1; }
+int acc = 0;
+return 42;
+int count = 42;
+if idx ;
+if (2.0 == value) { acc = acc - 3.14; }
+int node = 1.25;
+if (node > 3.14) { node = 0 < 2.0; }
+if (1) { node = idx; }
+return node;
+return 0;
+while (acc >= 100) { value = node + 1; }
+int acc = 0;
+int idx = 2;
+while (3.14) { tmp = buffer + 1; }
+if (idx + node) { node = 10 <= value; }
+int count = 0;
+acc = "gamma";
+while acc ;
+tmp = 0.5 >= tmp;
+node = idx;
+value = 100 <= idx;
+while (10 * 1.25) { acc = acc + 1; }
+if (value) { idx = idx / acc; }
+count = acc + value;
+acc = tmp / value;
+while (3.14 <= 0.5) { acc = value + 1; }
+while (3.14) { count = value + 1; }
+acc = "a b c";
+node = 10 * count;
+tmp = acc == buffer;
+count = 1 <= 2;
+while buffer ;
+int count = 10;
+int idx = 3.14;
+if (0) { idx = 0; }
+if (3.14 < 2.0) { value = acc >= value; }
+int node = 1;
+while (42) { count = idx + 1; }
+if (acc / 1.25) { node = 1.25; }
+count = "gamma";
+if (1) { acc = buffer / buffer; }
+count = "a b c";
+idx = 2;
+idx = idx >= acc;
+int node = 42;
+if (1.25 / buffer) { value = acc < count; }
+if (idx != idx) { tmp = 10 == 42; }
+if (idx > 2) { tmp = 2; }
+return "beta";
+node = 42;
+int value = 2.0;
+if (acc) { idx = 0.5 <= 100; }
+int value = 0.5;
+while (1.25) { tmp = acc + 1; }
+return idx ;
+return tmp;
+value = 0;
+tmp = 42 >= 1;
+count = 3.14 == node;
+// fastpath value fastpath note
+while (acc < 2.0) { count = buffer + 1; }
+acc = 42 > 0.5;
+int idx = 42;
+while (10 >= idx) { count = value + 1; }
+count = "a b c";
+return 2;
+return 0;
+idx = "path\\tmp";
+int value = 0.5;
+while (3.14 == 0.5) { node = count + 1; }
+count = 1.25 / 1;
+while (3.14 + count) { node = buffer + 1; }
+value = 2 >= tmp;
+idx = tmp;
+node = 3.14;
+while value ;
+int acc = 0.5;
+// todo value todo todo
+if (3.14 != idx) { node = buffer > 10; }
+value = "delta";
+// check fastpath check slowpath
+while (0.5) { count = idx + 1; }
+return 42;
+if (count) { buffer = idx < tmp; }
+int buffer = 0.5;
+int tmp = 3.14;
+node = idx > node;
+tmp = "a b c";
+if (3.14) { buffer = 0.5; }
+int value = 0;
+if (count - 1) { acc = 3.14; }
+int count = 42;
+int value ;
+node = count > count;
+count = idx <= 3.14;
+while (2) { value = count + 1; }
+idx = tmp == 100;
+tmp = acc + count;
+if value ;
+int node = 2.0;
+acc = "a b c";
+return idx;
+node = "alpha";
+while (acc) { acc = tmp + 1; }
+int acc ;
+while (42 - 0.5) { node = acc + 1; }
+if (42 == buffer) { buffer = 3.14; }
+return 0;
+while (3.14 == 0.5) { count = node + 1; }
+value = 0 == 1;
+int buffer = 2;
+node = "a b c";
+while (42 - 3.14) { value = node + 1; }
+acc = count <= count;
+int acc = 3.14;
+while (1.25) { value = value + 1; }
+return idx;
+idx = node;
+int acc = 42;
+while (idx != buffer) { value = buffer + 1; }
+while (count - tmp) { idx = buffer + 1; }
+return tmp ;
+int buffer = 1;
+int buffer = 1;
+// slowpath todo check todo
+while (acc / 100) { tmp = value + 1; }
+int buffer ;
+for buffer ;
+if (buffer >= 42) { count = value; }
+int count = 0.5;
+if acc ;
+for count ;
+return "path\\tmp";
+idx = 1.25 < 42;
+acc = "path\\tmp";
+return "alpha";
+return value;
+for acc ;
+value = 0.5 != value;
+// todo todo slowpath slowpath
+while (tmp / acc) { idx = buffer + 1; }
+return "delta";
+// check slowpath slowpath note
+int node = 10;
+int node = 100;
+int tmp = 3.14;
+acc = "a b c";
+while (1 != tmp) { idx = value + 1; }
+int acc = 1.25;
+int count = 2.0;
+while (value < count) { buffer = count + 1; }
+while (1.25 > 10) { buffer = node + 1; }
+buffer = "beta";
+int buffer = 2.0;
+tmp = 2.0;
+return "delta";
+return 42;
+int idx = 42;
+tmp = "delta";
+int tmp = 42;
+int buffer = 2;
+idx = 2.0;
+return "delta";
+int buffer ;
+idx = 42 > 2.0;
+count = tmp <= 3.14;
+value = 1.25 != tmp;
+return 42;
+node = 3.14 <= idx;
+// note fastpath fastpath note
+value = acc != count;
+idx = 42;
+int tmp = 2;
+// slowpath value note value
+node = "a b c";
+tmp = 1.25 * value;
+int value = 100;
+if (value) { idx = value - 2.0; }
+int value = 3.14;
+if (idx) { buffer = 10 + 10; }
+// note note check check
+node = "alpha";
+while (1 / idx) { tmp = tmp + 1; }
+// value slowpath slowpath fastpath
+return 10;
+int idx = 0;
+if idx ;
+while (2) { buffer = value + 1; }
+int value = 10;
+tmp = "path\\tmp";
+int idx = 1;
+int tmp = 1;
+int node = 2;
+int acc = 100;
+node = buffer + 2.0;
+acc = value + node;
+count = acc;
+return "delta";
+if (10) { value = 1 > value; }
+value = buffer;
+for value ;
+return "delta";
+if (1.25) { count = 42 != 42; }
+int tmp = 3.14;
+return 100;
+int node = 2;
+return value ;
+return "beta";
+int buffer = 2;
+buffer = "a b c";
+int idx = 1;
+count = "gamma";
+buffer = 3.14 < 3.14;
+if (idx) { acc = 1 + 1; }
+return count;
+return "alpha";
+return 42;
+int count = 42;
+acc = "delta";
+return "path\\tmp";
+int node = 100;
+acc = count < count;
+if (2 < value) { buffer = acc + 2; }
+buffer = "a b c";
+int acc = 10;
+if (tmp) { acc = idx + acc; }
+int acc = 100;
+while (1 - 1) { value = acc + 1; }
+int node = 0;
+node = "alpha";
+if value ;
+while (value <= 2) { idx = count + 1; }
+tmp = "path\\tmp";
+while (2) { acc = count + 1; }
+int tmp = 10;
+idx = "a b c";
+if count ;
+if (2 - 100) { buffer = 42 / 0; }
+while (idx < 0.5) { acc = node + 1; }
+while (value > value) { count = acc + 1; }
+node = "gamma";
+int acc = 100;
+if (0.5) { buffer = 2.0 + buffer; }
+// value slowpath todo value
+int idx = 100;
+while acc ;
+int node = 1;
+tmp = idx >= buffer;
+// slowpath check check note
+if (10 > node) { tmp = acc < buffer; }
+while (10 / idx) { node = buffer + 1; }
+node = tmp;
+while (0 * 1.25) { tmp = value + 1; }
+node = node;
+// slowpath fastpath fastpath slowpath
+if (value + acc) { buffer = idx; }
+tmp = 10;
+// value check value note
+while (100 - 10) { node = value + 1; }
+int count = 2.0;
+tmp = idx != 0;
+// value note todo slowpath
+idx = tmp < 2.0;
+int buffer = 10;
+while (100 + 0) { count = count + 1; }
+acc = 42 / count;
+node = "delta";
+return 42;
+while (buffer < 0.5) { value = count + 1; }
+tmp = "path\\tmp";
+// value slowpath fastpath todo
+int count = 2.0;
+while buffer ;
+int value = 3.14;
+while (value / 3.14) { tmp = buffer + 1; }
+while (1) { count = acc + 1; }
+int idx ;
+if (1 != buffer) { idx = 10 > tmp; }
+int acc = 2;
+node = count;
+acc = acc - 0.5;
+count = 2.0 != 1.25;
+return count;
+int buffer = 1.25;
+int tmp = 0;
+for buffer ;
+while (count) { value = idx + 1; }
+return "a b c";
+tmp = "a b c";
+int value ;
+return buffer;
+int value = 3.14;
+if (42 * 0.5) { value = node / 0; }
+int node = 42;
+if (value * 1) { tmp = 2; }
+while (2.0 != buffer) { acc = node + 1; }
+value = 1.25 == acc;
+while (2.0 == 1) { value = buffer + 1; }
+return 10;
+idx = tmp > 10;
+tmp = "path\\tmp";
+int tmp = 2.0;
+return "delta";
+if (2.0) { tmp = 42 * count; }
+int node = 1;
+idx = acc * 0.5;
+int value = 0;
+if (100 - 0.5) { value = 1 - 0; }
+return count;
+while (10 + node) { idx = tmp + 1; }
+value = "delta";
+acc = acc == 1.25;
+buffer = 2 != count;
+int tmp ;
+tmp = 1 / 2;
+buffer = "gamma";
+if (idx / 1) { buffer = 100; }
+buffer = "alpha";
+int value = 42;
+while value ;
+while (acc + 3.14) { value = count + 1; }
+tmp = "delta";
+while node ;
+value = 42 - node;
+if (3.14 >= idx) { tmp = buffer / 0.5; }
+int tmp = 2;
+return value;
+if count ;
+if (node * count) { value = acc <= 0.5; }
+if (tmp) { buffer = tmp; }
+if (1 - value) { idx = tmp + 10; }
+count = "delta";
+while (idx - buffer) { idx = node + 1; }
+buffer = "gamma";
+int idx = 0;
+int buffer = 2.0;
+int node = 1.25;
+int count ;
+int node = 0.5;
+buffer = "delta";
+int tmp = 1.25;
+return 0;
+if (idx) { idx = 0 + tmp; }
+buffer = 2;
+if (3.14) { value = count / idx; }
+// note value todo slowpath
+acc = "beta";
+if (node <= 1.25) { buffer = 10 != 0; }
+int count ;
+tmp = "alpha";
+int node = 1;
+return 1;
+while (10 > 2) { count = tmp + 1; }
+value = 0 < 0.5;
+if value ;
+return 10;
+while (acc == idx) { count = value + 1; }
+value = 1.25;
+// todo todo check todo
+tmp = "path\\tmp";
+if (0.5 >= 1) { value = 42 < 1; }
+int tmp = 0;
+node = "beta";
+count = 0.5;
+acc = "path\\tmp";
+if acc ;
+while (buffer) { count = count + 1; }
+int buffer = 100;
+if idx ;
+int idx = 1.25;
+int buffer = 10;
+node = acc;
+acc = 3.14 == value;
+if (node / count) { count = count; }
+idx = 0.5 + 3.14;
+return 2;
+while (buffer) { tmp = value + 1; }
+int acc = 10;
+int value ;
+int buffer = 0;
+if node ;
+if (1.25 == node) { tmp = tmp / buffer; }
+if (100 <= 0) { tmp = buffer - tmp; }
+int idx = 1.25;
+while (0.5 > 42) { count = buffer + 1; }
+if (node) { node = 2.0 * 3.14; }
+node = "alpha";
+if (buffer / 100) { node = 0.5; }
+buffer = "beta";
+int acc = 42;
+int acc = 0;
+while (acc) { tmp = value + 1; }
+buffer = "a b c";
+int value = 0;
+value = "a b c";
+if (100) { value = 1.25 * 2.0; }
+buffer = 2 + buffer;
+count = value;
+idx = "a b c";
+return count;
+while (count >= 100) { acc = idx + 1; }
+while (1.25 - 10) { count = tmp + 1; }
+int value = 100;
+for acc ;
+buffer = "gamma";
+if (42 > 100) { buffer = 3.14 + node; }
+if (idx) { acc = idx - 2.0; }
+return "delta";
+node = tmp == 100;
+node = count > acc;
+int idx = 1;
+tmp = value > node;
+if (3.14 <= acc) { idx = 1.25; }
+if (1 >= buffer) { buffer = 10 <= buffer; }
+int count = 10;
+buffer = idx >= buffer;
+if (0.5 * buffer) { tmp = value != 0; }
+// todo check value slowpath
+if (count) { buffer = value; }
+int node ;
+while acc ;
+int node = 10;
+if (tmp - node) { value = 3.14; }
+int node = 1.25;
+int acc = 0;
+while (idx - 3.14) { acc = value + 1; }
+int node ;
+// todo fastpath slowpath fastpath
+idx = "path\\tmp";
+int acc = 100;
+int count = 0;
+if (3.14 - 0.5) { value = 1; }
+if (2 + buffer) { node = value < 0; }
+buffer = acc != 1.25;
+tmp = 1 == 3.14;
+return count;
+return 10;
+while (1.25) { tmp = value + 1; }
+acc = "a b c";
+if (count != count) { acc = 2 == 1.25; }
+while (acc) { count = buffer + 1; }
+while count ;
+tmp = 100 <= acc;
+if acc ;
+if (0 == node) { tmp = node - 1; }
+int value = 1.25;
+if (0.5 + 0) { acc = idx - 2.0; }
+if (3.14 * 0) { tmp = 100 > 2; }
+if (node) { buffer = tmp != acc; }
+int value = 1.25;
+return node ;
+acc = 0.5;
+value = 0.5 != value;
+return 10;
+while (42) { idx = value + 1; }
+if (node <= 2) { tmp = count; }
+int idx = 2;
+// todo todo note fastpath
+int buffer = 1.25;
+count = 1 < 0;
+tmp = buffer * buffer;
+if count ;
+node = 0 != 2;
+return acc;
+value = "alpha";
+if (2.0) { idx = 1 != node; }
+int idx = 2.0;
+idx = "beta";
+while (1) { value = idx + 1; }
+if (2.0) { value = value > tmp; }
+count = "alpha";
+int buffer = 42;
+while (count <= count) { buffer = idx + 1; }
+node = count + 42;
+idx = acc;
+if (3.14 != count) { idx = value * 0; }
+value = 100 == 42;
+tmp = 3.14 / 3.14;
+if idx ;
+if (42 > idx) { idx = 10; }
+return buffer ;
+return "path\\tmp";
+if (2.0 - 42) { tmp = node * 0.5; }
+idx = tmp + acc;
+int count = 42;
+acc = 100 < value;
+while value ;
+while (value > 10) { value = node + 1; }
+// todo fastpath slowpath todo
+return tmp;
+return 10;
+int value ;
+while value ;
+int buffer = 0;
+while (buffer) { idx = acc + 1; }
+if (2.0 / 0) { node = buffer > buffer; }
+idx = 1.25;
+if (tmp) { acc = 10; }
+int buffer = 1;
+count = 10 != acc;
+buffer = "a b c";
+int tmp = 10;
+while (count) { tmp = value + 1; }
+int count = 2;
+int buffer = 0.5;
+count = "gamma";
+if (value > 1) { node = 0.5 >= 0.5; }
+// check value slowpath slowpath
+if idx ;
+int value = 100;
+acc = "a b c";
+return tmp;
+node = "delta";
+buffer = 3.14 <= 42;
+return value;
+int value = 2;
+while (100 - 10) { buffer = buffer + 1; }
+// slowpath todo todo todo
+count = "beta";
+for node ;
+count = 2 * 1.25;
+int tmp = 100;
+tmp = "gamma";
+return value ;
+int node = 0.5;
+buffer = "a b c";
+if (3.14 / value) { value = node; }
+value = 2 + 10;
+int count = 0;
+// fastpath todo slowpath todo
+value = "beta";
+count = 10;
+int count = 1.25;
+buffer = count;
+tmp = 0;
+if (1 / buffer) { value = 1.25; }
+count = "gamma";
+int buffer = 1.25;
+tmp = 2.0 == 2;
+int node = 100;
+return count ;
+return "path\\tmp";
+int count = 0.5;
+while idx ;
+idx = count;
+if (2) { buffer = 3.14 == 100; }
+int value = 0.5;
+buffer = "alpha";
+tmp = 0 != 3.14;
+node = buffer > 2.0;
+while (1.25 != tmp) { buffer = buffer + 1; }
+buffer = 42 == 1.25;
+while (count - 1) { count = node + 1; }
+tmp = acc >= 2;
+int count = 1;
+// value slowpath fastpath check
+int count = 3.14;
+int tmp = 2.0;
+int count = 10;
+return 0;
+acc = 1;
+tmp = "beta";
+int acc = 2;
+int acc = 2;
+node = buffer * buffer;
+buffer = node;
+int tmp = 1;
+while (10 + 3.14) { idx = count + 1; }
+int idx = 10;
+while (0 != value) { node = idx + 1; }
+tmp = node * 0;
+buffer = "path\\tmp";
+return idx;
+buffer = idx >= idx;
+if (1 < value) { idx = 2.0 > 100; }
+value = tmp >= idx;
+buffer = 0 == node;
+while (10) { value = node + 1; }
+if (value - 0) { acc = value >= 3.14; }
+tmp = "delta";
+// check todo check todo
+return count;
+while (10) { tmp = node + 1; }
+int count = 1.25;
+return 0;
+return "beta";
+while (0.5 - 2.0) { tmp = node + 1; }
+tmp = "beta";
+count = 1.25;
+return "a b c";
+if (2.0) { count = 2.0 + 2; }
+if (idx < 100) { value = 0 > acc; }
+if (acc > tmp) { buffer = 0.5; }
+if (1) { idx = buffer <= count; }
+int buffer = 2;
+if (42) { count = buffer - tmp; }
+// fastpath fastpath check fastpath
+if (1.25 * 1) { tmp = count * value; }
+count = "alpha";
+return acc;
+node = "beta";
+int idx = 42;
+int buffer ;
+return acc;
+if (2 < 42) { count = 100 * value; }
+while node ;
+// value todo fastpath todo
+if (42) { tmp = 2; }
+int acc = 3.14;
+count = 42 < count;
+while buffer ;
+return tmp;
+idx = "a b c";
+while (idx > acc) { count = count + 1; }
+if (1 <= value) { buffer = 100 >= node; }
+while (acc + value) { value = count + 1; }
+int count = 42;
+return 1;
+int count = 0.5;
+while (count) { value = buffer + 1; }
+int node = 100;
+int node = 0;
+if (tmp) { idx = 0.5 >= node; }
+int idx = 10;
+acc = 0.5 > node;
+int tmp = 3.14;
+int value = 3.14;
+acc = 100 <= node;
+int acc = 10;
+// fastpath note fastpath value
+int idx = 0;
+return node;
+return idx;
+if (0.5 >= 0.5) { idx = count > 42; }
+tmp = "gamma";
+while (count > 1.25) { tmp = acc + 1; }
+// note value slowpath todo
+node = 2 < value;
+int value = 2;
+return 42;
+node = 3.14;
+node = acc > idx;
+int node ;
+while (tmp + acc) { buffer = acc + 1; }
+return tmp;
+return "beta";
+int idx = 3.14;
+if (42 * 10) { value = count; }
+idx = "alpha";
+int count = 0;
+return 0;
+int acc = 1.25;
+idx = 1.25 / 2.0;
+count = 100;
+buffer = 1;
+return "a b c";
+while (acc) { tmp = acc + 1; }
+if (buffer != acc) { idx = acc * count; }
+while (acc > 3.14) { buffer = buffer + 1; }
+while value ;
+if (1 * 10) { value = acc / 3.14; }
+// check slowpath slowpath check
+if (42) { buffer = 0; }
+return node;
+while (idx * acc) { idx = node + 1; }
+acc = "gamma";
+int value = 2.0;
+while (0 == 2) { count = tmp + 1; }
+int node = 42;
+idx = buffer;
+// todo value note fastpath
+while (1.25 <= 1.25) { idx = value + 1; }
+idx = 0.5;
+value = tmp > 100;
+while (2.0 * value) { tmp = count + 1; }
+for tmp ;
+return 2;
+if buffer ;
+while (2) { value = idx + 1; }
+int tmp = 3.14;
+// value fastpath check note
+node = count > node;
+count = "path\\tmp";
+while (100) { count = idx + 1; }
+count = tmp;
+return tmp;
+if (2 > 3.14) { acc = 1.25; }
+acc = 2;
+int idx = 0.5;
+// note fastpath todo value
+return "beta";
+node = value;
+tmp = 10 + acc;
+return 10;
+return "a b c";
+acc = "delta";
+acc = buffer / 2;
+node = 3.14;
+// fastpath check check note
+int buffer = 2.0;
+int count = 42;
+return acc;
+for acc ;
+int acc = 0;
+acc = idx >= idx;
+for count ;
+return "alpha";
+if (42 == 3.14) { node = 10 / tmp; }
+while (tmp) { value = buffer + 1; }
+return "path\\tmp";
+while (acc != 100) { node = acc + 1; }
+if (0.5 * 10) { value = 1 <= node; }
+tmp = 100;
+while (42) { acc = node + 1; }
+value = 100 >= tmp;
+// value fastpath slowpath todo
+return 1;
+int acc = 0;
+while (buffer / 2) { count = node + 1; }
+return "a b c";
+return 42;
+return count;
+acc = "alpha";
+if buffer ;
+return count;
+return "gamma";
+return 0;
+node = "gamma";
+// fastpath slowpath fastpath todo
+while (1.25 * 1.25) { buffer = node + 1; }
+idx = 1.25 != node;
+return "beta";
+while (2.0 <= 42) { node = idx + 1; }
+idx = "a b c";
+int value = 2.0;
+int acc = 1;
+count = 1 <= 1;
+value = idx <= 1;
+if (10 < buffer) { count = 10 < 2; }
+return count ;
+int node = 42;
+int buffer = 0;
+count = "path\\tmp";
+while (3.14) { acc = acc + 1; }
+if (1.25 > buffer) { count = 100 - 3.14; }
+int buffer = 1;
+if tmp ;
+while idx ;
+if (node / count) { acc = count != 0.5; }
+buffer = count / node;
+node = tmp;
+if (100 / node) { buffer = 2 <= tmp; }
+tmp = "alpha";
+return 2;
+acc = node <= 0.5;
+return node;
+int buffer = 100;
+if (0 <= 1) { idx = 10; }
+idx = "beta";
+for node ;
+// value note note slowpath
+value = 100 > tmp;
+int acc = 2;
+int acc = 1.25;
+idx = "beta";
+return 2;
+acc = "delta";
+if (tmp <= 0.5) { buffer = 1 > 0.5; }
+value = buffer + 2;
+idx = node;
+value = "beta";
+int tmp = 2;
+buffer = node == tmp;
+if (3.14 < 42) { acc = 42 * 0; }
+int value = 100;
+value = "gamma";
+int acc = 0;
+idx = 0 - 10;
+while (1.25 < node) { node = idx + 1; }
+return "alpha";
+for tmp ;
+int node = 10;
+int acc = 3.14;
+if (node) { idx = 2.0; }
+return idx;
+value = value;
+return "a b c";
+for acc ;
+if (42) { count = idx / node; }
+return 0;
+int value = 3.14;
+if (100 * 0.5) { acc = count; }
+return 1;
+int count = 10;
+node = 100;
+value = "alpha";
+int value = 1;
+if (count / 0) { node = buffer; }
+buffer = "path\\tmp";
+int value = 2.0;
+int value = 2;
+count = "a b c";
+return node;
+int acc = 1.25;
+value = "beta";
+idx = 1.25 - 2.0;
+while (value == 3.14) { tmp = node + 1; }
+// check value todo fastpath
+int count = 10;
+int acc = 10;
+if (1 / idx) { node = 0; }
+while (3.14 > idx) { node = buffer + 1; }
+return "a b c";
+if (node > acc) { idx = 1.25 / 10; }
+if (1 + 0.5) { value = 42 != 1.25; }
+buffer = value < acc;
+if (idx > 1) { value = 0 + buffer; }
+while (idx + 2) { count = tmp + 1; }
+return tmp;
+node = "beta";
+return "beta";
+return idx ;
+if (3.14) { buffer = value; }
+if (node == 1) { acc = 0.5 > idx; }
+int count = 2;
+count = 2.0 / node;
+int acc = 3.14;
+buffer = "path\\tmp";
+value = 2;
+int value = 100;
+if (42 == 0) { node = value + 2; }
+return tmp ;
+// fastpath slowpath check note
+int acc = 3.14;
+while (tmp >= idx) { value = tmp + 1; }
+int idx = 1.25;
+value = "delta";
+while (tmp * count) { idx = buffer + 1; }
+// check fastpath fastpath note
+node = value / 2;
+// check fastpath slowpath fastpath
+return 10;
+buffer = 3.14 - 3.14;
+return "a b c";
+return "gamma";
+if (count < 0) { count = 1 <= 2.0; }
+while count ;
+tmp = 42;
+int tmp ;
+value = buffer - 42;
+// todo value fastpath slowpath
+int node = 42;
+while (1 / idx) { tmp = tmp + 1; }
+node = idx > 10;
+int node = 100;
+int value = 2;
+int acc = 2;
+// value fastpath slowpath value
+// check note slowpath fastpath
+node = idx;
+return 100;
+if (2.0 * value) { count = tmp; }
+buffer = acc + 3.14;
+value = "path\\tmp";
+int idx = 2;
+tmp = "alpha";
+int count ;
+tmp = "beta";
+return 1;
+node = "alpha";
+idx = buffer != buffer;
+while node ;
+tmp = value;
+int idx = 0.5;
+// fastpath value check value
+if (value) { idx = value != idx; }
+int buffer = 3.14;
+tmp = 3.14 * 10;
+if (tmp < 10) { value = 10 + value; }
+idx = idx < 100;
+int acc = 100;
+count = 42 > buffer;
+return idx;
+if (1 - acc) { count = idx; }
+int idx = 1;
+if (10 == 1) { idx = buffer - 0; }
+return 2;
+int count ;
+buffer = "a b c";
+return 1;
+int idx = 1.25;
+while tmp ;
+// todo note check todo
+while (value <= 1) { buffer = value + 1; }
+acc = 1 <= 1.25;
+int value = 0.5;
+if (1.25) { count = 1.25 - node; }
+while (acc <= 0.5) { buffer = count + 1; }
+tmp = 2.0;
+acc = 0 / 0;
+int idx = 0;
+// value todo check check
+tmp = "delta";
+for tmp ;
+acc = "beta";
+int count = 1.25;
+// fastpath slowpath note fastpath
+int idx = 42;
+return acc ;
+return 10;
+return 1;
+int acc = 0.5;
+// slowpath check value check
+int idx = 2.0;
+// check note note fastpath
+acc = "gamma";
+return 42;
+int idx = 2.0;
+idx = "delta";
+acc = idx + 2;
+for count ;
+if (acc) { count = 10 < 3.14; }
+int node = 2.0;
+return idx ;
+if (42 + 42) { buffer = node > value; }
+// check check slowpath value
+int node = 2.0;
+while (acc > value) { value = count + 1; }
+// note todo note todo
+while (acc) { acc = count + 1; }
+int count = 1;
+idx = "path\\tmp";
+acc = 0.5 != 2;
+int acc = 2;
+buffer = "alpha";
+if (1 + 1.25) { tmp = 3.14 > buffer; }
+count = node;
+int count = 0.5;
+// value note note value
+while (42 + 100) { value = value + 1; }
+if (value - node) { tmp = 2 >= buffer; }
+return 100;
+int tmp ;
+tmp = "alpha";
+return 1;
+if (count + 0) { count = 0.5; }
+if (0.5 > 2.0) { value = acc + value; }
+if (10 + tmp) { node = 0 == 1; }
+int count = 1;
+int node = 100;
+while (2.0 <= 42) { buffer = acc + 1; }
+value = 2 / node;
+count = idx < 100;
+while acc ;
+value = "path\\tmp";
+while (2 / count) { tmp = acc + 1; }
+return value;
+int count = 1;
+value = 0 / buffer;
+int idx = 2.0;
+while (acc >= 100) { node = value + 1; }
+int value = 1.25;
+int value = 2;
+return tmp;
+int tmp = 0;
+count = 42 != 2.0;
+return "alpha";
+if (10 < 1) { tmp = tmp != count; }
+// todo value note value
+if (42 >= 2) { count = 0 >= 10; }
+value = "gamma";
+int buffer ;
+for node ;
+node = 2.0 <= 1;
+idx = "a b c";
+// slowpath note note value
+// slowpath todo note slowpath
+while (tmp) { buffer = count + 1; }
+if idx ;
+return idx ;
+node = 3.14 > 2;
+if (100 == acc) { acc = 2.0 == 42; }
+// slowpath fastpath slowpath todo
+buffer = 1.25 + idx;
+for node ;
+if (10 * 42) { value = 1.25 < 10; }
+idx = "path\\tmp";
+// fastpath slowpath value note
+int idx = 100;
+while (tmp == 0.5) { idx = buffer + 1; }
+while (10 * node) { idx = buffer + 1; }
+int node = 2;
+buffer = "gamma";
+int tmp ;
+if (1.25 * 42) { count = 10 < 1; }
+while (value / buffer) { node = node + 1; }
+idx = "beta";
+return buffer ;
+// value todo note check
+tmp = 0;
+if (0 != buffer) { node = idx; }
+node = node / 3.14;
+if (idx) { buffer = tmp * 1; }
+buffer = 1 - 3.14;
+while (3.14 == 10) { tmp = acc + 1; }
+int buffer = 2;
+count = 100 == 2.0;
+// todo check slowpath value
+while (idx == idx) { node = buffer + 1; }
+int idx = 1;
+acc = node;
+int tmp = 100;
+while (1.25 * value) { buffer = tmp + 1; }
+if (node - tmp) { tmp = 0 == count; }
+while (count > tmp) { idx = buffer + 1; }
+// note todo check note
+if (0.5 == node) { value = acc == idx; }
+while (tmp) { idx = tmp + 1; }
+value = 0;
+return "alpha";
+int idx ;
+return "beta";
+int buffer = 1.25;
+value = "beta";
+value = 1.25 * value;
+tmp = buffer < 1.25;
+return buffer;
+return "delta";
+acc = "gamma";
+return "beta";
+while (1.25 >= 100) { acc = count + 1; }
+return acc;
+if (0.5) { buffer = 10 <= 42; }
+int node = 100;
+return "delta";
+while buffer ;
+while (value > 0.5) { count = acc + 1; }
+tmp = "alpha";
+int node = 2;
+acc = 100 != 0.5;
+buffer = "delta";
+return "gamma";
+value = "a b c";
+while tmp ;
+tmp = "beta";
+if idx ;
+count = 3.14 / 10;
+int value = 2.0;
+while (42) { value = acc + 1; }
+if node ;
+if (1.25 + 10) { idx = buffer >= idx; }
+int node = 3.14;
+node = 1;
+if (42) { node = tmp * 0; }
+return tmp ;
+return "delta";
+return 10;
+return idx;
+// value todo fastpath value
+// fastpath value todo fastpath
+return 10;
+node = idx > 2.0;
+while (2) { count = value + 1; }
+if (node != 3.14) { value = 0 >= 1.25; }
+value = value;
+if (1.25) { value = 0 > 10; }
+int acc = 42;
+if (2.0 + 0.5) { idx = count; }
+int count = 0.5;
+// todo check fastpath value
+// value note fastpath todo
+int count = 100;
+int buffer = 42;
+// check todo todo check
+buffer = 0 * 42;
+tmp = node > idx;
+value = "gamma";
+idx = node + 42;
+for value ;
+return node ;
+if (10) { tmp = node / 42; }
+count = 100 / 10;
+int acc = 1;
+acc = 0 == 3.14;
+if tmp ;
+int tmp = 1.25;
+if (42) { tmp = buffer / 1; }
+while (3.14) { idx = buffer + 1; }
+int value = 42;
+return 1;
+idx = "beta";
+count = 0.5 <= 10;
+// note note todo slowpath
+while (1.25 - 0) { value = count + 1; }
+// todo check note check
+value = 42 <= 3.14;
+count = count - idx;
+if (2 - tmp) { count = 100 != idx; }
+return tmp;
+count = count;
+int tmp = 3.14;
+while idx ;
+int node = 3.14;
+while (1.25 + 2.0) { tmp = buffer + 1; }
+if (1) { tmp = 42 <= idx; }
+// check note note fastpath
+while (idx) { buffer = tmp + 1; }
+// note value check check
+if (acc < node) { value = 100 < acc; }
+while value ;
+tmp = buffer >= 1;
+return tmp;
+if (2.0) { tmp = 2; }
+value = count > tmp;
+while (100) { tmp = count + 1; }
+if (tmp <= 2.0) { tmp = node; }
+if buffer ;
+// value check slowpath note
+count = tmp - 1.25;
+int count = 42;
+while (node + value) { idx = tmp + 1; }
+if (count <= value) { acc = 0 * 0.5; }
+while (3.14 + node) { buffer = buffer + 1; }
+return 0;
+while (count) { buffer = node + 1; }
+// value note todo todo
+count = 42 > 2.0;
+value = 10 >= node;
+while acc ;
+// fastpath slowpath value slowpath
+buffer = acc;
+idx = "alpha";
+if idx ;
+tmp = node > buffer;
+int idx = 2;
+// value fastpath slowpath value
+tmp = idx + count;
+for acc ;
+return idx;
+if (0 <= 2) { value = acc / count; }
+idx = "path\\tmp";
+while (0.5 >= 2.0) { tmp = idx + 1; }
+// todo todo value note
+if (0.5 / 2.0) { idx = 0; }
+node = "gamma";
+int node = 42;
+while (0 * 100) { acc = buffer + 1; }
+int acc = 1;
+int acc = 10;
+acc = "delta";
+while (buffer) { idx = tmp + 1; }
+while (100) { acc = tmp + 1; }
+buffer = 1 - buffer;
+return "gamma";
+return "gamma";
+int tmp ;
+// note slowpath value todo
+idx = "gamma";
+if (1.25) { node = acc <= acc; }
+int acc = 1;
+int idx = 3.14;
+int value = 100;
+if (1.25 < tmp) { tmp = idx != 2.0; }
+acc = 100 > tmp;
+idx = "path\\tmp";
+return 2;
+if (0 > 2.0) { value = 100 <= 42; }
+node = count - tmp;
+while (1 + value) { count = acc + 1; }
+int buffer = 1.25;
+if (value + idx) { count = count < 3.14; }
+while (10 - acc) { buffer = value + 1; }
+count = 100 / 0;
+buffer = count == 2.0;
+// fastpath fastpath value note
+buffer = "alpha";
+int count = 1.25;
+int value = 1.25;
+// value check todo value
+idx = node >= 100;
+int tmp = 100;
+int buffer = 1.25;
+buffer = node != 1;
+node = 42;
+int buffer = 10;
+if (3.14) { acc = 0; }
+idx = count;
+tmp = buffer;
+acc = 1 + tmp;
+int idx = 2;
+while acc ;
+if acc ;
+if (buffer < 3.14) { buffer = 1.25 * idx; }
+if (0) { count = count == count; }
+while (0.5 + 3.14) { node = tmp + 1; }
+return tmp ;
+tmp = "alpha";
+if (count * 1) { acc = value; }
+return value;
+while buffer ;
+if (100 / count) { value = 42 + node; }
+node = "alpha";
+// todo value check note
+node = 2;
+count = 10;
+acc = 2.0 != 100;
+return 10;
+tmp = 3.14 == 10;
+buffer = value == 2.0;
+return "path\\tmp";
+buffer = 3.14 / idx;
+int idx = 3.14;
+if (0) { value = 0 <= buffer; }
+// slowpath slowpath check value
+// check check todo value
+return node ;
+tmp = 42 <= 0.5;
+if (100 > 100) { buffer = value < 100; }
+while (100) { acc = idx + 1; }
+while node ;
+if (2 > value) { count = count == value; }
+int count = 2.0;
+return count ;
+return "a b c";
+while tmp ;
+// value check value todo
+buffer = 2.0 >= 100;
+buffer = tmp;
+int acc = 2;
+int idx = 2.0;
+while (acc > 3.14) { count = node + 1; }
+tmp = "gamma";
+acc = 2.0;
+node = idx >= buffer;
+return idx;
+idx = "path\\tmp";
+return "a b c";
+while (2 < value) { acc = node + 1; }
+return "delta";
+count = 0 <= acc;
+node = 10 >= 0;
+while buffer ;
+while (2.0 / buffer) { node = count + 1; }
+while (1.25) { count = tmp + 1; }
+while (10 != acc) { count = node + 1; }
+value = "alpha";
+buffer = node <= idx;
+int value = 2.0;
+return tmp ;
+// todo value note check
+while tmp ;
+int idx ;
+int tmp = 3.14;
+return 10;
+count = 42 >= 2.0;
+node = "gamma";
+node = 42;
+return node;
+int value = 42;
+idx = tmp == 2.0;
+value = 1 == 0.5;
+int acc = 1;
+value = "alpha";
+int idx = 42;
+// slowpath check check value
+if (count) { tmp = 1; }
+int idx = 2;
+for value ;
+tmp = "delta";
+while (idx) { value = idx + 1; }
+int node = 100;
+node = 3.14 != value;
+while (2) { idx = value + 1; }
+while (2 >= idx) { idx = value + 1; }
+int idx = 2;
+while idx ;
+count = "delta";
+while (0.5 - 100) { idx = idx + 1; }
+return count;
+return idx ;
+idx = "delta";
+while (2 + 2.0) { buffer = buffer + 1; }
+return buffer;
+while (2 - count) { tmp = node + 1; }
+while (2.0) { tmp = tmp + 1; }
+count = "path\\tmp";
+while (42 < buffer) { tmp = acc + 1; }
+acc = tmp > 3.14;
+if (idx - 3.14) { tmp = acc; }
+if count ;
+int count = 2.0;
+for count ;
+acc = 1.25 == tmp;
+while (buffer) { idx = tmp + 1; }
+return buffer ;
+return tmp;
+if (0) { count = 0.5 * 10; }
+tmp = acc == buffer;
+int tmp = 2.0;
+return buffer;
+// value todo check slowpath
+int node = 2.0;
+int value = 2.0;
+value = "gamma";
+int buffer = 3.14;
+idx = 42;
+int value = 3.14;
+int node = 3.14;
+node = "a b c";
+return 10;
+if (value - 10) { tmp = idx; }
+node = "beta";
+while value ;
+buffer = value;
+while (buffer - 0) { acc = tmp + 1; }
+while (idx < tmp) { idx = node + 1; }
+int node = 1.25;
+value = 3.14;
+tmp = 3.14 / 10;
+if (2.0 > value) { node = 0.5 <= count; }
+int idx = 2.0;
+count = 3.14 / 2;
+while tmp ;
+idx = "delta";
+return "beta";
+while (buffer + 3.14) { idx = idx + 1; }
+while (3.14) { acc = value + 1; }
+int value = 1.25;
+return 2;
+if (42) { tmp = 1.25; }
+value = "beta";
+while (3.14 - 2) { value = acc + 1; }
+if (value == 1.25) { node = 2 < tmp; }
+buffer = 1;
+int acc = 42;
+int count = 1;
+int idx = 2;
+return node ;
+acc = "a b c";
+int acc = 1;
+if idx ;
+value = count;
+while (0.5 <= value) { tmp = node + 1; }
+int tmp = 0;
+buffer = 2.0;
+buffer = 42 - 2.0;
+// check note check note
+node = buffer * value;
+int tmp = 3.14;
+idx = "gamma";
+int idx ;
+while (buffer > 42) { count = idx + 1; }
+if (100) { value = idx - acc; }
+// todo slowpath todo note
+while (2.0 < idx) { acc = acc + 1; }
+node = 42 == count;
+node = "gamma";
+int count = 2;
+int tmp = 1;
+// note slowpath fastpath slowpath
+while (100 + 0) { acc = node + 1; }
+// fastpath fastpath todo slowpath
+for tmp ;
+if (100) { buffer = 2.0; }
+value = 100;
+acc = "beta";
+return 10;
+// note check note note
+if (0.5 - tmp) { acc = value < 0.5; }
+return 0;
+if acc ;
+// note check value todo
+// check fastpath check todo
+if (buffer) { value = 3.14; }
+acc = "alpha";
+while (3.14 < 2.0) { idx = acc + 1; }
+while (2.0 >= buffer) { idx = tmp + 1; }
+while (acc > 1) { tmp = count + 1; }
+while (count) { node = acc + 1; }
+if acc ;
+int tmp = 1.25;
+while (count != 0.5) { count = idx + 1; }
+if (3.14 / 2) { buffer = 10 + 3.14; }
+return 100;
+int buffer ;
+int tmp ;
+// slowpath check fastpath todo
+while idx ;
+int node = 1;
+count = 2.0;
+for tmp ;
+acc = 1.25 > 1;
+value = 1 / 100;
+int count = 10;
+// value check note check
+return idx ;
+acc = "gamma";
+int idx = 42;
+acc = tmp / 2.0;
+if (2.0 <= 3.14) { node = tmp / 42; }
+while (buffer >= buffer) { tmp = tmp + 1; }
+return "a b c";
+while (100 * 3.14) { buffer = buffer + 1; }
+while (value == 1.25) { count = buffer + 1; }
+if (1 < 42) { buffer = 1.25 < idx; }
+if (1 != 0) { buffer = 1 / 10; }
+while (0.5) { node = buffer + 1; }
+tmp = "path\\tmp";
+return buffer ;
+if (2 - value) { count = node >= 100; }
+while (idx + buffer) { acc = buffer + 1; }
+node = idx <= 2.0;
+idx = "alpha";
+return node ;
+while (42 - 3.14) { node = node + 1; }
+while (2.0 * node) { tmp = acc + 1; }
+buffer = acc;
+if (count) { node = idx < 42; }
+while value ;
+buffer = 10 >= 42;
+if (10) { count = 100; }
+while (idx != 0) { tmp = node + 1; }
+buffer = "gamma";
+acc = 3.14;
+int count = 10;
+if (node == acc) { node = value; }
+while (acc != idx) { value = count + 1; }
+if (1.25) { buffer = 42 / tmp; }
+int value = 2.0;
+if (0.5 != 1.25) { tmp = tmp < buffer; }
+if idx ;
+return acc;
+int node = 1.25;
+return value ;
+buffer = 42 >= value;
+acc = "gamma";
+if (acc) { buffer = 1.25 * acc; }
+buffer = 2;
+int node = 0.5;
+idx = 3.14 <= 1.25;
+int idx = 100;
+while (100 / 2.0) { buffer = tmp + 1; }
+return 1;
+acc = 0.5;
+while (3.14) { tmp = idx + 1; }
+while node ;
+int tmp = 1.25;
+acc = "delta";
+return tmp;
+tmp = 0.5 > value;
+while (tmp) { tmp = acc + 1; }
+int buffer = 2.0;
+int count = 2.0;
+int acc ;
+while (count) { count = idx + 1; }
+idx = value + buffer;
+buffer = 2.0;
+if (1.25) { value = 1 + 100; }
+// todo check check check
+if count ;
+return buffer;
+acc = 2 == 10;
+int node = 1.25;
+if (42) { acc = buffer / 1.25; }
+while (value != buffer) { node = buffer + 1; }
+value = 0 * buffer;
+int node = 0;
+if (10 + 100) { acc = buffer >= node; }
+return 100;
+return node;
+acc = "delta";
+if (count / count) { idx = node; }
+int count = 2.0;
+count = "a b c";
+int idx ;
+count = 3.14;
+return "alpha";
+while (2 > 2) { node = tmp + 1; }
+acc = "a b c";
+while (buffer + node) { value = acc + 1; }
+while (acc) { acc = idx + 1; }
+if value ;
+if (acc / buffer) { tmp = idx / 42; }
+return "beta";
+return count ;
+buffer = 0 * 42;
+acc = count < 10;
+while (tmp > buffer) { count = value + 1; }
+int value = 10;
+idx = idx + 100;
+node = "gamma";
+return value ;
+acc = "beta";
+return tmp;
+while (3.14) { count = idx + 1; }
+value = 42 - 42;
+acc = buffer;
+return "a b c";
+int count = 2;
+count = 0.5 < 0;
+return 100;
+count = value != 10;
+return "path\\tmp";
+if (1.25) { count = 42 >= 1.25; }
+if (1 - 2) { value = 1 <= buffer; }
+int idx ;
+tmp = 0.5 == 1;
+acc = "delta";
+node = tmp;
+if buffer ;
+int idx = 2.0;
+buffer = 1.25;
+int buffer = 0;
+return "gamma";
+return 10;
+count = 10 < node;
+for tmp ;
+value = 2 < 2.0;
+return value;
+return tmp ;
+if (acc < buffer) { count = 1 >= 42; }
+if (100) { value = 0.5 * idx; }
+return 2;
+return value;
+return "beta";
+return tmp;
+while (2.0 > node) { count = tmp + 1; }
+if idx ;
+idx = "a b c";
+return value;
+buffer = 0 < node;
+// check fastpath fastpath value
+while (3.14 + 42) { count = value + 1; }
+while buffer ;
+int count = 1.25;
+return acc;
+while (1) { value = tmp + 1; }
+value = "a b c";
+count = tmp + value;
+int acc = 0.5;
+return 10;
+int acc = 100;
+while (0) { buffer = count + 1; }
+if (3.14 >= buffer) { buffer = buffer * 100; }
+idx = value * acc;
+while (42) { tmp = count + 1; }
+acc = "gamma";
+int tmp = 42;
+acc = node;
+int acc = 2;
+if (2 >= node) { buffer = value; }
+while (buffer + 3.14) { tmp = count + 1; }
+if (1 * 0) { acc = buffer; }
+while (acc != 2.0) { node = tmp + 1; }
+tmp = 10 != tmp;
+acc = "alpha";
+if (3.14 - 0.5) { buffer = count >= 3.14; }
+int value = 42;
+if (100 * tmp) { value = count; }
+return 2;
+if (value) { buffer = 3.14 < tmp; }
+idx = count >= 2.0;
+int idx = 2;
+while (0 + 1) { acc = count + 1; }
+acc = "path\\tmp";
+if (1.25) { node = buffer != 0.5; }
+if (2.0 != 10) { acc = 0.5 < value; }
+return 1;
+int node = 42;
+while (10 > acc) { acc = buffer + 1; }
+int value = 1.25;
+if (3.14) { value = tmp <= 2.0; }
+node = 10;
+if tmp ;
+node = count;
+while value ;
+int node ;
+buffer = "delta";
+while tmp ;
+// note slowpath note check
+buffer = "path\\tmp";
+if node ;
+int node = 1;
+return 0;
+buffer = 10 >= buffer;
+return 10;
+tmp = acc - idx;
+int acc ;
+return "beta";
+return 42;
+int idx ;
+while (buffer) { count = idx + 1; }
+int tmp = 2.0;
+while (1.25 >= 100) { node = acc + 1; }
+while (buffer == value) { idx = tmp + 1; }
+int count = 0.5;
+while (buffer) { acc = acc + 1; }
+int value = 1.25;
+int idx = 2.0;
+count = "alpha";
+int node = 3.14;
+value = 3.14 * buffer;
+count = "delta";
+return buffer ;
+return "alpha";
+if (1 * count) { buffer = 1.25 > 42; }
+count = "a b c";
+int tmp = 42;
+tmp = "gamma";
+if (10) { buffer = 2.0 < tmp; }
+idx = "beta";
+return buffer;
+tmp = node / idx;
+while (3.14 > 0) { acc = buffer + 1; }
+int count = 100;
+value = value > 42;
+idx = "path\\tmp";
+while (10) { idx = value + 1; }
+return idx ;
+return tmp;
+if (count != acc) { tmp = 100; }
+int buffer = 1.25;
+if (42 <= 0) { node = 3.14; }
+int count = 2;
+return buffer ;
+if (1) { node = 2.0 - 2; }
+if value ;
+// value value note slowpath
+int acc = 42;
+if (count * tmp) { tmp = 2.0 == buffer; }
+node = "beta";
+while (10) { buffer = value + 1; }
+return value;
+// value fastpath fastpath fastpath
+count = "gamma";
+node = 100 <= 2.0;
+for buffer ;
+while (10 >= value) { buffer = acc + 1; }
+while (1.25 > 2.0) { value = buffer + 1; }
+if (idx - buffer) { idx = 2 + 2.0; }
+if (node / node) { count = 1 - 10; }
+tmp = "gamma";
+int node = 100;
+// note fastpath fastpath todo
+int idx = 2;
+int tmp = 0.5;
+if (1 < 0) { idx = buffer; }
+int buffer = 2.0;
+// check value slowpath note
+int acc = 42;
+count = 3.14 == count;
+return 2;
+return node;
+idx = "path\\tmp";
+if (count == value) { tmp = count; }
+node = "alpha";
+return count;
+int value = 100;
+int buffer = 2;
+int count = 0.5;
+if (idx + buffer) { acc = acc < acc; }
+acc = value != 10;
+int tmp ;
+if count ;
+return "a b c";
+int count ;
+// check fastpath fastpath note
+tmp = "delta";
+// fastpath todo value check
+node = idx + 1;
+tmp = count;
+int buffer = 42;
+int buffer = 0;
+idx = "a b c";
+// fastpath fastpath todo slowpath
+int node = 2.0;
+if tmp ;
+int node = 3.14;
+tmp = 42;
+buffer = "a b c";
+return 10;
+return "beta";
+while (node) { value = count + 1; }
+// fastpath note check check
+int node = 1;
+if (0 != 3.14) { count = 100 + node; }
+buffer = "gamma";
+int node = 3.14;
+if (1 < 0.5) { tmp = 2 / 2.0; }
+buffer = 0.5 < 100;
+// slowpath note note value
+value = 2.0 / 3.14;
+node = "a b c";
+int node = 0.5;
+int buffer = 10;
+idx = 3.14;
+value = 0.5 - 0.5;
+buffer = 1 - 100;
+if idx ;
+if (0 - buffer) { tmp = 1 <= 0; }
+buffer = value >= 3.14;
+while (node) { idx = count + 1; }
+// fastpath check note todo
+return acc;
+count = node / 100;
+int tmp = 10;
+idx = 1 < acc;
+while (42 * 0.5) { count = acc + 1; }
+return acc;
+return acc ;
+// value todo check note
+return value ;
+// slowpath check value check
+while (acc) { acc = value + 1; }
+node = tmp / 1;
+int buffer = 10;
+// check todo fastpath slowpath
+idx = "path\\tmp";
+buffer = 0;
+buffer = acc;
+while (3.14 <= 2.0) { idx = count + 1; }
+buffer = 100;
+value = idx;
+while (10 > 0.5) { acc = value + 1; }
+tmp = 0 <= count;
+acc = 42 > count;
+while buffer ;
+count = value - 0.5;
+while (10 > 2) { count = acc + 1; }
+int node = 1;
+return 10;
+idx = "path\\tmp";
+if (100 + tmp) { idx = 42 >= 3.14; }
+int idx = 42;
+return 1;
+tmp = value / 2.0;
+int buffer = 10;
+return tmp;
+value = count + 3.14;
+int count = 2.0;
+return node;
+tmp = "gamma";
+count = 2;
+return idx;
+acc = "gamma";
+int node = 100;
+value = 0.5 >= acc;
+while node ;
+value = "path\\tmp";
+return 10;
+if (0.5 >= buffer) { count = count; }
+acc = "path\\tmp";
+int idx = 100;
+if (0.5 >= 2.0) { buffer = 1; }
+// fastpath slowpath todo fastpath
+while (acc != 10) { idx = node + 1; }
+while (10 < 100) { idx = buffer + 1; }
+node = "a b c";
+return "delta";
+while (0.5) { value = tmp + 1; }
+if (1 / node) { buffer = 0.5 < tmp; }
+tmp = idx - 0;
+return acc ;
+int value ;
+if (2.0 + idx) { buffer = node / value; }
+int count = 1.25;
+return 10;
+count = 10;
+while node ;
+if (tmp) { count = value == 100; }
+return tmp;
+return "delta";
+int node = 3.14;
+int idx = 1;
+while (value) { buffer = value + 1; }
+int node = 2;
+// fastpath check check slowpath
+value = "alpha";
+// note todo note note
+int count = 3.14;
+acc = "path\\tmp";
+int idx ;
+int count = 2.0;
+while (1.25 / node) { value = count + 1; }
+// todo value value slowpath
+int buffer = 2;
+idx = 0 > value;
+node = 0;
+int value = 0;
+int node = 1.25;
+int value = 1.25;
+node = "path\\tmp";
+// slowpath value note todo
+idx = "alpha";
+return buffer;
+// fastpath fastpath note note
+node = "a b c";
+count = count == acc;
+node = 100 >= buffer;
+return "path\\tmp";
+// fastpath check fastpath check
+return tmp ;
+while (0) { node = node + 1; }
+count = idx >= node;
+while (idx) { idx = buffer + 1; }
+idx = 42 - acc;
+while acc ;
+// check note value check
+int tmp = 1;
+int count = 0;
+buffer = "alpha";
+// fastpath todo value check
+if (100 < 3.14) { value = 0 >= acc; }
+while idx ;
+int idx = 1;
+int acc = 0.5;
+int node = 10;
+tmp = "delta";
+while idx ;
+int count = 2.0;
+while idx ;
+tmp = acc <= 1.25;
+return node;
+int idx = 2;
+count = "beta";
+buffer = 1 - 10;
+int tmp = 0.5;
+int tmp = 2.0;
+while (acc) { idx = node + 1; }
+buffer = 1.25;
+node = 0.5 <= value;
+idx = 10 * 0.5;
+tmp = 1.25 <= acc;
+// todo slowpath slowpath note
+while (10 <= idx) { idx = acc + 1; }
+idx = 2 < 0;
+int value = 10;
+count = acc;
+int node = 0;
+while (100 >= value) { tmp = value + 1; }
+while acc ;
+count = 1 >= 10;
+int value ;
+acc = "delta";
+if (3.14 != 2.0) { idx = tmp - value; }
+if tmp ;
+if value ;
+// slowpath slowpath note value
+if (buffer == count) { count = idx; }
+tmp = node;
+int value = 100;
+return node;
+while (2.0 < tmp) { count = value + 1; }
+if (0.5) { value = 1 / node; }
+count = idx;
+count = "delta";
+idx = idx;
+if (buffer * node) { buffer = count - 2; }
+buffer = "alpha";
+return buffer;
+int buffer = 42;
+int count = 1;
+count = 2.0 + 2.0;
+return tmp ;
+acc = 3.14 > tmp;
+int node = 1;
+while (3.14 / 1) { idx = acc + 1; }
+idx = node;
+return value ;
+int acc = 1.25;
+value = 42;
+// todo fastpath fastpath todo
+// slowpath note check value
+while (10) { idx = buffer + 1; }
+node = 0.5 >= 2.0;
+if (10 * 2) { tmp = acc >= tmp; }
+if (1.25) { idx = 2 <= node; }
+idx = count - 2.0;
+while (acc) { count = value + 1; }
+if (value) { count = 1.25; }
+value = 0.5 == value;
+// slowpath todo slowpath todo
+int node = 2;
+if (0) { node = idx <= node; }
+int acc = 100;
+int tmp = 2;
+tmp = "alpha";
+int idx = 10;
+acc = "beta";
+int value = 1;
+while idx ;
+acc = "alpha";
+int buffer = 1;
+acc = acc == 2;
+int tmp = 0;
+int idx = 10;
+while (0 >= 0.5) { value = tmp + 1; }
+value = "alpha";
+while (100 - 100) { node = idx + 1; }
+int buffer = 2.0;
+while acc ;
+while (buffer == 2.0) { node = buffer + 1; }
+int tmp = 42;
+tmp = "a b c";
+if (0.5) { node = value != 42; }
+int idx = 0;
+int count ;
+if (idx * 2) { count = count; }
+node = 1.25;
+if (100) { node = 100 > 42; }
+idx = "delta";
+if (acc) { tmp = buffer / 1; }
+int idx = 3.14;
+if (count == value) { acc = acc; }
+idx = acc + 2;
+if (count) { tmp = 10 == 3.14; }
+if (100 - 100) { node = count < 100; }
+buffer = count == value;
+count = 0 + 2;
+// check fastpath note note
+return value ;
+return "delta";
+return "path\\tmp";
+int value = 3.14;
+if (idx >= value) { idx = 1.25 < 3.14; }
+return "gamma";
+idx = "alpha";
+while value ;
+node = "delta";
+// value slowpath fastpath slowpath
+return 1;
+while (2.0) { idx = value + 1; }
+int acc = 100;
+int value ;
+int idx = 100;
+int tmp = 2;
+node = "alpha";
+tmp = 100 >= 2.0;
+return "path\\tmp";
+int value = 42;
+idx = 10 > 100;
+idx = 3.14 + 10;
+return tmp;
+count = "alpha";
+return count;
+idx = "path\\tmp";
+buffer = 42 == value;
+if (0 * 0) { idx = value + acc; }
+tmp = "a b c";
+// slowpath slowpath slowpath note
+int value = 0;
+return buffer;
+value = 2 == 100;
+while (value * 0) { tmp = node + 1; }
+int idx = 3.14;
+int value = 2;
+while (1.25) { value = idx + 1; }
+for idx ;
+count = idx;
+return idx ;
+return tmp;
+for value ;
+while (value * 0) { tmp = value + 1; }
+return idx ;
+// value fastpath fastpath slowpath
+while (0.5 >= idx) { buffer = value + 1; }
+if (42 + 2.0) { node = 1 - value; }
+return "beta";
+if (2.0) { node = 10; }
+buffer = 1.25;
+int tmp = 0;
+int acc = 1;
+tmp = 2;
+tmp = 1 >= buffer;
+if (tmp == tmp) { value = idx; }
+node = node;
+node = "beta";
+idx = idx;
+count = buffer != 1;
+if (value + 1.25) { buffer = 1 >= buffer; }
+acc = buffer >= 2.0;
+buffer = "delta";
+if (42 + buffer) { idx = 1.25 != 0; }
+int value = 2;
+int count = 1;
+if count ;
+node = "path\\tmp";
+if (1.25 != 2.0) { value = idx != value; }
+idx = 2.0 * node;
+if (10) { idx = 3.14; }
+while (42) { count = buffer + 1; }
+acc = "alpha";
+int idx = 2.0;
+int idx = 2.0;
+return 0;
+value = "beta";
+return count ;
+if (count - 1) { count = node >= value; }
+tmp = "beta";
+if (42 * 0) { count = 0 < tmp; }
+while (100 != 0.5) { value = count + 1; }
+while (0.5) { value = buffer + 1; }
+int acc = 10;
+acc = "alpha";
+return idx ;
+if (100 != tmp) { count = tmp; }
+int acc = 100;
+while value ;
+while (1.25) { acc = value + 1; }
+// slowpath check check slowpath
+return 1;
+// note check todo todo
+return "gamma";
+idx = 42;
+acc = 2.0 != 3.14;
+node = 1.25;
+tmp = "delta";
+while count ;
+if (3.14 == 3.14) { idx = 100 <= 100; }
+int acc = 10;
+return count ;
+tmp = buffer <= acc;
+if (buffer / count) { value = 2.0 != tmp; }
+buffer = "alpha";
+int tmp ;
+while (0.5 > 10) { node = count + 1; }
+acc = "alpha";
+if (idx > count) { idx = 2 == 0; }
+while (0.5) { count = node + 1; }
+return tmp ;
+buffer = "beta";
+int acc = 100;
+int acc = 0;
+count = 2;
+// check todo fastpath slowpath
+node = 2 + count;
+value = value + idx;
+int tmp = 1.25;
+node = "gamma";
+value = tmp == 1;
+if (2.0 >= 100) { count = 1; }
+int acc = 0;
+buffer = "alpha";
+int node = 0.5;
+return tmp;
+int acc = 3.14;
+int buffer = 2;
+return "delta";
+while (100 >= tmp) { value = acc + 1; }
+value = "alpha";
+if (2) { idx = node; }
+return 1;
+if idx ;
+int tmp = 3.14;
+return 42;
+idx = count;
+int value = 0.5;
+if (tmp < 1) { acc = 0.5 <= 0; }
+if (node) { tmp = acc < 1.25; }
+count = "alpha";
+return "a b c";
+return 1;
+int count = 1;
+if (1.25) { node = idx + 0.5; }
+return idx;
+if (2.0 / 42) { value = 2.0 >= node; }
+return "beta";
+if count ;
+return "gamma";
+while (1 + buffer) { value = value + 1; }
+return tmp ;
+int buffer ;
+while (1.25 == acc) { acc = count + 1; }
+idx = 1 - 42;
+node = value;
+return tmp;
+int node = 0;
+idx = 3.14 == 2;
+int acc = 42;
+int value ;
+buffer = 2.0;
+while (3.14 / 100) { idx = tmp + 1; }
+int value = 2;
+return "alpha";
+idx = "beta";
+buffer = acc + 100;
+tmp = 100 >= tmp;
+return "alpha";
+idx = 1.25 - 42;
+value = idx != value;
+idx = 1;
+node = 100;
+count = 2.0 - acc;
+while (2 / acc) { acc = idx + 1; }
+return 42;
+return count;
+while (1 / 10) { buffer = idx + 1; }
+// todo todo check value
+while (value) { acc = tmp + 1; }
+idx = count;
+return tmp;
+return buffer;
+count = count;
+count = 3.14 <= 1.25;
+// check check todo check
+while (2 == 100) { value = acc + 1; }
+while (0 > idx) { idx = value + 1; }
+int node = 1.25;
+return count;
+while (2.0 <= 100) { value = idx + 1; }
+int buffer = 1;
+node = "delta";
+while (0 <= 2.0) { tmp = buffer + 1; }
+return node;
+int idx = 2;
+buffer = tmp >= 42;
+if (count > 1) { count = 2.0 <= 2.0; }
+idx = "alpha";
+return tmp ;
+return "alpha";
+int node = 0;
+while (3.14) { count = tmp + 1; }
+int acc ;
+idx = buffer - buffer;
+return "delta";
+acc = "path\\tmp";
+while (2.0 == 0) { buffer = count + 1; }
+int buffer = 1.25;
+return node;
+while (buffer <= count) { buffer = buffer + 1; }
+int tmp = 2;
+while (42) { count = count + 1; }
+// note value fastpath note
+tmp = 10 / 2;
+tmp = "a b c";
+while (acc > 42) { tmp = node + 1; }
+if (0.5) { tmp = count != idx; }
+while (2.0 - 0.5) { count = idx + 1; }
+int value = 100;
+acc = 100;
+int value = 1;
+return idx;
+if (42 - 10) { idx = value; }
+count = 3.14;
+value = "beta";
+while (1.25 <= acc) { value = node + 1; }
+return "delta";
+int acc = 100;
+int value = 0.5;
+while (value) { value = tmp + 1; }
+idx = "gamma";
+for idx ;
+if (10 >= node) { idx = value - 0.5; }
+count = "delta";
+// check slowpath slowpath fastpath
+node = tmp;
+while (1.25 - 1.25) { node = tmp + 1; }
+if (1 + 10) { node = count < idx; }
+if (100 <= 10) { acc = 42; }
+// note slowpath value value
+return 42;
+idx = "gamma";
+buffer = 10 <= 1.25;
+int count = 2.0;
+idx = 1.25 != 10;
+return 42;
+int count = 42;
+while (0.5 - count) { tmp = value + 1; }
+value = "path\\tmp";
+if (count + buffer) { acc = idx; }
+if (buffer) { node = 10 - tmp; }
+int tmp = 3.14;
+if value ;
+tmp = 0 - count;
+if (100 <= 42) { count = 3.14; }
+int acc = 3.14;
+node = buffer == 3.14;
+if (count == 1) { tmp = tmp - 2.0; }
+while (value) { count = value + 1; }
+for value ;
+return buffer ;
+while (tmp - 1.25) { acc = buffer + 1; }
+while (node < 1) { tmp = buffer + 1; }
+int value = 10;
+int acc = 1;
+int buffer ;
+if (2.0 / 10) { buffer = 10 - acc; }
+idx = 2 != value;
+idx = "a b c";
+// check todo value value
+while count ;
+int idx = 1;
+value = 3.14 * buffer;
+return 42;
+idx = "alpha";
+while (buffer < 10) { count = node + 1; }
+for node ;
+if (3.14 > 3.14) { acc = node + 3.14; }
+value = "alpha";
+buffer = 100 == 42;
+while (value >= 100) { acc = count + 1; }
+int tmp = 42;
+if buffer ;
+int acc = 0;
+int buffer = 10;
+int idx = 3.14;
+while (node <= idx) { count = value + 1; }
+// value fastpath note fastpath
+int idx = 1;
+idx = 100;
+int count = 100;
+return 1;
+node = idx + 42;
+return buffer;
+buffer = 1;
+while tmp ;
+int node = 1;
+buffer = "alpha";
+if (buffer != 0.5) { value = acc != node; }
+if (2.0 + 1.25) { value = idx; }
+if (value / 10) { value = 2.0; }
+int value = 2;
+if (0.5 > 0.5) { idx = idx - 2.0; }
+int node = 2;
+return "a b c";
+tmp = 2.0 == idx;
+node = 2 < 10;
+// slowpath todo fastpath slowpath
+int buffer ;
+acc = "a b c";
+int idx = 2;
+// note fastpath slowpath todo
+return 100;
+while (node - 100) { count = buffer + 1; }
+while (buffer * 3.14) { value = count + 1; }
+acc = "delta";
+if (idx) { count = tmp >= count; }
+int value = 1;
+int value = 42;
+while (100 == acc) { value = idx + 1; }
+int idx = 1;
+count = node != 0.5;
+return "path\\tmp";
+int buffer = 0.5;
+node = 1.25 < 1.25;
+int value ;
+if (3.14) { value = tmp < buffer; }
+return 100;
+idx = 100 <= buffer;
+while (10 > 2) { acc = buffer + 1; }
+return count ;
+while (count) { idx = tmp + 1; }
+if (acc - 2.0) { count = value - 0.5; }
+while (0 >= 3.14) { idx = idx + 1; }
+node = "path\\tmp";
+idx = 10;
+acc = 2.0;
+return 1;
+tmp = acc + 1.25;
+while (42) { tmp = buffer + 1; }
+while (idx - 3.14) { count = tmp + 1; }
+node = 0.5;
+idx = 10;
+idx = "delta";
+return "delta";
+node = "a b c";
+return 0;
+int idx = 1.25;
+idx = "gamma";
+return "alpha";
+if (42 >= 1) { acc = 1.25 <= value; }
+node = "a b c";
+while (buffer) { tmp = buffer + 1; }
+count = 100 <= node;
+return acc;
+tmp = "gamma";
+int idx = 2;
+int tmp = 42;
+int idx = 2;
+value = "alpha";
+if (42 == count) { count = value; }
+node = 1;
+int value = 0.5;
+if (acc != 2.0) { buffer = value != 42; }
+if (count > 0.5) { value = 100 < buffer; }
+return node;
+acc = "beta";
+tmp = 1;
+acc = "alpha";
+return idx;
+while (node) { idx = tmp + 1; }
+node = "alpha";
+if (buffer) { tmp = 10 > idx; }
+// fastpath fastpath fastpath check
+return 1;
+int buffer = 3.14;
+node = 1.25 != 100;
+buffer = "beta";
+if (2.0) { idx = acc <= 0; }
+while (42 <= 0.5) { tmp = tmp + 1; }
+int value = 0;
+int idx = 42;
+int count ;
+if (0 < 10) { value = 10; }
+node = "a b c";
+int node = 2;
+for node ;
+while (0.5) { count = node + 1; }
+while (2.0) { count = tmp + 1; }
+if (value - 1.25) { tmp = 10 >= 10; }
+value = "delta";
+acc = 1 >= idx;
+tmp = tmp == acc;
+// slowpath note check value
+acc = "path\\tmp";
+int count = 10;
+for buffer ;
+return tmp;
+return 1;
+// todo value slowpath slowpath
+// value fastpath fastpath slowpath
+acc = "path\\tmp";
+if (0) { count = node; }
+acc = tmp * value;
+while (2.0) { idx = buffer + 1; }
+if (1.25) { tmp = idx >= 2.0; }
+tmp = 10 > count;
+buffer = 10 <= 1;
+while (buffer >= 1) { node = buffer + 1; }
+if (acc) { acc = node - 10; }
+count = idx <= 0.5;
+value = "gamma";
+if (0.5) { count = 0 >= 1.25; }
+while (2.0 > 1) { buffer = value + 1; }
+// check fastpath note value
+int idx = 2;
+while (2.0 < 100) { acc = idx + 1; }
+while (tmp != 0) { acc = node + 1; }
+return 100;
+buffer = "delta";
+while (count <= 42) { idx = acc + 1; }
+return 2;
+idx = "a b c";
+if (buffer != count) { node = node; }
+return tmp;
+acc = "path\\tmp";
+int acc = 100;
+return tmp;
+acc = 1 + acc;
+buffer = 1.25;
+int buffer = 1;
+int node = 0.5;
+if (2 == 0) { buffer = 42 * 1; }
+if (0.5 == 2.0) { value = 2; }
+int buffer = 42;
+// slowpath value todo slowpath
+// fastpath slowpath value fastpath
+if (0 <= 42) { count = 0 - 2.0; }
+return "delta";
+acc = "alpha";
+acc = node / idx;
+int tmp = 3.14;
+while (2) { value = node + 1; }
+int buffer = 10;
+if (1.25 / node) { idx = idx; }
+value = "alpha";
+int idx ;
+int tmp = 0;
+idx = acc <= 0.5;
+return "gamma";
+if (0.5 >= 3.14) { value = buffer; }
+while (0.5) { idx = value + 1; }
+int count ;
+for tmp ;
+tmp = 2;
+count = 1 * 10;
+int idx = 1;
+buffer = 100;
+return 2;
+return tmp ;
+// value fastpath todo check
+tmp = 1.25;
+if (10 - acc) { value = idx - 10; }
+value = value >= 2;
+count = node < tmp;
+int tmp = 2.0;
+for idx ;
+node = "beta";
+if (idx - count) { tmp = 2 > value; }
+tmp = "delta";
+idx = 100 <= 0;
+// fastpath fastpath todo check
+int node ;
+value = "gamma";
+if (0) { acc = acc * 10; }
+if (buffer / 3.14) { buffer = value >= 3.14; }
+if (0) { buffer = 3.14 == node; }
+idx = count == 0;
+value = "delta";
+while (node / 0) { node = idx + 1; }
+node = "gamma";
+return "path\\tmp";
+int node ;
+int node = 0.5;
+return count ;
+int tmp = 2.0;
+// note fastpath fastpath note
+int count = 10;
+while (buffer < 2) { node = idx + 1; }
+tmp = 0;
+node = "delta";
+tmp = buffer >= 42;
+if (10 != 2.0) { value = node == idx; }
+while (3.14 < idx) { count = idx + 1; }
+// slowpath value fastpath note
+int node = 0;
+while (count == 42) { acc = buffer + 1; }
+if (100) { count = node != 42; }
+if node ;
+return value ;
+while (1.25 == 10) { value = node + 1; }
+while (3.14 > buffer) { idx = count + 1; }
+tmp = value == value;
+int buffer = 42;
+return "path\\tmp";
+while count ;
+return 0;
+return "alpha";
+tmp = buffer <= acc;
+if (100 == 100) { idx = 100; }
+int buffer = 1;
+if buffer ;
+return "alpha";
+int acc = 1.25;
+int idx = 3.14;
+acc = "gamma";
+return "alpha";
+// slowpath check check slowpath
+// fastpath slowpath fastpath check
+int value = 10;
+node = 1 != 0;
+node = "gamma";
+// note note fastpath value
+int idx ;
+int node = 1.25;
+return 0;
+if (value - 1.25) { acc = 42; }
+if (idx >= 10) { acc = 42; }
+// check fastpath note check
+if (count + tmp) { count = 3.14 < count; }
+while (acc >= node) { count = acc + 1; }
+if (tmp <= node) { acc = 0.5 - 42; }
+while (0.5) { acc = count + 1; }
+while (idx == idx) { node = acc + 1; }
+if (node < 1.25) { idx = tmp; }
+return node;
+idx = 100 <= 0;
+return 1;
+value = value + tmp;
+// todo note check check
+return tmp ;
+int acc = 42;
+if (buffer) { tmp = 0.5 + 42; }
+if (0) { idx = acc <= 0; }
+while (acc > count) { acc = node + 1; }
+if (value != buffer) { value = buffer >= 100; }
+idx = 100 > acc;
+acc = 1;
+int tmp = 1.25;
+return "delta";
+if (1 > 1.25) { buffer = node; }
+return "alpha";
+if (3.14) { tmp = 10 + tmp; }
+tmp = "alpha";
+return idx ;
+return "alpha";
+if buffer ;
+while (1.25 != tmp) { idx = count + 1; }
+return "beta";
+if (42 >= tmp) { node = 3.14 * tmp; }
+if (value == 42) { idx = idx - value; }
+int tmp = 2;
+for tmp ;
+int value = 2;
+int node = 100;
+idx = "beta";
+tmp = buffer;
+if (node < 100) { buffer = 100; }
+int acc = 1;
+int count = 2.0;
+return 1;
+return buffer;
+return "delta";
+if (buffer) { acc = 0; }
+while (1 != 42) { acc = acc + 1; }
+while (42 >= count) { value = count + 1; }
+for value ;
+buffer = 2.0 >= 2.0;
+while (42 + 100) { idx = tmp + 1; }
+return value;
+while (tmp) { count = acc + 1; }
+int tmp = 1;
+buffer = 10 - count;
+acc = tmp <= 1.25;
+if (3.14 - 1) { buffer = buffer; }
+while (0 * value) { value = tmp + 1; }
+return count;
+if (0) { value = 0 >= 1.25; }
+if tmp ;
+buffer = acc == idx;
+if (count < 1) { acc = 3.14 < 42; }
+// fastpath fastpath note check
+acc = "delta";
+int node = 100;
+acc = "a b c";
+// todo todo todo todo
+int idx = 2;
+while (3.14) { idx = node + 1; }
+acc = 0.5 <= 1;
+while (100 * 1.25) { buffer = buffer + 1; }
+for acc ;
+if (0.5 > value) { tmp = 3.14; }
+acc = 2;
+int node = 1;
+count = 2 <= 10;
+buffer = 2 * value;
+count = idx;
+buffer = 100 >= 0.5;
+if (tmp != acc) { count = 2 * node; }
+int buffer = 10;
+node = value * tmp;
+return 42;
+// check check slowpath fastpath
+value = 0.5 == 2.0;
+count = "gamma";
+// note todo slowpath value
+while (1.25 / tmp) { node = value + 1; }
+return "beta";
+count = "a b c";
+node = count > count;
+// fastpath check todo note
+tmp = 1.25;
+value = "path\\tmp";
+return idx;
+while (1.25 < 3.14) { buffer = tmp + 1; }
+if (42 + acc) { tmp = 2 + buffer; }
+buffer = "path\\tmp";
+return "beta";
+while (1.25 <= 1.25) { value = value + 1; }
+while (10) { node = tmp + 1; }
+while (2.0 - 0.5) { node = node + 1; }
+int node = 2.0;
+if (0) { count = 3.14 != buffer; }
+if (idx) { node = count != count; }
+int value = 0.5;
+// slowpath todo todo value
+int tmp = 1.25;
+while (100) { count = value + 1; }
+while (count + 1.25) { tmp = count + 1; }
+tmp = "alpha";
+int tmp = 2.0;
+count = "alpha";
+int tmp = 100;
+// fastpath note check check
+idx = "beta";
+// check note todo todo
+if (0 + node) { node = 1.25 < 0; }
+int tmp = 0;
+node = 2.0 - 1.25;
+int count = 1.25;
+acc = buffer * 0;
+int value = 2.0;
+return 10;
+count = 10 >= node;
+if (count * value) { count = 2.0; }
+// check slowpath fastpath value
+idx = 0.5;
+idx = "alpha";
+int buffer = 2.0;
+int buffer = 1.25;
+int tmp = 1.25;
+while (idx) { node = tmp + 1; }
+acc = 1.25 - 1.25;
+int value = 3.14;
+count = "gamma";
+return "beta";
+while (3.14 > idx) { idx = buffer + 1; }
+int value = 2.0;
+while (count < node) { buffer = acc + 1; }
+return 42;
+while (2) { value = buffer + 1; }
+for acc ;
+int tmp = 1;
+if (acc < count) { count = 2.0 >= 10; }
+if (42) { idx = 100; }
+int tmp = 2.0;
+idx = 0.5 != 1.25;
+int acc = 42;
+while (1 < idx) { count = tmp + 1; }
+if (2 + 10) { count = 10 < value; }
+int acc = 0.5;
+if (node + buffer) { tmp = acc - 1; }
+if (buffer) { acc = tmp >= 0.5; }
+int idx = 42;
+return acc;
+// fastpath note fastpath slowpath
+int node = 0.5;
+if (acc > 1) { buffer = 2 == 10; }
+count = idx + 42;
+buffer = 10 <= node;
+node = "alpha";
+// fastpath note slowpath fastpath
+acc = count == acc;
+// value check fastpath note
+if (10 >= 3.14) { node = 2.0 + node; }
+int count = 0;
+value = "beta";
+int buffer = 2.0;
+int count = 2.0;
+if buffer ;
+value = 10 > 0.5;
+acc = "beta";
+return 10;
+return "gamma";
+int idx = 10;
+node = 100 >= 42;
+if tmp ;
+count = buffer;
+return count;
+while idx ;
+value = 2.0 * 1.25;
+int node = 100;
+return 0;
+value = 1 != buffer;
+return 100;
+buffer = 2.0;
+value = "gamma";
+while (1.25) { buffer = idx + 1; }
+if (42 >= 10) { tmp = 0.5 / buffer; }
+int idx = 42;
+while (count) { count = value + 1; }
+return acc ;
+// todo value check fastpath
+// value check value check
+buffer = 42 + 10;
+if (acc) { idx = value > 2; }
+while (node) { count = value + 1; }
+int count = 42;
+return "delta";
+buffer = "beta";
+int acc = 2;
+return acc;
+if (1.25 <= 1.25) { tmp = node != 10; }
+return node ;
+int buffer = 42;
+// todo value fastpath fastpath
+while (buffer * node) { count = count + 1; }
+acc = 2.0 != idx;
+return count;
+int idx = 2.0;
+return "alpha";
+int tmp = 3.14;
+idx = idx + 2.0;
+idx = count != acc;
+while (value / count) { node = buffer + 1; }
+// slowpath value slowpath value
+for buffer ;
+tmp = buffer <= 1.25;
+int buffer = 10;
+// note todo slowpath slowpath
+int acc = 100;
+// fastpath note fastpath value
+int acc ;
+idx = "delta";
+if (2 <= 2) { idx = 100; }
+return "a b c";
+tmp = "delta";
+int idx = 1.25;
+while (42 != acc) { tmp = buffer + 1; }
+buffer = "alpha";
+node = 1.25;
+int idx = 10;
+if (tmp) { node = value + 100; }
+for acc ;
+int count = 42;
+buffer = 1 + 1;
+while (1 - 0) { idx = node + 1; }
+tmp = buffer;
+if (2 >= tmp) { count = count != 2; }
+while (10) { count = node + 1; }
+for tmp ;
+return tmp;
+while (1) { acc = value + 1; }
+int value = 3.14;
+// note note todo note
+if (count + 0) { buffer = 100 / node; }
+while (100 * 42) { idx = node + 1; }
+if (node < 1) { buffer = 3.14; }
+while (2 < count) { node = tmp + 1; }
+int node = 0;
+tmp = "beta";
+int idx = 2;
+if (acc <= 42) { node = 3.14; }
+int value ;
+count = 10;
+int node = 10;
+int idx = 1;
+return 10;
+count = 0 / 0.5;
+tmp = "a b c";
+if (0.5 + 3.14) { tmp = 100 != node; }
+acc = node < 0.5;
+node = acc >= node;
+idx = "a b c";
+node = count - idx;
+acc = 2.0 == buffer;
+value = 1.25 * 2;
+return 0;
+return 1;
+int count = 10;
+int value = 0.5;
+int idx = 1.25;
+if (node != 1) { tmp = 3.14 == tmp; }
+int value = 2;
+idx = buffer != node;
+return idx;
+return "a b c";
+idx = value * 42;
+buffer = 1.25 / buffer;
+node = "beta";
+buffer = buffer > 100;
+while (10) { tmp = value + 1; }
+if (2.0 >= acc) { count = node * 2.0; }
+int node = 0;
+int idx = 1.25;
+idx = 2.0 + 42;
+while (value != idx) { node = tmp + 1; }
+// value todo slowpath check
+// slowpath fastpath note fastpath
+return "gamma";
+int count = 100;
+value = buffer > 2;
+node = "path\\tmp";
+// check fastpath slowpath slowpath
+acc = 100 + count;
+int tmp = 100;
+int node = 1.25;
+tmp = "gamma";
+int count = 2;
+return idx ;
+while (acc > 1) { count = node + 1; }
+while (node <= node) { acc = idx + 1; }
+int acc = 100;
+int buffer = 42;
+return 10;
+return node;
+return idx ;
+return 42;
+while (2.0 != 10) { acc = node + 1; }
+value = 2.0 < idx;
+// note note todo value
+int count = 1.25;
+count = 42 - 0;
+while value ;
+buffer = 42 * 2.0;
+int buffer ;
+// fastpath fastpath value fastpath
+while (idx <= idx) { idx = acc + 1; }
+if (2.0 * 1) { value = 10 * acc; }
+// fastpath check slowpath value
+return 2;
+value = "gamma";
+if acc ;
+while (acc != 1.25) { value = buffer + 1; }
+while (value == 100) { value = idx + 1; }
+count = 2;
+if (acc / value) { buffer = 1.25 / 42; }
+// check check check todo
+return count ;
+while (node) { count = buffer + 1; }
+for node ;
+return "delta";
+int node = 1;
+while (count == buffer) { buffer = count + 1; }
+int value = 3.14;
+if (10 / idx) { node = 2 != tmp; }
+idx = 0.5 * tmp;
+return "delta";
+// check fastpath todo fastpath
+while (count) { buffer = node + 1; }
+if (node / 10) { tmp = 1; }
+int value = 2.0;
+for tmp ;
+while (0.5 == 1.25) { count = node + 1; }
+tmp = "path\\tmp";
+while (tmp < acc) { node = idx + 1; }
+acc = "gamma";
+int buffer = 3.14;
+while (0 == 0) { tmp = acc + 1; }
+int node = 0.5;
+int node = 100;
+buffer = 1.25 <= 0.5;
+while (42 - 2) { node = count + 1; }
+while (0) { value = value + 1; }
+// check value check slowpath
+return acc;
+value = "delta";
+while (0) { node = node + 1; }
+acc = 1 - 2.0;
+while (count <= buffer) { node = buffer + 1; }
+if count ;
+buffer = 2.0;
+while (10 + 3.14) { buffer = idx + 1; }
+if (1 > 1) { acc = value <= node; }
+return 1;
+while (1 - node) { node = acc + 1; }
+for value ;
+if (value) { idx = 100; }
+value = idx >= 3.14;
+int idx = 1;
+count = "alpha";
+int count = 10;
+int tmp = 2;
+tmp = 0.5 - 2.0;
+while value ;
+acc = "path\\tmp";
+// note value fastpath value
+acc = acc * value;
+value = "delta";
+int node ;
+tmp = 100;
+if count ;
+if (count) { tmp = 42; }
+while (tmp) { idx = idx + 1; }
+idx = node;
+while (0 == 2) { idx = idx + 1; }
+if (1.25) { buffer = 10; }
+while (42 <= idx) { idx = tmp + 1; }
+return "alpha";
+while (0.5 <= 0) { acc = buffer + 1; }
+if (value) { node = 3.14; }
+value = "gamma";
+// check note note slowpath
+acc = acc >= 10;
+while (3.14) { tmp = tmp + 1; }
+int tmp ;
+int tmp = 42;
+int node = 0.5;
+buffer = 0 == 1.25;
+while (100 <= idx) { count = count + 1; }
+int node ;
+int node = 10;
+int acc = 42;
+while (count / 0) { value = count + 1; }
+if (idx == 2) { idx = 2.0 - 1; }
+int acc = 3.14;
+if (0) { buffer = 2; }
+return idx;
+if (2 != 3.14) { idx = 10 > buffer; }
+tmp = "beta";
+while (2 >= buffer) { acc = value + 1; }
+int value = 1;
+while (tmp / tmp) { acc = tmp + 1; }
+int count = 2.0;
+while (1 != tmp) { buffer = buffer + 1; }
+if (0.5 + buffer) { node = value; }
+while (0.5) { acc = idx + 1; }
+if (idx <= 42) { count = idx >= 10; }
+value = "beta";
+while (node < 1) { acc = idx + 1; }
+while (1.25) { node = idx + 1; }
+int value = 2.0;
+// value note slowpath check
+return count;
+tmp = "delta";
+while (0.5 / 1.25) { count = count + 1; }
+if (100 != buffer) { value = 1.25; }
+value = "gamma";
+while (idx <= 1) { count = count + 1; }
+// value fastpath value slowpath
+node = "alpha";
+return 100;
+if (buffer == count) { buffer = 2; }
+while (acc < 100) { tmp = tmp + 1; }
+node = "delta";
+while (idx) { buffer = buffer + 1; }
+// fastpath check note value
+if (42) { count = count < 3.14; }
+if acc ;
+return tmp;
+int tmp = 0;
+return buffer;
+return 2;
+while (10 > tmp) { value = node + 1; }
+value = 1;
+if (0 <= value) { node = acc; }
+count = "delta";
+return "beta";
+int buffer = 3.14;
+int idx = 1.25;
+while (tmp + 0.5) { node = value + 1; }
+if (node >= 2.0) { tmp = 3.14; }
+while (3.14 != 3.14) { buffer = value + 1; }
+while (0.5 * buffer) { value = node + 1; }
+buffer = "beta";
+return 2;
+if (100 >= node) { acc = 2.0 - node; }
+if idx ;
+for acc ;
+int node = 1;
+idx = 100 == 2;
+int idx = 0;
+count = count;
+while (idx * node) { buffer = acc + 1; }
+while (0.5 < 42) { count = acc + 1; }
+node = value;
+if (42 * 42) { acc = buffer < 1.25; }
+int node = 0.5;
+return 42;
+node = 42 <= 1;
+count = node == 0.5;
+// fastpath fastpath slowpath note
+while (node) { buffer = node + 1; }
+node = 42;
+int acc = 1.25;
+while (2) { tmp = acc + 1; }
+int tmp = 1.25;
+count = "gamma";
+if (0.5) { acc = 42 != 0.5; }
+int tmp = 0;
+value = "path\\tmp";
+if (node <= 3.14) { idx = value == 2; }
+while (2 != 2) { buffer = acc + 1; }
+while (1 + value) { value = acc + 1; }
+tmp = "alpha";
+return idx;
+int node = 2;
+if (2 != 0.5) { acc = 0.5 >= 1.25; }
+while (10 == node) { buffer = tmp + 1; }
+int acc = 0;
+// note check slowpath fastpath
+int tmp = 2.0;
+return tmp;
+return "delta";
+return "beta";
+return 10;
+while (node <= tmp) { idx = tmp + 1; }
+while (idx) { value = tmp + 1; }
+buffer = "gamma";
+return tmp;
+while (0.5 != 10) { buffer = count + 1; }
+node = "delta";
+while (1 > 0) { tmp = acc + 1; }
+int count = 0;
+if (2) { idx = node >= buffer; }
+while (buffer - value) { node = count + 1; }
+int node = 1.25;
+value = value > buffer;
+idx = node;
+if (100 != 2) { node = acc; }
+return "delta";
+while (buffer == 2) { tmp = buffer + 1; }
+while (0 <= 3.14) { buffer = idx + 1; }
+count = "path\\tmp";
+// check value todo note
+node = acc > 100;
+while (buffer <= 0) { tmp = value + 1; }
+while (10 / 2.0) { idx = tmp + 1; }
+tmp = idx > acc;
+while (0.5) { tmp = buffer + 1; }
+tmp = "a b c";
+count = 42 <= 0;
+if (tmp >= 42) { buffer = node; }
+if (1 + buffer) { tmp = count - 1.25; }
+int value = 2;
+acc = buffer;
+while (1.25) { node = acc + 1; }
+while (100 - buffer) { buffer = value + 1; }
+return 42;
+acc = "delta";
+if (42) { acc = buffer; }
+return buffer;
+while (count) { idx = idx + 1; }
+tmp = "delta";
+int node = 2.0;
+// todo todo fastpath note
+while (42) { value = value + 1; }
+int buffer = 1;
+tmp = 2 / 0;
+// value check check fastpath
+for acc ;
+if (2 - 3.14) { idx = node < idx; }
+tmp = "delta";
+if acc ;
+acc = "a b c";
+idx = idx + 10;
+if (buffer == buffer) { idx = 0 == value; }
+if (10 > 42) { idx = 0.5; }
+while (node + value) { tmp = node + 1; }
+idx = idx + tmp;
+count = "a b c";
+int node = 2.0;
+while (10 <= acc) { acc = buffer + 1; }
+int acc = 0.5;
+value = idx * 0;
+int node = 2;
+idx = 100;
+return count ;
+tmp = 10 + buffer;
+return 2;
+while (acc != 1.25) { tmp = buffer + 1; }
+buffer = 10 - 0.5;
+if (node == 1) { value = 1.25 == 2; }
+if (idx <= 0) { value = 3.14 >= 100; }
+tmp = 1.25 > 2.0;
+tmp = "gamma";
+if (2.0 >= 2.0) { node = 10; }
+while (node != buffer) { tmp = idx + 1; }
+idx = 100 == 0;
+return "a b c";
+int acc = 0;
+int acc = 2.0;
+acc = "path\\tmp";
+while (idx) { buffer = buffer + 1; }
+count = acc != 0.5;
+acc = "alpha";
+int node ;
+int count = 2;
+while (node * 10) { tmp = buffer + 1; }
+node = "beta";
+while (idx - 0) { acc = acc + 1; }
+while (10 < idx) { value = idx + 1; }
+if (0.5 >= tmp) { buffer = 2.0 != 0; }
+node = acc <= 100;
+int acc = 3.14;
+// slowpath todo value value
+if (acc != idx) { acc = 2 * 3.14; }
+buffer = idx < tmp;
+int buffer = 0;
+while (100 / 100) { buffer = idx + 1; }
+while (10 == idx) { node = buffer + 1; }
+if (buffer <= 0) { count = 100; }
+int value = 2.0;
+while count ;
+if (0 == 100) { node = value + 42; }
+int count = 42;
+while (42) { count = tmp + 1; }
+tmp = 0.5 <= 0;
+return node;
+int idx = 2.0;
+count = 1 + 10;
+int buffer = 3.14;
+if (tmp + node) { node = tmp; }
+int acc = 0.5;
+if (buffer) { value = 10 >= node; }
+buffer = "gamma";
+acc = count == 10;
+if (tmp < buffer) { acc = value > 100; }
+if (value != idx) { tmp = buffer > 10; }
+if (100 + 0.5) { node = count < idx; }
+int node = 42;
+while (idx == 2) { buffer = count + 1; }
+while (count * buffer) { node = count + 1; }
+tmp = "a b c";
+int tmp = 0;
+while (3.14 < 0.5) { idx = node + 1; }
+while (2 + node) { buffer = node + 1; }
+node = 2.0 - 0;
+int buffer = 1;
+while (1.25 <= 1) { count = count + 1; }
+value = "a b c";
+if (10 > idx) { count = node; }
+if (0 >= 1.25) { node = 3.14 / buffer; }
+idx = "beta";
+int tmp = 0;
+int tmp = 10;
+while (idx >= 10) { buffer = idx + 1; }
+if (tmp > node) { value = count; }
+int tmp = 100;
+return node;
+value = 10 <= buffer;
+return "path\\tmp";
+if (2 == 42) { value = buffer * node; }
+count = 2.0 <= count;
+return count ;
+int node = 2;
+while (42 == 0) { node = buffer + 1; }
+node = buffer + 1;
+while acc ;
+buffer = 0.5;
+while buffer ;
+int count = 0;
+int acc = 3.14;
+tmp = count - 0;
+int idx = 100;
+return buffer;
+value = 42;
+acc = buffer * tmp;
+int idx = 42;
+return buffer;
+if (0.5 >= count) { buffer = 0 * 3.14; }
+int tmp ;
+for acc ;
+int value = 42;
+if (0.5 > idx) { idx = 100 >= 1.25; }
+while (10 / idx) { acc = tmp + 1; }
+while (tmp - 42) { buffer = buffer + 1; }
+int acc = 100;
+while (42 * tmp) { value = node + 1; }
+count = buffer == count;
+if (1.25) { tmp = 1 >= 1.25; }
+int idx = 100;
+while (42 == 42) { acc = acc + 1; }
+if idx ;
+int count = 2;
+buffer = 10 != 2;
+return buffer;
+int count = 0;
+idx = 0 <= tmp;
+acc = 2 != node;
+for tmp ;
+return tmp;
+idx = "a b c";
+if (tmp < 0) { buffer = 100 > 1.25; }
+return 2;
+if (0.5) { node = 42 / 2.0; }
+int node = 1.25;
+int node = 2.0;
+if (buffer / tmp) { value = 2.0 * 1; }
+return acc;
+return "a b c";
+if (2.0 / 42) { value = 100 >= 100; }
+while count ;
+// fastpath value check todo
+node = "beta";
+acc = 0.5;
+while (1) { tmp = value + 1; }
+int value = 0.5;
+while (1 >= node) { idx = acc + 1; }
+if acc ;
+acc = "gamma";
+// slowpath value slowpath todo
+int tmp = 1;
+while (idx <= 0.5) { buffer = count + 1; }
+if (1 <= 1) { node = 2 / 1; }
+while (2.0) { tmp = node + 1; }
+int node = 0.5;
+int value = 42;
+while (count) { count = tmp + 1; }
+tmp = "a b c";
+if (value == 10) { buffer = 0 == count; }
+buffer = "path\\tmp";
+int count ;
+acc = tmp <= 100;
+buffer = acc > count;
+while (0.5 * 100) { node = tmp + 1; }
+int node = 3.14;
+value = "delta";
+while (buffer <= value) { tmp = buffer + 1; }
+while (0 == 1) { count = count + 1; }
+while value ;
+while (buffer + node) { value = tmp + 1; }
+acc = node;
+idx = idx;
+tmp = 3.14;
+while (0.5) { buffer = acc + 1; }
+while (3.14 < node) { count = buffer + 1; }
+int count ;
+// note todo slowpath value
+while (42) { node = acc + 1; }
+return count;
+while (count / 3.14) { count = tmp + 1; }
+buffer = "path\\tmp";
+buffer = buffer <= 1.25;
+while (0.5) { idx = node + 1; }
+int value = 1.25;
+if (0 + 1) { buffer = 42; }
+count = "gamma";
+int idx = 0;
+return acc;
+int tmp = 0.5;
+acc = value > node;
+while (acc / 0.5) { tmp = acc + 1; }
+return tmp;
+idx = "beta";
+while (buffer / 42) { node = value + 1; }
+int tmp = 0;
+while (42) { count = buffer + 1; }
+if (1.25) { idx = 2 * 1; }
+int value = 42;
+idx = 1 - node;
+count = node == 42;
+// check check slowpath todo
+for node ;
+return 100;
+if (42 >= node) { buffer = buffer != count; }
+return "a b c";
+int buffer = 2.0;
+int idx = 1.25;
+acc = buffer != 3.14;
+while (buffer <= 2.0) { value = value + 1; }
+while (1.25) { count = count + 1; }
+while (idx / 2.0) { tmp = node + 1; }
+for value ;
+return tmp;
+int acc = 2.0;
+acc = "delta";
+int buffer = 3.14;
+node = 1.25;
+value = "gamma";
+int tmp = 2.0;
+// value check fastpath todo
+node = "beta";
+while (0.5 * count) { tmp = tmp + 1; }
+// todo todo check value
+int value = 0.5;
+tmp = "path\\tmp";
+int node = 10;
+return count;
+return 2;
+return node;
+idx = "path\\tmp";
+int value = 42;
+return buffer;
+value = 1.25 == tmp;
+int buffer = 3.14;
+int tmp = 2;
+int idx = 0.5;
+return value;
+int node = 1;
+return 0;
+value = 1.25;
+acc = "beta";
+buffer = 2.0 == 100;
+buffer = 1;
+while (2 + 2.0) { buffer = node + 1; }
+count = 42 < 1.25;
+while (buffer) { count = node + 1; }
+acc = buffer <= 100;
+return 0;
+while (buffer / buffer) { idx = idx + 1; }
+tmp = "beta";
+return 100;
+buffer = 2.0;
+for buffer ;
+idx = "alpha";
+while (tmp <= 0) { count = count + 1; }
+node = 100 > tmp;
+value = "alpha";
+if (1.25) { value = buffer == 0.5; }
+node = "path\\tmp";
+int count = 2.0;
+while (node == value) { acc = value + 1; }
+tmp = "delta";
+acc = tmp;
+idx = acc < 3.14;
+int acc = 3.14;
+int node = 42;
+while (0.5 * idx) { idx = value + 1; }
+while (0 >= 100) { idx = buffer + 1; }
+// todo value check slowpath
+if (node > count) { node = value / 1.25; }
+int node = 2.0;
+tmp = "a b c";
+int count = 2;
+buffer = 3.14;
+if (value < tmp) { value = 0.5 == 0; }
+count = "a b c";
+node = acc >= 3.14;
+value = count;
+buffer = 10 >= node;
+return 10;
+return "delta";
+acc = value != buffer;
+// fastpath fastpath todo note
+return node;
+if (1 == 3.14) { node = 1.25; }
+int buffer = 10;
+return value;
+if (10 + 1) { buffer = 2.0 - tmp; }
+if (2) { node = 1.25 == 3.14; }
+while (0.5) { value = count + 1; }
+// todo check value slowpath
+acc = value;
+int count = 100;
+// value slowpath fastpath todo
+return "path\\tmp";
+int idx ;
+buffer = 1;
+while count ;
+while (2 / tmp) { tmp = node + 1; }
+if (acc / 1.25) { value = 3.14; }
+acc = "path\\tmp";
+if (node < value) { tmp = 42 >= 0.5; }
+int acc = 2.0;
+idx = 1.25 > value;
+int node = 100;
+while (0 != 1.25) { count = count + 1; }
+return 0;
+return value;
+return 100;
+while (42 + 0) { tmp = count + 1; }
+while (0 != 42) { idx = buffer + 1; }
+int acc = 100;
+node = 3.14 * 42;
+if (10) { idx = 2; }
+while (node * 0) { value = idx + 1; }
+int acc = 100;
+int node = 1.25;
+count = "gamma";
+return 100;
+while (1 + 100) { idx = value + 1; }
+while tmp ;
+value = acc > 10;
+int idx = 2;
+return 2;
+count = "path\\tmp";
+while (idx == 100) { node = idx + 1; }
+acc = "beta";
+while idx ;
+if (1 * 2) { acc = buffer < 3.14; }
+buffer = 42 <= count;
+acc = "beta";
+int idx = 10;
+while (acc < 2) { node = tmp + 1; }
+int buffer = 100;
+tmp = "gamma";
+int idx = 1;
+int idx = 2.0;
+while (100 > value) { acc = value + 1; }
+int value = 2;
+value = "path\\tmp";
+while (value) { idx = tmp + 1; }
+if (1.25) { idx = 0.5 > 3.14; }
+value = 100 * value;
+while (idx != node) { buffer = node + 1; }
+acc = node * acc;
+// note fastpath check todo
+int tmp = 0.5;
+while count ;
+tmp = 1.25 >= 3.14;
+return acc;
+int value = 1.25;
+if value ;
+acc = 2;
+tmp = acc + tmp;
+return 1;
+int node ;
+idx = acc;
+int acc = 0;
+while (buffer) { count = buffer + 1; }
+while (10 + acc) { count = value + 1; }
+return 0;
+acc = 1.25 - 100;
+int tmp = 0;
+int count = 100;
+buffer = node > 42;
+acc = "path\\tmp";
+while (value >= acc) { node = buffer + 1; }
+if (10) { buffer = 100 / 2.0; }
+while (1.25 - 10) { value = buffer + 1; }
+// fastpath value note fastpath
+node = "gamma";
+// fastpath value value value
+while (100) { count = idx + 1; }
+int value = 1;
+idx = buffer;
+return node;
+value = "beta";
+count = 3.14 != 0;
+int count = 1.25;
+return 10;
+int buffer ;
+if (2.0 == 1.25) { buffer = 0.5; }
+while (0.5 > 100) { tmp = buffer + 1; }
+idx = acc < 0;
+int buffer = 0.5;
+count = 3.14 / buffer;
+if (node) { count = 2.0; }
+while (1) { tmp = value + 1; }
+count = "alpha";
+if (buffer < 1) { tmp = idx; }
+value = 0.5 > buffer;
+int tmp = 10;
+acc = node + 0;
+while (42 / idx) { count = idx + 1; }
+tmp = value != idx;
+acc = 2;
+buffer = "delta";
+return node ;
+acc = 42;
+int tmp = 0.5;
+return 10;
+idx = node != 0;
+count = "a b c";
+if (node) { acc = idx >= buffer; }
+return idx;
+while tmp ;
+acc = 3.14 - 42;
+int idx = 100;
+while (100) { node = tmp + 1; }
+tmp = 10 + 2;
+if (1.25 <= 42) { idx = 1.25 * 0; }
+while (idx >= 42) { value = acc + 1; }
+while (node) { tmp = tmp + 1; }
+while (node - node) { tmp = node + 1; }
+value = "gamma";
+if (2.0 + tmp) { tmp = acc > 0.5; }
+idx = "a b c";
+int value = 1.25;
+node = "delta";
+int idx = 10;
+int node = 2;
+int tmp = 0;
+while (10 - tmp) { acc = node + 1; }
+tmp = "gamma";
+while (100 + buffer) { idx = node + 1; }
+value = 0.5 > value;
+node = node < idx;
+while (idx * node) { buffer = acc + 1; }
+while (tmp + tmp) { idx = acc + 1; }
+if idx ;
+return "alpha";
+tmp = "path\\tmp";
+while (100 <= tmp) { count = buffer + 1; }
+return 42;
+acc = "beta";
+acc = 1.25 - tmp;
+tmp = "alpha";
+return count ;
+while (node <= idx) { tmp = value + 1; }
+idx = "gamma";
+int idx = 0.5;
+while (3.14 + node) { idx = buffer + 1; }
+// fastpath todo check todo
+int value = 100;
+if (2.0) { buffer = 3.14 == 1.25; }
+int node = 0.5;
+// note note check check
+while (100 / buffer) { count = value + 1; }
+return count;
+int idx = 100;
+for buffer ;
+while (2) { node = acc + 1; }
+return "path\\tmp";
+if (acc - idx) { tmp = 42; }
+if node ;
+// value todo check note
+tmp = "delta";
+// note note todo todo
+acc = 2;
+if (buffer <= count) { buffer = 0.5; }
+buffer = "beta";
+return count;
+int value = 3.14;
+int value = 10;
+while (idx < acc) { idx = count + 1; }
+while (value <= value) { acc = buffer + 1; }
+if (100) { buffer = buffer; }
+count = acc;
+for node ;
+if (tmp) { acc = 2; }
+value = "a b c";
+while (tmp / 2.0) { count = buffer + 1; }
+tmp = "path\\tmp";
+if (3.14 - value) { count = 0 + acc; }
+return "path\\tmp";
+idx = 42 > value;
+// todo todo fastpath check
+while (tmp != tmp) { idx = node + 1; }
+node = "path\\tmp";
+buffer = node;
+int node = 1.25;
+idx = 1.25;
+if (1 <= tmp) { count = 100 - 2.0; }
+count = "beta";
+count = 42 * acc;
+idx = 0.5;
+return 10;
+// slowpath value value slowpath
+return 2;
+acc = buffer > tmp;
+tmp = "a b c";
+if (value - 2.0) { value = count - 2.0; }
+idx = "beta";
+idx = 2.0 <= acc;
+node = "path\\tmp";
+int tmp = 2;
+// fastpath fastpath note check
+acc = "beta";
+int idx = 0;
+while (1 > count) { node = buffer + 1; }
+value = node < 0.5;
+int acc = 2;
+buffer = "a b c";
+return 100;
+// todo value note slowpath
+// todo todo todo check
+return "path\\tmp";
+return 0;
+return node;
+int node = 0;
+int buffer ;
+while (2 > tmp) { node = buffer + 1; }
+if (count) { buffer = 1.25 >= 42; }
+if (tmp / tmp) { buffer = 10 == 10; }
+while (acc - 2) { count = count + 1; }
+tmp = 1.25 != buffer;
+if (node) { acc = tmp + 0; }
+int node = 42;
+int buffer = 2;
+return tmp;
+int value ;
+if (0.5 == 0) { tmp = 2 - node; }
+acc = 2;
+// todo note todo todo
+return "a b c";
+node = node < count;
+while (42) { idx = idx + 1; }
+idx = "alpha";
+while (2 - count) { value = idx + 1; }
+if value ;
+tmp = tmp;
+int value ;
+int tmp = 100;
+if (count) { idx = 0.5 < 1.25; }
+int buffer = 1.25;
+acc = 1.25 > value;
+return tmp ;
+while (3.14) { count = count + 1; }
+if (tmp) { value = 1.25 != 2.0; }
+return 2;
+// todo fastpath check fastpath
+count = value - 1;
+return idx;
+acc = tmp < 1;
+buffer = count + 42;
+int value = 100;
+while node ;
+for value ;
+while (idx) { tmp = tmp + 1; }
+return buffer ;
+while (node + buffer) { count = buffer + 1; }
+while (1.25 == value) { buffer = node + 1; }
+int node = 100;
+return "beta";
+while (100 / 100) { idx = idx + 1; }
+return "path\\tmp";
+buffer = 3.14 < 3.14;
+while (42 < 42) { tmp = tmp + 1; }
+return 42;
+return "path\\tmp";
+if (tmp) { buffer = 1 + 10; }
+while (value * 2) { buffer = idx + 1; }
+while (tmp) { node = node + 1; }
+while (10 == 42) { node = idx + 1; }
+idx = "path\\tmp";
+while (value * node) { acc = buffer + 1; }
+idx = "beta";
+return 1;
+value = 0;
+int tmp = 3.14;
+if (100) { value = count; }
+value = node <= idx;
+while (tmp / node) { tmp = buffer + 1; }
+value = 100 >= 1.25;
+return idx;
+int tmp = 2.0;
+return idx;
+buffer = 1.25;
+while (tmp + 1) { acc = idx + 1; }
+while (10 <= buffer) { count = idx + 1; }
+return node;
+tmp = value;
+tmp = "a b c";
+return value;
+value = count;
+// check slowpath note fastpath
+if (idx - 42) { acc = 2 + 2; }
+int buffer = 2.0;
+value = 1.25 + 2;
+if (1 > 100) { buffer = tmp / 2.0; }
+if (node) { count = acc == idx; }
+value = node;
+node = "path\\tmp";
+int buffer = 0.5;
+acc = 100 == 3.14;
+idx = buffer < 1;
+int idx = 1;
+if (buffer + 2) { buffer = buffer <= 3.14; }
+if (node != 2) { count = 0 - node; }
+return "gamma";
+while (2.0 * 10) { node = acc + 1; }
+return count;
+acc = 0 <= buffer;
+count = 3.14;
+idx = 42;
+while (idx < 42) { tmp = node + 1; }
+buffer = 2 < idx;
+acc = buffer + 3.14;
+// fastpath value todo note
+while tmp ;
+if (acc) { buffer = tmp > 2; }
+return "alpha";
+return "gamma";
+tmp = 2 == 0;
+if (tmp > 10) { node = 1.25; }
+tmp = "delta";
+return value;
+if (0.5) { idx = 3.14 / 100; }
+while (100 + 1) { acc = buffer + 1; }
+int acc = 0.5;
+// value value note check
+int node = 3.14;
+while (count * 1) { idx = buffer + 1; }
+int count ;
+// check note fastpath todo
+return idx;
+if (1.25 > 0.5) { value = 1.25 + buffer; }
+int value = 1;
+if (acc) { idx = 0 <= 3.14; }
+tmp = buffer + tmp;
+count = count;
+int value = 0.5;
+int value = 100;
+for idx ;
+if (value > 42) { tmp = node + 1.25; }
+return "path\\tmp";
+if (acc + 100) { acc = 1 + 2; }
+if (0.5) { acc = 1 == 100; }
+// todo todo value todo
+while (3.14 == 1.25) { idx = count + 1; }
+int count = 42;
+buffer = 3.14 / 2.0;
+int count = 0.5;
+while (0) { buffer = acc + 1; }
+int acc = 2.0;
+acc = "alpha";
+if (3.14 - 0) { acc = 3.14 == 42; }
+int count = 0;
+idx = "path\\tmp";
+int idx = 1;
+// todo check check check
+count = "alpha";
+for acc ;
+value = 2.0 >= 42;
+if (value + 1) { buffer = 1 > 2.0; }
+int acc = 100;
+if (2.0) { tmp = tmp > 3.14; }
+acc = count <= 100;
+for tmp ;
+int tmp ;
+return node;
+int buffer ;
+// note note note check
+while value ;
+if (buffer + acc) { value = 0.5; }
+int idx = 2;
+return tmp;
+if (idx != 42) { buffer = 1.25 + node; }
+int node = 0.5;
+idx = tmp;
+while (2.0) { acc = acc + 1; }
+while (1 + acc) { count = tmp + 1; }
+tmp = 2.0 <= 2.0;
+return "beta";
+int acc = 100;
+node = "delta";
+// check slowpath slowpath todo
+if (0) { idx = 3.14 * buffer; }
+if idx ;
+buffer = 3.14;
+if (42 < 100) { value = 0.5 / 10; }
+int count = 2.0;
+buffer = "gamma";
+if (2.0) { tmp = tmp == 0.5; }
+while (buffer == 0.5) { buffer = count + 1; }
+if (100 > 2) { acc = 3.14 > acc; }
+if (2.0 * value) { count = 100 / 2.0; }
+int buffer = 0.5;
+// fastpath slowpath value todo
+int idx = 3.14;
+node = "alpha";
+int acc ;
+if (2.0) { idx = 0.5; }
+tmp = 0 < value;
+if (count) { tmp = acc < count; }
+// note check note value
+while (0.5) { tmp = idx + 1; }
+node = 42 * 0;
+idx = "beta";
+return "path\\tmp";
+count = value >= acc;
+int buffer = 3.14;
+int value = 0.5;
+return tmp;
+if (2.0 / 10) { node = 1.25 > 10; }
+node = "path\\tmp";
+while (value) { buffer = acc + 1; }
+acc = "beta";
+return "a b c";
+if (1.25 / idx) { count = 1.25 >= acc; }
+buffer = count / 10;
+while node ;
+return node;
+idx = 3.14 - 1;
+return 10;
+while (100) { buffer = count + 1; }
+value = "alpha";
+if (buffer + 0.5) { buffer = idx + 1.25; }
+if (acc) { count = count < 3.14; }
+int acc = 2;
+return value ;
+// note value note note
+buffer = 0;
+node = 1 < tmp;
+if (2 + 1) { value = idx / 1.25; }
+int value = 0.5;
+buffer = "a b c";
+acc = value == tmp;
+int value = 0;
+node = idx;
+value = "a b c";
+int buffer = 0.5;
+int count = 2.0;
+if (node == 100) { acc = 100 / 1.25; }
+acc = buffer < 10;
+// value todo value fastpath
+if (acc) { count = value; }
+// note fastpath fastpath fastpath
+count = 42 < 0;
+acc = "gamma";
+return tmp;
+int value = 0.5;
+int count = 2;
+buffer = 42 / node;
+value = "beta";
+for idx ;
+tmp = 0.5;
+tmp = tmp;
+value = node;
+if (0 >= tmp) { node = 10 != buffer; }
+// todo fastpath todo note
+acc = "gamma";
+if (1.25) { node = node != value; }
+acc = "beta";
+if (100 == 100) { buffer = 100 / idx; }
+int acc = 1;
+int count = 0.5;
+int count = 3.14;
+buffer = "alpha";
+// todo fastpath todo check
+return buffer ;
+int node = 100;
+if (2 > 1) { acc = acc <= 2.0; }
+int acc ;
+idx = 3.14 / node;
+count = "a b c";
+buffer = 0.5 >= buffer;
+int acc = 1;
+// value slowpath value todo
+while tmp ;
+if (idx == 10) { buffer = 3.14; }
+int acc = 2;
+int node = 0;
+value = "beta";
+int tmp = 1.25;
+if value ;
+return tmp ;
+if (tmp == 2) { idx = 2.0 < value; }
+idx = "a b c";
+int value = 42;
+count = 100 * 0;
+int node = 1.25;
+tmp = "a b c";
+// slowpath slowpath slowpath slowpath
+return 100;
+acc = 1 <= node;
+return buffer ;
+while (value) { acc = count + 1; }
+tmp = 42;
+int buffer = 100;
+buffer = 2 > 2.0;
+if (acc * node) { count = tmp != node; }
+while (2.0 + 2.0) { node = count + 1; }
+int tmp = 42;
+count = "delta";
+int buffer = 2.0;
+return value;
+int idx = 0.5;
+int buffer = 0;
+int value = 10;
+tmp = "beta";
+int count = 42;
+for buffer ;
+acc = "delta";
+while (100 <= idx) { count = count + 1; }
+while (10 >= 1.25) { count = idx + 1; }
+tmp = idx != 0;
+node = "a b c";
+if (100 != 0) { buffer = acc * buffer; }
+value = "gamma";
+while (2 <= 0.5) { node = value + 1; }
+int value = 2;
+return node;
+return "a b c";
+tmp = "path\\tmp";
+if (1.25 - acc) { node = tmp; }
+while (2 == tmp) { count = node + 1; }
+node = value < 3.14;
+acc = "alpha";
+if (idx) { value = 10; }
+if (buffer > 100) { tmp = acc < 10; }
+return 1;
+while (0 >= 3.14) { count = idx + 1; }
+acc = idx > 1.25;
+if (100 / 2) { value = 42 * 100; }
+return buffer;
+acc = "delta";
+acc = idx == 1.25;
+while (idx) { buffer = count + 1; }
+if (value != 3.14) { node = 0.5 - 100; }
+while (acc <= 0.5) { value = acc + 1; }
+count = "delta";
+// slowpath note fastpath check
+while (42 == acc) { value = count + 1; }
+while buffer ;
+count = buffer;
+int count = 100;
+return buffer;
+while (idx) { acc = count + 1; }
+while (1.25 / acc) { tmp = buffer + 1; }
+if buffer ;
+acc = "delta";
+idx = 1.25;
+while (10 / 2.0) { count = tmp + 1; }
+node = 1 < 42;
+node = "delta";
+while acc ;
+if value ;
+// check check todo slowpath
+return count;
+// fastpath value check slowpath
+while (1 <= buffer) { value = value + 1; }
+node = count - count;
+// fastpath todo slowpath todo
+int tmp = 0;
+// todo slowpath check note
+if (count) { count = 100 / acc; }
+// fastpath todo slowpath note
+acc = 42 < 0.5;
+while (3.14 != tmp) { count = value + 1; }
+return value ;
+tmp = idx == tmp;
+return "delta";
+if (0.5 / value) { buffer = value / idx; }
+// note check check slowpath
+while (idx <= 10) { idx = value + 1; }
+int value ;
+idx = 100;
+int node = 1.25;
+while (node) { node = tmp + 1; }
+node = 0 <= node;
+int node = 2.0;
+if (2 <= 3.14) { acc = node * 1; }
+return value;
+while (0 == 42) { node = value + 1; }
+while (acc) { value = value + 1; }
+int acc = 1.25;
+tmp = buffer * tmp;
+int value = 42;
+int tmp = 3.14;
+int node = 0;
+value = "alpha";
+int count = 0.5;
+if (10 + 1) { value = 10 < value; }
+node = "a b c";
+// todo slowpath value todo
+int buffer = 10;
+int node = 3.14;
+return value;
+if (3.14 - 3.14) { tmp = value; }
+while (buffer < node) { tmp = tmp + 1; }
+value = acc / 1;
+return "gamma";
+for count ;
+buffer = buffer + 100;
+buffer = "a b c";
+while (value / idx) { idx = count + 1; }
+while (buffer) { node = acc + 1; }
+int node = 2;
+return value;
+int node = 2;
+acc = buffer == 10;
+buffer = "gamma";
+return acc ;
+while (0 * 1) { count = idx + 1; }
+while (0 >= buffer) { acc = node + 1; }
+acc = 2 >= value;
+node = 1 < acc;
+if (42 == 3.14) { tmp = 3.14 > 3.14; }
+int value = 2.0;
+value = "a b c";
+return 42;
+tmp = "path\\tmp";
+tmp = count;
+// note value check note
+while (10 == 3.14) { tmp = buffer + 1; }
+if (value != idx) { idx = 0.5 <= 100; }
+if (2.0 >= 0) { value = 10 <= 2; }
+int tmp = 0;
+return 2;
+int acc ;
+acc = node + 1;
+buffer = "beta";
+int value = 1.25;
+int idx = 0;
+int count = 2;
+int buffer = 1;
+int node = 10;
+if (buffer * 100) { buffer = 1; }
+if idx ;
+node = buffer > node;
+int acc = 0.5;
+return 42;
+buffer = "beta";
+while (0 != idx) { tmp = node + 1; }
+// slowpath slowpath slowpath fastpath
+value = "a b c";
+return "gamma";
+// slowpath todo note note
+int count = 1.25;
+count = "gamma";
+return idx;
+int count = 3.14;
+if (acc / idx) { buffer = idx < tmp; }
+value = "beta";
+int tmp = 0;
+value = "gamma";
+if (42 - value) { idx = count / count; }
+tmp = 0.5 <= 1;
+while (tmp) { idx = node + 1; }
+if (0.5 == acc) { tmp = 0.5; }
+while (buffer) { node = node + 1; }
+return 0;
+if (1 < 0.5) { tmp = 2.0 < 0; }
+tmp = "gamma";
+// todo fastpath value fastpath
+idx = "beta";
+return value;
+while (2.0 == buffer) { count = tmp + 1; }
+int value = 10;
+if (1.25) { idx = 42; }
+idx = "alpha";
+while (2) { idx = node + 1; }
+value = "alpha";
+while (1 - 2) { node = acc + 1; }
+int value = 100;
+idx = tmp - buffer;
+int acc = 2;
+int buffer = 3.14;
+// check value slowpath fastpath
+// note check fastpath note
+count = value != node;
+acc = "a b c";
+int acc = 1;
+// fastpath slowpath slowpath value
+tmp = 2.0 < 42;
+int tmp = 3.14;
+buffer = "a b c";
+return "alpha";
+if (tmp >= 0.5) { tmp = acc < 1; }
+while (value < buffer) { buffer = idx + 1; }
+int value = 2;
+return "path\\tmp";
+if tmp ;
+if (100 >= value) { count = count; }
+return node;
+if (buffer <= count) { tmp = node + 0.5; }
+tmp = tmp < idx;
+while (3.14) { value = buffer + 1; }
+idx = "beta";
+value = 1.25 >= 0;
+int tmp = 1;
+int node = 1;
+// fastpath fastpath slowpath check
+buffer = "path\\tmp";
+int acc = 2;
+buffer = 100;
+if node ;
+value = "delta";
+for value ;
+acc = "gamma";
+int tmp = 10;
+if (1 >= tmp) { count = 10 != 100; }
+// value todo slowpath fastpath
+while (value) { tmp = value + 1; }
+buffer = 1.25;
+idx = tmp - 42;
+return "alpha";
+int tmp = 0.5;
+if (buffer * tmp) { acc = node > 0.5; }
+if (0.5 == value) { tmp = 2.0 > idx; }
+int acc = 0;
+if (42 != buffer) { node = 42 > count; }
+buffer = "alpha";
+int count = 10;
+idx = 100 != 0;
+if (node) { buffer = count * value; }
+// slowpath value value note
+count = "alpha";
+// value fastpath todo value
+return "path\\tmp";
+count = buffer == value;
+buffer = count == acc;
+while buffer ;
+int tmp = 1.25;
+if (0 > buffer) { idx = value - 0; }
+if (1 - 1.25) { acc = 1 == 10; }
+// slowpath note fastpath slowpath
+int tmp ;
+int count ;
+while (2.0) { value = acc + 1; }
+tmp = 1.25 <= idx;
+while (10 == count) { buffer = node + 1; }
+buffer = 0.5 + 42;
+value = "path\\tmp";
+if (buffer) { value = 100; }
+idx = "path\\tmp";
+if (0) { node = acc * 100; }
+// note slowpath slowpath fastpath
+count = "a b c";
+buffer = value != node;
+// fastpath value fastpath value
+while (idx * 10) { tmp = node + 1; }
+value = "path\\tmp";
+// todo fastpath slowpath note
+while (3.14 / 0.5) { value = acc + 1; }
+if (10 - 100) { node = 42 != acc; }
+node = 42 <= 10;
+int tmp = 0;
+int value = 3.14;
+if node ;
+if buffer ;
+if (100 * acc) { count = 0.5 * 42; }
+acc = 0.5 < acc;
+while (tmp != node) { idx = tmp + 1; }
+value = "path\\tmp";
+while (tmp) { buffer = acc + 1; }
+if (buffer) { tmp = node <= 1; }
+if tmp ;
+if (2 * 3.14) { count = buffer < 100; }
+node = 1 == count;
+for idx ;
+if (1.25 - value) { idx = 0.5 * buffer; }
+acc = acc;
+while (2) { tmp = tmp + 1; }
+// todo slowpath fastpath slowpath
+return "delta";
+// slowpath slowpath check note
+if (100 >= node) { count = 2.0; }
+buffer = idx > 0.5;
+while (100 <= 100) { count = tmp + 1; }
+if (2.0) { node = 100 + value; }
+// check value fastpath todo
+if (count * acc) { value = 0 >= 3.14; }
+while (0) { value = acc + 1; }
+value = "beta";
+if (0.5) { count = 0.5 >= acc; }
+if (42 > 42) { acc = 1.25 * value; }
+return 100;
+acc = value != tmp;
+// value note todo note
+acc = 100 * 100;
+// todo check slowpath todo
+while (acc) { tmp = node + 1; }
+int buffer = 1;
+while (2.0) { node = idx + 1; }
+count = 42 - buffer;
+int count = 0.5;
+tmp = 1.25 > 100;
+if (tmp < 100) { node = 1.25 == 0.5; }
+int node ;
+return idx ;
+buffer = tmp <= 3.14;
+if (0 != node) { node = 0.5 / count; }
+int idx = 2;
+// value todo check slowpath
+// note slowpath slowpath fastpath
+if (count) { node = node; }
+return idx ;
+return 42;
+while (10) { node = idx + 1; }
+while idx ;
+int idx = 2;
+while (10) { buffer = acc + 1; }
+int value ;
+// fastpath slowpath todo fastpath
+int acc = 2;
+acc = "a b c";
+int value = 2.0;
+while (node == 2) { acc = count + 1; }
+if (42 - 10) { count = count - 2.0; }
+int idx = 0.5;
+return "gamma";
+buffer = 10;
+if (0.5) { acc = count; }
+count = 2.0 != idx;
+idx = "a b c";
+acc = 1 + 0;
+// check fastpath value note
+idx = "delta";
+if (buffer) { buffer = buffer - 10; }
+tmp = tmp;
+int node = 1.25;
+if (tmp == count) { value = acc; }
+int acc = 1.25;
+count = "alpha";
+value = 2.0;
+value = 1 != buffer;
+while (node / 0) { tmp = node + 1; }
+if (10 - 10) { idx = 1.25; }
+while (count >= count) { tmp = tmp + 1; }
+int acc = 3.14;
+// todo todo check check
+node = value > node;
+int buffer = 100;
+return "path\\tmp";
+idx = "alpha";
+int count = 2;
+int tmp ;
+while (idx != count) { buffer = count + 1; }
+buffer = node;
+acc = idx * 0;
+int value = 10;
+tmp = "a b c";
+while (acc > 2) { node = count + 1; }
+node = buffer;
+count = 10 + 2.0;
+int tmp = 2.0;
+idx = "path\\tmp";
+// todo fastpath todo fastpath
+if (tmp - count) { acc = 1.25; }
+while (1.25 <= 2) { node = tmp + 1; }
+while (10 != value) { count = count + 1; }
+idx = buffer;
+buffer = value < idx;
+int acc = 42;
+int value = 10;
+node = 2.0 >= 1;
+if (acc / value) { node = acc; }
+node = 100 < idx;
+while (acc == 3.14) { tmp = idx + 1; }
+if (100 != 10) { acc = 10 * node; }
+int acc = 1.25;
+count = 42 * 2.0;
+int count = 0.5;
+tmp = idx + 1.25;
+tmp = acc;
+buffer = 0 < buffer;
+if (node) { node = 1.25 < 100; }
+return value;
+count = count;
+while (1 > 0.5) { acc = count + 1; }
+// note note note slowpath
+// slowpath check value todo
+int node = 100;
+// check slowpath value value
+int idx = 100;
+int count = 100;
+int count = 3.14;
+while (idx != count) { value = node + 1; }
+int count = 0;
+if (2.0) { idx = acc >= 3.14; }
+int value ;
+if (1) { acc = count / 0; }
+int buffer = 3.14;
+// check note note note
+value = "delta";
+idx = 1;
+return value ;
+while (10 < node) { tmp = idx + 1; }
+if (value / 3.14) { acc = 0; }
+int tmp = 100;
+int value = 42;
+if (10) { node = 2; }
+if (3.14 <= value) { node = 1 > 2.0; }
+acc = "path\\tmp";
+if (idx >= 10) { value = 42; }
+return "gamma";
+value = 42;
+int node = 10;
+tmp = "a b c";
+if (0) { idx = 2.0 / 0.5; }
+idx = "alpha";
+int idx = 2;
+return node ;
+int acc = 0.5;
+idx = 1.25 - idx;
+while (buffer != buffer) { buffer = count + 1; }
+if (tmp) { idx = 1 > 0; }
+int idx = 1;
+return idx;
+return tmp;
+int value = 10;
+return 2;
+while (node != acc) { node = tmp + 1; }
+node = 10 - 10;
+if (count < value) { node = 3.14 >= node; }
+int tmp ;
+while (idx - 2) { count = node + 1; }
+if (1 == 1) { count = 42 <= 0; }
+int buffer = 42;
+return count;
+if count ;
+while value ;
+return count;
+int tmp ;
+while (0 != count) { tmp = idx + 1; }
+int acc = 3.14;
+if idx ;
+while (0 != 2) { acc = idx + 1; }
+while (0.5 != 0.5) { idx = acc + 1; }
+// slowpath note slowpath fastpath
+idx = "gamma";
+buffer = 2.0 == buffer;
+int count = 100;
+value = acc * 2.0;
+return acc;
+idx = "path\\tmp";
+int value = 0.5;
+while (node * 2) { node = idx + 1; }
+acc = 2;
+int count = 1;
+int node = 2.0;
+return buffer ;
+while (2 <= tmp) { idx = node + 1; }
+while (tmp != buffer) { count = value + 1; }
+if (count == buffer) { acc = 1 != 100; }
+idx = "delta";
+// check check todo note
+int tmp = 0.5;
+tmp = 1.25 + 1.25;
+return buffer;
+int tmp = 3.14;
+int value = 0.5;
+if (2) { node = value; }
+int buffer = 1.25;
+if (tmp > 3.14) { acc = 2 / buffer; }
+for idx ;
+int idx = 42;
+while (0.5) { tmp = acc + 1; }
+node = 42;
+// value note fastpath check
+return acc ;
+return "path\\tmp";
+while (10) { acc = idx + 1; }
+if (count >= 100) { node = 3.14; }
+buffer = node;
+node = "alpha";
+int idx = 1;
+if (0 == idx) { count = 100 > 2.0; }
+// check slowpath check slowpath
+count = 10 - 0;
+int idx = 2.0;
+return idx;
+int node = 100;
+value = "gamma";
+return 42;
+if (buffer) { tmp = 0.5 - acc; }
+buffer = 10 > 42;
+int node = 2.0;
+int tmp = 2.0;
+if (3.14 == value) { node = 1 > 2; }
+if (0.5 - 3.14) { value = value * 2; }
+// slowpath value slowpath fastpath
+value = node;
+int value = 2.0;
+while node ;
+int buffer = 10;
+return tmp ;
+tmp = "alpha";
+if (10) { idx = 42; }
+if value ;
+while (buffer * 0) { acc = value + 1; }
+int buffer = 1;
+while (42 - 2.0) { value = tmp + 1; }
+acc = node - 10;
+while idx ;
+int node ;
+count = "alpha";
+return "gamma";
+int acc = 1.25;
+return value ;
+return 1;
+node = 0 <= 0.5;
+return 1;
+// value value todo note
+if (1) { idx = tmp; }
+node = 42 >= value;
+while (buffer) { idx = node + 1; }
+// fastpath check slowpath slowpath
+// fastpath fastpath note check
+while (node < count) { buffer = node + 1; }
+// slowpath check check slowpath
+while (2 <= 42) { acc = value + 1; }
+return value ;
+count = 10 <= 1;
+value = acc;
+while (10 / buffer) { count = tmp + 1; }
+acc = node - 100;
+int tmp = 100;
+return 1;
+while (acc < 1) { tmp = tmp + 1; }
+while count ;
+value = 0.5 < 1;
+idx = count;
+while (10) { idx = buffer + 1; }
+if (2.0) { tmp = acc; }
+int value ;
+if (buffer <= acc) { count = 100 > node; }
+value = "beta";
+acc = buffer == node;
+int acc = 1;
+while (10 * 1.25) { node = value + 1; }
+idx = 3.14;
+int tmp = 0.5;
+// value todo todo slowpath
+if (2 <= node) { value = tmp <= 2.0; }
+int idx = 0.5;
+int acc = 2.0;
+int buffer ;
+if (tmp) { buffer = 10 <= 2.0; }
+if (1.25 < idx) { buffer = 10 == 0; }
+return 0;
+// check note note value
+return tmp;
+if (100 == node) { value = idx <= count; }
+int value = 42;
+while (10) { acc = tmp + 1; }
+count = buffer;
+return 0;
+while (tmp > 3.14) { count = idx + 1; }
+if (1.25 * node) { tmp = 10; }
+int acc = 100;
+int tmp = 0;
+while (value <= idx) { idx = idx + 1; }
+while (1) { buffer = acc + 1; }
+return tmp;
+node = 3.14 != 10;
+node = 0.5;
+return 2;
+if (10 != 0) { count = count == idx; }
+while (2.0 * 2) { value = idx + 1; }
+if (0.5) { buffer = value - value; }
+while (tmp * 100) { tmp = acc + 1; }
+if (100 * 0) { node = count != count; }
+buffer = count;
+if (10 / acc) { node = 100; }
+// value check slowpath value
+while (42) { node = value + 1; }
+// check slowpath fastpath slowpath
+buffer = 2 < 2;
+int tmp = 42;
+return acc ;
+while (count / acc) { node = idx + 1; }
+// value check value todo
+return "path\\tmp";
+return "alpha";
+buffer = "delta";
+while (42 == 1.25) { idx = acc + 1; }
+while (0 * buffer) { tmp = value + 1; }
+int idx = 42;
+buffer = "delta";
+idx = 1 <= count;
+count = 100;
+node = node >= 3.14;
+acc = tmp > 1;
+int acc = 100;
+count = "path\\tmp";
+if (node == tmp) { value = idx < 1; }
+if (0.5 >= 0.5) { node = 1 == node; }
+int acc = 1;
+return "a b c";
+int value = 42;
+int idx = 1;
+int node = 2.0;
+for node ;
+int idx = 3.14;
+// check fastpath check value
+int acc = 1;
+return "beta";
+while (tmp + tmp) { buffer = tmp + 1; }
+return "alpha";
+value = 10 + 0;
+while (node >= 2) { acc = node + 1; }
+while buffer ;
+if (100 / count) { acc = 10 != idx; }
+count = 42;
+if (2.0 == node) { value = 1 + 10; }
+value = count / count;
+while count ;
+while (42 == 10) { acc = buffer + 1; }
+return "a b c";
+acc = 3.14 * count;
+int buffer = 10;
+while (tmp + 0.5) { idx = node + 1; }
+count = 2;
+int node = 0;
+// todo check slowpath slowpath
+int value = 2;
+int node = 0.5;
+int value = 1.25;
+if (1 == acc) { node = 100 <= tmp; }
+count = acc < 2;
+return "beta";
+acc = value - tmp;
+count = "alpha";
+if (value * 42) { buffer = acc; }
+value = "path\\tmp";
+if (tmp == acc) { buffer = 1.25; }
+return "a b c";
+if (2 - acc) { buffer = idx; }
+int count ;
+// value check note slowpath
+// todo todo value todo
+// fastpath check value todo
+// fastpath todo check slowpath
+tmp = "path\\tmp";
+if (1 < 2.0) { acc = 10 < buffer; }
+tmp = 1.25;
+int tmp = 42;
+return "gamma";
+while (tmp) { acc = count + 1; }
+return 0;
+// todo slowpath todo fastpath
+return acc ;
+if count ;
+int count = 42;
+if (0.5) { value = 0 >= value; }
+return acc;
+idx = "beta";
+while (0.5 / 42) { value = tmp + 1; }
+// fastpath check todo todo
+int count = 2.0;
+// slowpath check slowpath fastpath
+buffer = 3.14;
+int buffer = 42;
+buffer = "gamma";
+count = node;
+node = "beta";
+while (count) { value = count + 1; }
+int node = 0.5;
+// check note slowpath todo
+tmp = "delta";
+return "a b c";
+return buffer;
+tmp = node;
+value = value >= 42;
+node = "a b c";
+return node;
+return 1;
+count = "path\\tmp";
+if (10 < count) { node = 10 * 42; }
+if count ;
+// slowpath slowpath value note
+return 100;
+tmp = 1;
+acc = idx > 0;
+int value = 100;
+int node ;
+buffer = buffer >= node;
+node = "path\\tmp";
+// todo note slowpath fastpath
+while (node + 1) { count = buffer + 1; }
+int buffer ;
+if (42) { buffer = buffer - 10; }
+// fastpath check value slowpath
+return "alpha";
+if (0 / count) { buffer = 42 * 100; }
+if idx ;
+// todo value value check
+int value = 1.25;
+idx = tmp;
+tmp = 1.25;
+// todo value check todo
+return "gamma";
+tmp = count;
+idx = 1 + value;
+int acc = 42;
+for buffer ;
+// note fastpath fastpath fastpath
+value = "a b c";
+value = 1;
+int acc = 10;
+// note note value fastpath
+int acc = 0.5;
+while value ;
+idx = 10;
+while (0 <= value) { tmp = tmp + 1; }
+if idx ;
+tmp = "a b c";
+return tmp;
+while (tmp / 1) { buffer = idx + 1; }
+// fastpath check fastpath value
+node = 10 / 10;
+int count = 100;
+idx = count * 42;
+if (acc > count) { acc = 1.25 != value; }
+while (value + 0) { count = value + 1; }
+node = 0;
+while (2.0 <= node) { idx = acc + 1; }
+idx = "path\\tmp";
+idx = acc;
+node = 0;
+int count ;
+while (buffer * count) { tmp = idx + 1; }
+while idx ;
+int idx = 1.25;
+if (10 * tmp) { idx = 3.14 > buffer; }
+// value todo slowpath fastpath
+while (tmp != 2) { value = value + 1; }
+return 1;
+return acc;
+while (2 * buffer) { count = node + 1; }
+if (count / 2.0) { count = 100 - count; }
+while (100 / tmp) { idx = buffer + 1; }
+int value = 42;
+while (0 >= 100) { acc = acc + 1; }
+return 0;
+int count = 42;
+int idx = 1.25;
+count = 3.14 <= 0;
+// value value check fastpath
+while (value) { value = idx + 1; }
+int acc = 3.14;
+idx = 0.5;
+tmp = 0 != value;
+for buffer ;
+while tmp ;
+int idx = 2;
+count = 3.14 / 0.5;
+return acc;
+tmp = idx;
+tmp = 3.14 == buffer;
+int buffer = 2.0;
+if (10 < 1) { node = 2 - node; }
+if (42 * count) { buffer = 3.14 < 3.14; }
+if (acc) { buffer = 0 + 1; }
+while (0 >= tmp) { buffer = acc + 1; }
+while buffer ;
+int buffer = 100;
+count = node - 42;
+return "a b c";
+while (acc <= 100) { buffer = value + 1; }
+return count;
+if (1) { buffer = 10; }
+node = 1.25 < 10;
+int idx = 0;
+return 10;
+int acc = 100;
+int buffer = 10;
+count = "beta";
+int node ;
+while (value <= idx) { value = value + 1; }
+int value = 100;
+while (count <= 2.0) { acc = acc + 1; }
+if (0.5 + acc) { value = 3.14 == value; }
+int value = 42;
+value = "path\\tmp";
+while acc ;
+return buffer ;
+return 1;
+int buffer = 1.25;
+if buffer ;
+int idx = 100;
+tmp = "gamma";
+if (0 - 0) { idx = idx / idx; }
+if (42 <= 0.5) { buffer = count / node; }
+if (node) { acc = tmp; }
+// check todo note fastpath
+tmp = 10 / 42;
+count = "beta";
+while (buffer) { count = acc + 1; }
+int tmp = 10;
+tmp = 10;
+while (100 != 1.25) { node = count + 1; }
+if (value / 3.14) { buffer = 3.14 * 100; }
+return 1;
+if (2.0 - 10) { idx = 0.5; }
+int count = 1;
+acc = "alpha";
+while (10 == 1.25) { idx = idx + 1; }
+int node = 3.14;
+while (1.25 < 42) { value = buffer + 1; }
+return "path\\tmp";
+while (idx - buffer) { acc = idx + 1; }
+if (2.0) { value = 100 <= 100; }
+int count = 42;
+if (value < node) { node = value < buffer; }
+return 2;
+node = 2;
+int value = 2;
+if (node) { buffer = 2.0 / 2; }
+acc = count * 10;
+int value = 42;
+if (1 + count) { count = acc == 1.25; }
+acc = "alpha";
+while (idx <= 10) { node = value + 1; }
+int tmp = 2.0;
+return acc;
+tmp = 2 / 10;
+count = idx <= 10;
+// value slowpath todo slowpath
+while node ;
+int buffer = 2;
+int node = 3.14;
+buffer = "alpha";
+int node = 42;
+int buffer = 1.25;
+return node;
+int node = 10;
+node = 10;
+// check note slowpath slowpath
+node = 0.5 / 2.0;
+if (node != 10) { acc = count; }
+int buffer = 100;
+return "alpha";
+if (10 < tmp) { node = 100 == acc; }
+int idx = 0.5;
+while value ;
+buffer = acc == 100;
+if (idx) { buffer = 0.5; }
+node = "gamma";
+while node ;
+while (2) { node = count + 1; }
+while (tmp - 1.25) { node = tmp + 1; }
+if (42 / 2.0) { node = 0 + 1; }
+while (1) { acc = tmp + 1; }
+int acc = 0;
+tmp = "a b c";
+acc = node < 0;
+count = "delta";
+int node = 1;
+return count ;
+return "alpha";
+buffer = "gamma";
+idx = 42 / 1;
+int buffer = 100;
+if (value > 1) { acc = 1.25 < 3.14; }
+node = "gamma";
+return tmp ;
+for idx ;
+value = 10 <= 1.25;
+while (1.25 + 3.14) { buffer = node + 1; }
+while acc ;
+int tmp = 10;
+while (count == 10) { node = acc + 1; }
+if (0 + buffer) { idx = 42; }
+int idx = 1.25;
+// note note note fastpath
+int tmp ;
+int count = 0;
+return idx ;
+return idx ;
+// value slowpath fastpath note
+if (tmp >= 0.5) { buffer = 2 + 0.5; }
+node = "beta";
+buffer = 2 > 0;
+for count ;
+// slowpath slowpath slowpath todo
+int node = 100;
+for value ;
+while (42 * 42) { acc = node + 1; }
+node = "path\\tmp";
+for buffer ;
+return 2;
+if (1) { value = node <= 100; }
+int node = 0.5;
+// note fastpath todo todo
+return 2;
+for acc ;
+// value todo check todo
+node = 0.5 - 1.25;
+return 42;
+value = "path\\tmp";
+// todo value slowpath slowpath
+value = tmp > count;
+return "gamma";
+idx = 0 == 3.14;
+int value = 100;
+// todo check fastpath slowpath
+return "delta";
+while (1.25 * acc) { idx = count + 1; }
+// fastpath note slowpath fastpath
+tmp = 2 * idx;
+// slowpath slowpath fastpath fastpath
+while (42 + 0) { idx = value + 1; }
+int tmp = 10;
+return node;
+acc = 0.5 * tmp;
+while (value) { idx = acc + 1; }
+if (count) { tmp = acc * node; }
+if (buffer >= 0) { count = 0.5 * count; }
+acc = "gamma";
+buffer = 0 * 1;
+if (100) { tmp = 1.25; }
+if (1) { count = acc - 10; }
+acc = node != 10;
+int count = 3.14;
+if (tmp * tmp) { node = 3.14 * 0.5; }
+// value slowpath check fastpath
+// check fastpath slowpath fastpath
+while (2.0 - idx) { node = idx + 1; }
+return node ;
+int count = 10;
+if (node != 0) { node = idx >= 10; }
+if (1 - acc) { node = 1.25 != buffer; }
+return tmp;
+node = tmp != 100;
+count = 42 / 0.5;
+acc = 100 * value;
+return count;
+tmp = 0.5;
+count = 2 + count;
+while (3.14 >= 2.0) { acc = buffer + 1; }
+acc = acc <= value;
+// value todo slowpath note
+int buffer ;
+int buffer = 1;
+int value = 2;
+idx = "a b c";
+// fastpath value todo fastpath
+while (value * value) { idx = buffer + 1; }
+tmp = "alpha";
+acc = 1.25 / 1.25;
+while (count) { buffer = buffer + 1; }
+acc = buffer == 0.5;
+buffer = acc - buffer;
+idx = 1 * count;
+// todo todo check value
+return "beta";
+if (count == idx) { tmp = 1 >= 0.5; }
+// slowpath value note todo
+int acc = 10;
+int acc = 0.5;
+if (3.14 != 1) { node = value / 0.5; }
+return "beta";
+count = "beta";
+// todo todo todo slowpath
+value = 1.25;
+while (count) { value = count + 1; }
+value = "gamma";
+node = 1.25 < 0;
+int buffer = 100;
+return "a b c";
+if (3.14 >= buffer) { tmp = value == 42; }
+while (buffer != 2.0) { node = buffer + 1; }
+return "beta";
+tmp = 42 < 42;
+if (0.5 > 3.14) { count = 2 - 0.5; }
+while (buffer) { count = acc + 1; }
+count = count / 2.0;
+if (1.25 < buffer) { value = 100 + 100; }
+acc = acc == 100;
+int buffer = 100;
+int value = 1;
+if (idx / 3.14) { acc = 3.14; }
+int buffer = 10;
+if (100 < buffer) { acc = 3.14; }
+int idx = 100;
+acc = 2.0;
+tmp = idx < 0.5;
+int tmp = 1.25;
+int value = 0;
+acc = value > count;
+while (3.14) { buffer = value + 1; }
+if (node) { count = node == 0; }
+acc = 2 > count;
+tmp = 0.5 / tmp;
+int buffer = 2;
+int count = 3.14;
+// todo check slowpath value
+idx = "path\\tmp";
+int value = 1;
+while (tmp >= 1.25) { value = buffer + 1; }
+int node = 42;
+count = value;
+while (1.25 <= value) { tmp = idx + 1; }
+count = 3.14 + 0;
+return 100;
+buffer = "gamma";
+while (1 > value) { idx = idx + 1; }
+if (3.14 / node) { value = count == buffer; }
+count = "gamma";
+int node = 100;
+while (count > 42) { value = node + 1; }
+int idx = 1.25;
+while (count * tmp) { count = buffer + 1; }
+if acc ;
+if (2.0) { acc = count != count; }
+while (0 <= tmp) { value = tmp + 1; }
+int buffer = 0.5;
+while (buffer != 1.25) { buffer = buffer + 1; }
+return idx;
+return "gamma";
+count = "a b c";
+int acc = 100;
+int acc = 3.14;
+while (buffer) { buffer = acc + 1; }
+for count ;
+while (1 * node) { acc = node + 1; }
+buffer = 42 < count;
+buffer = 1.25 - 3.14;
+if (2) { idx = count; }
+return acc;
+acc = "gamma";
+int idx = 0.5;
+if idx ;
+if (node == node) { value = tmp / 1; }
+int tmp ;
+value = "beta";
+// note slowpath value slowpath
+// slowpath slowpath fastpath todo
+return count;
+while (1.25) { acc = value + 1; }
+while (1.25 != 0) { acc = buffer + 1; }
+return count ;
+int idx = 1;
+while (2.0 + count) { tmp = node + 1; }
+if (1 * 3.14) { value = 1 >= 10; }
+return 100;
+int idx = 3.14;
+tmp = 0 + 42;
+while (acc == 2.0) { node = tmp + 1; }
+int acc = 0.5;
+acc = node == 2.0;
+// todo slowpath check note
+while (node >= 0) { idx = acc + 1; }
+int buffer = 2.0;
+if (42 + 3.14) { tmp = 1; }
+// value fastpath value value
+acc = acc;
+while (value < idx) { idx = idx + 1; }
+if node ;
+while (2 < idx) { value = acc + 1; }
+return "gamma";
+if (10 == 2) { value = 3.14; }
+while (count - value) { acc = count + 1; }
+while (100 == buffer) { value = acc + 1; }
+// check value value fastpath
+int tmp = 2;
+count = count;
+if tmp ;
+buffer = "beta";
+node = 0 <= 3.14;
+if (value) { count = 100; }
+if (1 + 2) { acc = 2; }
+buffer = 1.25 <= tmp;
+idx = 0 - 100;
+return "path\\tmp";
+return node;
+if (0) { buffer = 0.5; }
+while (count) { tmp = count + 1; }
+while (1 < 1.25) { node = acc + 1; }
+while (idx - node) { count = value + 1; }
+int tmp = 2;
+while (value * 42) { tmp = node + 1; }
+buffer = "gamma";
+return "delta";
+node = "beta";
+if (100 < count) { buffer = 3.14 > 42; }
+return node;
+return "delta";
+while (idx != 2.0) { acc = tmp + 1; }
+return acc ;
+while count ;
+while (acc + 42) { tmp = tmp + 1; }
+while (42 == node) { count = node + 1; }
+if (100) { idx = 2 - 2.0; }
+buffer = "a b c";
+while (value == buffer) { tmp = buffer + 1; }
+count = 2;
+return "gamma";
+return buffer;
+return 2;
+node = "gamma";
+idx = 2 < 100;
+while acc ;
+return 42;
+// todo todo slowpath fastpath
+if (0.5 / 3.14) { count = 2 == idx; }
+count = 100 * tmp;
+idx = 0.5 > count;
+int value = 1.25;
+return buffer ;
+return 42;
+buffer = "beta";
+while (node < 1.25) { acc = idx + 1; }
+int acc = 0.5;
+return "beta";
+return 10;
+return acc ;
+idx = "beta";
+int tmp = 0.5;
+int tmp = 0.5;
+int count = 0;
+return tmp;
+count = 1 * tmp;
+value = "gamma";
+while (count >= value) { node = idx + 1; }
+node = 2.0 / tmp;
+if (1) { idx = 42 == 0.5; }
+return acc;
+// todo slowpath note check
+return "beta";
+acc = node;
+if (2.0) { buffer = 0.5 > 1.25; }
+int count = 0.5;
+if (node >= node) { idx = 100 + value; }
+int value = 3.14;
+value = 0 - tmp;
+idx = "delta";
+if (42 * 42) { buffer = 0.5; }
+int tmp ;
+return value;
+while (42) { buffer = node + 1; }
+return "gamma";
+int node = 100;
+if (buffer < buffer) { count = acc; }
+while (0 + 0.5) { count = count + 1; }
+int acc = 2;
+value = node;
+while tmp ;
+return buffer;
+buffer = "path\\tmp";
+while (0.5 <= 1) { value = idx + 1; }
+int buffer = 2;
+value = 0.5;
+// slowpath fastpath check check
+// value fastpath fastpath value
+while (0) { value = count + 1; }
+if buffer ;
+if (node) { buffer = 0.5 <= 1; }
+int acc ;
+for buffer ;
+node = buffer;
+count = "delta";
+while (tmp * 0) { acc = acc + 1; }
+if (2.0) { buffer = 2.0 <= acc; }
+while (buffer + 2.0) { value = acc + 1; }
+buffer = "beta";
+if count ;
+while (3.14) { tmp = tmp + 1; }
+idx = idx;
+buffer = 0.5 + 2;
+if (idx == 2.0) { acc = node < 42; }
+if (buffer - 42) { acc = 3.14 > 1.25; }
+if (count != 42) { tmp = 1.25; }
+int value = 10;
+return "a b c";
+return 10;
+idx = 100;
+int idx = 1;
+return acc;
+while (count - tmp) { tmp = tmp + 1; }
+// slowpath todo slowpath value
+int buffer = 2;
+int node = 3.14;
+int idx = 42;
+int acc = 10;
+node = "a b c";
+buffer = 10;
+if (0.5) { acc = 1.25 == 100; }
+// value todo fastpath slowpath
+if (10) { buffer = 1 > 100; }
+if (10 - 1.25) { idx = idx / 1.25; }
+if (node == 0.5) { value = 2; }
+return 10;
+int buffer = 0;
+if (100) { idx = 0.5 - value; }
+acc = count == 0.5;
+for acc ;
+while (2.0) { acc = idx + 1; }
+// fastpath todo value check
+buffer = count + acc;
+while (node - tmp) { acc = count + 1; }
+int node = 2;
+int value = 0.5;
+idx = "beta";
+return count ;
+int count = 100;
+while idx ;
+// note value value fastpath
+int acc = 100;
+int idx = 2.0;
+while (tmp + 2.0) { value = idx + 1; }
+idx = 0 / acc;
+while (0.5 >= 2.0) { acc = buffer + 1; }
+if (tmp <= 10) { count = node * 1.25; }
+int tmp = 0.5;
+int idx = 100;
+int tmp ;
+int buffer = 2.0;
+if tmp ;
+while (1 >= value) { idx = acc + 1; }
+int acc = 1.25;
+return 0;
+int value = 2;
+if (42 == node) { value = idx >= count; }
+if (buffer + buffer) { tmp = node; }
+return 0;
+count = 1.25 / 1;
+// fastpath value slowpath value
+value = idx;
+// todo fastpath todo slowpath
+count = 3.14;
+int idx = 1.25;
+if (42 >= 2) { node = idx > idx; }
+if (count) { node = 3.14 >= 1; }
+// slowpath value value check
+if (1 + node) { count = 10 == 2; }
+if (3.14 <= idx) { tmp = 42 <= 10; }
+node = 10 - tmp;
+while (0) { acc = acc + 1; }
+if (count <= idx) { idx = value * 2; }
+int buffer = 10;
+int value = 2;
+buffer = "delta";
+count = value >= acc;
+if (buffer + idx) { count = tmp * value; }
+int tmp = 3.14;
+idx = acc;
+buffer = acc;
+for buffer ;
+count = node;
+int acc = 3.14;
+return count;
+int acc = 1.25;
+int acc = 0;
+for node ;
+value = 0 * 10;
+while (2.0) { count = tmp + 1; }
+return "delta";
+count = 10 >= 0.5;
+value = "a b c";
+value = count + node;
+if value ;
+buffer = 1;
+// fastpath check todo todo
+if (42) { count = 2.0; }
+// note check check note
+int tmp = 10;
+return "path\\tmp";
+if (value == value) { acc = tmp != 3.14; }
+int acc = 42;
+int tmp = 0;
+if (2.0 <= tmp) { tmp = 42; }
+buffer = "gamma";
+acc = 0.5;
+// note note fastpath slowpath
+return "gamma";
+if (3.14 < 2) { acc = 1 == 2; }
+while (3.14 == 0.5) { buffer = value + 1; }
+if (1.25 == 3.14) { count = 2 >= buffer; }
+int count = 10;
+if (10 > 1.25) { value = 0; }
+node = "beta";
+return "beta";
+tmp = "alpha";
+while buffer ;
+acc = 0.5;
+idx = "path\\tmp";
+tmp = idx < idx;
+int acc = 3.14;
+if acc ;
+while (idx * 1) { idx = value + 1; }
+idx = node - 1;
+while (2.0) { count = value + 1; }
+if (3.14 * 0.5) { acc = acc * 3.14; }
+idx = count;
+int buffer = 42;
+int node = 100;
+buffer = "beta";
+// fastpath slowpath todo slowpath
+if (42) { idx = 0 - node; }
+if (idx * value) { tmp = 0.5 / buffer; }
+if (value) { node = node; }
+acc = "alpha";
+int buffer = 0.5;
+while (0.5) { buffer = buffer + 1; }
+int buffer ;
+value = "delta";
+node = node;
+count = "delta";
+if idx ;
+return 1;
+int count = 0.5;
+while (buffer) { value = count + 1; }
+// todo fastpath note check
+int count = 42;
+if (1 != buffer) { node = 0 >= value; }
+if (1 - buffer) { acc = idx > acc; }
+return "gamma";
+int value = 0.5;
+return 2;
+while (value) { value = acc + 1; }
+int acc = 0;
+idx = acc < 3.14;
+int tmp = 100;
+return tmp ;
+if (acc) { count = idx >= value; }
+return acc;
+// slowpath check value note
+count = "a b c";
+while (10 + acc) { buffer = value + 1; }
+tmp = 1 + buffer;
+while (acc <= 42) { tmp = tmp + 1; }
+tmp = "delta";
+// todo note check fastpath
+return "a b c";
+int count = 2;
+if (0) { idx = 0.5; }
+// todo fastpath slowpath check
+acc = idx;
+int idx = 42;
+return 42;
+return value;
+int acc = 0;
+int tmp = 10;
+while (node) { buffer = acc + 1; }
+while (buffer - value) { node = idx + 1; }
+value = "delta";
+if (0) { tmp = count - 1; }
+tmp = idx * 0.5;
+value = node >= count;
+buffer = 1.25 - tmp;
+while (1.25 <= tmp) { value = idx + 1; }
+return tmp;
+tmp = 42 / 0.5;
+if (idx) { buffer = 1.25 + idx; }
+count = "gamma";
+// check value note note
+buffer = "alpha";
+for count ;
+node = 2.0 == count;
+return 1;
+while (node) { idx = count + 1; }
+return tmp;
+// slowpath note note todo
+idx = "a b c";
+int acc = 1.25;
+buffer = "a b c";
+return acc ;
+// todo slowpath note note
+value = 0.5 >= 1.25;
+count = "a b c";
+acc = 0.5 - 100;
+return 1;
+while (1 == tmp) { count = buffer + 1; }
+int buffer = 10;
+value = idx + node;
+return 42;
+int idx = 2;
+count = 3.14 - acc;
+value = "beta";
+int node = 2.0;
+while (buffer == value) { buffer = node + 1; }
+if (0.5 + 2.0) { count = acc != 0.5; }
+int value = 1.25;
+for acc ;
+int value = 100;
+while (10 <= 2) { acc = buffer + 1; }
+// value slowpath fastpath value
+return 42;
+while (count / 1.25) { value = value + 1; }
+int tmp = 100;
+idx = 2;
+return tmp;
+node = value != tmp;
+while count ;
+buffer = value >= 3.14;
+acc = "beta";
+buffer = buffer;
+if (value * buffer) { acc = idx >= 0; }
+acc = 1 <= 2;
+while (2.0) { node = tmp + 1; }
+return "beta";
+if (3.14 / 3.14) { value = 100 != 100; }
+if (2 >= 100) { node = node < 1; }
+return 2;
+value = "a b c";
+if (node) { idx = 0.5; }
+tmp = "beta";
+if (1) { buffer = 3.14 * acc; }
+// value note slowpath value
+// slowpath fastpath check slowpath
+if (tmp != acc) { acc = 1 != value; }
+int count = 2.0;
+int buffer = 42;
+for node ;
+while (tmp != 42) { count = buffer + 1; }
+if (acc * node) { acc = tmp / idx; }
+count = count + acc;
+// check check fastpath fastpath
+count = 42 != acc;
+int value = 1.25;
+return node;
+idx = 42 <= idx;
+int tmp = 1;
+if (1.25 <= 100) { value = 3.14 > 2; }
+count = value;
+acc = "alpha";
+int count = 100;
+if tmp ;
+int value = 1.25;
+// todo value todo value
+int idx = 1;
+if (buffer == count) { idx = tmp == value; }
+return count;
+value = "alpha";
+int value = 2.0;
+buffer = idx;
+count = count - 42;
+if (tmp + 1) { node = value / value; }
+return acc ;
+int acc = 42;
+value = "path\\tmp";
+while (buffer != 3.14) { idx = tmp + 1; }
+value = "gamma";
+while (idx) { tmp = idx + 1; }
+if (0) { count = 100 * acc; }
+int buffer = 1;
+int idx = 0;
+while (2 >= tmp) { idx = idx + 1; }
+int acc = 2.0;
+int tmp = 2.0;
+value = 10 * idx;
+while (tmp) { value = tmp + 1; }
+return idx ;
+idx = "gamma";
+int idx = 2;
+idx = 0 > 0.5;
+while (100) { value = node + 1; }
+int node = 2;
+while (count) { acc = node + 1; }
+// slowpath value slowpath todo
+int tmp = 2;
+// check slowpath note note
+if acc ;
+for node ;
+tmp = "a b c";
+int node = 42;
+buffer = "alpha";
+return 42;
+if (0 >= count) { idx = node == count; }
+buffer = "gamma";
+int value = 0.5;
+if count ;
+if (2.0) { buffer = node; }
+if (1 >= 0.5) { value = acc; }
+while (value >= 1) { node = value + 1; }
+idx = 2 >= acc;
+while tmp ;
+value = 2 >= value;
+count = "beta";
+while (node - 1.25) { idx = tmp + 1; }
+int value = 100;
+tmp = "beta";
+int tmp ;
+if (1 > value) { node = count <= 1.25; }
+if (42) { acc = 1.25 + 100; }
+buffer = 42;
+int idx = 100;
+node = value - 100;
+buffer = 3.14 >= tmp;
+if acc ;
+node = "beta";
+return tmp;
+int count = 0;
+idx = "beta";
+if (2.0) { tmp = buffer == 1; }
+int value = 0;
+if (acc < value) { tmp = 2 - 3.14; }
+tmp = "delta";
+node = 1;
+// value note todo slowpath
+int count = 42;
+int acc = 0;
+return 100;
+acc = 10 * acc;
+// value value note fastpath
+return "alpha";
+if (10) { value = tmp - 10; }
+node = acc;
+idx = "gamma";
+// slowpath check check value
+// check slowpath fastpath todo
+int idx = 1;
+int node = 100;
+while (1) { tmp = node + 1; }
+return 10;
+count = "gamma";
+int tmp = 3.14;
+while (2) { idx = node + 1; }
+count = 2;
+int node = 0;
+if (3.14 < 0) { buffer = 1.25; }
+if (3.14 > acc) { node = node * 2.0; }
+return node;
+if (100) { count = 1 > 42; }
+value = buffer;
+int acc = 1;
+return "gamma";
+node = "gamma";
+int tmp = 100;
+int value = 1;
+int value = 100;
+buffer = "delta";
+while (value > 0.5) { buffer = idx + 1; }
+int value = 2;
+if acc ;
+value = 100 > 100;
+for idx ;
+return 0;
+buffer = value;
+int value = 3.14;
+int acc = 1.25;
+int tmp = 10;
+idx = 1.25;
+acc = "delta";
+if (2 >= acc) { idx = 10 / 10; }
+while (buffer + 1) { tmp = buffer + 1; }
+value = "gamma";
+idx = 0.5 * 42;
+return count;
+for value ;
+idx = 10 + value;
+acc = "beta";
+while (1) { tmp = acc + 1; }
+// slowpath value todo todo
+tmp = 0 / 2.0;
+if (10) { node = count <= buffer; }
+count = 100 != count;
+while (2.0 >= 2.0) { tmp = acc + 1; }
+tmp = "a b c";
+idx = 2.0 / 10;
+count = idx;
+while (acc != acc) { node = buffer + 1; }
+if (tmp < buffer) { tmp = node == 2; }
+while (100 / acc) { idx = tmp + 1; }
+while (node) { idx = tmp + 1; }
+buffer = 42;
+int count = 3.14;
+// check fastpath note value
+tmp = "delta";
+if (count >= value) { node = idx / tmp; }
+while (2 >= 3.14) { idx = value + 1; }
+while (1) { count = idx + 1; }
+int buffer = 1.25;
+if count ;
+while idx ;
+if acc ;
+if (3.14) { node = tmp < buffer; }
+int idx = 1;
+idx = "path\\tmp";
+tmp = node + 1;
+if acc ;
+int node = 3.14;
+// fastpath check value check
+while (count) { count = acc + 1; }
+count = 2;
+tmp = "a b c";
+while (10 == idx) { count = idx + 1; }
+while (100) { node = count + 1; }
+int buffer ;
+int idx = 3.14;
+int node = 0.5;
+if tmp ;
+buffer = acc != 2;
+int value = 1.25;
+while buffer ;
+int node = 0.5;
+if (buffer >= idx) { tmp = 0.5; }
+int count ;
+if (3.14 + 100) { value = count + buffer; }
+node = "a b c";
+node = 10 + 42;
+idx = "delta";
+if (idx) { idx = 1; }
+if (buffer) { tmp = 2.0 > 100; }
+int acc = 100;
+int acc = 2.0;
+// fastpath check check check
+while (1 < 3.14) { node = count + 1; }
+while (idx) { tmp = node + 1; }
+while (idx) { buffer = value + 1; }
+return "path\\tmp";
+// todo slowpath fastpath value
+return 0;
+// slowpath fastpath fastpath slowpath
+if (count + 2) { buffer = 10 != 100; }
+while (1 < 0.5) { value = count + 1; }
+return count;
+if (42 + 2.0) { value = value * value; }
+return acc;
+buffer = "gamma";
+if (node <= 0) { node = buffer - 1.25; }
+node = node * 2;
+return 100;
+int idx = 1.25;
+return 10;
+count = "gamma";
+tmp = 1;
+while (node / count) { acc = buffer + 1; }
+int value = 10;
+buffer = 42 + 42;
+idx = 3.14;
+while (3.14 - value) { buffer = idx + 1; }
+acc = "path\\tmp";
+int value = 3.14;
+idx = "beta";
+int count ;
+int count ;
+int count = 3.14;
+int buffer = 10;
+if (value > value) { acc = 2 - 0; }
+node = "path\\tmp";
+return "beta";
+return "gamma";
+value = "gamma";
+while count ;
+buffer = "delta";
+// note value value check
+idx = "gamma";
+while (tmp < 42) { count = tmp + 1; }
+return acc;
+tmp = 0;
+node = "alpha";
+acc = 10 - 0.5;
+return 0;
+int node = 2.0;
+int tmp = 42;
+idx = "a b c";
+if (0.5) { node = 1.25 <= node; }
+node = value < value;
+return idx;
+int node = 10;
+// check todo note fastpath
+count = node >= 0;
+count = node;
+idx = "beta";
+return 0;
+node = 1.25 != 3.14;
+if (42 > count) { idx = 0; }
+return idx ;
+if (1.25 != value) { node = 0.5; }
+if (acc - 2) { node = buffer; }
+buffer = "gamma";
+node = 0 - 2.0;
+int value = 10;
+while (2.0 < 2.0) { value = tmp + 1; }
+int count ;
+acc = 10 * 0;
+node = "gamma";
+while (node + acc) { tmp = value + 1; }
+while (value <= count) { node = value + 1; }
+return tmp ;
+if (value <= 0.5) { node = value < 1; }
+if (100 * value) { node = node != idx; }
+tmp = "path\\tmp";
+int count = 3.14;
+tmp = 1 > 0.5;
+int buffer = 3.14;
+buffer = "path\\tmp";
+if (idx < 0) { value = 3.14 != 2.0; }
+for node ;
+buffer = 100 < 3.14;
+// todo value fastpath todo
+if (10 < buffer) { count = 2 + 3.14; }
+// fastpath slowpath value fastpath
+while (2 == acc) { node = tmp + 1; }
+// todo check todo value
+int node = 42;
+if (2.0) { tmp = acc; }
+int node = 3.14;
+if (idx == 1.25) { tmp = 1 < 3.14; }
+idx = "gamma";
+// slowpath slowpath value note
+count = "path\\tmp";
+int acc = 1.25;
+while (2.0 * buffer) { acc = count + 1; }
+count = 0 < 1;
+int buffer = 10;
+return buffer;
+count = node - acc;
+while (count - acc) { buffer = acc + 1; }
+int acc = 0;
+if tmp ;
+int tmp = 3.14;
+while tmp ;
+if (0.5 != buffer) { idx = 10; }
+int node = 10;
+int tmp = 0;
+buffer = 1.25;
+node = "alpha";
+while (2.0 <= 1) { tmp = value + 1; }
+if (buffer) { acc = 1.25 > 0; }
+idx = 42 >= buffer;
+idx = 2;
+// note note note slowpath
+node = node == tmp;
+while (1.25 < 1.25) { value = buffer + 1; }
+return 42;
+idx = 2.0 == 10;
+idx = buffer < 0;
+while (0 / node) { acc = value + 1; }
+node = acc;
+while (1.25 == 10) { value = idx + 1; }
+tmp = 0.5 > node;
+if (buffer >= buffer) { count = 42 < 2.0; }
+node = 2.0;
+return value;
+return "a b c";
+return idx;
+count = 2 >= 42;
+return 0;
+// note slowpath todo todo
+return buffer ;
+idx = "delta";
+return tmp;
+if (0.5 <= 42) { buffer = 2 * node; }
+int acc = 100;
+// note slowpath slowpath slowpath
+// value slowpath value fastpath
+acc = acc > acc;
+if value ;
+count = "path\\tmp";
+int acc = 100;
+// note fastpath slowpath fastpath
+// slowpath slowpath slowpath check
+if (2.0 / 0) { acc = buffer; }
+if (acc) { node = 0 != 10; }
+return 2;
+buffer = "beta";
+int value = 2;
+node = 10 > 0.5;
+return 0;
+value = "beta";
+if (42) { acc = node > acc; }
+acc = 10 > acc;
+node = "alpha";
+tmp = 100;
+value = idx;
+value = acc == 2.0;
+if (node) { acc = tmp <= 1.25; }
+if (1) { count = 2.0 * buffer; }
+if (1.25 + 1) { acc = 1; }
+value = "path\\tmp";
+while buffer ;
+value = "beta";
+int value = 2;
+while (3.14 / 1.25) { acc = acc + 1; }
+node = "delta";
+if (idx - 10) { idx = 2 != tmp; }
+int node = 0.5;
+int acc = 42;
+buffer = value == 2;
+// note slowpath todo note
+count = node / value;
+if (tmp * 2) { buffer = 100; }
+count = count >= 100;
+return "path\\tmp";
+while (1) { node = count + 1; }
+int idx = 2;
+buffer = 100 > node;
+return acc ;
+int value = 2.0;
+tmp = "a b c";
+int acc = 3.14;
+count = node;
+return "gamma";
+while (42 + 0) { count = acc + 1; }
+value = "gamma";
+int idx = 1.25;
+if (42 < buffer) { acc = acc; }
+int idx = 2;
+// fastpath slowpath todo fastpath
+tmp = 0 >= 42;
+// check slowpath check check
+if (1.25 / 1.25) { count = buffer; }
+int value = 1.25;
+count = "a b c";
+int acc = 3.14;
+acc = tmp;
+// slowpath fastpath slowpath note
+return tmp;
+int idx = 2.0;
+int tmp = 1;
+count = "a b c";
+while (10 - node) { idx = value + 1; }
+buffer = "alpha";
+if (node - 100) { value = node; }
+acc = "gamma";
+if (2.0 > tmp) { buffer = 100 < tmp; }
+int value = 1.25;
+int acc = 0;
+int buffer = 2;
+// value fastpath value note
+int node = 42;
+while (2) { count = node + 1; }
+int count ;
+if (2 == 0.5) { idx = 42; }
+for node ;
+if (2 > 0) { count = 100 / idx; }
+// note todo slowpath note
+// todo note fastpath slowpath
+int value = 10;
+if (idx > 0) { count = 100 < 2.0; }
+int buffer = 42;
+while (10) { node = count + 1; }
+tmp = "path\\tmp";
+while (count == 1.25) { buffer = node + 1; }
+while (10) { acc = acc + 1; }
+while value ;
+int value = 10;
+if (idx <= buffer) { count = 0 - idx; }
+if (buffer * tmp) { buffer = 10; }
+node = node / 0.5;
+if node ;
+acc = "gamma";
+int acc ;
+int count = 10;
+int tmp ;
+buffer = "delta";
+acc = idx;
+count = "delta";
+// slowpath note todo todo
+return "gamma";
+int value = 1.25;
+buffer = "delta";
+while (10 <= 2.0) { acc = acc + 1; }
+while (0 != 10) { acc = idx + 1; }
+return "delta";
+int idx = 1;
+while (1) { acc = tmp + 1; }
+idx = 1 <= 1.25;
+tmp = 2.0 == 1.25;
+node = count < node;
+if acc ;
+return 10;
+int count = 1;
+count = 100;
+int node = 1.25;
+// note fastpath slowpath todo
+int tmp = 1.25;
+idx = "gamma";
+int tmp = 100;
+idx = node < buffer;
+while (1) { value = node + 1; }
+while (node - 2) { tmp = buffer + 1; }
+// note fastpath note check
+int count = 2;
+return "gamma";
+int acc = 1;
+idx = "path\\tmp";
+if acc ;
+while (100 + 0) { buffer = node + 1; }
+// slowpath todo slowpath slowpath
+while node ;
+int buffer = 1;
+int tmp ;
+while (2.0) { count = tmp + 1; }
+int count = 2;
+return count ;
+// todo fastpath slowpath todo
+int acc = 0.5;
+node = 10 != buffer;
+int idx = 42;
+return acc;
+idx = "a b c";
+return count;
+idx = idx;
+int tmp = 10;
+if (value) { idx = 100 / 3.14; }
+tmp = node == 0.5;
+while (100) { count = value + 1; }
+int acc = 0.5;
+while (10 + 1) { idx = tmp + 1; }
+node = 3.14;
+// fastpath todo todo note
+int buffer = 3.14;
+idx = "gamma";
+return 42;
+acc = 2 + value;
+if (acc >= 0.5) { idx = 42 <= acc; }
+for value ;
+// value fastpath note slowpath
+while (100 + node) { acc = tmp + 1; }
+int tmp = 42;
+return count;
+int node = 2.0;
+int buffer = 1.25;
+if (0.5 - 2) { node = 10 != 3.14; }
+int idx = 42;
+if (buffer + 42) { tmp = idx; }
+tmp = idx;
+// slowpath check value note
+int node = 0;
+if (1) { node = 2 == 2; }
+int value = 2;
+tmp = 100;
+acc = 1.25;
+int acc = 1.25;
+return 100;
+int count = 2.0;
+if (node > 10) { node = 3.14 >= value; }
+while count ;
+int buffer = 1.25;
+buffer = 100;
+return "gamma";
+node = value >= 3.14;
+idx = value;
+if value ;
+value = 3.14;
+value = 2.0 - 3.14;
+idx = 100 > 2.0;
+while (10 * 3.14) { acc = count + 1; }
+return tmp ;
+value = "alpha";
+while (idx > 100) { buffer = count + 1; }
+int value = 2;
+while (42 / 0) { acc = idx + 1; }
+node = "a b c";
+return count;
+int acc = 1;
+value = idx + 1.25;
+if (0) { idx = 1.25; }
+if (3.14 * 1) { value = count < 100; }
+while (idx + acc) { count = node + 1; }
+node = 10 != node;
+int value = 0.5;
+count = buffer <= 1;
+int acc = 0;
+if value ;
+return node;
+// todo fastpath check note
+if value ;
+if value ;
+// todo value value todo
+return acc;
+while (idx == buffer) { node = count + 1; }
+tmp = 1 <= node;
+return value;
+int value = 100;
+acc = node == buffer;
+int count = 0.5;
+tmp = node / 3.14;
+idx = 2 >= acc;
+while (0) { node = buffer + 1; }
+int tmp = 2.0;
+if (1 / acc) { node = buffer; }
+tmp = node < 1;
+idx = idx;
+return buffer;
+int value = 1;
+while (node <= 2) { count = acc + 1; }
+if node ;
+while acc ;
+if (42 == 1.25) { value = value == 0.5; }
+while tmp ;
+int buffer = 10;
+int buffer = 1.25;
+if (tmp >= idx) { tmp = idx > 1.25; }
+while (node) { node = tmp + 1; }
+int value = 10;
+buffer = 1 != value;
+return 2;
+// note check todo todo
+value = "gamma";
+int node = 10;
+if (42 * node) { value = acc - 0.5; }
+int node = 10;
+int acc = 42;
+while (10 - 1.25) { value = node + 1; }
+int idx = 100;
+// check note slowpath fastpath
+// value todo check todo
+if (10) { idx = 0; }
+node = "path\\tmp";
+acc = 1.25 <= idx;
+acc = 1 == 2;
+while (100 * 100) { value = idx + 1; }
+acc = buffer * idx;
+count = acc;
+idx = "a b c";
+if (idx / value) { idx = count >= 3.14; }
+node = 100 > 1;
+while (2.0 > 42) { node = value + 1; }
+while (value) { buffer = count + 1; }
+count = 2 == 0;
+tmp = node < buffer;
+if (2 - 10) { idx = 0.5 > value; }
+buffer = acc - 100;
+acc = "a b c";
+int idx = 0.5;
+buffer = "path\\tmp";
+if (value * 1) { acc = 1.25 - 1.25; }
+return 0;
+while (0 / 42) { node = buffer + 1; }
+if (2) { count = 1 >= 2; }
+buffer = "beta";
+if (2.0 > buffer) { idx = 1.25 <= value; }
+while (acc) { count = idx + 1; }
+int idx = 42;
+buffer = node;
+buffer = buffer <= 3.14;
+int acc ;
+while (1 < 0) { buffer = buffer + 1; }
+while (100 / value) { node = value + 1; }
+for count ;
+return 0;
+int acc = 2.0;
+while (tmp >= 100) { count = buffer + 1; }
+while (value * 0.5) { idx = node + 1; }
+while (1 >= buffer) { idx = buffer + 1; }
+return "gamma";
+return buffer;
+return 1;
+while (acc) { node = buffer + 1; }
+for value ;
+while (node) { value = acc + 1; }
+int node = 100;
+buffer = count != 2;
+int value = 2;
+return "beta";
+if (idx == 2) { buffer = 42 + buffer; }
+return 10;
+while (100) { value = count + 1; }
+while (count * 10) { node = tmp + 1; }
+acc = 0.5;
+// note value check todo
+buffer = "delta";
+for acc ;
+node = tmp;
+int value = 100;
+return acc;
+int tmp = 3.14;
+int count = 2;
+value = 1.25;
+return "beta";
+return "gamma";
+int count = 1.25;
+while (buffer >= count) { idx = acc + 1; }
+// value check note todo
+node = 1.25 / 0;
+idx = tmp;
+int count = 42;
+return count ;
+int buffer = 1.25;
+if (10 + 42) { tmp = 2 + tmp; }
+idx = "alpha";
+return buffer ;
+while (value + 42) { count = count + 1; }
+int idx = 42;
+return "gamma";
+buffer = 0.5 <= 3.14;
+while (1.25) { acc = acc + 1; }
+acc = "path\\tmp";
+value = 2.0 > 1;
+return "a b c";
+if (tmp > 42) { node = node >= acc; }
+// fastpath value value todo
+acc = tmp - tmp;
+node = "alpha";
+return buffer;
+int node = 10;
+if (node) { count = 3.14 - 10; }
+// todo fastpath note fastpath
+int node = 1;
+while (2.0 <= 2) { buffer = acc + 1; }
+int buffer = 3.14;
+buffer = "alpha";
+int buffer = 2;
+while (10 != count) { tmp = value + 1; }
+count = 42 <= 0.5;
+int idx = 42;
+if (idx - idx) { value = 0 != 1; }
+// slowpath fastpath check todo
+int buffer = 0.5;
+value = count != 0;
+while (42) { value = acc + 1; }
+int node = 10;
+int idx = 2.0;
+value = "alpha";
+// value note todo note
+if buffer ;
+acc = idx * acc;
+// todo check check note
+return value;
+// fastpath value slowpath check
+tmp = "beta";
+while (10) { buffer = node + 1; }
+int idx = 2.0;
+// value value fastpath value
+if (tmp <= 100) { node = count != value; }
+while (2 > 100) { count = buffer + 1; }
+int acc = 0.5;
+if (acc * idx) { buffer = 100 - node; }
+int acc = 2.0;
+return buffer ;
+idx = "a b c";
+acc = 1.25 <= node;
+int node = 2;
+int acc = 0;
+int buffer = 2;
+buffer = "a b c";
+tmp = count <= 42;
+for value ;
+value = 0 >= 10;
+int tmp = 3.14;
+while (1) { buffer = node + 1; }
+tmp = 0.5 > buffer;
+idx = "alpha";
+int value = 10;
+if (tmp - 0.5) { count = 100 + 3.14; }
+acc = tmp * 100;
+if (acc > value) { idx = 0 / 1; }
+return count;
+node = 0.5 + 10;
+node = "path\\tmp";
+buffer = acc != 0.5;
+while (idx) { count = idx + 1; }
+count = tmp != 1.25;
+// fastpath value check todo
+if (buffer - count) { idx = 1.25 <= value; }
+acc = "gamma";
+if (2.0 == tmp) { tmp = 10; }
+acc = buffer;
+if (count > node) { value = value; }
+while (idx) { tmp = idx + 1; }
+int value = 42;
+return 100;
+int acc = 10;
+if (3.14) { node = tmp; }
+buffer = "alpha";
+if (value) { tmp = 0 * 0.5; }
+tmp = 42 >= count;
+tmp = 1.25 + count;
+node = 3.14 != acc;
+for buffer ;
+while (100 == tmp) { idx = acc + 1; }
+acc = 42 > 0;
+buffer = 1.25 + 10;
+int acc ;
+count = 100 * buffer;
+while (acc >= 10) { node = value + 1; }
+while (node - tmp) { node = buffer + 1; }
+idx = "delta";
+int node = 2.0;
+while (node > 1.25) { node = buffer + 1; }
+acc = 0;
+while (idx) { acc = buffer + 1; }
+acc = acc >= 1.25;
+for idx ;
+idx = "a b c";
+if (tmp >= 2.0) { idx = count > 0; }
+// check note fastpath todo
+acc = "path\\tmp";
+return acc;
+// note note fastpath fastpath
+int buffer ;
+return 2;
+if (tmp + 2.0) { tmp = 42 != 0; }
+while (2.0 > 1.25) { buffer = idx + 1; }
+if (count / 1.25) { idx = 2 * 2; }
+tmp = "delta";
+int count = 42;
+int value = 2;
+acc = buffer;
+while (2.0 == idx) { buffer = value + 1; }
+while (acc / 100) { acc = buffer + 1; }
+int idx ;
+int value = 2.0;
+while buffer ;
+idx = 2 - buffer;
+tmp = 2 - 1.25;
+while (3.14) { buffer = tmp + 1; }
+if (100 - 100) { idx = idx < value; }
+value = count / node;
+// check fastpath value value
+return 2;
+int value = 100;
+return 0;
+buffer = count < 42;
+if (42 != idx) { acc = 2.0 >= 2; }
+int tmp = 1;
+int acc = 0.5;
+while (buffer == value) { idx = idx + 1; }
+// fastpath todo fastpath value
+int idx = 3.14;
+int count = 1;
+return "gamma";
+int count = 100;
+// note fastpath note note
+acc = 42;
+count = value > 1;
+if (node) { idx = buffer != tmp; }
+node = 0;
+while buffer ;
+while (10 != idx) { idx = node + 1; }
+int acc = 2;
+count = 10 == buffer;
+return "delta";
+while (buffer / count) { tmp = buffer + 1; }
+return 1;
+int buffer = 0;
+while (10 != idx) { count = value + 1; }
+while (42) { value = tmp + 1; }
+while (1.25 < 100) { idx = acc + 1; }
+return "path\\tmp";
+int tmp = 0.5;
+int count = 1.25;
+idx = "delta";
+buffer = 3.14 < value;
+if (tmp) { acc = buffer != count; }
+while buffer ;
+while node ;
+if (1 > 3.14) { buffer = 0.5 * buffer; }
+acc = acc + 2.0;
+while (10 == 0) { idx = node + 1; }
+int buffer = 100;
+idx = 0 < idx;
+for node ;
+if (10 > 0) { value = 1.25 <= 1.25; }
+int tmp = 1.25;
+while (42 > node) { acc = acc + 1; }
+if buffer ;
+int idx = 2.0;
+if count ;
+while (0) { tmp = count + 1; }
+int count = 2.0;
+for value ;
+acc = count < 42;
+while (10 < 2.0) { node = value + 1; }
+value = 2.0;
+if (buffer / count) { acc = 1 != 2; }
+// check note todo todo
+buffer = "alpha";
+while (buffer > 0.5) { idx = count + 1; }
+if (node == 0) { node = 10 / value; }
+acc = 2 * idx;
+count = count < buffer;
+while (3.14 > acc) { acc = tmp + 1; }
+idx = "alpha";
+int idx = 0;
+int idx = 100;
+// check check note fastpath
+if value ;
+value = count <= 1.25;
+while (1 != node) { buffer = acc + 1; }
+value = 3.14 < 10;
+buffer = "gamma";
+node = 42 < value;
+count = 42;
+while (count > 1.25) { tmp = acc + 1; }
+int node = 0.5;
+int buffer = 42;
+acc = buffer;
+node = 2 != 0.5;
+if (value != 3.14) { buffer = node; }
+int buffer = 3.14;
+acc = "beta";
+return "path\\tmp";
+int acc = 0;
+while (0.5 >= 2.0) { node = acc + 1; }
+idx = "a b c";
+if (2 < 2) { acc = 1; }
+acc = "gamma";
+tmp = 1.25 != 10;
+return "beta";
+acc = "delta";
+// note slowpath value todo
+buffer = "beta";
+while idx ;
+if (1.25 + tmp) { tmp = 100; }
+return "gamma";
+count = "alpha";
+int value = 1;
+return idx;
+tmp = tmp * 1.25;
+acc = "beta";
+while (tmp) { count = tmp + 1; }
+// value note value check
+int count = 42;
+tmp = 1;
+acc = 3.14 < tmp;
+while (tmp) { buffer = value + 1; }
+if (buffer) { idx = tmp; }
+return buffer ;
+while idx ;
+int buffer = 0.5;
+count = 1;
+buffer = 2.0 != acc;
+while (idx > node) { buffer = value + 1; }
+int tmp = 0.5;
+int idx = 100;
+if (value / node) { buffer = 3.14 > buffer; }
+idx = "path\\tmp";
+return 42;
+value = "path\\tmp";
+return buffer;
+node = "delta";
+int node = 0;
+return 2;
+while tmp ;
+count = tmp != acc;
+acc = value != 2;
+if (idx > 10) { count = 0.5 - idx; }
+int value = 10;
+int buffer = 100;
+if (idx + 0.5) { tmp = 2.0 >= 1.25; }
+int acc = 1.25;
+return tmp ;
+count = acc > 100;
+int tmp = 100;
+// note fastpath check value
+count = 0;
+return tmp ;
+int node = 0.5;
+while value ;
+acc = 100 < 0.5;
+// value note value check
+// check check fastpath check
+if (count <= 100) { tmp = 0.5 != buffer; }
+while (1 >= 1) { buffer = node + 1; }
+value = "gamma";
+if (tmp <= tmp) { node = 10 * value; }
+if (tmp < 3.14) { acc = acc >= 0.5; }
+int tmp = 0;
+// check fastpath check todo
+value = tmp == 3.14;
+count = "beta";
+if (2.0 == 42) { tmp = 10; }
+int node = 2.0;
+return "a b c";
+while (1.25 + 1.25) { idx = value + 1; }
+if (3.14 / acc) { tmp = acc <= 0.5; }
+idx = "path\\tmp";
+if (value / 3.14) { tmp = tmp; }
+int buffer = 1;
+node = "a b c";
+return "delta";
+// check slowpath fastpath fastpath
+if (2 == 100) { value = 3.14 != acc; }
+count = "alpha";
+if (1.25 + buffer) { buffer = tmp / idx; }
+while (idx) { value = buffer + 1; }
+acc = node == 2;
+int value = 2.0;
+idx = 2 == 1.25;
+int buffer = 2.0;
+buffer = 10 != node;
+count = value != 10;
+value = 100 * 2;
+return "gamma";
+return tmp ;
+if (acc > 2.0) { count = buffer < 2.0; }
+// value note fastpath todo
+for count ;
+while (acc) { tmp = tmp + 1; }
+while (2.0) { node = acc + 1; }
+if value ;
+count = 0.5 > node;
+node = "beta";
+if acc ;
+while (idx < node) { tmp = tmp + 1; }
+while (2 != node) { acc = buffer + 1; }
+while (0 + buffer) { count = node + 1; }
+count = 42;
+while (count + acc) { node = value + 1; }
+while idx ;
+count = "gamma";
+return 0;
+idx = acc + 3.14;
+count = 2 + idx;
+int tmp = 1;
+value = "a b c";
+if (1 - 1) { count = 1 * node; }
+// fastpath note todo note
+int node = 2;
+return "beta";
+int node = 0;
+while (value / 1.25) { idx = count + 1; }
+int node = 3.14;
+if (acc > tmp) { value = count; }
+if (value) { acc = 1 + tmp; }
+acc = tmp != idx;
+acc = 42;
+return 0;
+value = "gamma";
+if acc ;
+int buffer = 1;
+if (2.0) { node = 1.25 + buffer; }
+while acc ;
+tmp = "beta";
+idx = node - 10;
+if (3.14 >= tmp) { idx = 2 == 0; }
+buffer = "a b c";
+node = 10 + 1.25;
+int count = 2.0;
+int buffer = 1;
+while (10 <= 0.5) { value = value + 1; }
+// todo fastpath value todo
+if (tmp) { node = 3.14; }
+return "a b c";
+return 2;
+while acc ;
+if (0.5 >= acc) { buffer = 42 - 100; }
+int node = 2;
+// check todo check todo
+int value = 1.25;
+acc = 0.5 - idx;
+int tmp ;
+idx = "a b c";
+return "a b c";
+int idx = 42;
+value = "beta";
+int idx = 0;
+acc = "gamma";
+if (2 * 2) { value = 1.25 - 0; }
+idx = tmp;
+if (idx >= 100) { idx = 0.5 >= 1; }
+int buffer = 2;
+return "delta";
+value = "gamma";
+int count = 2;
+while (1 <= 10) { tmp = acc + 1; }
+// value todo note todo
+// value note value value
+node = 100 > 3.14;
+acc = 100 / 10;
+int buffer = 3.14;
+tmp = "gamma";
+if (idx - idx) { tmp = 0 > 100; }
+if (3.14 - 42) { buffer = 3.14 != 2; }
+if (0 >= 2.0) { buffer = tmp - 1.25; }
+int value = 42;
+acc = 2.0 != 1;
+if (acc != 42) { idx = 1.25 + 2.0; }
+// slowpath note fastpath slowpath
+if (2) { value = node <= tmp; }
+if (1.25) { idx = count * buffer; }
+int buffer = 1.25;
+while (2.0 >= 2.0) { acc = buffer + 1; }
+int acc = 100;
+node = "a b c";
+int buffer = 42;
+int buffer = 1.25;
+while (10) { node = count + 1; }
+if (3.14) { buffer = 1; }
+node = "a b c";
+int idx = 2;
+while (value != idx) { idx = value + 1; }
+while (42 + count) { tmp = value + 1; }
+idx = tmp / count;
+if (3.14 * 42) { tmp = node == 1; }
+if (count * tmp) { node = acc < 1; }
+count = 10 + 3.14;
+int node = 1.25;
+value = 1 / node;
+int idx = 0;
+int acc = 2.0;
+node = 1;
+if (idx < tmp) { tmp = 0.5; }
+value = 0.5;
+buffer = 1.25 <= 42;
+if (idx / 0) { node = 42 != 0; }
+return 2;
+int buffer = 42;
+if (acc != 2.0) { idx = 100 - 0; }
+return "a b c";
+if (2) { tmp = tmp; }
+if (value / idx) { node = tmp; }
+int idx = 2;
+idx = idx < 2;
+if (tmp - 10) { value = node / 1; }
+node = value;
+idx = 3.14 <= 1;
+if (1.25 * node) { value = 2.0 != acc; }
+if (idx) { acc = count - 100; }
+count = 42 == 0;
+for idx ;
+int value = 0;
+if (acc) { tmp = tmp >= 1; }
+if (10 == 1.25) { tmp = tmp; }
+while (0 == 100) { buffer = count + 1; }
+int buffer = 2;
+buffer = "path\\tmp";
+while (acc >= 42) { value = idx + 1; }
+// todo note check slowpath
+idx = "delta";
+while (idx >= count) { acc = acc + 1; }
+count = "gamma";
+if (count + 1.25) { tmp = 0 >= 10; }
+if (10) { count = 1; }
+// check todo value check
+// value slowpath fastpath todo
+return value;
+return buffer;
+while (0 - 1) { tmp = count + 1; }
+int acc = 1;
+int count = 3.14;
+int idx = 0.5;
+tmp = 10 > node;
+if (0.5) { value = 3.14 == 10; }
+while idx ;
+acc = 0 + 1.25;
+while (2 == 0.5) { idx = buffer + 1; }
+return value;
+if (3.14 >= 0.5) { tmp = 3.14 != 10; }
+while acc ;
+while (10 * tmp) { buffer = tmp + 1; }
+if (acc != 0) { value = tmp < 3.14; }
+int count ;
+int node = 2;
+while (tmp) { tmp = buffer + 1; }
+while (count * 1) { tmp = acc + 1; }
+int value ;
+while (value) { acc = idx + 1; }
+buffer = node;
+value = count <= 2.0;
+// note check check todo
+int count = 2;
+int idx = 2;
+// fastpath fastpath note todo
+node = 42 != tmp;
+if (2) { node = 100 > 1.25; }
+buffer = buffer > count;
+if (idx - 1) { value = 2; }
+if (idx / acc) { tmp = node; }
+int idx = 10;
+int count = 1.25;
+if (1.25) { value = 2; }
+acc = 10 <= node;
+for tmp ;
+idx = 1.25 > 0;
+return count;
+int count = 2.0;
+int count = 1.25;
+value = idx >= 0.5;
+if (1.25 > count) { idx = acc; }
+int acc = 1;
+int buffer = 2.0;
+acc = 2.0 <= 100;
+acc = 42;
+return value ;
+while (42 / 10) { acc = acc + 1; }
+if (1 * 0) { idx = 10 > node; }
+int buffer = 2.0;
+if (10 < 3.14) { idx = 42; }
+if (2.0 <= 42) { node = value < tmp; }
+node = tmp < 0.5;
+idx = "beta";
+node = value != 0;
+if (3.14 - buffer) { acc = 100; }
+count = count < node;
+if (value - value) { buffer = node > idx; }
+// slowpath value todo slowpath
+buffer = 100 > value;
+int node = 1;
+while (100 >= tmp) { acc = idx + 1; }
+return 42;
+idx = count - acc;
+if (node / 3.14) { value = count / 10; }
+return 10;
+// note check fastpath check
+int value ;
+// check todo value todo
+idx = "gamma";
+return value;
+value = 2 <= 10;
+tmp = "gamma";
+count = count != count;
+tmp = "path\\tmp";
+int node = 0;
+node = 2.0;
+int tmp = 1.25;
+return 42;
+acc = 100 == idx;
+if (100 + 10) { acc = 1 != count; }
+buffer = "gamma";
+while (2.0 < buffer) { count = node + 1; }
+// slowpath fastpath check slowpath
+if (2.0 == 0) { idx = 0.5 * 2.0; }
+int node = 0.5;
+acc = "delta";
+// fastpath value check check
+if (buffer >= tmp) { idx = 0 > 10; }
+return 0;
+while (buffer + count) { tmp = idx + 1; }
+node = "a b c";
+int count = 3.14;
+node = 1;
+buffer = 3.14 <= count;
+int tmp = 0.5;
+while (1.25 <= 3.14) { acc = acc + 1; }
+tmp = "gamma";
+if (2.0 / 1) { count = 0 - idx; }
+if (2.0 <= 2) { buffer = 1 * tmp; }
+int acc ;
+if (100 > idx) { node = 1.25; }
+buffer = 42;
+while (42 != 2.0) { acc = idx + 1; }
+count = acc != 2;
+idx = 0;
+int tmp = 42;
+if (tmp / idx) { count = 0.5 < 2.0; }
+// slowpath value todo todo
+int tmp = 2.0;
+if (2) { tmp = node; }
+acc = 2;
+int value = 42;
+return value;
+int value = 0;
+int count = 42;
+int acc = 100;
+// todo note note value
+int node = 100;
+idx = "a b c";
+int count = 3.14;
+int value = 2;
+while (10) { tmp = count + 1; }
+idx = count - value;
+buffer = 1.25 <= 0.5;
+idx = value < acc;
+while (node == value) { acc = value + 1; }
+tmp = "a b c";
+while (100) { node = buffer + 1; }
+while (tmp) { buffer = buffer + 1; }
+int acc = 2;
+while (3.14 - 100) { tmp = value + 1; }
+int acc = 3.14;
+return buffer;
+if (0.5 >= 0.5) { node = 0 > 100; }
+return "beta";
+node = 1 > 10;
+if (count) { idx = idx + buffer; }
+int idx = 100;
+if (2.0 >= 3.14) { value = idx < acc; }
+if (node <= 0) { tmp = 100 > 1.25; }
+if (10 * 1) { idx = 42 != 100; }
+return "path\\tmp";
+count = tmp + idx;
+acc = "beta";
+while (value < idx) { acc = idx + 1; }
+return "gamma";
+int buffer = 42;
+count = "path\\tmp";
+while (1 <= 0) { count = buffer + 1; }
+if (42 <= tmp) { node = 10 + tmp; }
+if (count) { value = 0.5 * acc; }
+int buffer = 1.25;
+return "delta";
+int acc = 2.0;
+buffer = "a b c";
+if (1 != 1) { node = value / 0; }
+node = buffer >= 10;
+acc = 0.5;
+while (10) { tmp = value + 1; }
+if (42) { buffer = idx; }
+return tmp;
+if (buffer / 1.25) { buffer = count > 10; }
+return 0;
+count = acc;
+while (10 + value) { acc = value + 1; }
+count = value < 10;
+if (idx == 2.0) { node = tmp >= value; }
+if (value - tmp) { count = 1 - count; }
+int node = 3.14;
+node = 100 + node;
+int count = 42;
+value = idx * 3.14;
+int buffer = 10;
+return "path\\tmp";
+if (3.14 >= 1.25) { acc = node / count; }
+int acc = 3.14;
+if (2.0 <= 42) { value = 2 <= buffer; }
+while (2.0) { buffer = idx + 1; }
+int acc = 3.14;
+int idx = 1;
+value = tmp + acc;
+value = 2.0 < node;
+while (node / buffer) { tmp = count + 1; }
+idx = 10 * acc;
+while (100 > count) { acc = tmp + 1; }
+if idx ;
+int node ;
+if (10 - tmp) { idx = 2.0; }
+int tmp = 1;
+int buffer = 42;
+buffer = "gamma";
+while (node) { buffer = node + 1; }
+if (1.25) { node = tmp + 1.25; }
+node = buffer >= idx;
+acc = "gamma";
+// check fastpath slowpath value
+return buffer ;
+tmp = "beta";
+for acc ;
+while (value) { count = node + 1; }
+while (3.14) { node = tmp + 1; }
+buffer = idx;
+int idx = 0;
+while (count) { buffer = acc + 1; }
+count = "a b c";
+while (3.14 * 2) { value = tmp + 1; }
+if (value) { count = 2; }
+acc = "path\\tmp";
+if (1 / idx) { node = 0 >= 3.14; }
+int count = 0.5;
+return "alpha";
+if (1.25 - 0) { count = tmp; }
+int tmp = 42;
+value = "path\\tmp";
+count = idx;
+// value fastpath todo todo
+buffer = tmp;
+node = 0 >= idx;
+while (2.0 / 2.0) { acc = acc + 1; }
+value = "delta";
+// fastpath fastpath slowpath todo
+// check slowpath note note
+return "delta";
+return "delta";
+// todo todo todo slowpath
+count = "delta";
+int value = 3.14;
+return node;
+idx = idx * 2.0;
+return buffer;
+while (node - value) { count = buffer + 1; }
+int tmp ;
+value = "path\\tmp";
+int value = 3.14;
+node = "delta";
+return count ;
+int count = 42;
+count = 2.0;
+int node = 0.5;
+int idx = 1.25;
+node = "gamma";
+while (1) { count = count + 1; }
+int count = 100;
+idx = 3.14;
+while (tmp <= value) { acc = tmp + 1; }
+int tmp = 100;
+while (value < node) { node = count + 1; }
+value = 100;
+int acc = 1;
+return 10;
+int tmp = 2;
+acc = "alpha";
+count = 0 * 42;
+if (42) { count = value * tmp; }
+while (1.25) { count = value + 1; }
+// check value note check
+while (10 != 0.5) { buffer = count + 1; }
+int acc = 2;
+if (count != 0.5) { count = count * acc; }
+// note value note slowpath
+if (3.14 > idx) { buffer = value - 1; }
+tmp = "gamma";
+return 100;
+if node ;
+int count = 42;
+return "path\\tmp";
+return acc;
+while (tmp) { buffer = acc + 1; }
+acc = value >= 2;
+// note todo slowpath todo
+int value = 100;
+if (0.5 * count) { count = buffer; }
+int node = 1.25;
+int count ;
+// value note slowpath slowpath
+while (acc >= node) { node = buffer + 1; }
+if (42) { idx = 42 <= 1; }
+return acc;
+return acc ;
+value = value;
+if (value <= 100) { node = tmp; }
+acc = acc;
+int value = 2.0;
+idx = 0.5 < idx;
+value = "a b c";
+acc = 0;
+tmp = acc;
+node = 1.25 + 2.0;
+return node;
+int idx = 1.25;
+while (1.25 < 10) { count = buffer + 1; }
+while (acc >= 100) { value = tmp + 1; }
+if idx ;
+while (10 < 10) { buffer = node + 1; }
+acc = "gamma";
+for count ;
+return 100;
+return 0;
+return count;
+if (0.5 / value) { idx = 100 < value; }
+tmp = "alpha";
+if (value <= 1.25) { count = 0 <= 1; }
+int count = 100;
+for count ;
+int value = 42;
+return node;
+return "a b c";
+tmp = "alpha";
+while (2) { acc = idx + 1; }
+buffer = "delta";
+int idx = 0.5;
+return "alpha";
+count = buffer >= 3.14;
+value = 3.14 - node;
+// note slowpath value check
+if (count) { buffer = 0 > 1.25; }
+// slowpath value todo fastpath
+int count = 42;
+// todo check todo check
+tmp = buffer - 0;
+return acc;
+for node ;
+value = "alpha";
+value = 42 <= 0.5;
+int buffer = 42;
+idx = 0.5;
+value = "alpha";
+// todo slowpath fastpath note
+return tmp;
+int idx = 42;
+if (acc * acc) { node = 1 + 0.5; }
+node = 1 > 100;
+acc = 2.0 / 0.5;
+return idx;
+int node = 42;
+return "path\\tmp";
+buffer = 0.5 * node;
+if (2 != idx) { acc = 0; }
+return 0;
+return buffer;
+while (idx <= 1.25) { value = node + 1; }
+if (acc / 42) { buffer = 10 + 0; }
+int node ;
+if (42 < count) { idx = 0 != idx; }
+if (2.0 > 10) { buffer = count == 10; }
+count = 2.0;
+while (acc) { tmp = node + 1; }
+node = "a b c";
+for value ;
+while (1.25 - 42) { acc = count + 1; }
+while (tmp) { tmp = tmp + 1; }
+return 1;
+node = "gamma";
+while (buffer <= 0.5) { tmp = acc + 1; }
+if (10 + 1.25) { value = 2 <= 10; }
+if node ;
+while (42 < node) { tmp = value + 1; }
+value = "a b c";
+int node = 2.0;
+tmp = 10;
+if (3.14 + 2) { node = idx * 42; }
+int buffer = 10;
+while idx ;
+int node = 10;
+if (2 >= 10) { buffer = 0; }
+int count ;
+acc = acc != 2.0;
+value = 3.14 == 1.25;
+idx = "beta";
+if (42) { acc = 0.5 - count; }
+while (2.0 <= acc) { value = tmp + 1; }
+tmp = 10 == value;
+count = "delta";
+return "gamma";
+int acc = 2;
+int idx = 1;
+node = 2 == 1.25;
+int count = 42;
+// todo note slowpath value
+idx = 10 > 10;
+int node = 3.14;
+return buffer;
+if (idx > count) { buffer = acc; }
+int idx = 1.25;
+if (42 + 2) { tmp = node + value; }
+return "path\\tmp";
+return acc;
+if (0) { acc = 100 < 1; }
+count = acc * node;
+while (count + node) { node = tmp + 1; }
+if (2.0 + node) { acc = buffer / acc; }
+int tmp = 2.0;
+value = 0;
+acc = 2.0 < acc;
+while (10 + idx) { value = count + 1; }
+if (42 >= 10) { buffer = buffer; }
+tmp = "beta";
+if (value - acc) { idx = tmp <= 2.0; }
+tmp = "gamma";
+if (value) { count = 100 != 1; }
+value = 0.5 >= value;
+// value note todo todo
+// check note note slowpath
+int node = 10;
+return 2;
+while (42 == 0.5) { value = node + 1; }
+acc = 42;
+value = "path\\tmp";
+int node = 2;
+while value ;
+if (node == idx) { buffer = acc * idx; }
+int count = 10;
+while (tmp < idx) { buffer = acc + 1; }
+return 1;
+return 2;
+if (buffer - value) { buffer = idx != value; }
+idx = "alpha";
+while (count) { value = acc + 1; }
+while (42 >= 3.14) { value = node + 1; }
+tmp = "beta";
+int idx = 2;
+// check slowpath note todo
+value = 0;
+if (100 / 2) { node = 1 < 2; }
+while tmp ;
+count = "delta";
+tmp = node == count;
+while (42 - 1.25) { node = acc + 1; }
+for tmp ;
+int tmp = 1.25;
+tmp = 2 == value;
+while (10 / 1) { value = node + 1; }
+tmp = "alpha";
+// todo note value slowpath
+tmp = "alpha";
+if count ;
+while (100) { buffer = node + 1; }
+return 0;
+int buffer = 2.0;
+return "alpha";
+return tmp ;
+while node ;
+value = 1.25;
+node = buffer == value;
+count = "path\\tmp";
+if (3.14 + node) { node = 2 > buffer; }
+int acc = 100;
+if (0.5 < 0) { buffer = 10; }
+value = tmp != 10;
+idx = "alpha";
+// slowpath check note todo
+int acc = 2.0;
+int idx = 2;
+idx = 10 >= 0.5;
+while (2) { acc = idx + 1; }
+int value = 100;
+return idx;
+while (idx) { tmp = idx + 1; }
+// value check value slowpath
+tmp = count;
+int buffer ;
+tmp = "alpha";
+return value ;
+while (node * 1) { value = buffer + 1; }
+tmp = "a b c";
+if (count) { tmp = value > 100; }
+if (2.0) { idx = 0 / 2; }
+int count = 10;
+// fastpath check value fastpath
+// fastpath fastpath value check
+acc = 10 >= node;
+int tmp = 100;
+// value check value slowpath
+if (3.14) { acc = acc; }
+buffer = "delta";
+while (2.0 >= tmp) { buffer = idx + 1; }
+if (1) { node = tmp >= tmp; }
+idx = "alpha";
+tmp = 2 >= tmp;
+int idx ;
+if (node) { node = 0; }
+return "gamma";
+return count;
+if (buffer * 2.0) { idx = idx < 42; }
+tmp = "alpha";
+return 1;
+while (3.14 - tmp) { value = buffer + 1; }
+int count = 1;
+if (1.25) { count = 0.5 <= tmp; }
+if (acc - value) { acc = 3.14 + idx; }
+while (0 - 1.25) { idx = buffer + 1; }
+tmp = 0.5;
+return idx;
+acc = acc;
+value = "delta";
+// note note todo slowpath
+while value ;
+if tmp ;
+if (acc / node) { idx = value + 1; }
+while node ;
+return idx;
+if (0.5 * count) { value = count < node; }
+count = 1 <= 42;
+while (0) { acc = idx + 1; }
+tmp = count - tmp;
+idx = 0.5;
+tmp = "delta";
+idx = 1.25 / 1.25;
+while (2) { value = value + 1; }
+// slowpath note note check
+return idx;
+// note slowpath fastpath note
+count = 1.25 * 100;
+while (buffer != acc) { idx = count + 1; }
+int idx = 3.14;
+if (100 / count) { value = buffer / idx; }
+int buffer = 100;
+buffer = 0;
+return 42;
+return count;
+return value;
+if (idx * count) { acc = acc; }
+int acc = 100;
+while (count < tmp) { buffer = buffer + 1; }
+count = 1 / tmp;
+if (10 + acc) { acc = 0 - 3.14; }
+for node ;
+int value = 10;
+if (3.14 < 2) { tmp = value <= count; }
+return value ;
+buffer = idx <= 0.5;
+count = buffer - 10;
+while (0 - node) { node = count + 1; }
+int idx = 1;
+while (idx) { count = count + 1; }
+buffer = "gamma";
+return 0;
+buffer = 3.14 != 42;
+int node = 42;
+value = acc == value;
+int count = 3.14;
+node = "alpha";
+if tmp ;
+if (1 == 0.5) { count = tmp; }
+if (0.5 != 0.5) { tmp = value > buffer; }
+int value = 0;
+// fastpath fastpath slowpath value
+idx = 1.25 * 3.14;
+int buffer = 2;
+idx = acc != buffer;
+if (tmp / 0) { idx = 2 >= node; }
+return value;
+tmp = 42 / value;
+int node = 42;
+while (idx / idx) { idx = count + 1; }
+return tmp ;
+node = "path\\tmp";
+if (0.5) { count = node / 1; }
+if (tmp - value) { acc = tmp > 1; }
+int count = 100;
+if (idx < 1) { tmp = tmp; }
+return "alpha";
+while buffer ;
+acc = 0 >= 3.14;
+buffer = value;
+acc = 1 * count;
+while (tmp - 2.0) { acc = tmp + 1; }
+while (node <= 2.0) { acc = node + 1; }
+while (10 > acc) { count = tmp + 1; }
+node = idx;
+idx = value;
+int buffer ;
+while (1.25) { buffer = idx + 1; }
+return value;
+idx = "path\\tmp";
+while (buffer) { acc = acc + 1; }
+value = 2;
+if (2 / count) { buffer = 2.0 >= acc; }
+int idx = 2;
+buffer = 42 <= 2;
+if (node == 0.5) { acc = 10 - count; }
+while (tmp * node) { acc = acc + 1; }
+node = "alpha";
+acc = node >= 0;
+node = "alpha";
+for idx ;
+return "a b c";
+if (1 == 1.25) { value = tmp * 0.5; }
+node = tmp + tmp;
+int count = 1;
+if (0.5) { acc = 42 == 1; }
+int value = 1.25;
+node = 3.14 / count;
+node = buffer == buffer;
+count = "delta";
+while (acc + 0.5) { tmp = idx + 1; }
+int tmp = 2;
+if (acc <= tmp) { value = node - 0; }
+// slowpath fastpath note note
+tmp = "a b c";
+tmp = idx < 2.0;
+buffer = "beta";
+// fastpath check note value
+if (value) { buffer = buffer < count; }
+tmp = 1.25;
+idx = 10 / 1;
+return 2;
+while (1.25 >= 1) { node = tmp + 1; }
+if (1.25 > count) { tmp = acc >= 42; }
+idx = node;
+acc = 1 >= node;
+int count = 10;
+if (0 - 100) { node = 3.14 * count; }
+if (0) { acc = 2.0 - 42; }
+value = 2.0 + acc;
+if (0 >= count) { value = buffer; }
+while (count) { idx = count + 1; }
+// slowpath fastpath slowpath slowpath
+// check check check value
+return tmp ;
+node = "gamma";
+buffer = 1 / 0.5;
+for acc ;
+if (0.5) { value = value - buffer; }
+int buffer = 1;
+idx = "beta";
+while count ;
+// slowpath check value slowpath
+// slowpath value fastpath slowpath
+if (node) { count = 42; }
+int acc = 10;
+if (100 + 10) { value = tmp >= 42; }
+value = 0.5;
+value = 42 != acc;
+tmp = buffer > 2;
+count = "beta";
+if (2.0 == count) { count = 42 - 3.14; }
+return "beta";
+int value = 2;
+int value = 2.0;
+idx = value <= 0.5;
+for tmp ;
+while (3.14 <= tmp) { tmp = acc + 1; }
+if acc ;
+buffer = count * 10;
+acc = idx < node;
+acc = 2 <= 42;
+int count = 1;
+if (2 != idx) { acc = node; }
+while (buffer) { count = buffer + 1; }
+int idx = 0.5;
+return node;
+return buffer ;
+while (2.0) { buffer = idx + 1; }
+int idx = 3.14;
+count = "beta";
+value = 0 * 10;
+int count = 1.25;
+idx = "delta";
+for buffer ;
+if (2.0) { acc = 10 <= acc; }
+if (value) { count = buffer <= 42; }
+return 0;
+while (tmp - 0) { value = tmp + 1; }
+// note todo value check
+while (2 > value) { idx = node + 1; }
+if node ;
+// value todo fastpath note
+int value = 42;
+// note value check todo
+tmp = 2.0 == idx;
+while (acc <= 0.5) { idx = tmp + 1; }
+acc = 1.25 * 3.14;
+node = "alpha";
+while (1 < buffer) { node = tmp + 1; }
+int idx = 0.5;
+if (2.0) { acc = 1 < 100; }
+int buffer = 10;
+return value;
+int tmp = 2;
+count = "gamma";
+while (0.5 * 2) { idx = count + 1; }
+if (2.0 / idx) { acc = tmp < 3.14; }
+if (0 != node) { value = 0 == node; }
+int tmp = 2.0;
+for buffer ;
+int idx = 42;
+int count = 2.0;
+while (acc * value) { buffer = idx + 1; }
+while (value == idx) { count = count + 1; }
+int buffer = 1.25;
+// value fastpath note value
+return "alpha";
+return 1;
+return 42;
+for idx ;
+idx = 3.14 * 100;
+buffer = idx;
+// note todo slowpath check
+idx = "a b c";
+idx = 2.0;
+int count = 0;
+int tmp = 42;
+// fastpath fastpath todo fastpath
+node = 100;
+int node = 3.14;
+while (2.0) { acc = acc + 1; }
+acc = "a b c";
+idx = idx;
+while count ;
+if (tmp <= 1) { idx = 1 == 100; }
+while (10 != buffer) { idx = idx + 1; }
+return buffer ;
+acc = "delta";
+// fastpath fastpath value fastpath
+if (count > 100) { value = 10 == 2; }
+return "a b c";
+if (42 * tmp) { idx = idx >= 2; }
+int idx = 2.0;
+return "beta";
+tmp = 100 >= 2;
+while (3.14) { idx = count + 1; }
+acc = "alpha";
+int value = 1;
+if (3.14) { buffer = acc != 42; }
+int value = 1;
+return "alpha";
+for count ;
+return "a b c";
+// note slowpath slowpath fastpath
+while (42 == 1) { value = buffer + 1; }
+count = 2.0;
+// fastpath check note fastpath
+if (2 > 2.0) { buffer = idx; }
+while (value) { idx = node + 1; }
+int tmp = 10;
+buffer = count;
+int count = 10;
+while node ;
+int value = 2;
+buffer = 2.0 < 42;
+tmp = acc;
+while (acc * idx) { count = count + 1; }
+int node = 3.14;
+buffer = "beta";
+int acc = 10;
+int buffer = 10;
+if (idx) { idx = acc == acc; }
+return "a b c";
+int tmp = 42;
+return "beta";
+int acc = 1;
+int idx = 1.25;
+if (3.14 == 100) { acc = 3.14 > 2.0; }
+int count ;
+int idx = 2.0;
+value = 1.25 != 2;
+node = "path\\tmp";
+count = 3.14;
+if (2.0) { tmp = tmp; }
+return buffer ;
+while (buffer / tmp) { value = value + 1; }
+int acc = 0.5;
+while (idx <= count) { acc = value + 1; }
+if buffer ;
+int value ;
+if (0 * idx) { value = 100 > 0; }
+if (2 <= 1) { acc = 3.14 == 2.0; }
+count = "beta";
+int count = 0.5;
+if (tmp + count) { node = 0.5; }
+int node = 2.0;
+node = count;
+int buffer = 100;
+if (buffer * 42) { value = buffer <= count; }
+acc = "a b c";
+int node = 10;
+while (42 == 100) { count = tmp + 1; }
+return "delta";
+while idx ;
+acc = idx >= 2.0;
+tmp = "a b c";
+while (0.5 * 3.14) { tmp = count + 1; }
+while (count + 1.25) { buffer = idx + 1; }
+idx = 42 - 3.14;
+idx = "gamma";
+while (acc - value) { tmp = buffer + 1; }
+// note fastpath slowpath value
+// value check check fastpath
+if (buffer) { value = idx > buffer; }
+if (2.0 > 2.0) { tmp = 1.25; }
+int value = 100;
+tmp = "gamma";
+value = 3.14 + 1.25;
+return 42;
+idx = "beta";
+while buffer ;
+while (1 >= 0) { value = tmp + 1; }
+node = 42 >= idx;
+count = 1.25;
+int value = 42;
+if (count < 100) { value = 2 != 0; }
+acc = "a b c";
+return "delta";
+value = "path\\tmp";
+return 1;
+int idx = 42;
+count = "a b c";
+value = buffer;
+while (acc) { node = value + 1; }
+return tmp;
+// value slowpath todo slowpath
+while (2.0 / buffer) { count = node + 1; }
+// slowpath note value todo
+if (buffer != node) { idx = 100; }
+int count = 2.0;
+int buffer = 0;
+int acc = 3.14;
+idx = "alpha";
+int buffer ;
+int value = 0.5;
+while (3.14) { idx = buffer + 1; }
+while (2 != 100) { acc = buffer + 1; }
+while (node < 1.25) { value = node + 1; }
+value = idx > 42;
+// slowpath fastpath slowpath note
+int idx = 0.5;
+int idx = 10;
+acc = 1.25;
+idx = value > 3.14;
+// slowpath value fastpath todo
+while (count <= acc) { idx = buffer + 1; }
+while (10) { value = value + 1; }
+value = "path\\tmp";
+return acc;
+int count = 10;
+while (0.5 <= idx) { tmp = acc + 1; }
+while (buffer) { value = value + 1; }
+int count = 3.14;
+while (2) { acc = buffer + 1; }
+while (0.5 > idx) { idx = buffer + 1; }
+while (tmp) { value = node + 1; }
+count = 1 > 2.0;
+// fastpath todo todo check
+int value = 2.0;
+acc = 0 >= value;
+value = 1 >= tmp;
+value = "gamma";
+while (2) { value = tmp + 1; }
+if (0.5) { buffer = value; }
+// fastpath slowpath note note
+acc = "path\\tmp";
+return node;
+int node = 10;
+count = 3.14 < 2.0;
+return value ;
+value = 2 < 1;
+tmp = 0 > 2.0;
+tmp = tmp;
+int tmp = 1.25;
+tmp = 0;
+if acc ;
+idx = 0;
+return 10;
+if (count) { count = acc; }
+idx = node + 42;
+if (0.5 < 100) { value = 1; }
+if (0.5 * 0.5) { count = 100 != 1; }
+if (count < 2.0) { idx = count + 100; }
+count = 42;
+tmp = tmp;
+int count = 2;
+while (10 * 0) { tmp = count + 1; }
+tmp = 2.0;
+int node = 2;
+count = "path\\tmp";
+buffer = 3.14 - 0;
+value = 3.14 * 2;
+value = "alpha";
+tmp = 100 == 1.25;
+while (node > 3.14) { acc = count + 1; }
+while (0.5 * 42) { tmp = acc + 1; }
+while (0.5) { count = idx + 1; }
+int tmp ;
+// check fastpath fastpath check
+tmp = "a b c";
+while (2 < 10) { node = tmp + 1; }
+while (100 <= value) { count = count + 1; }
+acc = "a b c";
+value = 0 >= 10;
+buffer = 0;
+return 1;
+return "path\\tmp";
+value = "alpha";
+// note value note check
+int value = 0;
+int tmp = 3.14;
+if (3.14 - count) { value = value; }
+count = 10 > 3.14;
+buffer = "delta";
+// slowpath note value check
+int count = 2;
+if (42 >= buffer) { tmp = acc * acc; }
+value = value * 2.0;
+value = "path\\tmp";
+if (tmp / 0.5) { idx = 100 == acc; }
+if (node > idx) { node = 1.25 * value; }
+node = idx + acc;
+while (idx < 2.0) { count = idx + 1; }
+while (2.0 >= 10) { node = buffer + 1; }
+node = "alpha";
+buffer = 42;
+if (2) { tmp = tmp + count; }
+while (value > acc) { count = node + 1; }
+buffer = 0.5 == tmp;
+tmp = "alpha";
+if (2.0) { acc = 2; }
+idx = node / 3.14;
+buffer = 3.14;
+return "delta";
+node = "a b c";
+while (1 < value) { node = value + 1; }
+int value = 3.14;
+tmp = "gamma";
+return "path\\tmp";
+while node ;
+idx = "gamma";
+if (3.14) { value = acc; }
+if (3.14 == buffer) { node = tmp; }
+return value ;
+int value = 2.0;
+if (0.5) { value = 10 != 100; }
+if tmp ;
+while buffer ;
+while idx ;
+int idx = 10;
+while (idx) { count = buffer + 1; }
+int count = 10;
+int tmp ;
+int tmp = 10;
+while (100 - 0) { buffer = tmp + 1; }
+int node = 42;
+int node = 1.25;
+// todo check fastpath note
+while (1.25 > 0) { idx = acc + 1; }
+count = 2.0 - 1;
+return idx;
+// fastpath fastpath slowpath value
+int buffer = 2;
+acc = "a b c";
+int count = 10;
+return tmp;
+for value ;
+int node = 1.25;
+while (2) { acc = value + 1; }
+if (0 > 2) { buffer = 0.5 != acc; }
+if (count - 42) { value = buffer + node; }
+if (1 + 100) { acc = idx <= tmp; }
+while (count + 1.25) { acc = acc + 1; }
+return buffer ;
+return 0;
+int acc = 10;
+return tmp;
+int buffer = 10;
+tmp = 2.0 < 1;
+acc = tmp + 0;
+int tmp = 0.5;
+// note slowpath note value
+value = "beta";
+while (1 == idx) { buffer = idx + 1; }
+int acc = 1;
+acc = 2 == 0.5;
+node = "beta";
+if (1) { buffer = 100 > 1.25; }
+tmp = acc < 3.14;
+value = "path\\tmp";
+while (idx) { tmp = buffer + 1; }
+if (3.14 == value) { idx = 1.25 != count; }
+buffer = node < 0;
+if count ;
+while (3.14 < buffer) { buffer = node + 1; }
+int idx = 0.5;
+if buffer ;
+int acc = 42;
+idx = count * 1.25;
+for count ;
+while value ;
+acc = node >= count;
+while idx ;
+if acc ;
+if (value / node) { value = idx < value; }
+return acc;
+tmp = 0.5 < 0.5;
+return "gamma";
+idx = count;
+if (3.14) { count = 10 > 1.25; }
+idx = value == 2;
+node = "gamma";
+for tmp ;
+buffer = 2 == acc;
+// check fastpath note note
+acc = tmp * 0.5;
+return idx;
+tmp = "alpha";
+return node;
+buffer = tmp != 2;
+acc = "beta";
+count = acc * 100;
+node = 0 < 0;
+while (idx) { count = node + 1; }
+idx = 0.5;
+return buffer ;
+int idx = 42;
+return node ;
+if (acc) { buffer = 42 * 100; }
+while (1 * 42) { node = node + 1; }
+buffer = "delta";
+for idx ;
+for idx ;
+int count = 0;
+count = node;
+if (100 - 3.14) { value = 0.5; }
+idx = 3.14 - buffer;
+return 42;
+return 100;
+int node = 2;
+while (tmp / 1) { acc = acc + 1; }
+value = 1.25;
+while (2.0 + value) { acc = acc + 1; }
+while (idx == 42) { value = count + 1; }
+for count ;
+while acc ;
+int tmp = 1;
+return "delta";
+int count = 1.25;
+while (1.25 == 0) { count = acc + 1; }
+buffer = "alpha";
+int tmp = 2;
+return 42;
+return node;
+node = 2 / acc;
+while (3.14 - 2.0) { node = buffer + 1; }
+acc = 10 != 2;
+node = "gamma";
+while (3.14 >= 3.14) { idx = acc + 1; }
+buffer = 1.25 <= 1;
+int idx ;
+int idx = 42;
+if idx ;
+if (idx - 0) { acc = 1; }
+if (3.14 > acc) { count = 2; }
+idx = 0;
+int buffer = 1.25;
+node = 2.0 <= 0;
+int acc ;
+return 42;
+buffer = 100 + 100;
+idx = "delta";
+while (3.14 * 1.25) { acc = node + 1; }
+if acc ;
+int acc = 100;
+buffer = "a b c";
+if (100 / 1) { tmp = 10; }
+int buffer = 2;
+if (3.14 == acc) { idx = 42 * value; }
+if (value > count) { buffer = tmp != 3.14; }
+// check todo note value
+if (42) { acc = node == 2.0; }
+while (acc >= 0.5) { acc = count + 1; }
+node = 1.25 <= buffer;
+int tmp = 42;
+for node ;
+count = 0.5 / 2.0;
+// todo value note slowpath
+// note value note todo
+while (2.0 != 10) { buffer = value + 1; }
+while (1.25) { acc = count + 1; }
+node = "a b c";
+acc = tmp;
+idx = "alpha";
+if (100) { node = buffer != idx; }
+acc = "gamma";
+acc = 2.0 < 2;
+if (0.5) { acc = 0 != 2.0; }
+int buffer = 42;
+while (42 * 0) { tmp = count + 1; }
+int node = 3.14;
+value = count;
+if (10 >= count) { idx = 42 <= idx; }
+return node ;
+if (count <= value) { node = node == 1.25; }
+// check todo value note
+if (value) { node = value; }
+return 100;
+while (idx) { value = buffer + 1; }
+count = "beta";
+int node = 100;
+if (10 + count) { buffer = 100; }
+value = "alpha";
+for idx ;
+while (2.0 + 42) { tmp = idx + 1; }
+while (tmp == 3.14) { count = idx + 1; }
+while (node + buffer) { value = count + 1; }
+node = 0;
+while (count != acc) { count = tmp + 1; }
+// slowpath slowpath value note
+count = 2.0 > acc;
+// value fastpath check slowpath
+for value ;
+// slowpath check check fastpath
+if (tmp) { idx = value; }
+while (2 > 1) { value = acc + 1; }
+if (tmp - 100) { value = 2 >= 2; }
+count = 0;
+idx = "path\\tmp";
+return node ;
+return 0;
+}

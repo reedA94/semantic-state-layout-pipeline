@@ -1,0 +1,48 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::LITERAL::rb1": 1701,
+    "ACC::NUMBER::rb1": 16190,
+    "ACC::PUNCT::rb0": 19796,
+    "ACC::STRING::rb0": 7102,
+    "ACC::WHITESPACE::rb0": 33888,
+    "DEAD": 45575,
+    "NONACC::LITERAL_PREFIX": 5846,
+    "NONACC::NUMBER_PREFIX": 4656,
+    "NONACC::STRING_BODY": 78055,
+    "NONACC::STRING_ESCAPE": 2002
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 214811,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

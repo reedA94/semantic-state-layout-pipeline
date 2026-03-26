@@ -1,0 +1,150 @@
+{
+  "benchmark_family": "Synthetic token-trie (high)",
+  "benchmark_id": "BM_SYN_S",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_0",
+                  "name": "LEAF::NONACC::PREFIX_0"
+                }
+              ],
+              "name": "PREFIX_0"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_1",
+                  "name": "LEAF::NONACC::PREFIX_1"
+                }
+              ],
+              "name": "PREFIX_1"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_2",
+                  "name": "LEAF::NONACC::PREFIX_2"
+                }
+              ],
+              "name": "PREFIX_2"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_3",
+                  "name": "LEAF::NONACC::PREFIX_3"
+                }
+              ],
+              "name": "PREFIX_3"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_4",
+                  "name": "LEAF::NONACC::PREFIX_4"
+                }
+              ],
+              "name": "PREFIX_4"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL",
+                              "name": "LEAF::ACC::OPERATIONAL"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 7,
+    "unique_internal_nodes": 7
+  },
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 33,
+  "num_accepting_states_rb": 31,
+  "num_accepting_states_total": 64,
+  "num_token_families_with_rb_split": 3,
+  "opt_level": "-Os",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 15557,
+    "DEAD": 11297,
+    "NONACC::PREFIX_0": 7697,
+    "NONACC::PREFIX_1": 14846,
+    "NONACC::PREFIX_2": 11911,
+    "NONACC::PREFIX_3": 11044,
+    "NONACC::PREFIX_4": 7069
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 79421,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 801,
+  "semantic_label_mode": "operational_rb_off"
+}

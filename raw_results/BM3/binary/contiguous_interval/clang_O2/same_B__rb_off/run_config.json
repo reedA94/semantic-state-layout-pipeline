@@ -1,0 +1,37 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACCEPTING": 48283,
+    "NONACC_OR_DEAD": 51561
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 99844,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "binary"
+}

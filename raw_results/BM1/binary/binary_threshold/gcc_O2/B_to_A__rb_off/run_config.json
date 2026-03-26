@@ -1,0 +1,41 @@
+{
+  "benchmark_family": "Small C-like lexer",
+  "benchmark_id": "BM1",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {
+    "accept_threshold": 2,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 12,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 15,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACCEPTING": 70004,
+    "NONACC_OR_DEAD": 32320
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 102324,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "binary"
+}

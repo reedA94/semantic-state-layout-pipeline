@@ -1,0 +1,167 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 5.998981758041026,
+  "avg_semantic_comparisons_per_visited_state": 2.2499114708339794,
+  "benchmark_family": "Small C-like lexer",
+  "benchmark_id": "BM1",
+  "binary_size_bytes": 29560,
+  "branch_misses": null,
+  "branch_sites": 3,
+  "branches": null,
+  "bytes_per_second_aggregate": 189209642.84638166,
+  "classifier_instruction_count": 1,
+  "classifier_kind": "hierarchical_dag",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.8829388759746215,
+  "classifier_source_bytes": 1294,
+  "classifier_total_intervals": 4,
+  "classifier_trace_ns_total": 75119323,
+  "classify_calls_total": 432061,
+  "compare_sites": 3,
+  "comparison_sites": 3,
+  "comparisons_per_state_visit": 2.301454417690716,
+  "compile_failed": false,
+  "compiled_instruction_count": 1,
+  "compiler": "clang",
+  "compiler_id": "clang_Os",
+  "completed": true,
+  "cycles": null,
+  "dag_shared_internal_nodes": 0,
+  "dag_unique_internal_nodes": 3,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 4,
+  "emitted_tokens_total": 162044,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.5700726820068481,
+  "estimated_transition_share_of_full_scan": 0.4382713806842273,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 2.301454417690716,
+  "frequency_source": "profile uniform",
+  "full_scan_ns_total": 1427089,
+  "generated_classifier_source_size_bytes": 1294,
+  "generated_scanner_source_size_bytes": 28256,
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "input_bytes_total": 270019,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb1",
+                              "name": "LEAF::ACC::OPERATIONAL::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        },
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb0",
+                              "name": "LEAF::ACC::OPERATIONAL::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 3,
+    "unique_internal_nodes": 3
+  },
+  "leaf_count": 4,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 2.823529411764706,
+  "mean_input_bytes": 135009.5,
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 12,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 15,
+  "num_inputs": 2,
+  "num_intervals_total": 4,
+  "num_semantic_classes": 4,
+  "num_states": 17,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "perf_available": false,
+  "profile_condition": "uniform",
+  "profile_input_bytes": 150018,
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 230539,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.650727208845358,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 4,
+  "semantic_class_count_under_layout": 4,
+  "semantic_comparisons_total": 972099,
+  "semantic_label_mode": "operational_rb_on",
+  "status": "completed",
+  "throughput_bytes_per_sec": 189209642.84638166,
+  "tokens_per_second_aggregate": 113548629.4127416,
+  "transition_calls_total": 432061,
+  "transition_instruction_count": 6,
+  "transition_ns_per_call": 1.4476017654666198,
+  "transition_trace_ns_total": 57751670,
+  "worst_case_depth": 3,
+  "worst_case_dispatch_depth": 3
+}

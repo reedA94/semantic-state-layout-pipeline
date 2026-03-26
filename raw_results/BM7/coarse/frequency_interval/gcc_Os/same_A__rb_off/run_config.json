@@ -1,0 +1,52 @@
+{
+  "benchmark_family": "INI-like lexer",
+  "benchmark_id": "BM7",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::COMMENT": 12544,
+      "ACC::IDENT": 23325,
+      "ACC::PUNCT": 5201,
+      "ACC::VALUE": 25044,
+      "ACC::WHITESPACE": 8891,
+      "DEAD": 19305
+    },
+    "profile_source": "A"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 7,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 10,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::COMMENT": 12544,
+    "ACC::IDENT": 23325,
+    "ACC::PUNCT": 5201,
+    "ACC::VALUE": 25044,
+    "ACC::WHITESPACE": 8891,
+    "DEAD": 19305
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 94310,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

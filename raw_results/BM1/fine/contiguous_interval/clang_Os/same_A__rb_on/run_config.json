@@ -1,0 +1,51 @@
+{
+  "benchmark_family": "Small C-like lexer",
+  "benchmark_id": "BM1",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 12,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 15,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::DELIM::tok=COMMA::aux=DELIM::prio0::rb0": 1718,
+    "ACC::DELIM::tok=LBRACE::aux=DELIM::prio0::rb0": 1,
+    "ACC::DELIM::tok=LPAR::aux=DELIM::prio0::rb0": 1718,
+    "ACC::DELIM::tok=RBRACE::aux=DELIM::prio0::rb0": 1,
+    "ACC::DELIM::tok=RPAR::aux=DELIM::prio0::rb0": 1718,
+    "ACC::DELIM::tok=SEMI::aux=DELIM::prio0::rb0": 5145,
+    "ACC::IDENT::tok=IDENT::aux=WORD::prio0::rb1": 37057,
+    "ACC::NUMBER::tok=INT::aux=NUMBER::prio0::rb1": 6533,
+    "ACC::OPERATOR::tok=ASSIGN::aux=OP::prio0::rb1": 4011,
+    "ACC::OPERATOR::tok=EQEQ::aux=OP::prio0::rb0": 285,
+    "ACC::OPERATOR::tok=MINUS::aux=OP::prio0::rb0": 328,
+    "ACC::OPERATOR::tok=PLUS::aux=OP::prio0::rb0": 274,
+    "ACC::OPERATOR::tok=SLASH::aux=OP::prio0::rb0": 277,
+    "ACC::OPERATOR::tok=STAR::aux=OP::prio0::rb0": 289,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0": 20659,
+    "DEAD": 48180
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 128194,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

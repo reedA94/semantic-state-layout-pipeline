@@ -1,0 +1,63 @@
+{
+  "benchmark_family": "Synthetic token-trie (high)",
+  "benchmark_id": "BM_SYN_S",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "NONACC_OR_DEAD",
+              "name": "LEAF::NONACC_OR_DEAD"
+            }
+          ],
+          "name": "NONACC_OR_DEAD"
+        },
+        {
+          "children": [
+            {
+              "class_name": "ACCEPTING",
+              "name": "LEAF::ACCEPTING"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 33,
+  "num_accepting_states_rb": 31,
+  "num_accepting_states_total": 64,
+  "num_token_families_with_rb_split": 3,
+  "opt_level": "-Os",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACCEPTING": 16169,
+    "NONACC_OR_DEAD": 63084
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 79253,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 801,
+  "semantic_label_mode": "binary"
+}

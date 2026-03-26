@@ -1,0 +1,66 @@
+{
+  "benchmark_family": "Synthetic token-trie (medium)",
+  "benchmark_id": "BM_SYN_M",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "binary",
+  "granularity_normalized": "binary",
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "NONACC_OR_DEAD",
+              "name": "LEAF::NONACC_OR_DEAD"
+            }
+          ],
+          "name": "NONACC_OR_DEAD"
+        },
+        {
+          "children": [
+            {
+              "class_name": "ACCEPTING",
+              "name": "LEAF::ACCEPTING"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 1,
+    "unique_internal_nodes": 1
+  },
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 90,
+  "num_accepting_states_rb": 81,
+  "num_accepting_states_total": 171,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACCEPTING": 18172,
+    "NONACC_OR_DEAD": 59971
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 78143,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 802,
+  "semantic_label_mode": "binary"
+}

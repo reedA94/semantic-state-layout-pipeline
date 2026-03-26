@@ -1,0 +1,18 @@
+{
+  "name": "rollback_smoke",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1"],
+  "granularities": ["operational", "fine"],
+  "rollback_split_conditions": ["off", "on"],
+  "predicate_suite": "full",
+  "methods": ["B1", "B4", "B5_DAG"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O2"}
+  ],
+  "perf": {"enabled": false}
+}

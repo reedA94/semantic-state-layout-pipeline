@@ -1,0 +1,55 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O3"
+  },
+  "compiler_id": "gcc_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::LITERAL::tok=FALSE::aux=LITERAL_PREFIX::prio1::rb1": 589,
+    "ACC::LITERAL::tok=NULL::aux=LITERAL_PREFIX::prio1::rb1": 543,
+    "ACC::LITERAL::tok=TRUE::aux=LITERAL_PREFIX::prio1::rb1": 569,
+    "ACC::NUMBER::tok=NUMBER::aux=NUMBER::prio0::rb1": 16190,
+    "ACC::PUNCT::tok=COLON::aux=PUNCT::prio0::rb0": 5341,
+    "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0::rb0": 6576,
+    "ACC::PUNCT::tok=LBRACE::aux=PUNCT::prio0::rb0": 2167,
+    "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0::rb0": 1778,
+    "ACC::PUNCT::tok=RBRACE::aux=PUNCT::prio0::rb0": 2158,
+    "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0::rb0": 1776,
+    "ACC::STRING::tok=STRING::aux=STRING::prio0::rb0": 7102,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0": 33888,
+    "DEAD": 45575,
+    "NONACC::LITERAL_PREFIX": 5846,
+    "NONACC::NUMBER_PREFIX": 4656,
+    "NONACC::STRING_BODY": 78055,
+    "NONACC::STRING_ESCAPE": 2002
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 214811,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

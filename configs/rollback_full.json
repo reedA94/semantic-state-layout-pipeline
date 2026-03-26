@@ -1,0 +1,27 @@
+{
+  "name": "rollback_full",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1", "BM2", "BM3", "BM4", "BM5", "BM6", "BM7", "BM_SYN_S", "BM_SYN_M", "BM_SYN_L"],
+  "granularities": ["binary", "coarse", "operational", "fine"],
+  "rollback_split_conditions": ["off", "on"],
+  "predicate_suite": "full",
+  "methods": ["B1", "B2", "B3", "B4", "B5_TREE", "B5_DAG"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"},
+    {"name": "same_B", "profile_source": "B", "eval_group": "B"},
+    {"name": "A_to_B", "profile_source": "A", "eval_group": "B"},
+    {"name": "B_to_A", "profile_source": "B", "eval_group": "A"},
+    {"name": "uniform", "profile_source": "uniform", "eval_group": "A"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O2"},
+    {"cc": "gcc", "opt": "-O3"},
+    {"cc": "gcc", "opt": "-Os"},
+    {"cc": "clang", "opt": "-O2"},
+    {"cc": "clang", "opt": "-O3"},
+    {"cc": "clang", "opt": "-Os"}
+  ],
+  "perf": {"enabled": true}
+}

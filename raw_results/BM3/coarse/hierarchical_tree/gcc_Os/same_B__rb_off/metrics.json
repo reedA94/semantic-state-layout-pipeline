@@ -1,0 +1,285 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 20.769232009805503,
+  "avg_semantic_comparisons_per_visited_state": 4.052950766015837,
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "binary_size_bytes": 37640,
+  "branch_misses": null,
+  "branch_sites": 10,
+  "branches": null,
+  "bytes_per_second_aggregate": 218764675.5406373,
+  "classifier_instruction_count": 33,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.9337341201121592,
+  "classifier_source_bytes": 2195,
+  "classifier_total_intervals": 11,
+  "classifier_trace_ns_total": 77115499,
+  "classify_calls_total": 317748,
+  "compare_sites": 10,
+  "comparison_sites": 10,
+  "comparisons_per_state_visit": 4.055777012138937,
+  "compile_failed": false,
+  "compiled_instruction_count": 33,
+  "compiler": "gcc",
+  "compiler_id": "gcc_Os",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 11,
+  "emitted_tokens_total": 62006,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.5255951259005475,
+  "estimated_transition_share_of_full_scan": 0.16817210827040233,
+  "eval_group": "B",
+  "eval_source": "B",
+  "expected_depth": 4.055777012138937,
+  "frequency_source": "profile B",
+  "full_scan_ns_total": 1169037,
+  "generated_classifier_source_size_bytes": 2195,
+  "generated_scanner_source_size_bytes": 41398,
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "input_bytes_total": 255744,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::LITERAL_PREFIX",
+                  "name": "LEAF::NONACC::LITERAL_PREFIX"
+                }
+              ],
+              "name": "LITERAL_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::LITERAL",
+                              "name": "LEAF::ACC::LITERAL"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "LITERAL"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER",
+                              "name": "LEAF::ACC::NUMBER"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT",
+                              "name": "LEAF::ACC::PUNCT"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING",
+                              "name": "LEAF::ACC::STRING"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE",
+                              "name": "LEAF::ACC::WHITESPACE"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 11,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 4.033333333333333,
+  "mean_input_bytes": 127872,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_inputs": 2,
+  "num_intervals_total": 11,
+  "num_semantic_classes": 11,
+  "num_states": 30,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "perf_available": false,
+  "profile_condition": "same_B",
+  "profile_input_bytes": 80382,
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 99844,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.4835843916509754,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 11,
+  "semantic_class_count_under_layout": 11,
+  "semantic_comparisons_total": 1287817,
+  "semantic_label_mode": "coarse",
+  "status": "completed",
+  "throughput_bytes_per_sec": 218764675.5406373,
+  "tokens_per_second_aggregate": 53040237.391973056,
+  "transition_calls_total": 317748,
+  "transition_instruction_count": 7,
+  "transition_ns_per_call": 0.6187274725131435,
+  "transition_trace_ns_total": 24674270,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

@@ -1,0 +1,299 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NAME::tok=NAME::aux=NAME::prio0::rb1",
+                              "name": "LEAF::ACC::NAME::tok=NAME::aux=NAME::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NAME"
+                }
+              ],
+              "name": "NAME"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::tok=ATTR_STRING::aux=STRING::prio0::rb0",
+                              "name": "LEAF::ACC::STRING::tok=ATTR_STRING::aux=STRING::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "ATTR_STRING"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::tok=EQ::aux=TAG::prio0::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::tok=EQ::aux=TAG::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "EQ"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::tok=GT::aux=TAG::prio0::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::tok=GT::aux=TAG::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "GT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::tok=LT::aux=TAG::prio0::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::tok=LT::aux=TAG::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::tok=LT_SLASH::aux=TAG::prio0::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::tok=LT_SLASH::aux=TAG::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LT_SLASH"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::tok=SLASH_GT::aux=TAG::prio0::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::tok=SLASH_GT::aux=TAG::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "SLASH_GT"
+                }
+              ],
+              "name": "TAG_PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TEXT::tok=TEXT::aux=TEXT::prio0::rb0",
+                              "name": "LEAF::ACC::TEXT::tok=TEXT::aux=TEXT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "TEXT"
+                }
+              ],
+              "name": "TEXT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0",
+                              "name": "LEAF::ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "WS"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 12,
+    "unique_internal_nodes": 12
+  },
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::NAME::tok=NAME::aux=NAME::prio0::rb1": 32983,
+    "ACC::STRING::tok=ATTR_STRING::aux=STRING::prio0::rb0": 1326,
+    "ACC::TAG_PUNCT::tok=EQ::aux=TAG::prio0::rb0": 1305,
+    "ACC::TAG_PUNCT::tok=GT::aux=TAG::prio0::rb0": 3530,
+    "ACC::TAG_PUNCT::tok=LT::aux=TAG::prio0::rb0": 6624,
+    "ACC::TAG_PUNCT::tok=LT_SLASH::aux=TAG::prio0::rb0": 2845,
+    "ACC::TAG_PUNCT::tok=SLASH_GT::aux=TAG::prio0::rb0": 458,
+    "ACC::TEXT::tok=TEXT::aux=TEXT::prio0::rb0": 89543,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0": 5079,
+    "DEAD": 15281,
+    "NONACC::STRING_BODY": 11551
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 170525,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

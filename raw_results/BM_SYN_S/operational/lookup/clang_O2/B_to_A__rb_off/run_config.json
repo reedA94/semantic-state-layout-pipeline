@@ -1,0 +1,45 @@
+{
+  "benchmark_family": "Synthetic token-trie (high)",
+  "benchmark_id": "BM_SYN_S",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 33,
+  "num_accepting_states_rb": 31,
+  "num_accepting_states_total": 64,
+  "num_token_families_with_rb_split": 3,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 16169,
+    "DEAD": 11058,
+    "NONACC::PREFIX_0": 7279,
+    "NONACC::PREFIX_1": 15592,
+    "NONACC::PREFIX_2": 12002,
+    "NONACC::PREFIX_3": 9148,
+    "NONACC::PREFIX_4": 8005
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 79253,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 801,
+  "semantic_label_mode": "operational_rb_off"
+}

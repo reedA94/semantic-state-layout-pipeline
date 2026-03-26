@@ -1,0 +1,45 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "accept_threshold": 4,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::NAME": 18485,
+    "ACC::STRING": 1328,
+    "ACC::TAG_PUNCT": 7559,
+    "ACC::TEXT": 31296,
+    "DEAD": 4712,
+    "NONACC::STRING_BODY": 11356
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 74736,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

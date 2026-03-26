@@ -1,0 +1,58 @@
+{
+  "compilers": {
+    "clang_O2": {
+      "available": true,
+      "cc": "clang",
+      "opt": "-O2",
+      "path": "/usr/bin/clang",
+      "version": "Ubuntu clang version 18.1.3 (1ubuntu1)"
+    },
+    "clang_O3": {
+      "available": true,
+      "cc": "clang",
+      "opt": "-O3",
+      "path": "/usr/bin/clang",
+      "version": "Ubuntu clang version 18.1.3 (1ubuntu1)"
+    },
+    "clang_Os": {
+      "available": true,
+      "cc": "clang",
+      "opt": "-Os",
+      "path": "/usr/bin/clang",
+      "version": "Ubuntu clang version 18.1.3 (1ubuntu1)"
+    },
+    "gcc_O2": {
+      "available": true,
+      "cc": "gcc",
+      "opt": "-O2",
+      "path": "/usr/bin/gcc",
+      "version": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0"
+    },
+    "gcc_O3": {
+      "available": true,
+      "cc": "gcc",
+      "opt": "-O3",
+      "path": "/usr/bin/gcc",
+      "version": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0"
+    },
+    "gcc_Os": {
+      "available": true,
+      "cc": "gcc",
+      "opt": "-Os",
+      "path": "/usr/bin/gcc",
+      "version": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0"
+    }
+  },
+  "objdump": {
+    "available": true,
+    "path": "/usr/bin/objdump",
+    "version": "GNU objdump (GNU Binutils for Ubuntu) 2.42"
+  },
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "perf": {
+    "available": true,
+    "path": "/usr/bin/perf"
+  },
+  "python": "3.12.3 (main, Mar  3 2026, 12:15:18) [GCC 13.3.0]",
+  "uname": "Linux GLaptop 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux"
+}

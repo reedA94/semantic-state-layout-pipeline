@@ -1,0 +1,54 @@
+{
+  "benchmark_family": "Synthetic token-trie (medium)",
+  "benchmark_id": "BM_SYN_M",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O3"
+  },
+  "compiler_id": "gcc_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::OPERATIONAL": 15966,
+      "DEAD": 10115,
+      "NONACC::PREFIX_0": 7283,
+      "NONACC::PREFIX_1": 15904,
+      "NONACC::PREFIX_2": 12265,
+      "NONACC::PREFIX_3": 9886,
+      "NONACC::PREFIX_4": 7012
+    },
+    "profile_source": "B"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 90,
+  "num_accepting_states_rb": 81,
+  "num_accepting_states_total": 171,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 15966,
+    "DEAD": 10115,
+    "NONACC::PREFIX_0": 7283,
+    "NONACC::PREFIX_1": 15904,
+    "NONACC::PREFIX_2": 12265,
+    "NONACC::PREFIX_3": 9886,
+    "NONACC::PREFIX_4": 7012
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 78431,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 802,
+  "semantic_label_mode": "operational_rb_off"
+}

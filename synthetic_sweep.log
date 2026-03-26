@@ -1,0 +1,121 @@
+2026-03-26 17:24:57,565 | INFO | perf availability: False (WARNING: perf not found for kernel 6.6.87.2-microsoft
+
+  You may need to install the following packages for this specific kernel:
+    linux-tools-6.6.87.2-microsoft-standard-WSL2
+    linux-cloud-tools-6.6.87.2-microsoft-standard-WSL2
+
+  You may also want to install one of the following packages to keep up to date:
+    linux-tools-standard-WSL2
+    linux-cloud-tools-standard-WSL2)
+2026-03-26 17:24:57,565 | INFO | Preparing benchmark BM_SYN_S
+2026-03-26 17:24:57,590 | INFO | Running BM_SYN_S | binary | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:58,225 | INFO | Running BM_SYN_S | binary | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:58,720 | INFO | Running BM_SYN_S | binary | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:58,922 | INFO | Running BM_SYN_S | binary | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:59,118 | INFO | Running BM_SYN_S | binary | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:59,313 | INFO | Running BM_SYN_S | binary | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:24:59,535 | INFO | Running BM_SYN_S | binary | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:24:59,732 | INFO | Running BM_SYN_S | binary | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:24:59,930 | INFO | Running BM_SYN_S | binary | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:00,130 | INFO | Running BM_SYN_S | binary | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:00,328 | INFO | Running BM_SYN_S | binary | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:00,531 | INFO | Running BM_SYN_S | binary | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:00,748 | INFO | Running BM_SYN_S | coarse | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:00,955 | INFO | Running BM_SYN_S | coarse | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:01,158 | INFO | Running BM_SYN_S | coarse | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:01,439 | INFO | Running BM_SYN_S | coarse | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:01,716 | INFO | Running BM_SYN_S | coarse | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:01,979 | INFO | Running BM_SYN_S | coarse | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:02,304 | INFO | Running BM_SYN_S | coarse | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:02,729 | INFO | Running BM_SYN_S | coarse | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:03,072 | INFO | Running BM_SYN_S | coarse | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:03,348 | INFO | Running BM_SYN_S | coarse | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:03,626 | INFO | Running BM_SYN_S | coarse | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:03,924 | INFO | Running BM_SYN_S | coarse | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:04,265 | INFO | Running BM_SYN_S | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:04,473 | INFO | Running BM_SYN_S | fine | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:04,674 | INFO | Running BM_SYN_S | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:04,957 | INFO | Running BM_SYN_S | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:05,232 | INFO | Running BM_SYN_S | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:08,506 | INFO | Running BM_SYN_S | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:08,857 | INFO | Running BM_SYN_S | fine | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:09,074 | INFO | Running BM_SYN_S | fine | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:09,295 | INFO | Running BM_SYN_S | fine | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:09,598 | INFO | Running BM_SYN_S | fine | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:09,892 | INFO | Running BM_SYN_S | fine | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:10,553 | INFO | Running BM_SYN_S | fine | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:11,082 | INFO | Preparing benchmark BM_SYN_M
+2026-03-26 17:25:11,124 | INFO | Running BM_SYN_M | binary | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:11,408 | INFO | Running BM_SYN_M | binary | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:11,684 | INFO | Running BM_SYN_M | binary | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:11,959 | INFO | Running BM_SYN_M | binary | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:12,229 | INFO | Running BM_SYN_M | binary | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:12,493 | INFO | Running BM_SYN_M | binary | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:12,782 | INFO | Running BM_SYN_M | binary | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:13,070 | INFO | Running BM_SYN_M | binary | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:13,350 | INFO | Running BM_SYN_M | binary | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:13,616 | INFO | Running BM_SYN_M | binary | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:13,902 | INFO | Running BM_SYN_M | binary | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:14,175 | INFO | Running BM_SYN_M | binary | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:14,463 | INFO | Running BM_SYN_M | coarse | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:14,747 | INFO | Running BM_SYN_M | coarse | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:15,444 | INFO | Running BM_SYN_M | coarse | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:15,919 | INFO | Running BM_SYN_M | coarse | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:16,279 | INFO | Running BM_SYN_M | coarse | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:16,617 | INFO | Running BM_SYN_M | coarse | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:17,001 | INFO | Running BM_SYN_M | coarse | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:17,258 | INFO | Running BM_SYN_M | coarse | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:17,510 | INFO | Running BM_SYN_M | coarse | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:17,845 | INFO | Running BM_SYN_M | coarse | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:18,179 | INFO | Running BM_SYN_M | coarse | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:18,495 | INFO | Running BM_SYN_M | coarse | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:18,877 | INFO | Skipping completed run BM_SYN_M | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:18,897 | INFO | Running BM_SYN_M | fine | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:19,141 | INFO | Skipping completed run BM_SYN_M | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:19,158 | INFO | Skipping completed run BM_SYN_M | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:19,173 | INFO | Skipping completed run BM_SYN_M | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:19,189 | INFO | Skipping completed run BM_SYN_M | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:19,228 | INFO | Running BM_SYN_M | fine | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:19,793 | INFO | Running BM_SYN_M | fine | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:20,264 | INFO | Running BM_SYN_M | fine | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:20,637 | INFO | Running BM_SYN_M | fine | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:20,974 | INFO | Running BM_SYN_M | fine | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:21,292 | INFO | Running BM_SYN_M | fine | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:21,641 | INFO | Preparing benchmark BM_SYN_L
+2026-03-26 17:25:21,719 | INFO | Running BM_SYN_L | binary | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:22,099 | INFO | Running BM_SYN_L | binary | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:22,468 | INFO | Running BM_SYN_L | binary | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:22,915 | INFO | Running BM_SYN_L | binary | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:23,276 | INFO | Running BM_SYN_L | binary | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:23,634 | INFO | Running BM_SYN_L | binary | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:24,349 | INFO | Running BM_SYN_L | binary | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:24,918 | INFO | Running BM_SYN_L | binary | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:25,326 | INFO | Running BM_SYN_L | binary | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:25,707 | INFO | Running BM_SYN_L | binary | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:26,067 | INFO | Running BM_SYN_L | binary | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:26,420 | INFO | Running BM_SYN_L | binary | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:26,818 | INFO | Running BM_SYN_L | coarse | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:27,202 | INFO | Running BM_SYN_L | coarse | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:27,576 | INFO | Running BM_SYN_L | coarse | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:28,058 | INFO | Running BM_SYN_L | coarse | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:28,511 | INFO | Running BM_SYN_L | coarse | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:29,234 | INFO | Running BM_SYN_L | coarse | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:29,747 | INFO | Running BM_SYN_L | coarse | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:30,125 | INFO | Running BM_SYN_L | coarse | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:30,489 | INFO | Running BM_SYN_L | coarse | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:30,958 | INFO | Running BM_SYN_L | coarse | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:31,402 | INFO | Running BM_SYN_L | coarse | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:31,832 | INFO | Running BM_SYN_L | coarse | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:32,344 | INFO | Running BM_SYN_L | fine | B1 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:32,731 | INFO | Running BM_SYN_L | fine | B2 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:33,565 | INFO | Running BM_SYN_L | fine | B3 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:34,099 | INFO | Running BM_SYN_L | fine | B4 | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:34,555 | INFO | Running BM_SYN_L | fine | B5_TREE | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:34,993 | INFO | Running BM_SYN_L | fine | B5_DAG | gcc_O3 | same_A | rb=auto
+2026-03-26 17:25:35,527 | INFO | Running BM_SYN_L | fine | B1 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:35,913 | INFO | Running BM_SYN_L | fine | B2 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:36,286 | INFO | Running BM_SYN_L | fine | B3 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:36,830 | INFO | Running BM_SYN_L | fine | B4 | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:37,287 | INFO | Running BM_SYN_L | fine | B5_TREE | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:38,036 | INFO | Running BM_SYN_L | fine | B5_DAG | gcc_O3 | A_to_B | rb=auto
+2026-03-26 17:25:39,093 | INFO | Done. Results written to /home/reda/work/semantic_state_layout_pipeline_modified

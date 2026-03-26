@@ -1,0 +1,55 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::LITERAL::tok=FALSE::aux=LITERAL_PREFIX::prio1": 403,
+    "ACC::LITERAL::tok=NULL::aux=LITERAL_PREFIX::prio1": 389,
+    "ACC::LITERAL::tok=TRUE::aux=LITERAL_PREFIX::prio1": 383,
+    "ACC::NUMBER::tok=NUMBER::aux=NUMBER::prio0": 9665,
+    "ACC::PUNCT::tok=COLON::aux=PUNCT::prio0": 3614,
+    "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0": 4497,
+    "ACC::PUNCT::tok=LBRACE::aux=PUNCT::prio0": 1445,
+    "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0": 1201,
+    "ACC::PUNCT::tok=RBRACE::aux=PUNCT::prio0": 1445,
+    "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0": 1201,
+    "ACC::STRING::tok=STRING::aux=STRING::prio0": 4645,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 983,
+    "DEAD": 23479,
+    "NONACC::LITERAL_PREFIX": 3928,
+    "NONACC::NUMBER_PREFIX": 3132,
+    "NONACC::STRING_BODY": 51728,
+    "NONACC::STRING_ESCAPE": 1356
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 113494,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

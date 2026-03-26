@@ -1,0 +1,267 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 39.27520549992527,
+  "avg_semantic_comparisons_per_visited_state": 4.329017336469844,
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "binary_size_bytes": 29496,
+  "branch_misses": null,
+  "branch_sites": 8,
+  "branches": null,
+  "bytes_per_second_aggregate": 6001533333333.333,
+  "classifier_instruction_count": 26,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.6054207766643847,
+  "classifier_source_bytes": 1750,
+  "classifier_total_intervals": 9,
+  "classifier_trace_ns_total": 63994217,
+  "classify_calls_total": 303522,
+  "compare_sites": 8,
+  "comparison_sites": 8,
+  "comparisons_per_state_visit": 4.329349394566786,
+  "compile_failed": false,
+  "compiled_instruction_count": 26,
+  "compiler": "clang",
+  "compiler_id": "clang_O3",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 9,
+  "emitted_tokens_total": 33455,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 10828.456110549498,
+  "estimated_transition_share_of_full_scan": 9871.593661490257,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 4.329349394566786,
+  "frequency_source": "profile A",
+  "full_scan_ns_total": 45,
+  "generated_classifier_source_size_bytes": 1750,
+  "generated_scanner_source_size_bytes": 25243,
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "input_bytes_total": 270069,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NAME::rb1",
+                              "name": "LEAF::ACC::NAME::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NAME"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::rb0",
+                              "name": "LEAF::ACC::STRING::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TAG_PUNCT::rb0",
+                              "name": "LEAF::ACC::TAG_PUNCT::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "TAG_PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::TEXT::rb0",
+                              "name": "LEAF::ACC::TEXT::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "TEXT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::rb0",
+                              "name": "LEAF::ACC::WHITESPACE::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 9,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 3.8461538461538463,
+  "mean_input_bytes": 135034.5,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_inputs": 2,
+  "num_intervals_total": 9,
+  "num_semantic_classes": 9,
+  "num_states": 13,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "perf_available": false,
+  "profile_condition": "same_A",
+  "profile_input_bytes": 85055,
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 95634,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.889380345902085,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 9,
+  "semantic_class_count_under_layout": 9,
+  "semantic_comparisons_total": 1313952,
+  "semantic_label_mode": "coarse",
+  "status": "completed",
+  "throughput_bytes_per_sec": 6001533333333.333,
+  "tokens_per_second_aggregate": 743444444444.4445,
+  "transition_calls_total": 303522,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 1.463556891319448,
+  "transition_trace_ns_total": 58339333,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

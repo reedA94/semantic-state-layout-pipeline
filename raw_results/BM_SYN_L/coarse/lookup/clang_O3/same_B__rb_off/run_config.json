@@ -1,0 +1,54 @@
+{
+  "benchmark_family": "Synthetic token-trie (low)",
+  "benchmark_id": "BM_SYN_L",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 177,
+  "num_accepting_states_rb": 193,
+  "num_accepting_states_total": 370,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "same_B",
+  "profile_counts": {
+    "ACC::SFAM_0": 1540,
+    "ACC::SFAM_1": 2857,
+    "ACC::SFAM_2": 703,
+    "ACC::SFAM_3": 882,
+    "ACC::SFAM_4": 970,
+    "ACC::SFAM_5": 784,
+    "ACC::SFAM_6": 858,
+    "ACC::SFAM_7": 954,
+    "ACC::SFAM_8": 634,
+    "ACC::SFAM_9": 2055,
+    "DEAD": 9073,
+    "NONACC::PREFIX_0": 8022,
+    "NONACC::PREFIX_1": 14291,
+    "NONACC::PREFIX_2": 14578,
+    "NONACC::PREFIX_3": 10336,
+    "NONACC::PREFIX_4": 9030
+  },
+  "profile_scenario": "same_B",
+  "profile_source": "B",
+  "profile_trace_len": 77567,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 803,
+  "semantic_label_mode": "coarse"
+}

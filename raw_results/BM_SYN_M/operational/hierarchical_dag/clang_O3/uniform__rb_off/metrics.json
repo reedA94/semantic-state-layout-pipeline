@@ -1,0 +1,203 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 34.36607855660227,
+  "avg_semantic_comparisons_per_visited_state": 3.586423944512716,
+  "benchmark_family": "Synthetic token-trie (medium)",
+  "benchmark_id": "BM_SYN_M",
+  "binary_size_bytes": 341000,
+  "branch_misses": null,
+  "branch_sites": 7,
+  "branches": null,
+  "bytes_per_second_aggregate": 4674021739130.435,
+  "classifier_instruction_count": 3,
+  "classifier_kind": "hierarchical_dag",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 2.495801416397982,
+  "classifier_source_bytes": 5906,
+  "classifier_total_intervals": 8,
+  "classifier_trace_ns_total": 99594671,
+  "classify_calls_total": 240055,
+  "compare_sites": 7,
+  "comparison_sites": 7,
+  "comparisons_per_state_visit": 3.6099929244687035,
+  "compile_failed": false,
+  "compiled_instruction_count": 3,
+  "compiler": "clang",
+  "compiler_id": "clang_O3",
+  "completed": true,
+  "cycles": null,
+  "dag_shared_internal_nodes": 0,
+  "dag_unique_internal_nodes": 7,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 8,
+  "emitted_tokens_total": 25052,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 13024.556717682992,
+  "estimated_transition_share_of_full_scan": 7794.383431893528,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 3.6099929244687035,
+  "frequency_source": "profile uniform",
+  "full_scan_ns_total": 46,
+  "generated_classifier_source_size_bytes": 5906,
+  "generated_scanner_source_size_bytes": 584394,
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "input_bytes_total": 215005,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_0",
+                  "name": "LEAF::NONACC::PREFIX_0"
+                }
+              ],
+              "name": "PREFIX_0"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_1",
+                  "name": "LEAF::NONACC::PREFIX_1"
+                }
+              ],
+              "name": "PREFIX_1"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_2",
+                  "name": "LEAF::NONACC::PREFIX_2"
+                }
+              ],
+              "name": "PREFIX_2"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_3",
+                  "name": "LEAF::NONACC::PREFIX_3"
+                }
+              ],
+              "name": "PREFIX_3"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_4",
+                  "name": "LEAF::NONACC::PREFIX_4"
+                }
+              ],
+              "name": "PREFIX_4"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL",
+                              "name": "LEAF::ACC::OPERATIONAL"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 7,
+    "unique_internal_nodes": 7
+  },
+  "leaf_count": 8,
+  "lexical_errors_total": 4965,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 3.8760064412238324,
+  "mean_input_bytes": 107502.5,
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 90,
+  "num_accepting_states_rb": 81,
+  "num_accepting_states_total": 171,
+  "num_inputs": 2,
+  "num_intervals_total": 8,
+  "num_semantic_classes": 8,
+  "num_states": 621,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "perf_available": false,
+  "profile_condition": "uniform",
+  "profile_input_bytes": 140005,
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 158292,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 89,
+  "rollbackacc_predicate_expected_depth": 9.301423950673438,
+  "rollbackacc_predicate_num_intervals": 45,
+  "rollbackacc_predicate_worst_case_depth": 89,
+  "seed": 802,
+  "semantic_class_count_for_dispatch": 8,
+  "semantic_class_count_under_layout": 8,
+  "semantic_comparisons_total": 860939,
+  "semantic_label_mode": "operational_rb_off",
+  "status": "completed",
+  "throughput_bytes_per_sec": 4674021739130.435,
+  "tokens_per_second_aggregate": 544608695652.1739,
+  "transition_calls_total": 240055,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 1.4935812120851566,
+  "transition_trace_ns_total": 59601188,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

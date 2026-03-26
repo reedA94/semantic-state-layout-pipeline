@@ -1,0 +1,12 @@
+$ clang -O2 -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/contiguous_interval/clang_O2/same_A__rb_off/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/contiguous_interval/clang_O2/same_A__rb_off/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/contiguous_interval/clang_O2/same_A__rb_off/generated_scanner.c:27:20: warning: unused variable 'CLASS_NAMES' [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[7] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/contiguous_interval/clang_O2/same_A__rb_off/generated_scanner.c:37:20: warning: unused variable 'TOKEN_NAMES' [-Wunused-variable]
+   37 | static const char *TOKEN_NAMES[39] = {
+      |                    ^~~~~~~~~~~
+2 warnings generated.

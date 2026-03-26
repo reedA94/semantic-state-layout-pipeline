@@ -1,0 +1,44 @@
+{
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::IDENT": 47176,
+    "ACC::NUMBER": 3374,
+    "ACC::OPERATOR": 2184,
+    "ACC::PUNCT": 4896,
+    "ACC::STRING": 1032,
+    "ACC::WHITESPACE": 14199,
+    "DEAD": 33293,
+    "NONACC::KEYWORD_PREFIX": 8212,
+    "NONACC::STRING_BODY": 3967
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 118333,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

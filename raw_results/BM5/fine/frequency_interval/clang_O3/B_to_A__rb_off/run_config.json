@@ -1,0 +1,68 @@
+{
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::IDENT::tok=IDENT::aux=IDENT::prio0": 47176,
+      "ACC::NUMBER::tok=INT::aux=NUMBER::prio0": 3374,
+      "ACC::OPERATOR::tok=EQ::aux=OP::prio0": 1110,
+      "ACC::OPERATOR::tok=GE::aux=OP::prio0": 537,
+      "ACC::OPERATOR::tok=GT::aux=OP::prio0": 537,
+      "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0": 1491,
+      "ACC::PUNCT::tok=LPAR::aux=PUNCT::prio0": 918,
+      "ACC::PUNCT::tok=RPAR::aux=PUNCT::prio0": 918,
+      "ACC::PUNCT::tok=SEMI::aux=PUNCT::prio0": 1569,
+      "ACC::STRING::tok=STRING::aux=STRING::prio0": 1032,
+      "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 14199,
+      "DEAD": 33293,
+      "NONACC::KEYWORD_PREFIX": 8212,
+      "NONACC::STRING_BODY": 3967
+    },
+    "profile_source": "B"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O3",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::IDENT::tok=IDENT::aux=IDENT::prio0": 47176,
+    "ACC::NUMBER::tok=INT::aux=NUMBER::prio0": 3374,
+    "ACC::OPERATOR::tok=EQ::aux=OP::prio0": 1110,
+    "ACC::OPERATOR::tok=GE::aux=OP::prio0": 537,
+    "ACC::OPERATOR::tok=GT::aux=OP::prio0": 537,
+    "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0": 1491,
+    "ACC::PUNCT::tok=LPAR::aux=PUNCT::prio0": 918,
+    "ACC::PUNCT::tok=RPAR::aux=PUNCT::prio0": 918,
+    "ACC::PUNCT::tok=SEMI::aux=PUNCT::prio0": 1569,
+    "ACC::STRING::tok=STRING::aux=STRING::prio0": 1032,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 14199,
+    "DEAD": 33293,
+    "NONACC::KEYWORD_PREFIX": 8212,
+    "NONACC::STRING_BODY": 3967
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 118333,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

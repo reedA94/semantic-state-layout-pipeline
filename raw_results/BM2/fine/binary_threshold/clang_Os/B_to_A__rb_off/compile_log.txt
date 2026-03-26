@@ -1,0 +1,12 @@
+$ clang -Os -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/fine/binary_threshold/clang_Os/B_to_A__rb_off/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/fine/binary_threshold/clang_Os/B_to_A__rb_off/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/fine/binary_threshold/clang_Os/B_to_A__rb_off/generated_scanner.c:27:20: warning: unused variable 'CLASS_NAMES' [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[2] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/fine/binary_threshold/clang_Os/B_to_A__rb_off/generated_scanner.c:32:20: warning: unused variable 'TOKEN_NAMES' [-Wunused-variable]
+   32 | static const char *TOKEN_NAMES[39] = {
+      |                    ^~~~~~~~~~~
+2 warnings generated.

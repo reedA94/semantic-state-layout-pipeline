@@ -1,0 +1,42 @@
+{
+  "benchmark_family": "INI-like lexer",
+  "benchmark_id": "BM7",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "accept_threshold": 4,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 7,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 10,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 139992,
+    "DEAD": 34353,
+    "NONACC::STRING_BODY": 12
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 174357,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "operational_rb_off"
+}

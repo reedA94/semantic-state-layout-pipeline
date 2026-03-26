@@ -1,0 +1,43 @@
+{
+  "benchmark_family": "HTML-like lexer",
+  "benchmark_id": "BM4",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 1,
+  "num_accepting_states_total": 9,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACC::NAME::tok=NAME::aux=NAME::prio0": 14538,
+    "ACC::TAG_PUNCT::tok=GT::aux=TAG::prio0": 1924,
+    "ACC::TAG_PUNCT::tok=LT::aux=TAG::prio0": 3569,
+    "ACC::TAG_PUNCT::tok=LT_SLASH::aux=TAG::prio0": 1540,
+    "ACC::TAG_PUNCT::tok=SLASH_GT::aux=TAG::prio0": 250,
+    "ACC::TEXT::tok=TEXT::aux=TEXT::prio0": 58146,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 5088,
+    "DEAD": 10579
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 95634,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

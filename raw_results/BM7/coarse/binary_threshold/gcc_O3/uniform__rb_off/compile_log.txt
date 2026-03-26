@@ -1,0 +1,11 @@
+$ gcc -O3 -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM7/coarse/binary_threshold/gcc_O3/uniform__rb_off/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM7/coarse/binary_threshold/gcc_O3/uniform__rb_off/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM7/coarse/binary_threshold/gcc_O3/uniform__rb_off/generated_scanner.c:32:20: warning: ‘TOKEN_NAMES’ defined but not used [-Wunused-variable]
+   32 | static const char *TOKEN_NAMES[11] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM7/coarse/binary_threshold/gcc_O3/uniform__rb_off/generated_scanner.c:27:20: warning: ‘CLASS_NAMES’ defined but not used [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[2] = {
+      |                    ^~~~~~~~~~~

@@ -1,0 +1,53 @@
+{
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "accept_threshold": 36,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::IDENT::tok=IDENT::aux=IDENT::prio0": 102019,
+    "ACC::NUMBER::tok=INT::aux=NUMBER::prio0": 7097,
+    "ACC::OPERATOR::tok=EQ::aux=OP::prio0": 2281,
+    "ACC::OPERATOR::tok=GE::aux=OP::prio0": 1145,
+    "ACC::OPERATOR::tok=GT::aux=OP::prio0": 1146,
+    "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0": 3029,
+    "ACC::PUNCT::tok=LPAR::aux=PUNCT::prio0": 1893,
+    "ACC::PUNCT::tok=RPAR::aux=PUNCT::prio0": 1894,
+    "ACC::PUNCT::tok=SEMI::aux=PUNCT::prio0": 3231,
+    "ACC::STRING::tok=STRING::aux=STRING::prio0": 2071,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 29255,
+    "DEAD": 68606,
+    "NONACC::KEYWORD_PREFIX": 11894,
+    "NONACC::STRING_BODY": 8258
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 243819,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

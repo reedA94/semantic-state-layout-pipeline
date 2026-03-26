@@ -1,0 +1,60 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-Os"
+  },
+  "compiler_id": "gcc_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "layout_policy": "class_blocks_sorted_by_profile_frequency",
+    "profile_counts": {
+      "ACC::LITERAL::rb1": 1175,
+      "ACC::NUMBER::rb1": 9665,
+      "ACC::PUNCT::rb0": 13403,
+      "ACC::STRING::rb0": 4645,
+      "ACC::WHITESPACE::rb0": 983,
+      "DEAD": 23479,
+      "NONACC::LITERAL_PREFIX": 3928,
+      "NONACC::NUMBER_PREFIX": 3132,
+      "NONACC::STRING_BODY": 51728,
+      "NONACC::STRING_ESCAPE": 1356
+    },
+    "profile_source": "A"
+  },
+  "method_id": "B4",
+  "method_label": "frequency-aware interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-Os",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACC::LITERAL::rb1": 1175,
+    "ACC::NUMBER::rb1": 9665,
+    "ACC::PUNCT::rb0": 13403,
+    "ACC::STRING::rb0": 4645,
+    "ACC::WHITESPACE::rb0": 983,
+    "DEAD": 23479,
+    "NONACC::LITERAL_PREFIX": 3928,
+    "NONACC::NUMBER_PREFIX": 3132,
+    "NONACC::STRING_BODY": 51728,
+    "NONACC::STRING_ESCAPE": 1356
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 113494,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

@@ -1,0 +1,51 @@
+{
+  "benchmark_family": "Richer C-like lexer",
+  "benchmark_id": "BM2",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "accept_threshold": 18,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 21,
+  "num_accepting_states_rb": 17,
+  "num_accepting_states_total": 38,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::COMMENT": 17095,
+    "ACC::DELIM": 17025,
+    "ACC::IDENT": 70190,
+    "ACC::NUMBER": 14502,
+    "ACC::OPERATOR": 12851,
+    "ACC::STRING": 1137,
+    "ACC::WHITESPACE": 40193,
+    "DEAD": 95364,
+    "NONACC::KEYWORD_PREFIX": 7233,
+    "NONACC::NUMBER_PREFIX": 2482,
+    "NONACC::STRING_BODY": 7531,
+    "NONACC::STRING_ESCAPE": 181
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 285784,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

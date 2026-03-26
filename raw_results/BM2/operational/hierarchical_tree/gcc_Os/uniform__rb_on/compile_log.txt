@@ -1,0 +1,11 @@
+$ gcc -Os -std=c11 -Wall -Wextra -pedantic -o /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/hierarchical_tree/gcc_Os/uniform__rb_on/scanner_bench /home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/hierarchical_tree/gcc_Os/uniform__rb_on/generated_scanner.c
+
+STDOUT:
+
+STDERR:
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/hierarchical_tree/gcc_Os/uniform__rb_on/generated_scanner.c:38:20: warning: ‘TOKEN_NAMES’ defined but not used [-Wunused-variable]
+   38 | static const char *TOKEN_NAMES[39] = {
+      |                    ^~~~~~~~~~~
+/home/reda/work/semantic_state_layout_pipeline_modified/raw_results/BM2/operational/hierarchical_tree/gcc_Os/uniform__rb_on/generated_scanner.c:27:20: warning: ‘CLASS_NAMES’ defined but not used [-Wunused-variable]
+   27 | static const char *CLASS_NAMES[8] = {
+      |                    ^~~~~~~~~~~

@@ -1,0 +1,338 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 12.109021175163317,
+  "avg_semantic_comparisons_per_visited_state": 3.4067192400391275,
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "binary_size_bytes": 58544,
+  "branch_misses": null,
+  "branch_sites": 12,
+  "branches": null,
+  "bytes_per_second_aggregate": 118501332.95864439,
+  "classifier_instruction_count": 1,
+  "classifier_kind": "hierarchical_dag",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 4.598627072015908,
+  "classifier_source_bytes": 3178,
+  "classifier_total_intervals": 13,
+  "classifier_trace_ns_total": 182339601,
+  "classify_calls_total": 396652,
+  "compare_sites": 12,
+  "comparison_sites": 12,
+  "comparisons_per_state_visit": 3.4056864247183123,
+  "compile_failed": false,
+  "compiled_instruction_count": 1,
+  "compiler": "gcc",
+  "compiler_id": "gcc_Os",
+  "completed": true,
+  "cycles": null,
+  "dag_shared_internal_nodes": 0,
+  "dag_unique_internal_nodes": 12,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 13,
+  "emitted_tokens_total": 111593,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.7582689476836093,
+  "estimated_transition_share_of_full_scan": 0.09902452722025434,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 3.4056864247183123,
+  "frequency_source": "profile A",
+  "full_scan_ns_total": 2405551,
+  "generated_classifier_source_size_bytes": 3178,
+  "generated_scanner_source_size_bytes": 77880,
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "input_bytes_total": 285061,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": true,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::KEYWORD_PREFIX",
+                  "name": "LEAF::NONACC::KEYWORD_PREFIX"
+                }
+              ],
+              "name": "KEYWORD_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::IDENT",
+                              "name": "LEAF::ACC::IDENT"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "IDENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD",
+                              "name": "LEAF::ACC::KEYWORD"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "KEYWORD"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER",
+                              "name": "LEAF::ACC::NUMBER"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR",
+                              "name": "LEAF::ACC::OPERATOR"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATOR"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT",
+                              "name": "LEAF::ACC::PUNCT"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING",
+                              "name": "LEAF::ACC::STRING"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE",
+                              "name": "LEAF::ACC::WHITESPACE"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks",
+    "shared_internal_nodes": 0,
+    "total_internal_nodes": 12,
+    "unique_internal_nodes": 12
+  },
+  "leaf_count": 13,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 4.424242424242424,
+  "mean_input_bytes": 142530.5,
+  "method_id": "B5_DAG",
+  "method_label": "hierarchical comparison-DAG encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_inputs": 2,
+  "num_intervals_total": 13,
+  "num_semantic_classes": 13,
+  "num_states": 66,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "perf_available": false,
+  "profile_condition": "same_A",
+  "profile_input_bytes": 90004,
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 125316,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 4,
+  "rollbackacc_predicate_expected_depth": 2.0251763541766414,
+  "rollbackacc_predicate_num_intervals": 2,
+  "rollbackacc_predicate_worst_case_depth": 4,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 13,
+  "semantic_class_count_under_layout": 13,
+  "semantic_comparisons_total": 1351282,
+  "semantic_label_mode": "coarse",
+  "status": "completed",
+  "throughput_bytes_per_sec": 118501332.95864439,
+  "tokens_per_second_aggregate": 46389787.62038302,
+  "transition_calls_total": 396652,
+  "transition_instruction_count": 7,
+  "transition_ns_per_call": 0.6005479626453669,
+  "transition_trace_ns_total": 23812254,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

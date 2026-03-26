@@ -1,0 +1,770 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 12.77813124479134,
+  "avg_semantic_comparisons_per_visited_state": 3.5949648558434095,
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "binary_size_bytes": 54064,
+  "branch_misses": null,
+  "branch_sites": 35,
+  "branches": null,
+  "bytes_per_second_aggregate": 233852648.5733529,
+  "classifier_instruction_count": 114,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.8149197856350117,
+  "classifier_source_bytes": 8529,
+  "classifier_total_intervals": 36,
+  "classifier_trace_ns_total": 71963163,
+  "classify_calls_total": 396652,
+  "compare_sites": 35,
+  "comparison_sites": 35,
+  "comparisons_per_state_visit": 3.596069215278547,
+  "compile_failed": false,
+  "compiled_instruction_count": 114,
+  "compiler": "clang",
+  "compiler_id": "clang_Os",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 36,
+  "emitted_tokens_total": 111593,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 0.590570259169532,
+  "estimated_transition_share_of_full_scan": 0.4916975751958609,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 3.596069215278547,
+  "frequency_source": "profile uniform",
+  "full_scan_ns_total": 1218977,
+  "generated_classifier_source_size_bytes": 8529,
+  "generated_scanner_source_size_bytes": 83226,
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "input_bytes_total": 285061,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::KEYWORD_PREFIX",
+                  "name": "LEAF::NONACC::KEYWORD_PREFIX"
+                }
+              ],
+              "name": "KEYWORD_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::IDENT::tok=IDENT::aux=IDENT::prio0::rb1",
+                              "name": "LEAF::ACC::IDENT::tok=IDENT::aux=IDENT::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "IDENT"
+                }
+              ],
+              "name": "IDENT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_AND::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_AND::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_AND"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_FROM::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_FROM::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_FROM"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_INSERT::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_INSERT::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_INSERT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_INTO::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_INTO::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_INTO"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_OR::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_OR::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_OR"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_SELECT::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_SELECT::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_SELECT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_SET::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_SET::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_SET"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_UPDATE::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_UPDATE::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_UPDATE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_VALUES::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_VALUES::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_VALUES"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::KEYWORD::tok=KW_WHERE::aux=KEYWORD_PREFIX::prio1::rb1",
+                              "name": "LEAF::ACC::KEYWORD::tok=KW_WHERE::aux=KEYWORD_PREFIX::prio1::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "KW_WHERE"
+                }
+              ],
+              "name": "KEYWORD"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER::tok=FLOAT::aux=NUMBER::prio0::rb1",
+                              "name": "LEAF::ACC::NUMBER::tok=FLOAT::aux=NUMBER::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "FLOAT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER::tok=INT::aux=NUMBER::prio0::rb1",
+                              "name": "LEAF::ACC::NUMBER::tok=INT::aux=NUMBER::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "INT"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=EQ::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=EQ::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "EQ"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=GE::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=GE::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "GE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=GT::aux=OP::prio0::rb1",
+                              "name": "LEAF::ACC::OPERATOR::tok=GT::aux=OP::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "GT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=LE::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=LE::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=LT::aux=OP::prio0::rb1",
+                              "name": "LEAF::ACC::OPERATOR::tok=LT::aux=OP::prio0::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=MINUS::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=MINUS::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "MINUS"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=NEQ::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=NEQ::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NEQ"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=PLUS::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=PLUS::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "PLUS"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=SLASH::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=SLASH::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "SLASH"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATOR::tok=STAR::aux=OP::prio0::rb0",
+                              "name": "LEAF::ACC::OPERATOR::tok=STAR::aux=OP::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "STAR"
+                }
+              ],
+              "name": "OPERATOR"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0::rb0",
+                              "name": "LEAF::ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "COMMA"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=DOT::aux=PUNCT::prio0::rb0",
+                              "name": "LEAF::ACC::PUNCT::tok=DOT::aux=PUNCT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "DOT"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=LPAR::aux=PUNCT::prio0::rb0",
+                              "name": "LEAF::ACC::PUNCT::tok=LPAR::aux=PUNCT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LPAR"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=RPAR::aux=PUNCT::prio0::rb0",
+                              "name": "LEAF::ACC::PUNCT::tok=RPAR::aux=PUNCT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "RPAR"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=SEMI::aux=PUNCT::prio0::rb0",
+                              "name": "LEAF::ACC::PUNCT::tok=SEMI::aux=PUNCT::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "SEMI"
+                }
+              ],
+              "name": "PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::tok=STRING::aux=STRING::prio0::rb0",
+                              "name": "LEAF::ACC::STRING::tok=STRING::aux=STRING::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "STRING"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0",
+                              "name": "LEAF::ACC::WHITESPACE::tok=WS::aux=WS::prio0::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "WS"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 36,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 5.666666666666667,
+  "mean_input_bytes": 142530.5,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_inputs": 2,
+  "num_intervals_total": 36,
+  "num_semantic_classes": 36,
+  "num_states": 66,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "perf_available": false,
+  "profile_condition": "uniform",
+  "profile_input_bytes": 175044,
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 243819,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 6,
+  "rollbackacc_predicate_expected_depth": 2.33816888757644,
+  "rollbackacc_predicate_num_intervals": 3,
+  "rollbackacc_predicate_worst_case_depth": 6,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 36,
+  "semantic_class_count_under_layout": 36,
+  "semantic_comparisons_total": 1425950,
+  "semantic_label_mode": "fine",
+  "status": "completed",
+  "throughput_bytes_per_sec": 233852648.5733529,
+  "tokens_per_second_aggregate": 91546436.06893322,
+  "transition_calls_total": 396652,
+  "transition_instruction_count": 6,
+  "transition_ns_per_call": 1.5110677246541677,
+  "transition_trace_ns_total": 59915162,
+  "worst_case_depth": 9,
+  "worst_case_dispatch_depth": 9
+}

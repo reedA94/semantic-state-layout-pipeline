@@ -1,0 +1,207 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 40.85167464114833,
+  "avg_semantic_comparisons_per_visited_state": 3.9786482844320554,
+  "benchmark_family": "Synthetic token-trie (low)",
+  "benchmark_id": "BM_SYN_L",
+  "binary_size_bytes": 725816,
+  "branch_misses": null,
+  "branch_sites": 8,
+  "branches": null,
+  "bytes_per_second_aggregate": 3839339285714.2856,
+  "classifier_instruction_count": 26,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 1.8392997416363566,
+  "classifier_source_bytes": 11123,
+  "classifier_total_intervals": 9,
+  "classifier_trace_ns_total": 73461319,
+  "classify_calls_total": 238201,
+  "compare_sites": 8,
+  "comparison_sites": 8,
+  "comparisons_per_state_visit": 3.873494984354276,
+  "compile_failed": false,
+  "compiled_instruction_count": 26,
+  "compiler": "clang",
+  "compiler_id": "clang_O3",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 9,
+  "emitted_tokens_total": 23199,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 7823.625674241461,
+  "estimated_transition_share_of_full_scan": 6554.416962814081,
+  "eval_group": "B",
+  "eval_source": "B",
+  "expected_depth": 3.873494984354276,
+  "frequency_source": "profile A",
+  "full_scan_ns_total": 56,
+  "generated_classifier_source_size_bytes": 11123,
+  "generated_scanner_source_size_bytes": 1272174,
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "input_bytes_total": 215003,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_0",
+                  "name": "LEAF::NONACC::PREFIX_0"
+                }
+              ],
+              "name": "PREFIX_0"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_1",
+                  "name": "LEAF::NONACC::PREFIX_1"
+                }
+              ],
+              "name": "PREFIX_1"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_2",
+                  "name": "LEAF::NONACC::PREFIX_2"
+                }
+              ],
+              "name": "PREFIX_2"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_3",
+                  "name": "LEAF::NONACC::PREFIX_3"
+                }
+              ],
+              "name": "PREFIX_3"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::PREFIX_4",
+                  "name": "LEAF::NONACC::PREFIX_4"
+                }
+              ],
+              "name": "PREFIX_4"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb1",
+                              "name": "LEAF::ACC::OPERATIONAL::rb1"
+                            }
+                          ],
+                          "name": "rb1"
+                        },
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::OPERATIONAL::rb0",
+                              "name": "LEAF::ACC::OPERATIONAL::rb0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NO_TOKEN"
+                }
+              ],
+              "name": "OPERATIONAL"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 9,
+  "lexical_errors_total": 4596,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 4.138888888888889,
+  "mean_input_bytes": 107501.5,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 177,
+  "num_accepting_states_rb": 193,
+  "num_accepting_states_total": 370,
+  "num_inputs": 2,
+  "num_intervals_total": 9,
+  "num_semantic_classes": 9,
+  "num_states": 1368,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "perf_available": false,
+  "profile_condition": "A_to_B",
+  "profile_input_bytes": 70008,
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 77657,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.2248734821072151,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 803,
+  "semantic_class_count_for_dispatch": 9,
+  "semantic_class_count_under_layout": 9,
+  "semantic_comparisons_total": 947718,
+  "semantic_label_mode": "operational_rb_on",
+  "status": "completed",
+  "throughput_bytes_per_sec": 3839339285714.2856,
+  "tokens_per_second_aggregate": 414267857142.8572,
+  "transition_calls_total": 238201,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 1.5409143954793998,
+  "transition_trace_ns_total": 61543859,
+  "worst_case_depth": 5,
+  "worst_case_dispatch_depth": 5
+}

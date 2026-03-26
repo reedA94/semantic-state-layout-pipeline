@@ -1,0 +1,21 @@
+{
+  "name": "compiler_matrix",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1", "BM4", "BM5", "BM_SYN_M"],
+  "granularities": ["fine"],
+  "methods": ["B1", "B3", "B4", "B5_TREE", "B5_DAG"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O2"},
+    {"cc": "gcc", "opt": "-O3"},
+    {"cc": "gcc", "opt": "-Os"},
+    {"cc": "clang", "opt": "-O2"},
+    {"cc": "clang", "opt": "-O3"},
+    {"cc": "clang", "opt": "-Os"}
+  ],
+  "perf": {"enabled": true}
+}

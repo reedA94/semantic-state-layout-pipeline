@@ -1,0 +1,48 @@
+{
+  "benchmark_family": "INI-like lexer",
+  "benchmark_id": "BM7",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O3"
+  },
+  "compiler_id": "clang_O3",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 7,
+  "num_accepting_states_rb": 3,
+  "num_accepting_states_total": 10,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O3",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::COMMENT::tok=COMMENT::aux=COMMENT::prio0": 24237,
+    "ACC::IDENT::tok=IDENT::aux=IDENT::prio0": 46170,
+    "ACC::PUNCT::tok=EQ::aux=PUNCT::prio0": 7210,
+    "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0": 1503,
+    "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0": 1499,
+    "ACC::STRING::tok=STRING::aux=STRING::prio0": 1,
+    "ACC::VALUE::tok=BARE_VALUE::aux=VALUE::prio0": 45479,
+    "ACC::WHITESPACE::tok=WS::aux=WS::prio0": 13893,
+    "DEAD": 34353,
+    "NONACC::STRING_BODY": 12
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 174357,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "fine"
+}

@@ -1,0 +1,42 @@
+{
+  "benchmark_family": "Synthetic token-trie (low)",
+  "benchmark_id": "BM_SYN_L",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 177,
+  "num_accepting_states_rb": 193,
+  "num_accepting_states_total": 370,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "same_A",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 17463,
+    "DEAD": 9189,
+    "NONACC::PREFIX_0": 5133,
+    "NONACC::PREFIX_1": 13490,
+    "NONACC::PREFIX_2": 13543,
+    "NONACC::PREFIX_3": 10666,
+    "NONACC::PREFIX_4": 8173
+  },
+  "profile_scenario": "same_A",
+  "profile_source": "A",
+  "profile_trace_len": 77657,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 803,
+  "semantic_label_mode": "operational_rb_off"
+}

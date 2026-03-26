@@ -1,0 +1,50 @@
+{
+  "benchmark_family": "Python-like lexer",
+  "benchmark_id": "BM6",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "accept_threshold": 28,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 16,
+  "num_accepting_states_rb": 12,
+  "num_accepting_states_total": 28,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-O2",
+  "profile_condition": "uniform",
+  "profile_counts": {
+    "ACC::COMMENT::rb0": 13988,
+    "ACC::IDENT::rb1": 80928,
+    "ACC::NUMBER::rb1": 3390,
+    "ACC::OPERATOR::rb0": 2005,
+    "ACC::OPERATOR::rb1": 3519,
+    "ACC::PUNCT::rb0": 8060,
+    "ACC::STRING::rb0": 771,
+    "ACC::WHITESPACE::rb0": 22705,
+    "DEAD": 57434,
+    "NONACC::KEYWORD_PREFIX": 10260,
+    "NONACC::STRING_BODY": 4421
+  },
+  "profile_scenario": "uniform",
+  "profile_source": "uniform",
+  "profile_trace_len": 207481,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "on",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

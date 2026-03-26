@@ -1,0 +1,47 @@
+{
+  "benchmark_family": "SQL-like lexer",
+  "benchmark_id": "BM5",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-Os"
+  },
+  "compiler_id": "clang_Os",
+  "eval_group": "B",
+  "eval_inputs": [
+    "B_eval_1",
+    "B_eval_2"
+  ],
+  "eval_source": "B",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {
+    "baseline_seed": 0,
+    "layout_policy": "fixed_random_permutation"
+  },
+  "method_id": "B1",
+  "method_label": "arbitrary numbering + generic lookup dispatch",
+  "num_accepting_states_nonrb": 15,
+  "num_accepting_states_rb": 15,
+  "num_accepting_states_total": 30,
+  "num_token_families_with_rb_split": 1,
+  "opt_level": "-Os",
+  "profile_condition": "A_to_B",
+  "profile_counts": {
+    "ACC::IDENT": 54871,
+    "ACC::NUMBER": 3737,
+    "ACC::OPERATOR": 2392,
+    "ACC::PUNCT": 5155,
+    "ACC::STRING": 1053,
+    "ACC::WHITESPACE": 15079,
+    "DEAD": 35312,
+    "NONACC::KEYWORD_PREFIX": 3674,
+    "NONACC::STRING_BODY": 4043
+  },
+  "profile_scenario": "A_to_B",
+  "profile_source": "A",
+  "profile_trace_len": 125316,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

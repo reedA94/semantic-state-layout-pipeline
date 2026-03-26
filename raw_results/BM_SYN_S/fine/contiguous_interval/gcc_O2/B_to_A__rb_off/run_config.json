@@ -1,0 +1,49 @@
+{
+  "benchmark_family": "Synthetic token-trie (high)",
+  "benchmark_id": "BM_SYN_S",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 33,
+  "num_accepting_states_rb": 31,
+  "num_accepting_states_total": 64,
+  "num_token_families_with_rb_split": 3,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::SFAM_0::tok=TOK_0::aux=AUX_0::prio0": 1280,
+    "ACC::SFAM_0::tok=TOK_3::aux=AUX_0::prio1": 1493,
+    "ACC::SFAM_0::tok=TOK_6::aux=AUX_0::prio0": 1706,
+    "ACC::SFAM_1::tok=TOK_1::aux=AUX_1::prio1": 976,
+    "ACC::SFAM_1::tok=TOK_4::aux=AUX_1::prio0": 1516,
+    "ACC::SFAM_1::tok=TOK_7::aux=AUX_1::prio1": 5466,
+    "ACC::SFAM_2::tok=TOK_2::aux=AUX_2::prio0": 1150,
+    "ACC::SFAM_2::tok=TOK_5::aux=AUX_2::prio1": 2582,
+    "DEAD": 11058,
+    "NONACC::PREFIX_0": 7279,
+    "NONACC::PREFIX_1": 15592,
+    "NONACC::PREFIX_2": 12002,
+    "NONACC::PREFIX_3": 9148,
+    "NONACC::PREFIX_4": 8005
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 79253,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 801,
+  "semantic_label_mode": "fine"
+}

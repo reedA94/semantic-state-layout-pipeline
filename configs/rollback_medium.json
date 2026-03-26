@@ -1,0 +1,19 @@
+{
+  "name": "rollback_medium",
+  "clean": false,
+  "resume": true,
+  "legacy_output_compat": false,
+  "benchmarks": ["BM1", "BM5"],
+  "granularities": ["binary", "coarse", "operational", "fine"],
+  "rollback_split_conditions": ["off", "on"],
+  "predicate_suite": "full",
+  "methods": ["B1", "B2", "B3", "B4", "B5_TREE", "B5_DAG"],
+  "profile_scenarios": [
+    {"name": "same_A", "profile_source": "A", "eval_group": "A"},
+    {"name": "A_to_B", "profile_source": "A", "eval_group": "B"}
+  ],
+  "compilers": [
+    {"cc": "gcc", "opt": "-O3"}
+  ],
+  "perf": {"enabled": false}
+}

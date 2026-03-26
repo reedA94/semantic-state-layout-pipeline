@@ -1,0 +1,45 @@
+{
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "compiler": {
+    "cc": "gcc",
+    "opt": "-O2"
+  },
+  "compiler_id": "gcc_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "coarse",
+  "granularity_normalized": "coarse",
+  "layout_metadata": {},
+  "method_id": "B3",
+  "method_label": "contiguous multi-class interval encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::LITERAL": 588,
+    "ACC::NUMBER": 5163,
+    "ACC::PUNCT": 7069,
+    "ACC::STRING": 2484,
+    "ACC::WHITESPACE": 32979,
+    "DEAD": 19462,
+    "NONACC::LITERAL_PREFIX": 1969,
+    "NONACC::NUMBER_PREFIX": 1638,
+    "NONACC::STRING_BODY": 27734,
+    "NONACC::STRING_ESCAPE": 758
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 99844,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 0,
+  "semantic_label_mode": "coarse"
+}

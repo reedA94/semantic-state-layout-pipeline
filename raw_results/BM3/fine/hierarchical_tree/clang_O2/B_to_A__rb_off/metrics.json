@@ -1,0 +1,418 @@
+{
+  "accept_predicate_comparison_sites": 1,
+  "accept_predicate_expected_depth": 1.0,
+  "accept_predicate_num_intervals": 1,
+  "accept_predicate_worst_case_depth": 1,
+  "avg_semantic_comparisons_per_emitted_token": 20.449937519525147,
+  "avg_semantic_comparisons_per_visited_state": 4.224536551523854,
+  "benchmark_family": "JSON-like lexer",
+  "benchmark_id": "BM3",
+  "binary_size_bytes": 37688,
+  "branch_misses": null,
+  "branch_sites": 17,
+  "branches": null,
+  "bytes_per_second_aggregate": 6277957446808.511,
+  "classifier_instruction_count": 56,
+  "classifier_kind": "hierarchical_tree",
+  "classifier_max_intervals_per_class": 1,
+  "classifier_ns_per_call": 2.0818492187536366,
+  "classifier_source_bytes": 3737,
+  "classifier_total_intervals": 18,
+  "classifier_trace_ns_total": 83188284,
+  "classify_calls_total": 371886,
+  "compare_sites": 17,
+  "comparison_sites": 17,
+  "comparisons_per_state_visit": 4.252203437362285,
+  "compile_failed": false,
+  "compiled_instruction_count": 56,
+  "compiler": "clang",
+  "compiler_id": "clang_O2",
+  "completed": true,
+  "cycles": null,
+  "default_semantic_max_intervals_per_class": 1,
+  "default_semantic_total_intervals_in_layout": 18,
+  "emitted_tokens_total": 76824,
+  "error_message": "",
+  "estimated_classification_share_of_full_scan": 16472.565501391808,
+  "estimated_transition_share_of_full_scan": 11906.371398798665,
+  "eval_group": "A",
+  "eval_source": "A",
+  "expected_depth": 4.252203437362285,
+  "frequency_source": "profile B",
+  "full_scan_ns_total": 47,
+  "generated_classifier_source_size_bytes": 3737,
+  "generated_scanner_source_size_bytes": 42938,
+  "granularity": "fine",
+  "granularity_normalized": "fine",
+  "input_bytes_total": 295064,
+  "instructions": null,
+  "layout_metadata": {
+    "dag_sharing": false,
+    "hierarchy": {
+      "children": [
+        {
+          "children": [
+            {
+              "class_name": "DEAD",
+              "name": "LEAF::DEAD"
+            }
+          ],
+          "name": "DEAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::LITERAL_PREFIX",
+                  "name": "LEAF::NONACC::LITERAL_PREFIX"
+                }
+              ],
+              "name": "LITERAL_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::NUMBER_PREFIX",
+                  "name": "LEAF::NONACC::NUMBER_PREFIX"
+                }
+              ],
+              "name": "NUMBER_PREFIX"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::START",
+                  "name": "LEAF::NONACC::START"
+                }
+              ],
+              "name": "START"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_BODY",
+                  "name": "LEAF::NONACC::STRING_BODY"
+                }
+              ],
+              "name": "STRING_BODY"
+            },
+            {
+              "children": [
+                {
+                  "class_name": "NONACC::STRING_ESCAPE",
+                  "name": "LEAF::NONACC::STRING_ESCAPE"
+                }
+              ],
+              "name": "STRING_ESCAPE"
+            }
+          ],
+          "name": "NONACC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::LITERAL::tok=FALSE::aux=LITERAL_PREFIX::prio1",
+                              "name": "LEAF::ACC::LITERAL::tok=FALSE::aux=LITERAL_PREFIX::prio1"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "FALSE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::LITERAL::tok=NULL::aux=LITERAL_PREFIX::prio1",
+                              "name": "LEAF::ACC::LITERAL::tok=NULL::aux=LITERAL_PREFIX::prio1"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "NULL"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::LITERAL::tok=TRUE::aux=LITERAL_PREFIX::prio1",
+                              "name": "LEAF::ACC::LITERAL::tok=TRUE::aux=LITERAL_PREFIX::prio1"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio1"
+                    }
+                  ],
+                  "name": "TRUE"
+                }
+              ],
+              "name": "LITERAL"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::NUMBER::tok=NUMBER::aux=NUMBER::prio0",
+                              "name": "LEAF::ACC::NUMBER::tok=NUMBER::aux=NUMBER::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "NUMBER"
+                }
+              ],
+              "name": "NUMBER"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=COLON::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=COLON::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "COLON"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=COMMA::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "COMMA"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=LBRACE::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=LBRACE::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LBRACE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=LBRACK::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "LBRACK"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=RBRACE::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=RBRACE::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "RBRACE"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0",
+                              "name": "LEAF::ACC::PUNCT::tok=RBRACK::aux=PUNCT::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "RBRACK"
+                }
+              ],
+              "name": "PUNCT"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::STRING::tok=STRING::aux=STRING::prio0",
+                              "name": "LEAF::ACC::STRING::tok=STRING::aux=STRING::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "STRING"
+                }
+              ],
+              "name": "STRING"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "class_name": "ACC::WHITESPACE::tok=WS::aux=WS::prio0",
+                              "name": "LEAF::ACC::WHITESPACE::tok=WS::aux=WS::prio0"
+                            }
+                          ],
+                          "name": "rb0"
+                        }
+                      ],
+                      "name": "prio0"
+                    }
+                  ],
+                  "name": "WS"
+                }
+              ],
+              "name": "WHITESPACE"
+            }
+          ],
+          "name": "ACCEPTING"
+        }
+      ],
+      "name": "ROOT"
+    },
+    "layout_policy": "hierarchical_nested_blocks"
+  },
+  "leaf_count": 18,
+  "lexical_errors_total": 0,
+  "max_intervals_per_class": 1,
+  "mean_dispatch_depth_over_states": 4.733333333333333,
+  "mean_input_bytes": 147532,
+  "method_id": "B5_TREE",
+  "method_label": "hierarchical comparison-tree encoding",
+  "num_accepting_states_nonrb": 8,
+  "num_accepting_states_rb": 6,
+  "num_accepting_states_total": 14,
+  "num_inputs": 2,
+  "num_intervals_total": 18,
+  "num_semantic_classes": 18,
+  "num_states": 30,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "perf_available": false,
+  "profile_condition": "B_to_A",
+  "profile_input_bytes": 80382,
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 99844,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "rollbackacc_predicate_available": true,
+  "rollbackacc_predicate_comparison_sites": 2,
+  "rollbackacc_predicate_expected_depth": 1.4835843916509754,
+  "rollbackacc_predicate_num_intervals": 1,
+  "rollbackacc_predicate_worst_case_depth": 2,
+  "seed": 0,
+  "semantic_class_count_for_dispatch": 18,
+  "semantic_class_count_under_layout": 18,
+  "semantic_comparisons_total": 1571046,
+  "semantic_label_mode": "fine",
+  "status": "completed",
+  "throughput_bytes_per_sec": 6277957446808.511,
+  "tokens_per_second_aggregate": 1634553191489.3618,
+  "transition_calls_total": 371886,
+  "transition_instruction_count": 8,
+  "transition_ns_per_call": 1.5047607485722434,
+  "transition_trace_ns_total": 60128497,
+  "worst_case_depth": 7,
+  "worst_case_dispatch_depth": 7
+}

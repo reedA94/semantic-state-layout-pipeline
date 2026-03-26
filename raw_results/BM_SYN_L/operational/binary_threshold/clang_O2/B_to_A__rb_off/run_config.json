@@ -1,0 +1,46 @@
+{
+  "benchmark_family": "Synthetic token-trie (low)",
+  "benchmark_id": "BM_SYN_L",
+  "compiler": {
+    "cc": "clang",
+    "opt": "-O2"
+  },
+  "compiler_id": "clang_O2",
+  "eval_group": "A",
+  "eval_inputs": [
+    "A_eval_1",
+    "A_eval_2"
+  ],
+  "eval_source": "A",
+  "granularity": "operational",
+  "granularity_normalized": "operational",
+  "layout_metadata": {
+    "accept_threshold": 998,
+    "coarse_only": true,
+    "layout_policy": "all_nonaccepting_then_accepting"
+  },
+  "method_id": "B2",
+  "method_label": "binary final/non-final threshold encoding",
+  "num_accepting_states_nonrb": 177,
+  "num_accepting_states_rb": 193,
+  "num_accepting_states_total": 370,
+  "num_token_families_with_rb_split": 0,
+  "opt_level": "-O2",
+  "profile_condition": "B_to_A",
+  "profile_counts": {
+    "ACC::OPERATIONAL": 12237,
+    "DEAD": 9073,
+    "NONACC::PREFIX_0": 8022,
+    "NONACC::PREFIX_1": 14291,
+    "NONACC::PREFIX_2": 14578,
+    "NONACC::PREFIX_3": 10336,
+    "NONACC::PREFIX_4": 9030
+  },
+  "profile_scenario": "B_to_A",
+  "profile_source": "B",
+  "profile_trace_len": 77567,
+  "rollback_metadata_available": true,
+  "rollback_split_condition": "off",
+  "seed": 803,
+  "semantic_label_mode": "operational_rb_off"
+}
